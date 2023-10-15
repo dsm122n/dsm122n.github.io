@@ -1,11 +1,6 @@
----
-layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
----
-
 # Internado
 
+(hola)
 [cardio ecg](/cardiologia/criterios_ecg/README.md)
 
 ## Cardiología
