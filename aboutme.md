@@ -42,6 +42,7 @@ Clasificación angina
 
 ### Selección de prueba diagnóstica para px con "1)"
 Probabilidad pretest
+
 |![probabilidad pretest](cardiologia/probabilidad_pretest.png) |  ![factores EC obstructiva](cardiologia/fr_ec_obstructiva.png) |
 |:---:|:---:|
 ![pruebas diagnosticas](cardiologia/pruebas_diagnosticas.png)
@@ -162,6 +163,7 @@ strong
 
 Sd Glaucoma agudo:
 Glaucoma =/=> aumento presión intraocular
+
 | Sospecha | Manejo |
 |---|---|
 |<li>ojo rojo profundo (con edema corneal)</li><li>duro</li><li>disminución agudeza visual</li><li>semimidriasis arrefléctica</li> | <li>Acetazolamida 2x250mg de carga, luego 250 mg c/6h</li><li>los colirios que se dispongan para disminuir P</li><li>d/dx urgente</li><li>Manitol 15% ->10 a 13 cc/kg. 20% ->7.5 a 10 cc/kg EV funciona mientras se infunde, se puede dar, pero ojo con contraindicaciones</li> |
