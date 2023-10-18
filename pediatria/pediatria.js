@@ -11,6 +11,6 @@ document.addEventListener('DOMContentLoaded', function() {
       const html = converter.makeHtml(markdownText);
     
       // Insert the HTML into the container
-      document.getElementById('markdown-medi').innerHTML = html;
+      document.getElementById('markdown-pediatria').innerHTML = html;
     });
 });
