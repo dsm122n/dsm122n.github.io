@@ -10,5 +10,5 @@ fetch('medi.md')
   const html = converter.makeHtml(markdownText);
 
   // Insert the HTML into the container
-  document.getElementById('markdown-pediatria').innerHTML = html;
+  document.getElementById('markdown-medi').innerHTML = html;
 });
