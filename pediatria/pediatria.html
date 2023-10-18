@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <title>Home</title>
     <link rel="stylesheet" href="https://unpkg.com/mvp.css"> 
-    <link rel="stylesheet" href="../styles.css">
+    <link rel="stylesheet" href="../../styles.css">
     <script src="https://cdn.jsdelivr.net/npm/showdown@1.9.1/dist/showdown.min.js"></script>
     <script src="pediatria.js"></script>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
@@ -13,11 +13,41 @@
 </head>
 <body>
 <div id="navbar-placeholder"></div>
+<nav>
+    <ul>
+        <li><a id="home" href="../index.html">Home</a></li>
+        <li><a href="pediatria/pediatria.html">Pediatrics</a>
+            <ul>
+                <li><a href="#">General Pediatrics</a></li>
+                <li><a href="#">Neonatology</a></li>
+                <li><a href="#">Pediatric Cardiology</a></li>
+                <li><a href="#">Pediatric Oncology</a></li>
+            </ul>
+        </li>
+        <li><a href="#">Obstetrics</a>
+            <ul>
+                <li><a href="#">Prenatal Care</a></li>
+                <li><a href="#">Labor and Delivery</a></li>
+                <li><a href="#">Postpartum Care</a></li>
+            </ul>
+        </li>
+        <li><a href="#">Gynecology</a>
+            <ul>
+                <li><a href="#">General Gynecology</a></li>
+                <li><a href="#">Reproductive Endocrinology and Infertility</a></li>
+                <li><a href="#">Gynecologic Oncology</a></li>
+            </ul>
+        </li>
+        <li><a href="#">About Us</a></li>
+        <li><a href="#">Contact Us</a></li>
+    </ul>
+</nav>
 <script>
     $(function(){
         
-        $("#navbar-placeholder").load("../navbar.html");
+        $("#navbar-placeholder").load("../../navbar.html");
     });
+    
 </script>
     <div id ="markdown-pediatria"></div>
 </body>
