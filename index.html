@@ -5,6 +5,8 @@
     <title>Home</title>
     <!-- <link rel="stylesheet" href="https://unpkg.com/mvp.css">  -->
     <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/katex.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/katex.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/showdown@1.9.1/dist/showdown.min.js"></script>
     <script src="showdown/showdown.js"></script>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
@@ -13,38 +15,41 @@
     
 </head>
 <body>
-    <nav>
-        <ul>
-            <li><a id="home" href="index.html">Home</a></li>
-            <li><a id="button-pediatria" href="#">Pediatría</a>
-            <li><a href="#">Obstetrics</a>
-                <ul>
-                    <li><a href="#">Prenatal Care</a></li>
-                    <li><a href="#">Labor and Delivery</a></li>
-                    <li><a href="#">Postpartum Care</a></li>
-                </ul>
-            </li>
-            <li><a href="#">Gynecology</a>
-                <ul>
-                    <li><a href="#">General Gynecology</a></li>
-                    <li><a href="#">Reproductive Endocrinology and Infertility</a></li>
-                    <li><a href="#">Gynecologic Oncology</a></li>
-                </ul>
-            </li>
-            <li><a href="#">About Us</a></li>
-            <li><a href="#">Contact Us</a></li>
-        </ul>
-    </nav>
+    <div id="navbar-background">
+        <nav>
+            <ul>
+                <!-- <li><a id="home" href="index.html" onclick="loadMD('pediatria/pediatria.md')">Home</a></li> -->
+                <li><a href="" onclick="loadMD('medi.md')">Home</a></li>
+                <li><a href="#" onclick="loadMD('pediatria/pediatria.md')">Pediatría</a>
+                <li><a href="#">Obstetrics</a>
+                    <ul>
+                        <li><a href="#">Prenatal Care</a></li>
+                        <li><a href="#">Labor and Delivery</a></li>
+                        <li><a href="#">Postpartum Care</a></li>
+                    </ul>
+                </li>
+                <li><a href="#">Gynecology</a>
+                    <ul>
+                        <li><a href="#">General Gynecology</a></li>
+                        <li><a href="#">Reproductive Endocrinology and Infertility</a></li>
+                        <li><a href="#">Gynecologic Oncology</a></li>
+                    </ul>
+                </li>
+                <li><a href="#">About Us</a></li>
+                <li><a href="#">Contact Us</a></li>
+            </ul>
+        </nav>
+        
+    </div>
     <main>
         <h1>Home</h1>
+        <div id="math-content">
+            This is a LaTeX equation: $$E=mc^2$$
+            Here's another one: $$x^2 + 2x + 1$$
+        </div>
+          
         <p>Home page content goes here.</p>
-        <div id="navbar-placeholder"></div>
-        <!-- <script>
-            $(function(){
-                $("#navbar-placeholder").load("navbar.html");
-            });
-        </script> -->
-            <div class="md-cuerpo" id ="markdown-medi"></div>
+        <div class="md-cuerpo" id ="markdown-main"></div>
     </main>
 </body>
 

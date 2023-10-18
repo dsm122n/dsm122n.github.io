@@ -47,6 +47,15 @@ html {
     scroll-behavior: smooth;
 }
 
+#navbar-background{
+    background-color: #393900;
+    position: sticky;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+}
+
 @media (prefers-reduced-motion: reduce) {
     html {
         scroll-behavior: auto;
@@ -78,7 +87,6 @@ header,
 main {
     margin: 0 auto;
     max-width: 800px;
-    min-width: 100% vw;
     padding: 0rem;
 }
 
