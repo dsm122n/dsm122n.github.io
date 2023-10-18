@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function() {
-    fetch('medi.md')
+    fetch('pediatria.md')
     .then(response => response.text())
     .then(markdownText => {
       // Create a new instance of Showdown converter
