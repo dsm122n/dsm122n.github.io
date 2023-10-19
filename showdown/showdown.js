@@ -43,6 +43,19 @@ function loadMD(filepath) {
         fileFolder = `./${fileFolder}/` 
         image.setAttribute('src', fileFolder + currentSrc);
       }     
+      document.getElementsByTagName('main')[0].style.maxWidth = '800px'
+    })
+    .catch(err => {
+      console.log(err);
+    });
+}
+function loadHTML(filepath) {
+  fetch(filepath)
+    .then(response => response.text())
+    .then(htmlText => {
+      document.getElementById('markdown-main').innerHTML = htmlText;
+      // change css main max-width to 100%
+      document.getElementsByTagName('main')[0].style.maxWidth = '100%';
     })
     .catch(err => {
       console.log(err);

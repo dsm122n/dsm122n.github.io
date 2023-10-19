@@ -34,9 +34,31 @@ Perímetro cefálico para la talla:
 
 $ PCT = frac{Talla}{2} + 10 \pm 1 $
 
+## Niño sano
+
+### Programa nacional de inmunizaciones 2023
+![PNI](PNI-2023.png)
+
+| Vacuna | composición | 
+|--------|-------------|
+| BCG | viva atenuada | 
+| Hepatitis B | recombinante |
+| difteria, tétanos, tos convulsiva | toxoide |
+| tos convulsiva | acelular |
+| Haemophilus influenzae tipo b | conjugada polisacárida + proteína|
+| poliomielitis | inactivada |
+| poliomielitis | viva atenuada |
+| neumococo | conjugada polisacárida (inactiva) |
+| meningococo | conjugada polisacárida (inactiva) |
+| sarampión, parotiditis, rubéola, varicela | virus vivos atenuados |
+| virus hepatitis A | inactivada |
+| vph | inactivada |
+| fiebre amarilla | virus vivos atenuados |
+
 # Infectología
 ## Enfermedad de kawasaki
 ![kawasaki](image.png)
+
 
 
 # Neumología
