@@ -45,20 +45,34 @@ Referencias de talla:
 
 ![talla estimada según mamá y papá](talla-estimada.png)
 
-## Desarrollo psicomotor
-![DSM por área](dsm-por-area.png)
-
-![DSM por edad](dsm-por-edad.png)
-
 Referencias de perímetro cefálico:
 - al nacimiento: **35 cm**
 - aumento de **1 cm/mes** el primer año
     - 2 cm/mes los primeros 3 meses
 
-
 Perímetro cefálico para la talla:
 
 $$ PCT = frac{Talla}{2} + 10 \pm 1 $$
+
+## Desarrollo psicomotor
+
+![DSM por área](dsm-por-area.png)
+
+![DSM por edad](dsm-por-edad.png)
+
+Reflejos arcaicos
+
+| Reflejo | Desaparece | 
+|---------|------------|
+| marcha automática | 2 meses (4-6) |
+| Moro | 2 meses (3-6) |
+| reflejo de búsqueda | 3-4 meses |
+| reflejo de succión | 3-4 meses |
+| prensión palmar-plantar | 3-4 meses |
+| gallant (trunk incurvation) | 4 meses |
+| espadachin | 5-7 meses |
+| Babinski | 2 año |
+
 
 ## Niño sano
 
