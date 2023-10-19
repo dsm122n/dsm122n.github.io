@@ -40,6 +40,4 @@ $ PCT = frac{Talla}{2} + 10 \pm 1 $
 
 
 # Neumología
-
-
 Infiltrado perihiliar + Banda presidencial en ADV RxTx
