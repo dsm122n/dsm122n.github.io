@@ -549,3 +549,59 @@ blockquote footer {
     background-color: rgb(202, 202, 232);
     border-radius: 10px;
 }
+
+/* Navbar */
+.navbar {
+    overflow: hidden;
+    background-color: var(--color-bg-secondary);
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 999;
+}
+
+.navbar a {
+    float: left;
+    display: block;
+    color: var(--color-text-secondary);
+    text-align: center;
+    padding: 1rem;
+    text-decoration: none;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.navbar a:hover {
+    background-color: var(--color-link);
+    color: var(--color-bg);
+}
+
+.navbar .icon {
+    display: none;
+}
+
+@media screen and (max-width: 600px) {
+    .navbar a:not(:first-child) {
+        display: none;
+    }
+    .navbar a.icon {
+        float: right;
+        display: block;
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .navbar.responsive {
+        position: relative;
+    }
+    .navbar.responsive .icon {
+        position: absolute;
+        right: 0;
+        top: 0;
+    }
+    .navbar.responsive a {
+        float: none;
+        display: block;
+        text-align: left;
+    }
+}

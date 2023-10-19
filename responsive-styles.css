@@ -1,0 +1,41 @@
+/* Default font size and font family */
+body {
+    font-size: 16px;
+    font-family: Verdana, sans-serif;
+}
+
+/* Media query for phone screens */
+@media (max-width: 767px) {
+    /* Collapsible nav bar */
+    .nav {
+        display: none;
+    }
+    .nav-toggle {
+        display: block;
+    }
+    .nav-toggle:checked ~ .nav {
+        display: block;
+    }
+}
+
+/* Light mode */
+body {
+    background-color: #fff;
+    color: #333;
+}
+
+/* Dark mode */
+body.dark-mode {
+    background-color: #333;
+    color: #fff;
+}
+
+/* Light mode link color */
+a {
+    color: #333;
+}
+
+/* Dark mode link color */
+body.dark-mode a {
+    color: #fff;
+}

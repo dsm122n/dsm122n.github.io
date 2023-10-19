@@ -37,7 +37,10 @@ function loadMD(filepath) {
         const image = images[i];
         const currentSrc = image.getAttribute('src');
         var fileFolder = filepath.split('/');
-        fileFolder = `./${fileFolder[0]}/` 
+        fileFolder.pop();
+        // convert array to string
+        fileFolder = fileFolder.join('/');
+        fileFolder = `./${fileFolder}/` 
         image.setAttribute('src', fileFolder + currentSrc);
       }     
     })
