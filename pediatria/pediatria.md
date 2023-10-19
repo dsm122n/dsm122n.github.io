@@ -30,9 +30,35 @@
 | 4-5 años | 16.5-18.5 kg | 0.25 kg/mes | 105-115 cm | 1-2 cm/mes | 51-53 cm |
 
 
+Referencias de peso:
+- perdida de peso primeros días: 5-10%
+- retorno a peso nacimiento: 7 a 10 días
+- aumento de **1 kg/mes** el primer año (2 kg/mes en )primeros 3 meses
+- duplicación peso en 4 a 5 meses
+- triplicación peso en 1 año
+- aumento de peso diario: 20-30 g/día los primeros 3-4 meses, 15-20 g/día el resto del primer año
+
+Referencias de talla:
+- Longitud al nacim: **50 cm**
+- Longitud al año: **75 cm**
+- a los 4 años: 100 cm (**duplica** talla al nacimiento)
+
+![talla estimada según mamá y papá](talla-estimada.png)
+
+## Desarrollo psicomotor
+![DSM por área](dsm-por-area.png)
+
+![DSM por edad](dsm-por-edad.png)
+
+Referencias de perímetro cefálico:
+- al nacimiento: **35 cm**
+- aumento de **1 cm/mes** el primer año
+    - 2 cm/mes los primeros 3 meses
+
+
 Perímetro cefálico para la talla:
 
-$ PCT = frac{Talla}{2} + 10 \pm 1 $
+$$ PCT = frac{Talla}{2} + 10 \pm 1 $$
 
 ## Niño sano
 

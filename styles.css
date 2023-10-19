@@ -475,14 +475,15 @@ table {
     max-width: 100%;
     overflow-x: auto;
     padding: 0;
-    white-space: nowrap;
+    /* white-space: nowrap; */
 }
 
 table td,
 table th,
 table tr {
     padding: 0.4rem 0.8rem;
-    text-align: var(--justify-important);
+    text-align: left;
+    word-wrap: break-word;
 }
 
 table thead {
