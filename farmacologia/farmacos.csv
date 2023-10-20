@@ -1,0 +1,5 @@
+﻿Fármaco,Categoría,Indicaciones,Presentaciones,Dosis habitual,Inicio Acción,Vida media,RAM más frecuentes
+Paracetamol,Analgésico/antipirético,,Comprimidos de 500mg y 1g,500-1000mg cada 4-6 horas,15-30 minutos,2-4 horas,"Náuseas, vómitos, dolor abdominal, rash"
+Ibuprofeno,AINEs,,Comprimidos de 400mg y 600mg,400-800mg cada 6-8 horas,30-60 minutos,2-4 horas,"Náuseas, vómitos, dolor abdominal"
+Amoxicilina,AINEs,,Comprimidos de 500mg y 1g,500mg cada 8 horas,1 hora,7 horas,"Diarrea, náuseas, vómitos"
+Omeprazol,IBP,,Comprimidos de 20mg y 40mg,20-40mg al dÃ­a,2-3 horas,24 horas,"Dolor de cabeza, diarrea, náuseas"
