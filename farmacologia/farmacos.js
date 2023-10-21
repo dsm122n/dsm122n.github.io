@@ -1,17 +1,20 @@
 // Read the farmacos.csv file
-fetch("farmacos.csv")
+function getCSV() {
+
+    
+    fetch("farmacos.csv")
     .then(response => response.text())
     .then(data => {
         // Split the data into rows
         const rows = data.split("\n");
-
+        
         // Create the table element
         const table = document.createElement("table");
         let i = 0;
         // Loop through the rows and create the table cells
         rows.forEach(row => {
             const cells = row.split(/,(?=(?:(?:[^"]*"){2})*[^"]*$)/);
-
+            
             const tr = document.createElement("tr");
             cells.forEach(cell => {
                 if (i === 0) {
@@ -34,3 +37,5 @@ fetch("farmacos.csv")
         console.log(tablaDiv);
         console.log(tablaDiv);
     });
+    
+}
