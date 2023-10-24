@@ -7,15 +7,17 @@ document.addEventListener('DOMContentLoaded', function() {
       tables: true,
       });
       
-      // Convert Markdown to HTML
-      var html = converter.makeHtml(markdownText);
+       // Convert Markdown to HTML
+       var html = converter.makeHtml(markdownText);
     
-      // Insert the HTML into the container
-      document.getElementById('markdown-main').innerHTML = html;
-      
-    });
+       // Insert the HTML into the container
+       document.getElementById('inicio').innerHTML = html;
+
+     });
+
+     loadMD('pediatria/pediatria.md');
    
-  });
+});
 
 function loadMD(filepath) {
   fetch(filepath)
@@ -28,11 +30,10 @@ function loadMD(filepath) {
       
       // Convert Markdown to HTML
       var html = converter.makeHtml(markdownText);
-     
+  
       // Insert the HTML into the container
-      document.getElementById('markdown-main').innerHTML = html;
-
-      const images = document.getElementById('markdown-main').getElementsByTagName('img');
+      document.getElementById('inicio').innerHTML = html;
+      const images = document.getElementById('inicio').getElementsByTagName('img');
       for (let i = 0; i < images.length; i++) {
         const image = images[i];
         const currentSrc = image.getAttribute('src');
@@ -53,7 +54,7 @@ function loadHTML(filepath) {
   fetch(filepath)
     .then(response => response.text())
     .then(htmlText => {
-      document.getElementById('markdown-main').innerHTML = htmlText;
+      document.getElementById('inicio').innerHTML = htmlText;
       // change css main max-width to 100%
       document.getElementsByTagName('main')[0].style.maxWidth = '100%';
     })
@@ -61,58 +62,67 @@ function loadHTML(filepath) {
       console.log(err);
     });
 }
-function openFarmaco(filepath){
-  fetch(filepath)
-    .then(response => response.text())
-    .then(htmlText => {
-      document.getElementById('markdown-main').innerHTML = htmlText;
-      // change css main max-width to 100%
-      document.getElementsByTagName('main')[0].style.maxWidth = '100%';
-    })
-    .catch(err => {
-      console.log(err);
-    })
-}
 
-function getCSV(filepath) {
-
-    
-  fetch(filepath)
-  .then(response => response.text())
-  .then(data => {
-      // Split the data into rows
-      const rows = data.split("\n");
-      
-      // Create the table element
-      const table = document.createElement("table");
-      let i = 0;
-      // Loop through the rows and create the table cells
-      rows.forEach(row => {
-          const cells = row.split(/,(?=(?:(?:[^"]*"){2})*[^"]*$)/);
-          
-          const tr = document.createElement("tr");
-          cells.forEach(cell => {
-              if (i === 0) {
-                  const th = document.createElement("th");
-                  th.textContent = cell;
-                  tr.appendChild(th);
-              } else {
-                  const td = document.createElement("td");
-                  td.textContent = cell;
-                  tr.appendChild(td);
-              }
-          });
-          table.appendChild(tr);
-          console.log(table)
-          i++;
-      });
-      // Add the table to the div
-      const tablaDiv = document.getElementById("tabla-farmacos");
-      tablaDiv.appendChild(table);
-      console.log(tablaDiv);
-      console.log(tablaDiv);
-      // delete content from div markdown-main
-      document.getElementById('markdown-main').innerHTML = "";
-  });
+function loadGoogleSheet(){
+  document.getElementById('inicio').innerHTML = '';
   
+  document.getElementById('tabla_farmacos').innerHTML = '<input type="text" id="search" placeholder="Type to search">';
+  document.getElementById('tabla_farmacos').innerHTML += '<table class="table" id="table" style="width: 100%"><thead>';
+  document.getElementById('tabla_farmacos').innerHTML += '<tr id="headings_tabla"> </tr></thead>';
+  document.getElementById('tabla_farmacos').innerHTML += '<tbody id="cuerpo_tabla"></tbody></table>';
+  document.getElementById('tabla_farmacos').setAttribute('class',"tab-pane container active");
+  let SHEET_ID = '1SMU1ltLrMVifOb2T8sN5gu5Yd3tKmQ6eid6QnjSDlQo';
+  let SHEET_TITLE = 'dosis';
+  let SHEET_RANGE = 'A1:G248'
+  let FULL_URL = ('https://docs.google.com/spreadsheets/d/' + SHEET_ID + '/gviz/tq?sheet=' + SHEET_TITLE + '&range=' + SHEET_RANGE);
+  console.log('hola');
+  fetch(FULL_URL)
+  .then(res => res.text())
+  .then(rep => {
+      let data = JSON.parse(rep.substr(47).slice(0,-2));
+      let tablitaLinda = data.table.rows; 
+      console.log(tablitaLinda);
+      for (let i = 0; i < tablitaLinda[0].c.length; i++) {
+          const element = tablitaLinda[0].c[i].v;
+          console.log(element);
+          console.log('hola mundo desde el for');
+          if (document.getElementById('headings_tabla').innerHTML){
+            document.getElementById('headings_tabla').innerHTML += `<th id="${element}">${element}</th>` 
+          }else{
+            document.getElementById('headings_tabla').innerHTML = `<th id="${element}">${element}</th>` 
+
+          }
+
+      }
+      for (let i = 1; i < tablitaLinda.length; i++) {
+          const element = tablitaLinda[i].c;
+          const fila = `<tr id="fila_${i}"></tr>`;
+          document.getElementById('cuerpo_tabla').innerHTML += fila;
+          for (let j = 0; j < element.length; j++) {
+              if (element[j] == null) {
+                  document.getElementById(`fila_${i}`).innerHTML += 'NA';
+              }else{
+                  if (element[j].v == null) {
+                      document.getElementById(`fila_${i}`).innerHTML += 'NA';
+                  } else{
+                      const dato = element[j].v;
+                      const celda = `<td>${dato}</td>`;
+                      document.getElementById(`fila_${i}`).innerHTML += celda;
+                  }
+              }
+          }
+      }
+      document.getElementById("Dosis pediatrica").setAttribute('style','min-width: 15ch');
+      document.getElementById("Dosis adulto").setAttribute('style','min-width: 15ch');
+      document.getElementById("indicaciones").setAttribute('style','min-width: 20ch');
+  });
 }
+var $rows = $('#table tr');
+$('#search').keyup(function() {
+    var val = $.trim($(this).val()).replace(/ +/g, ' ').toLowerCase();
+    
+    $rows.show().filter(function() {
+        var text = $(this).text().replace(/\s+/g, ' ').toLowerCase();
+        return !~text.indexOf(val);
+    }).hide();
+});

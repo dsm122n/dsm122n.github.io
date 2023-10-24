@@ -95,6 +95,11 @@ Reflejos arcaicos
 | vph | inactivada |
 | fiebre amarilla | virus vivos atenuados |
 
+### Nutrición
+
+Composición leches
+![Leches](leches.png)
+
 # Infectología
 ## Enfermedad de kawasaki
 ![kawasaki](image.png)

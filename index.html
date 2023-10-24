@@ -3,18 +3,17 @@
 <head>
     <meta charset="UTF-8">
     <title>Home</title>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
     <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/katex.min.css"> -->
     <!-- <link rel="stylesheet" href="styles.css"> -->
     <script src="https://cdn.jsdelivr.net/npm/showdown@1.9.1/dist/showdown.min.js"></script>
-    <script src="showdown/showdown.js"></script>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <link rel="icon" href="icon.png" type="image/png">
     <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
     <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="styles copy.css">
-    <!-- Latest compiled JavaScript -->
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="showdown/showdown.js"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
@@ -26,10 +25,10 @@
               </button>
             <div class="collapse navbar-collapse" id="collapsibleNavbar">
 
-                <ul class="nav nav-pills" role="tablist">
-                    <li class="nav-item"><a class="nav-link" data-bs-toggle="pill" href="" onclick="loadMD('medi.md')">Medi y especialidades</a></li>
-                    <li class="nav-item"><a class="nav-link" data-bs-toggle="pill" href="#" onclick="loadMD('cardiologia/criterios_ecg/README.md')">ECG criterios</a></li>
-                    <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#">Pediatría</a>
+                <ul class="nav nav-pills navbar-dark bg-dark" >
+                    <li class="nav-item"><a class="nav-link active" data-toggle="pill" href="#inicio" onclick="loadMD('medi.md')" id="medi-especialidades">Medi y especialidades</a></li>
+                    <li class="nav-item"><a class="nav-link" data-toggle="pill" href="#" onclick="loadMD('cardiologia/criterios_ecg/README.md')" id="ecg">ECG criterios</a></li>
+                    <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" id="pediatria">Pediatría</a>
                         <ul class="dropdown-menu" data-bs-theme="dark">
                             <li class="nav-item"><a class="dropdown-item" href="#" onclick="loadMD('pediatria/pediatria.md')">datitos pediatría</a>
                             <li class="nav-item"><a class="dropdown-item" href="#" onclick="loadHTML('pediatria/Dosis.html')">dosis pedatría</a></li>
@@ -37,12 +36,30 @@
                             <li class="nav-item"><a class="dropdown-item" href="#" onclick="loadHTML('pediatria/Usos ATB.html')">usos algunos ATB</a></li>
                             </ul>
                         </li>
-                        <li class="nav-item"><a class="nav-link" data-bs-toggle="pill" href="#tabla-farmacos" onclick="openCSV('farmacologia/farmacos.csv')">farmacología</a></li>
+                        <li class="nav-item"><a class="nav-link" data-toggle="pill" href="#tabla_farmacos" onclick="loadGoogleSheet()" id="farmacologia">farmacología</a></li>
                     </nav>
                     <main>
-                        <p>$$ PCT = {Talla \over 2} + 10 \pm 1 $$</p>
-                        <div class="tab-pane container " id ="markdown-main"></div>
-                        <div class="tab-pane containerS" id ="tabla-farmacos">holamundo</div>
+                        <p>$$ Perimetro cefálico para la talla = {Talla \over 2} + 10 \pm 1 $$</p>
+                        <div class="tab-content">
+                            <div class="tab-pane container active" id ="inicio"></div>
+                            <div class="tab-pane container" id ="tabla_farmacos">
+                                <input type="text" id="search" placeholder="Type to search">
+                                
+                                <table class="table" id="table" width="100%">
+                                    <thead>
+                                        <tr id="headings_tabla">
+                                            <th></th>
+                                        </tr>
+                                    </thead>
+                                    <tbody id="cuerpo_tabla">
+
+                                    </tbody>
+            
+                                </table>
+    
+                            </div>
+
+                        </div>
                     </main>
             </div>
     </div>

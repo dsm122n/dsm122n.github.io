@@ -1,8 +1,5 @@
 # Internado
 
-(hola)
-[cardio ecg](/cardiologia/criterios_ecg/README.md)
-
 ## Cardiología
 ### Emergencias hipertensivas
 ![estrategias de tto emergencias HTA](/cardiologia/tto_emergencias_hta.jpeg)
