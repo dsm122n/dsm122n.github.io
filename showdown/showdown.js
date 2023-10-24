@@ -66,7 +66,7 @@ function loadHTML(filepath) {
 function loadGoogleSheet(){
   document.getElementById('inicio').innerHTML = '';
   
-  document.getElementById('tabla_farmacos').innerHTML = '<input type="text" id="search" placeholder="Type to search">';
+  document.getElementById('tabla_farmacos').innerHTML = '<input type="text" id="search" placeholder="Type to search"></input>';
   document.getElementById('tabla_farmacos').innerHTML += '<table class="table" id="la-tabla" style="width: 100%"><thead><tr id="nombres_cols"> </tr></thead><tbody id="cuerpo_tabla"></tbody></table>';
   document.getElementById('tabla_farmacos').setAttribute('class',"tab-pane container active");
   let SHEET_ID = '1SMU1ltLrMVifOb2T8sN5gu5Yd3tKmQ6eid6QnjSDlQo';
@@ -110,28 +110,32 @@ function loadGoogleSheet(){
       document.getElementById("Dosis adulto").setAttribute('style','min-width: 15ch');
       document.getElementById("indicaciones").setAttribute('style','min-width: 20ch');
   })
-  then(() => {
-    var $rows = $('#la-tabla tr');
+  .then(rep => {
+    var $rows = $('#cuerpo_tabla tr');
     $('#search').keyup(function() {
         var val = $.trim($(this).val()).replace(/ +/g, ' ').toLowerCase();
-        
+  
         $rows.show().filter(function() {
             var text = $(this).text().replace(/\s+/g, ' ').toLowerCase();
             return !~text.indexOf(val);
         }).hide();
     });
-  });
+
+  })
 }
 
-document.getElementById('#la-tabla').addEventListener('click', applyTableFilter);
-function applyTableFilter() {
-  var $rows = $('#la-tabla tbody tr');
-  $('#search').keyup(function() {
-      var val = $.trim($(this).val()).replace(/ +/g, ' ').toLowerCase();
-
-      $rows.show().filter(function() {
-          var text = $(this).text().replace(/\s+/g, ' ').toLowerCase();
-          return !~text.indexOf(val);
-      }).hide();
-  });
-}
+// $(document).ready(function() {
+//   // Your code here
+//   document.getElementById('#la-tabla').addEventListener('click', applyTableFilter);
+//   function applyTableFilter() {
+//     var $rows = $('#cuerpo_tabla tr');
+//     $('#search').keyup(function() {
+//         var val = $.trim($(this).val()).replace(/ +/g, ' ').toLowerCase();
+  
+//         $rows.show().filter(function() {
+//             var text = $(this).text().replace(/\s+/g, ' ').toLowerCase();
+//             return !~text.indexOf(val);
+//         }).hide();
+//     });
+//   }
+// });
