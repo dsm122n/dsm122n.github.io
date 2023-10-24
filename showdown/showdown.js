@@ -106,9 +106,16 @@ function loadGoogleSheet(){
               }
           }
       }
+      // set min width of all columns of table to 20 characters
+      document.getElementById("Fármaco").setAttribute('style','min-width: 20ch');
+      document.getElementById("Categoría").setAttribute('style','min-width: 20ch');
       document.getElementById("Dosis pediatrica").setAttribute('style','min-width: 20ch');
       document.getElementById("Dosis adulto").setAttribute('style','min-width: 20ch');
       document.getElementById("Presentación").setAttribute('style','min-width: 20ch');
+      document.getElementById("RAM").setAttribute('style','min-width: 20ch');
+      document.getElementById("Otros comentarios").setAttribute('style','min-width: 20ch');
+
+      
   })
   .then(rep => {
     var $rows = $('#cuerpo_tabla tr');
@@ -124,18 +131,3 @@ function loadGoogleSheet(){
   })
 }
 
-// $(document).ready(function() {
-//   // Your code here
-//   document.getElementById('#la-tabla').addEventListener('click', applyTableFilter);
-//   function applyTableFilter() {
-//     var $rows = $('#cuerpo_tabla tr');
-//     $('#search').keyup(function() {
-//         var val = $.trim($(this).val()).replace(/ +/g, ' ').toLowerCase();
-  
-//         $rows.show().filter(function() {
-//             var text = $(this).text().replace(/\s+/g, ' ').toLowerCase();
-//             return !~text.indexOf(val);
-//         }).hide();
-//     });
-//   }
-// });
