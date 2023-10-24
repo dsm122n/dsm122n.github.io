@@ -67,9 +67,7 @@ function loadGoogleSheet(){
   document.getElementById('inicio').innerHTML = '';
   
   document.getElementById('tabla_farmacos').innerHTML = '<input type="text" id="search" placeholder="Type to search">';
-  document.getElementById('tabla_farmacos').innerHTML += '<table class="table" id="table" style="width: 100%"><thead>';
-  document.getElementById('tabla_farmacos').innerHTML += '<tr id="headings_tabla"> </tr></thead>';
-  document.getElementById('tabla_farmacos').innerHTML += '<tbody id="cuerpo_tabla"></tbody></table>';
+  document.getElementById('tabla_farmacos').innerHTML += '<table class="table" id="la-tabla" style="width: 100%"><thead><tr id="nombres_cols"> </tr></thead><tbody id="cuerpo_tabla"></tbody></table>';
   document.getElementById('tabla_farmacos').setAttribute('class',"tab-pane container active");
   let SHEET_ID = '1SMU1ltLrMVifOb2T8sN5gu5Yd3tKmQ6eid6QnjSDlQo';
   let SHEET_TITLE = 'dosis';
@@ -86,12 +84,8 @@ function loadGoogleSheet(){
           const element = tablitaLinda[0].c[i].v;
           console.log(element);
           console.log('hola mundo desde el for');
-          if (document.getElementById('headings_tabla').innerHTML){
-            document.getElementById('headings_tabla').innerHTML += `<th id="${element}">${element}</th>` 
-          }else{
-            document.getElementById('headings_tabla').innerHTML = `<th id="${element}">${element}</th>` 
+          document.getElementById('nombres_cols').innerHTML += `<th id="${element}">${element}</th>` 
 
-          }
 
       }
       for (let i = 1; i < tablitaLinda.length; i++) {
@@ -115,14 +109,29 @@ function loadGoogleSheet(){
       document.getElementById("Dosis pediatrica").setAttribute('style','min-width: 15ch');
       document.getElementById("Dosis adulto").setAttribute('style','min-width: 15ch');
       document.getElementById("indicaciones").setAttribute('style','min-width: 20ch');
+  })
+  then(() => {
+    var $rows = $('#la-tabla tr');
+    $('#search').keyup(function() {
+        var val = $.trim($(this).val()).replace(/ +/g, ' ').toLowerCase();
+        
+        $rows.show().filter(function() {
+            var text = $(this).text().replace(/\s+/g, ' ').toLowerCase();
+            return !~text.indexOf(val);
+        }).hide();
+    });
   });
 }
-var $rows = $('#table tr');
-$('#search').keyup(function() {
-    var val = $.trim($(this).val()).replace(/ +/g, ' ').toLowerCase();
-    
-    $rows.show().filter(function() {
-        var text = $(this).text().replace(/\s+/g, ' ').toLowerCase();
-        return !~text.indexOf(val);
-    }).hide();
-});
+
+document.getElementById('#la-tabla').addEventListener('click', applyTableFilter);
+function applyTableFilter() {
+  var $rows = $('#la-tabla tbody tr');
+  $('#search').keyup(function() {
+      var val = $.trim($(this).val()).replace(/ +/g, ' ').toLowerCase();
+
+      $rows.show().filter(function() {
+          var text = $(this).text().replace(/\s+/g, ' ').toLowerCase();
+          return !~text.indexOf(val);
+      }).hide();
+  });
+}
