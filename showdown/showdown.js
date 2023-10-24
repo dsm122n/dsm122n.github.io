@@ -106,9 +106,9 @@ function loadGoogleSheet(){
               }
           }
       }
-      document.getElementById("Dosis pediatrica").setAttribute('style','min-width: 15ch');
-      document.getElementById("Dosis adulto").setAttribute('style','min-width: 15ch');
-      document.getElementById("indicaciones").setAttribute('style','min-width: 20ch');
+      document.getElementById("Dosis pediatrica").setAttribute('style','min-width: 20ch');
+      document.getElementById("Dosis adulto").setAttribute('style','min-width: 20ch');
+      document.getElementById("Presentación").setAttribute('style','min-width: 20ch');
   })
   .then(rep => {
     var $rows = $('#cuerpo_tabla tr');
