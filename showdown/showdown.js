@@ -17,18 +17,18 @@ document.addEventListener('DOMContentLoaded', function() {
 
     //  loadMD('pediatria/pediatria.md');
     //  document.getElementById('inicio').innerHTML = '';
+    document.getElementById('tabla_farmacos').innerHTML = '<input type="text" id="search" placeholder="Type to search"></input>';
+    document.getElementById('tabla_farmacos').innerHTML += '<table class="table" id="la-tabla"><thead><tr id="nombres_cols"> </tr></thead><tbody id="cuerpo_tabla"></tbody></table>';
+    document.getElementById('tabla_farmacos').setAttribute('class',"tab-pane container active");
+    let SHEET_ID = '1SMU1ltLrMVifOb2T8sN5gu5Yd3tKmQ6eid6QnjSDlQo';
+    let SHEET_TITLE = 'dosis';
+    let SHEET_RANGE = 'A1:G248'
+    let FULL_URL = ('https://docs.google.com/spreadsheets/d/' + SHEET_ID + '/gviz/tq?sheet=' + SHEET_TITLE + '&range=' + SHEET_RANGE);
   
-  document.getElementById('tabla_farmacos').innerHTML = '<input type="text" id="search" placeholder="Type to search"></input>';
-  document.getElementById('tabla_farmacos').innerHTML += '<table class="table" id="la-tabla"><thead><tr id="nombres_cols"> </tr></thead><tbody id="cuerpo_tabla"></tbody></table>';
-  document.getElementById('tabla_farmacos').setAttribute('class',"tab-pane container active");
-  let SHEET_ID = '1SMU1ltLrMVifOb2T8sN5gu5Yd3tKmQ6eid6QnjSDlQo';
-  let SHEET_TITLE = 'dosis';
-  let SHEET_RANGE = 'A1:G248'
-  let FULL_URL = ('https://docs.google.com/spreadsheets/d/' + SHEET_ID + '/gviz/tq?sheet=' + SHEET_TITLE + '&range=' + SHEET_RANGE);
-  console.log('hola');
-  fetch(FULL_URL)
-  .then(res => res.text())
-  .then(rep => {
+    console.log('hola');
+    fetch(FULL_URL)
+    .then(res => res.text())
+    .then(rep => {
       let data = JSON.parse(rep.substr(47).slice(0,-2));
       let tablitaLinda = data.table.rows; 
       console.log(tablitaLinda);
