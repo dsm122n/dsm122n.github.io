@@ -67,7 +67,7 @@ function loadGoogleSheet(){
   document.getElementById('inicio').innerHTML = '';
   
   document.getElementById('tabla_farmacos').innerHTML = '<input type="text" id="search" placeholder="Type to search"></input>';
-  document.getElementById('tabla_farmacos').innerHTML += '<table class="table" id="la-tabla" style="width: 100%"><thead><tr id="nombres_cols"> </tr></thead><tbody id="cuerpo_tabla"></tbody></table>';
+  document.getElementById('tabla_farmacos').innerHTML += '<table class="table" id="la-tabla"><thead><tr id="nombres_cols"> </tr></thead><tbody id="cuerpo_tabla"></tbody></table>';
   document.getElementById('tabla_farmacos').setAttribute('class',"tab-pane container active");
   let SHEET_ID = '1SMU1ltLrMVifOb2T8sN5gu5Yd3tKmQ6eid6QnjSDlQo';
   let SHEET_TITLE = 'dosis';
@@ -107,11 +107,11 @@ function loadGoogleSheet(){
           }
       }
       // set min width of all columns of table to 20 characters
-      // document.getElementById("Fármaco").setAttribute('style','min-width: 20ch');
-      // document.getElementById("Categoría").setAttribute('style','min-width: 20ch');
-      document.getElementById("Dosis pediatrica").setAttribute('style','min-width: 20ch');
-      document.getElementById("Dosis adulto").setAttribute('style','min-width: 20ch');
-      document.getElementById("Presentación").setAttribute('style','min-width: 20ch');
+      // document.getElementById("Fármaco").setAttribute('style','width: 20ch');
+      // document.getElementById("Categoría").setAttribute('style','width: 20ch');
+      // document.getElementById("Dosis pediatrica").setAttribute('style','width: 20ch');
+      // document.getElementById("Dosis adulto").setAttribute('style','width: 20ch');
+      // document.getElementById("Presentación").setAttribute('style','width: 20ch');
 
       
   })
