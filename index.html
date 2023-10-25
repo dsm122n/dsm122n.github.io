@@ -19,7 +19,7 @@
 <body>
     <div class="container-fluid">
 
-        <nav class="navbar navbar-expand-sm bg-dark navbar-dark text-white sticky-top" style="width: 110%; overflow-x: auto;">
+        <nav class="navbar navbar-expand-sm bg-dark navbar-dark text-white sticky-top" style="width: 110%">
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
                 <span class="navbar-toggler-icon"></span>
               </button>
@@ -38,11 +38,15 @@
                         </li>
                         <li class="nav-item"><a class="nav-link" data-toggle="pill" href="#tabla_farmacos" onclick="loadGoogleSheet()" id="farmacologia">farmacología</a></li>
                     </nav>
+                    <br>
+                    <br>
+                    <br>
                     <main>
                         <p>$$ Perimetro cefálico para la talla = {Talla \over 2} + 10 \pm 1 $$</p>
                         <div class="tab-content">
-                            <div class="tab-pane container active" id ="inicio"></div>
-                            <div class="tab-pane container" id ="tabla_farmacos">
+                            <div class="tab-pane container" id ="inicio"></div>
+
+                            <div class="tab-pane container active" id ="tabla_farmacos">
                                 <a href="https://docs.google.com/spreadsheets/d/1SMU1ltLrMVifOb2T8sN5gu5Yd3tKmQ6eid6QnjSDlQo/edit#gid=0"></a>
                                 <input type="text" id="search" placeholder="Type to search">
                                 
