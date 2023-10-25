@@ -1,22 +1,22 @@
 document.addEventListener('DOMContentLoaded', function() {
-    fetch('medi.md')
-    .then(response => response.text())
-    .then(markdownText => {
-      // Create a new instance of Showdown converter
-      const converter = new showdown.Converter({
-      tables: true,
-      });
+    // fetch('medi.md')
+    // .then(response => response.text())
+    // .then(markdownText => {
+    //   // Create a new instance of Showdown converter
+    //   const converter = new showdown.Converter({
+    //   tables: true,
+    //   });
       
-       // Convert Markdown to HTML
-       var html = converter.makeHtml(markdownText);
+    //    // Convert Markdown to HTML
+    //    var html = converter.makeHtml(markdownText);
     
-       // Insert the HTML into the container
-       document.getElementById('inicio').innerHTML = html;
+    //    // Insert the HTML into the container
+    //    document.getElementById('inicio').innerHTML = html;
 
-     });
+    //  });
 
-     loadMD('pediatria/pediatria.md');
-     document.getElementById('inicio').innerHTML = '';
+    //  loadMD('pediatria/pediatria.md');
+    //  document.getElementById('inicio').innerHTML = '';
   
   document.getElementById('tabla_farmacos').innerHTML = '<input type="text" id="search" placeholder="Type to search"></input>';
   document.getElementById('tabla_farmacos').innerHTML += '<table class="table" id="la-tabla"><thead><tr id="nombres_cols"> </tr></thead><tbody id="cuerpo_tabla"></tbody></table>';
