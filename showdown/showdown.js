@@ -94,10 +94,10 @@ function loadGoogleSheet(){
           document.getElementById('cuerpo_tabla').innerHTML += fila;
           for (let j = 0; j < element.length; j++) {
               if (element[j] == null) {
-                  document.getElementById(`fila_${i}`).innerHTML += 'NA';
+                  document.getElementById(`fila_${i}`).innerHTML += '<td>NA</td>';
               }else{
                   if (element[j].v == null) {
-                      document.getElementById(`fila_${i}`).innerHTML += 'NA';
+                      document.getElementById(`fila_${i}`).innerHTML += '<td>NA</td>';
                   } else{
                       const dato = element[j].v;
                       const celda = `<td>${dato}</td>`;
