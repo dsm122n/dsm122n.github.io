@@ -60,6 +60,12 @@ $$ PCT = frac{Talla}{2} + 10 \pm 1 $$
 
 ![DSM por edad](dsm-por-edad.png)
 
+Alimentación:
+- 7 a 8 meses: toman alimentos con la mano
+- 8 a 11 meses: comen con la mano, transferencia de mano a boca
+- 10 a 12 meses: comen con cuchara, pueden tomar vaso con dos manos
+- 15 meses: beben en vaso sin ayuda (21 meses no derraman)
+
 Reflejos arcaicos
 
 | Reflejo | Desaparece | 
@@ -72,6 +78,8 @@ Reflejos arcaicos
 | gallant (trunk incurvation) | 4 meses |
 | espadachin | 5-7 meses |
 | Babinski | 2 año |
+
+
 
 ## erupción dentaria
 
@@ -116,8 +124,16 @@ Deposiciones:
 
 ### Nutrición
 
+Promedio volumen lactancia materna primeros 6 meses: 800 ml/día
+
+Problemas leche de vaca sin modificaciones: concentración excesiva de proteínas, calcio, fósforo y sodio y además es deficiente en ácidos 
+grasos esenciales, vitamina C, E y D.
+
 Composición leches
+
 ![Leches](leches.png)
+
+Volumen y Fraccionamiento de fórmulas: El volumen indicado de fórmula de inicio o de LPF varía de acuerdo a la edad y peso del niño, iniciándose la alimentación con aproximadamente **60 ml por vez en los primeros días**, para llegar aproximadamente a **200 ml por vez a los cinco meses**, utilizando el cálculo de <b styles="color: #0000ff"> 140 cc-160 cc x kg de peso x día</b>.
 
 Requerimientos calóricos
 ![Requerimientos caloricos](calorias0-1a.png)
@@ -128,6 +144,38 @@ Cantidad y frecuencia de cada alimento a incorporar en una papilla de 6 a 11 mes
 ![alimentos papilla](papilla.png)
 ![alimentos picados](picados.png)
 
+| alimento | edad inicio | frecuencia |
+|----------|-------------| ---------- |
+| vegetales verdes y coloreados | 6 meses | diaria |
+| cereales | 6 meses | diaria |
+| tubérculos | 6 meses | diaria |
+| frutas | 6 meses | diaria |
+| aceite | 6 meses | diaria |
+| carnes | 6 meses | 3 veces/semana |
+| pescados y mariscos | 6-7 meses | 2 veces/semana |
+| legumbres | 7-8 meses | 2 veces/semana |
+| huevo | 9-10 meses | 1-2 veces/semana |
+
+resumen: 
+- vegetales, cereales, tubérculos, frutas, aceite, carnes: **6** meses
+- pescados y mariscos: **6-7** meses
+- legumbres: **7-8** meses
+- huevo: **9-10** meses
+
+Primera papilla: 6 meses
+
+Segunda papilla: 8 meses
+- erupción incisivos superiores --> puré más grueso
+- erupción molares (12 meses) --> molido con tenedor
+- 8 meses: 150 ml comida + 100 ml fruta
+- 9 meses: 200 ml comida + 100 ml fruta
+- La alimentación complementaria debe aportar una densidad energética no inferior a la aportada a través de la leche materna, es decir entre **65 y 70 Kcal/100 g**. En su conjunto (2 papillas) no deben aportar más del 50% del aporte diario de energía, el resto de la energía debe ser aportado por la leche materna o la fórmula que la sustituya
+- Incorporar las leguminosas guisadas con cereales entre los 7-8 meses (molidas, hasta alrededor de los 12 meses); una porción de ellas reemplaza al puré de verduras con carne. Se recomienda el consumo 2 veces por semana.
+- Los **alimentos no deben ser soplados**, ni tampoco deben ser probados con el mismo cubierto que se utilizará para dar la comida, ambas acciones traspasan microorganismos a la boca del niño(a) y pueden estimular la producción de caries (transmisión vertical-horizontal); esto se conoce como ventana de infectividad y ocurre en promedio entre los 19 meses y 26 meses de edad
+
+Suplementación:
+- Vitamina D: 400 UI/día hasta 1 año de vida
+- Fe: 1 mg/kg/día desde los 4 meses hasta 1 año de vida
 
 # Infectología
 ## Enfermedad de kawasaki
