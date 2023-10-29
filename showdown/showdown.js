@@ -103,10 +103,38 @@ function loadMD(filepath) {
       document.getElementById('inicio').setAttribute('class',"tab-pane container active");
       document.getElementById('tabla_farmacos').setAttribute('class',"tab-pane container");
     })
+    // .then(order => {
+    //   // insert a lateral div with a tree view of the document headings h1, h2, h3, h4 and h5
+    //   document.getElementsByTagName('h1').setAttribute('class', 'heading');
+    //   document.getElementsByTagName('h2').setAttribute('class', 'heading');
+    //   document.getElementsByTagName('h3').setAttribute('class', 'heading');
+    //   document.getElementsByTagName('h4').setAttribute('class', 'heading');
+    //   document.getElementsByTagName('h5').setAttribute('class', 'heading');
+
+    //   const headings = document.getElementById('inicio').getElementsByTagName('h1');
+    //   array.forEach(element => {
+        
+    //   });      
+        
+
+
+    // }
+    //   )
     .catch(err => {
       console.log(err);
     });
 }
+// function getInnerHeadings(headingsArray){
+//   // get all subheadings of a heading 
+//   for (let i = 0; i < headingsArray.length; i++) {
+//     const headingLevel = headingsArray[i].tagName;
+//     const headingText = headingsArray[i].innerText;
+
+//     if (headingLevel == 'H1') {
+//     }
+    
+// }
+
 function loadHTML(filepath) {
   fetch(filepath)
     .then(response => response.text())

@@ -106,6 +106,426 @@ Deposiciones:
 ### Programa nacional de inmunizaciones 2023
 ![PNI](PNI-2023.png)
 
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Excel.Sheet>
+<meta name=Generator content="Microsoft Excel 15">
+<link rel=File-List href="Book1_files/filelist.xml">
+<style id="Book1_16390_Styles">
+<!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:" ";}
+.font516390
+	{color:black;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;}
+.xl1516390
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl6516390
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl6616390
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:normal;}
+.xl6716390
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	background:#9BC2E6;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl6816390
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	background:#FFE699;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl6916390
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	background:#BF8F00;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl7016390
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	background:#CC66FF;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl7116390
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:#757171;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:italic;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	background:#9BC2E6;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl7216390
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:general;
+	vertical-align:middle;
+	background:#FF4B4B;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl7316390
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:middle;
+	background:#D9D9D9;
+	mso-pattern:black none;
+	white-space:normal;}
+.xl7416390
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:11.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:General;
+	text-align:center;
+	vertical-align:bottom;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+-->
+</style>
+<title>Vacunaci�n�2023</title>
+</head>
+
+<body>
+<!--[if !excel]>&nbsp;&nbsp;<![endif]-->
+<!--The following information was generated by Microsoft Excel's Publish as Web
+Page wizard.-->
+<!--If the same item is republished from Excel, all information between the DIV
+tags will be replaced.-->
+<!----------------------------->
+<!--START OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD -->
+<!----------------------------->
+
+<div id="Book1_16390" align=center x:publishsource="Excel">
+
+<h1 style='color:black;font-family:Calibri;font-size:14.0pt;font-weight:800;
+font-style:normal'>Vacunaci�n�2023</h1>
+
+<table border=0 cellpadding=0 cellspacing=0 width=1040 style='border-collapse:
+ collapse;table-layout:fixed;width:779pt'>
+ <col width=64 style='width:48pt'>
+ <col width=107 span=6 style='mso-width-source:userset;mso-width-alt:3723;
+ width:80pt'>
+ <col width=109 style='mso-width-source:userset;mso-width-alt:3816;width:82pt'>
+ <col width=118 style='mso-width-source:userset;mso-width-alt:4119;width:89pt'>
+ <col width=107 style='mso-width-source:userset;mso-width-alt:3723;width:80pt'>
+ <tr class=xl7416390 height=58 style='height:43.5pt'>
+  <td height=58 class=xl7316390 width=64 style='height:43.5pt;width:48pt'>RN</td>
+  <td class=xl7316390 width=107 style='width:80pt'>2</td>
+  <td class=xl7316390 width=107 style='width:80pt'>4</td>
+  <td class=xl7316390 width=107 style='width:80pt'>6</td>
+  <td class=xl7316390 width=107 style='width:80pt'>12</td>
+  <td class=xl7316390 width=107 style='width:80pt'>18</td>
+  <td class=xl7316390 width=107 style='width:80pt'>36</td>
+  <td class=xl7316390 width=109 style='width:82pt'>1� (7a) y 8� (14a)</td>
+  <td class=xl7316390 width=118 style='width:89pt'>4� (10a) y 5�(11a)</td>
+  <td class=xl7316390 width=107 style='width:80pt'>Embarazadas desde 28 semanas</td>
+ </tr>
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl6616390 width=64 style='height:14.5pt;width:48pt'>BCG</td>
+  <td class=xl6916390 width=107 style='width:80pt'>Hexavalente</td>
+  <td class=xl6916390 width=107 style='width:80pt'>Hexavalente</td>
+  <td class=xl6916390 width=107 style='width:80pt'>Hexavalente</td>
+  <td class=xl6616390 width=107 style='width:80pt'></td>
+  <td class=xl6916390 width=107 style='width:80pt'>Hexavalente</td>
+  <td class=xl6616390 width=107 style='width:80pt'></td>
+  <td class=xl6616390 width=109 style='width:82pt'></td>
+  <td class=xl6616390 width=118 style='width:89pt'>VPH</td>
+  <td class=xl6616390 width=107 style='width:80pt'></td>
+ </tr>
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl6616390 width=64 style='height:14.5pt;width:48pt'>Hep B</td>
+  <td class=xl6816390 width=107 style='width:80pt'>dTP</td>
+  <td class=xl6816390 width=107 style='width:80pt'>&nbsp;</td>
+  <td class=xl6816390 width=107 style='width:80pt'>&nbsp;</td>
+  <td class=xl6616390 width=107 style='width:80pt'></td>
+  <td class=xl6816390 width=107 style='width:80pt'>&nbsp;</td>
+  <td class=xl6616390 width=107 style='width:80pt'></td>
+  <td class=xl6816390 width=109 style='width:82pt'>dTp</td>
+  <td class=xl6616390 width=118 style='width:89pt'></td>
+  <td class=xl6816390 width=107 style='width:80pt'>dTp</td>
+ </tr>
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl6616390 width=64 style='height:14.5pt;width:48pt'></td>
+  <td class=xl6816390 width=107 style='width:80pt'>Polio</td>
+  <td class=xl6816390 width=107 style='width:80pt'>&nbsp;</td>
+  <td class=xl6816390 width=107 style='width:80pt'>&nbsp;</td>
+  <td class=xl6616390 width=107 style='width:80pt'></td>
+  <td class=xl6816390 width=107 style='width:80pt'>&nbsp;</td>
+  <td class=xl6616390 width=107 style='width:80pt'></td>
+  <td class=xl6616390 width=109 style='width:82pt'></td>
+  <td class=xl6616390 width=118 style='width:89pt'></td>
+  <td class=xl6616390 width=107 style='width:80pt'></td>
+ </tr>
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl6616390 width=64 style='height:14.5pt;width:48pt'></td>
+  <td class=xl6816390 width=107 style='width:80pt'>HepB</td>
+  <td class=xl6816390 width=107 style='width:80pt'>&nbsp;</td>
+  <td class=xl6816390 width=107 style='width:80pt'>&nbsp;</td>
+  <td class=xl6616390 width=107 style='width:80pt'></td>
+  <td class=xl6816390 width=107 style='width:80pt'>&nbsp;</td>
+  <td class=xl6616390 width=107 style='width:80pt'></td>
+  <td class=xl6616390 width=109 style='width:82pt'></td>
+  <td class=xl6616390 width=118 style='width:89pt'></td>
+  <td class=xl6616390 width=107 style='width:80pt'></td>
+ </tr>
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl6616390 width=64 style='height:14.5pt;width:48pt'></td>
+  <td class=xl6816390 width=107 style='width:80pt'>Hib</td>
+  <td class=xl6816390 width=107 style='width:80pt'>&nbsp;</td>
+  <td class=xl6816390 width=107 style='width:80pt'>&nbsp;</td>
+  <td class=xl6616390 width=107 style='width:80pt'></td>
+  <td class=xl6816390 width=107 style='width:80pt'>&nbsp;</td>
+  <td class=xl6616390 width=107 style='width:80pt'></td>
+  <td class=xl6616390 width=109 style='width:82pt'></td>
+  <td class=xl6616390 width=118 style='width:89pt'></td>
+  <td class=xl6616390 width=107 style='width:80pt'></td>
+ </tr>
+ <tr height=58 style='height:43.5pt'>
+  <td height=58 class=xl6616390 width=64 style='height:43.5pt;width:48pt'></td>
+  <td class=xl6716390 width=107 style='width:80pt'>Neumococo Conjugada</td>
+  <td class=xl6716390 width=107 style='width:80pt'>Neumococo Conjugada</td>
+  <td class=xl7116390 width=107 style='width:80pt'>* Neumococo Conjugada (solo
+  prematuros)</td>
+  <td class=xl6716390 width=107 style='width:80pt'>Neumococo Conjugada</td>
+  <td class=xl6616390 width=107 style='width:80pt'></td>
+  <td class=xl6616390 width=107 style='width:80pt'></td>
+  <td class=xl6616390 width=109 style='width:82pt'></td>
+  <td class=xl6616390 width=118 style='width:89pt'></td>
+  <td class=xl6616390 width=107 style='width:80pt'></td>
+ </tr>
+ <tr height=39 style='height:29.0pt'>
+  <td height=39 class=xl6616390 width=64 style='height:29.0pt;width:48pt'></td>
+  <td class=xl7016390 width=107 style='width:80pt'>Meningoc�cica recombinante</td>
+  <td class=xl7016390 width=107 style='width:80pt'>Meningoc�cica recombinante</td>
+  <td class=xl6616390 width=107 style='width:80pt'></td>
+  <td class=xl7016390 width=107 style='width:80pt'>Meningoc�cica <font
+  class="font516390">Conjugada</font></td>
+  <td class=xl6616390 width=107 style='width:80pt'></td>
+  <td class=xl6616390 width=107 style='width:80pt'></td>
+  <td class=xl6616390 width=109 style='width:82pt'></td>
+  <td class=xl6616390 width=118 style='width:89pt'></td>
+  <td class=xl6616390 width=107 style='width:80pt'></td>
+ </tr>
+ <tr height=39 style='height:29.0pt'>
+  <td height=39 class=xl6616390 width=64 style='height:29.0pt;width:48pt'></td>
+  <td class=xl6616390 width=107 style='width:80pt'></td>
+  <td class=xl6616390 width=107 style='width:80pt'></td>
+  <td class=xl6616390 width=107 style='width:80pt'></td>
+  <td class=xl7216390 width=107 style='width:80pt'>SRP (12 meses, 3 letras)</td>
+  <td class=xl6616390 width=107 style='width:80pt'></td>
+  <td class=xl7216390 width=107 style='width:80pt'>SRP (12 * 3 = 36 meses)</td>
+  <td class=xl6616390 width=109 style='width:82pt'></td>
+  <td class=xl6616390 width=118 style='width:89pt'></td>
+  <td class=xl6616390 width=107 style='width:80pt'></td>
+ </tr>
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl6516390 width=64 style='height:14.5pt;width:48pt'></td>
+  <td class=xl6516390 width=107 style='width:80pt'></td>
+  <td class=xl6516390 width=107 style='width:80pt'></td>
+  <td class=xl6516390 width=107 style='width:80pt'></td>
+  <td class=xl6516390 width=107 style='width:80pt'></td>
+  <td class=xl6516390 width=107 style='width:80pt'>Hepatitis A</td>
+  <td class=xl6516390 width=107 style='width:80pt'></td>
+  <td class=xl6516390 width=109 style='width:82pt'></td>
+  <td class=xl6516390 width=118 style='width:89pt'></td>
+  <td class=xl6516390 width=107 style='width:80pt'></td>
+ </tr>
+ <tr height=19 style='height:14.5pt'>
+  <td height=19 class=xl6516390 width=64 style='height:14.5pt;width:48pt'></td>
+  <td class=xl6516390 width=107 style='width:80pt'></td>
+  <td class=xl6516390 width=107 style='width:80pt'></td>
+  <td class=xl6516390 width=107 style='width:80pt'></td>
+  <td class=xl6516390 width=107 style='width:80pt'></td>
+  <td class=xl6516390 width=107 style='width:80pt'>Varicela</td>
+  <td class=xl6516390 width=107 style='width:80pt'>Varicela</td>
+  <td class=xl6516390 width=109 style='width:82pt'></td>
+  <td class=xl6516390 width=118 style='width:89pt'></td>
+  <td class=xl6516390 width=107 style='width:80pt'></td>
+ </tr>
+ <tr height=39 style='height:29.0pt'>
+  <td height=39 class=xl6516390 width=64 style='height:29.0pt;width:48pt'></td>
+  <td class=xl6516390 width=107 style='width:80pt'></td>
+  <td class=xl6516390 width=107 style='width:80pt'></td>
+  <td class=xl6516390 width=107 style='width:80pt'></td>
+  <td class=xl6516390 width=107 style='width:80pt'></td>
+  <td class=xl6516390 width=107 style='width:80pt'>Fiebre amarilla (Rapa Nui)</td>
+  <td class=xl6516390 width=107 style='width:80pt'></td>
+  <td class=xl6516390 width=109 style='width:82pt'></td>
+  <td class=xl6516390 width=118 style='width:89pt'></td>
+  <td class=xl6516390 width=107 style='width:80pt'></td>
+ </tr>
+ <![if supportMisalignedColumns]>
+ <tr height=0 style='display:none'>
+  <td width=64 style='width:48pt'></td>
+  <td width=107 style='width:80pt'></td>
+  <td width=107 style='width:80pt'></td>
+  <td width=107 style='width:80pt'></td>
+  <td width=107 style='width:80pt'></td>
+  <td width=107 style='width:80pt'></td>
+  <td width=107 style='width:80pt'></td>
+  <td width=109 style='width:82pt'></td>
+  <td width=118 style='width:89pt'></td>
+  <td width=107 style='width:80pt'></td>
+ </tr>
+ <![endif]>
+</table>
+
+</div>
+
+
+<!----------------------------->
+<!--END OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD-->
+<!----------------------------->
+</body>
+
+</html>
+
+
 | Vacuna | composición | 
 |--------|-------------|
 | BCG | viva atenuada | 
@@ -156,7 +576,7 @@ Cantidad y frecuencia de cada alimento a incorporar en una papilla de 6 a 11 mes
 | legumbres | 7-8 meses | 2 veces/semana |
 | huevo | 9-10 meses | 1-2 veces/semana |
 
-resumen: 
+Resumen: 
 - vegetales, cereales, tubérculos, frutas, aceite, carnes: **6** meses
 - pescados y mariscos: **6-7** meses
 - legumbres: **7-8** meses
@@ -176,6 +596,22 @@ Segunda papilla: 8 meses
 Suplementación:
 - Vitamina D: 400 UI/día hasta 1 año de vida
 - Fe: 1 mg/kg/día desde los 4 meses hasta 1 año de vida
+#### >2 años
+Guías Alimentarias para la Población Chilena
+1. Para tener un peso saludable, come sano y realiza actividad física diariamente.
+2. Pasa menos tiempo frente al computador o la tele y camina a paso rápido, mínimo 30 minutos al día.
+3. Come alimentos con poca sal y saca el salero de la mesa.
+4. Si quieres tener un peso saludable, evita el azúcar, dulces, bebidas y jugos azucarados.
+5. Cuida tu corazón evitando las frituras y alimentos con grasas como cecinas y mayonesa.
+6. Come 5 veces verduras y frutas frescas de distintos colores, cada día.
+7. Para fortalecer tus huesos, consume 3 veces en el día lácteos bajos en grasa y azúcar.
+8. Para mantener sano tu corazón, come pescado al horno a la plancha, 2 veces por semana.
+9. Consume legumbres al menos dos veces por semana, sin mezclarlas con cecinas.
+10. Para mantenerte hidratado, toma 6 a 8 vasos de agua al día.
+11. Lee y compara las etiquetas de los alimentos y prefiere los que tengan menos grasas, azúcar y sal (sodio)
+
+Lo ideal es consumir **4 comidas** establecidas en el día: desayuno, almuerzo, once y cena, y eventualmente una colación saludable. Se recomienda que la distribución energética de estos tiempos sea **desayuno 25%, Colación 5%, Almuerzo 30%, Once 15%, Cena 25%**.
+
 
 # Infectología
 ## Enfermedad de kawasaki
