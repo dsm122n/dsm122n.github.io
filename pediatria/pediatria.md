@@ -73,8 +73,27 @@ Reflejos arcaicos
 | espadachin | 5-7 meses |
 | Babinski | 2 año |
 
+## erupción dentaria
+
+![dientes](dientes.png)
+
 
 ## Niño sano
+
+### Recien Nacidos
+
+Cantidad mínima de pañales con **pipí** en RN:
+- 1 pañal el primer día
+- 2 pañales el segundo día
+- 3 pañales el tercer día
+- 4 pañales el cuarto día
+- 6 pañales desde el quinto día
+
+Deposiciones:
+- Meconio: días 1 a 3. Color negro, marrón o verde oscuro y de consistencia viscosa
+- Transición día 3 a 4 verde grisáceo y no son tan viscosas
+- Maduras: amarillo-doradas: 2 a 24 en total. Por lo general 1 después de cada toma
+- Después del mes de vida pueden más de un día sin depos
 
 ### Programa nacional de inmunizaciones 2023
 ![PNI](PNI-2023.png)
@@ -99,6 +118,16 @@ Reflejos arcaicos
 
 Composición leches
 ![Leches](leches.png)
+
+Requerimientos calóricos
+![Requerimientos caloricos](calorias0-1a.png)
+![Req caloricos 2](calorias1ymas.png)
+
+Cantidad y frecuencia de cada alimento a incorporar en una papilla de 6 a 11 meses
+
+![alimentos papilla](papilla.png)
+![alimentos picados](picados.png)
+
 
 # Infectología
 ## Enfermedad de kawasaki
