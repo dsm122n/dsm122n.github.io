@@ -26,7 +26,7 @@ Perímetro cefálico para la talla:
 
 $$ PCT = frac{Talla}{2} + 10 \pm 1 $$
 
-Tablitas hechas por chatqpt, no revisadas
+Tablitas hechas por chatqpt, no revisadas...
 ### mujeres
 | edad | peso | aumento de peso | talla |  aumento de talla | Perímetro cefálico |
 |------|------|-------|-------------|--------------------| --------|
