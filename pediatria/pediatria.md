@@ -58,9 +58,20 @@ Tablitas hechas por chatqpt, no revisadas...
 
 ## Desarrollo psicomotor
 
+![DSM Guía San Borja](dsm-linea.png)
+
 ![DSM por área](dsm-por-area.png)
 
 ![DSM por edad](dsm-por-edad.png)
+
+Factores de riesgo DSM
+![FR dsm](dsm-factores-riesgo.png)
+
+Signos de alerta dsm
+![dsm-sg-alerta](dsm-sg-alerta.png)
+
+Banderas rojas dsm
+![banderas-rojas-dsm](banderas-rojas-dsm.png) 
 
 Alimentación:
 - 7 a 8 meses: toman alimentos con la mano
@@ -72,11 +83,12 @@ Reflejos arcaicos
 
 | Reflejo | Desaparece | 
 |---------|------------|
-| marcha automática | 2 meses (4-6) |
-| Moro | 2 meses (3-6) |
+| marcha automática | 2-3 meses |
+| Moro | 4-6 meses |
 | reflejo de búsqueda | 3-4 meses |
 | reflejo de succión | 3-4 meses |
-| prensión palmar-plantar | 3-4 meses |
+| prensión palmar | 3-4 meses |
+| prensión plantar | 7-9 meses |
 | gallant (trunk incurvation) | 4 meses |
 | espadachin | 5-7 meses |
 | Babinski | 2 año |
