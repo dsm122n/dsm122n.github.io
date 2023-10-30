@@ -343,7 +343,7 @@ tags will be replaced.-->
 <div id="Book1_16390" align=center x:publishsource="Excel">
 
 <h1 style='color:black;font-family:Calibri;font-size:14.0pt;font-weight:800;
-font-style:normal'>Vacunaci�n�2023</h1>
+font-style:normal'>Vacunación 2023</h1>
 
 <table border=0 cellpadding=0 cellspacing=0 width=1040 style='border-collapse:
  collapse;table-layout:fixed;width:779pt'>
@@ -361,8 +361,8 @@ font-style:normal'>Vacunaci�n�2023</h1>
   <td class=xl7316390 width=107 style='width:80pt'>12</td>
   <td class=xl7316390 width=107 style='width:80pt'>18</td>
   <td class=xl7316390 width=107 style='width:80pt'>36</td>
-  <td class=xl7316390 width=109 style='width:82pt'>1� (7a) y 8� (14a)</td>
-  <td class=xl7316390 width=118 style='width:89pt'>4� (10a) y 5�(11a)</td>
+  <td class=xl7316390 width=109 style='width:82pt'>1ro (7a) y 8vo (14a)</td>
+  <td class=xl7316390 width=118 style='width:89pt'>4to (10a) y 5to(11a)</td>
   <td class=xl7316390 width=107 style='width:80pt'>Embarazadas desde 28 semanas</td>
  </tr>
  <tr height=19 style='height:14.5pt'>
@@ -379,19 +379,19 @@ font-style:normal'>Vacunaci�n�2023</h1>
  </tr>
  <tr height=19 style='height:14.5pt'>
   <td height=19 class=xl6616390 width=64 style='height:14.5pt;width:48pt'>Hep B</td>
-  <td class=xl6816390 width=107 style='width:80pt'>dTP</td>
+  <td class=xl6816390 width=107 style='width:80pt'>DTPa</td>
   <td class=xl6816390 width=107 style='width:80pt'>&nbsp;</td>
   <td class=xl6816390 width=107 style='width:80pt'>&nbsp;</td>
   <td class=xl6616390 width=107 style='width:80pt'></td>
   <td class=xl6816390 width=107 style='width:80pt'>&nbsp;</td>
   <td class=xl6616390 width=107 style='width:80pt'></td>
-  <td class=xl6816390 width=109 style='width:82pt'>dTp</td>
+  <td class=xl6816390 width=109 style='width:82pt'>dTpa</td>
   <td class=xl6616390 width=118 style='width:89pt'></td>
-  <td class=xl6816390 width=107 style='width:80pt'>dTp</td>
+  <td class=xl6816390 width=107 style='width:80pt'>dTpa</td>
  </tr>
  <tr height=19 style='height:14.5pt'>
   <td height=19 class=xl6616390 width=64 style='height:14.5pt;width:48pt'></td>
-  <td class=xl6816390 width=107 style='width:80pt'>Polio</td>
+  <td class=xl6816390 width=107 style='width:80pt'>Polio inactivado</td>
   <td class=xl6816390 width=107 style='width:80pt'>&nbsp;</td>
   <td class=xl6816390 width=107 style='width:80pt'>&nbsp;</td>
   <td class=xl6616390 width=107 style='width:80pt'></td>
@@ -429,8 +429,7 @@ font-style:normal'>Vacunaci�n�2023</h1>
   <td height=58 class=xl6616390 width=64 style='height:43.5pt;width:48pt'></td>
   <td class=xl6716390 width=107 style='width:80pt'>Neumococo Conjugada</td>
   <td class=xl6716390 width=107 style='width:80pt'>Neumococo Conjugada</td>
-  <td class=xl7116390 width=107 style='width:80pt'>* Neumococo Conjugada (solo
-  prematuros)</td>
+  <td class=xl7116390 width=107 style='width:80pt'>* Neumococo Conjugada (solo prematuros)</td>
   <td class=xl6716390 width=107 style='width:80pt'>Neumococo Conjugada</td>
   <td class=xl6616390 width=107 style='width:80pt'></td>
   <td class=xl6616390 width=107 style='width:80pt'></td>
@@ -440,11 +439,10 @@ font-style:normal'>Vacunaci�n�2023</h1>
  </tr>
  <tr height=39 style='height:29.0pt'>
   <td height=39 class=xl6616390 width=64 style='height:29.0pt;width:48pt'></td>
-  <td class=xl7016390 width=107 style='width:80pt'>Meningoc�cica recombinante</td>
-  <td class=xl7016390 width=107 style='width:80pt'>Meningoc�cica recombinante</td>
+  <td class=xl7016390 width=107 style='width:80pt'>Meningocócica recombinante</td>
+  <td class=xl7016390 width=107 style='width:80pt'>Meningocócica recombinante</td>
   <td class=xl6616390 width=107 style='width:80pt'></td>
-  <td class=xl7016390 width=107 style='width:80pt'>Meningoc�cica <font
-  class="font516390">Conjugada</font></td>
+  <td class=xl7016390 width=107 style='width:80pt'>Meningocócica <font class="font516390">Conjugada</font></td>
   <td class=xl6616390 width=107 style='width:80pt'></td>
   <td class=xl6616390 width=107 style='width:80pt'></td>
   <td class=xl6616390 width=109 style='width:82pt'></td>
@@ -530,11 +528,11 @@ font-style:normal'>Vacunaci�n�2023</h1>
 |--------|-------------|
 | BCG | viva atenuada | 
 | Hepatitis B | recombinante |
-| difteria, tétanos, tos convulsiva | toxoide |
-| tos convulsiva | acelular |
+| difteria, tétanos | toxoides (en la abreviatura DT/dt, mayúscula/minúscula implica más/menos toxoide, por eso hasta los 18 meses se da la DTPa y luego los refuerzos tienen la dTPa) |
+| tos convulsiva | acelular ("DTPa" la a implica **ACELULAR**. Creo que la con virus atenuado creo que ya no está disponible) |
 | Haemophilus influenzae tipo b | conjugada polisacárida + proteína|
-| poliomielitis | inactivada |
-| poliomielitis | viva atenuada |
+| poliomielitis | inactivada, esta es la de la hexavalente|
+| poliomielitis | viva atenuada (ya no se da)|
 | neumococo | conjugada polisacárida (inactiva) |
 | meningococo | conjugada polisacárida (inactiva) |
 | sarampión, parotiditis, rubéola, varicela | virus vivos atenuados |
