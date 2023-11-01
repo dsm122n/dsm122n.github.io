@@ -549,7 +549,8 @@ font-style:normal'>Vacunación 2023</h1>
 | poliomielitis | inactivada, esta es la de la hexavalente|
 | poliomielitis | viva atenuada (ya no se da)|
 | neumococo | conjugada polisacárida (inactiva) |
-| meningococo | conjugada polisacárida (inactiva) |
+| meningococo | conjugada polisacárida (inactiva) tetravalente (A, C, W, Y) |
+| meningococo | recombinante monovalente (serotipo B) |
 | sarampión, parotiditis, rubéola, varicela | virus vivos atenuados |
 | virus hepatitis A | inactivada |
 | vph | inactivada |
@@ -609,6 +610,8 @@ Segunda papilla: 8 meses
 Suplementación:
 - Vitamina D: 400 UI/día hasta 1 año de vida
 - Fe: 1 mg/kg/día desde los 4 meses hasta 1 año de vida
+
+
 #### >2 años
 Guías Alimentarias para la Población Chilena
 1. Para tener un peso saludable, come sano y realiza actividad física diariamente.
@@ -623,7 +626,7 @@ Guías Alimentarias para la Población Chilena
 10. Para mantenerte hidratado, toma 6 a 8 vasos de agua al día.
 11. Lee y compara las etiquetas de los alimentos y prefiere los que tengan menos grasas, azúcar y sal (sodio)
 
-Lo ideal es consumir **4 comidas** establecidas en el día: desayuno, almuerzo, once y cena, y eventualmente una colación saludable. Se recomienda que la distribución energética de estos tiempos sea **desayuno 25%, Colación 5%, Almuerzo 30%, Once 15%, Cena 25%**.
+Lo ideal es consumir **4 comidas** establecidas en el día: desayuno, almuerzo, once y cena, y eventualmente una colación saludable. Se recomienda que la distribución energética de estos tiempos sea **desayuno 25%, Colación 5%, Almuerzo 30%, Once 15%, Cena 25%**.
 
 
 # Infectología
