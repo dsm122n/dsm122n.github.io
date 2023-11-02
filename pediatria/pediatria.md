@@ -556,6 +556,8 @@ font-style:normal'>Vacunación 2023</h1>
 | vph | inactivada |
 | fiebre amarilla | virus vivos atenuados |
 
+Chile, Julio: El **palivizumab** se administrará a los niños y niñas que pesan bajo los 2.500 gramos al nacer o que tengan hasta 34 semanas y seis días de gestación.
+
 ### Nutrición
 
 Promedio volumen lactancia materna primeros 6 meses: 800 ml/día
