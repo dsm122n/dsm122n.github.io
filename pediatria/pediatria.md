@@ -54,6 +54,9 @@ Tablitas hechas por chatqpt, no revisadas...
 | 3-4 años | 14.5-16.5 kg | 0.25 kg/mes | 95-105 cm | 1-2 cm/mes | 49-51 cm |
 | 4-5 años | 16.5-18.5 kg | 0.25 kg/mes | 105-115 cm | 1-2 cm/mes | 51-53 cm |
 
+Velocidad de crecimiento en prematuros
+
+![vel crecim en prematuros](v_prematuros.png)
 
 
 ## Desarrollo psicomotor
@@ -120,6 +123,11 @@ Deposiciones:
 
 ### Programa nacional de inmunizaciones 2023
 ![PNI](PNI-2023.png)
+
+Recomendaciones para la puesta al día de calendarios de vacunación en Chile
+
+https://sochinf.cl/recomendaciones-para-la-puesta-al-dia-de-calendarios-de-vacunacion-en-chile/ 
+
 
 <html xmlns:o="urn:schemas-microsoft-com:office:office"
 xmlns:x="urn:schemas-microsoft-com:office:excel"
@@ -643,3 +651,8 @@ Infiltrado perihiliar + Banda presidencial en ADV RxTx
 
 # Curso Emergencias pediátricas
 
+## Reanimación básica y obstrucción de vía aerea por cuerpo extraño (OVACE)
+
+- Principal causa PCR en pediatría --> insuf respiratoria => mayor enfoque en eso
+- Si respiración anormal: apertura vía aerea con frente-mentón, 5 ventilaciones de rescate --> si no responde, compresiones 15:2 100-120 lpm (30:2 si estamos solos para menor fatiga)
+- estándares calidad: compresión 1/3 del tórax, descomprimir totalmente
