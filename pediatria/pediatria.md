@@ -124,9 +124,12 @@ Deposiciones:
 ### Programa nacional de inmunizaciones 2023
 ![PNI](PNI-2023.png)
 
-Recomendaciones para la puesta al día de calendarios de vacunación en Chile
+<a href="https://sochinf.cl/recomendaciones-para-la-puesta-al-dia-de-calendarios-de-vacunacion-en-chile/">
+Recomendaciones para la puesta al día de calendarios de vacunación en Chile SOCHINF
+</a>
 
-https://sochinf.cl/recomendaciones-para-la-puesta-al-dia-de-calendarios-de-vacunacion-en-chile/ 
+
+ 
 
 
 <html xmlns:o="urn:schemas-microsoft-com:office:office"
