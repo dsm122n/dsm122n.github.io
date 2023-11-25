@@ -1,5 +1,5 @@
 # Pediatría
-<a href="https://drive.google.com/drive/folders/1eI8M-_g-VVKRzJWfdfcO35dz9QoYyokr">Bibliografía UPA</a>
+<a href="https://drive.google.com/drive/folders/1eI8M-_g-VVKRzJWfdfcO35dz9QoYyokr">Bibliografía UPA</ a>
 ## datitos antropometría
 
 Referencias de peso:
@@ -86,17 +86,21 @@ Reflejos arcaicos
 
 | Reflejo | Desaparece | 
 |---------|------------|
-| marcha automática | 2-3 meses |
-| Moro | 4-6 meses |
-| reflejo de búsqueda | 3-4 meses |
-| reflejo de succión | 3-4 meses |
-| prensión palmar | 3-4 meses |
-| prensión plantar | 7-9 meses |
+| marcha automática | 4 a 6 semanas aprox |
+| Moro | **4**-6 meses |
+| reflejo de búsqueda | **3**-4 meses (disminución gradual hasta max 3 meses) |
+| reflejo de succión | 3-4 meses (disminución gradual, superponiéndose con succión voluntaria) |
+| prensión palmar | disminución gradual, desaparece por completo poco antes de los **6 meses** |
+| prensión plantar | 10 a 18 meses meses, poco antes de que logre marcha libre (intenso los primeros 6 meses, disminución gradual hasta lograr apoyo plantar) |
 | gallant (trunk incurvation) | 4 meses |
 | espadachin | 5-7 meses |
 | Babinski | 2 año |
 
+En cuanto a aparición, casi todos después de las 32 a 34 semanas de gestación, salvo por prensión palmar y plantar que aparecen desde 20 semanas de gestación
 
+Espadachín aparece desde 4 a 6 semanas de vida, cuando logra fijación y seguimiento visual
+
+Paracaídas anterior aparece a los 6 meses
 
 ## erupción dentaria
 
