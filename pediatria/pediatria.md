@@ -1,5 +1,5 @@
 # Pediatría
-<a href="https://drive.google.com/drive/folders/1eI8M-_g-VVKRzJWfdfcO35dz9QoYyokr">Bibliografía UPA</ a>
+<a href="https://drive.google.com/drive/folders/1eI8M-_g-VVKRzJWfdfcO35dz9QoYyokr">Bibliografía UPA</a>
 ## datitos antropometría
 
 Referencias de peso:
@@ -136,9 +136,7 @@ Recomendaciones para la puesta al día de calendarios de vacunación en Chile SO
  
 
 
-<html xmlns:o="urn:schemas-microsoft-com:office:office"
-xmlns:x="urn:schemas-microsoft-com:office:excel"
-xmlns="http://www.w3.org/TR/REC-html40">
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40">
 
 <head>
 <meta http-equiv=Content-Type content="text/html; charset=windows-1252">
