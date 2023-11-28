@@ -23,12 +23,62 @@ Tips de estimulación
  En relación al control sano del recién nacido, mencione los cuidados y hábitos de higiene que se deben recomendar. Además indique cinco eventos fisiológicos y cinco signos de alarma.
 
 
+
 4) Indique beneficios de la lactancia materna para el niño, para la madre y la familia
+
+Niño:
+- Reduce la mortalidad por <b><span style="color:#5ec962">enfermedades infecciosas</span></b>.
+- Mayor protección en contra de <b><span style="color:#5ec962">diarreas</span></b>.
+- Mayor protección en contra de enfermedades <b><span style="color:#5ec962"> respiratorias</span></b>.
+- Mejora el IMC y disminuye probabilidad de desarrollar <b><span style="color:#5ec962">obesidad</span></b>.
+- Protege contra las <b><span style="color:#5ec962">caries</span></b> en niños y niñas menores de un año.
+- Favorece un buen <b><span style="color:#5ec962">desarrollo maxilofacial</span></b>.
+- Favorece el desarrollo <b><span style="color:#5ec962">intelectual</span></b>.
+- Beneficios relacionados con el desarrollo del <b><span style="color:#5ec962">vínculo</span></b>
+- Disminuye riesgo de <b><span style="color:#5ec962">enterocolitis necrotizante</span></b>
+- Disminuye riesgo de <b><span style="color:#5ec962">muerte súbita</span></b> col
+
+Madre:
+- Reduce la probabilidad de desarrollar <b><span style="color:#5ec962">cáncer de mamas</span></b> premenopáusico y de <b><span style="color:#5ec962">ovarios</span></b>
+- Reduce la probabilidad de desarrollar problemas <b><span style="color:#5ec962">cardiovasculares</span></b>.
+- Disminuye el riesgo de desarrollar enfermedades crónicas: diabetes mellitus tipo 2, HTA, Dislipidemias y enfermedad cardiovascular
+- Menor riesgo de artritis reumatoide y esclerosis múltiple 
+- Facilita la conciliación del <b><span style="color:#5ec962">sueño y cuidado del bebé</span></b>.
+- Reduce la probabilidad de desarrollar <b><span style="color:#5ec962">depresión postparto</span></b> (DPP). 
+- Regula el sistema <b><span style="color:#5ec962">endocrino e inmune</span></b> de la madre.
+- Mantiene niveles elevados de oxitocina, provocando un efecto <b><span style="color:#5ec962">antiestrés</span></b> y aumento en la <b><span style="color:#5ec962">autoestima</span></b> de la madre.
+- Contribuye a la <b><span style="color:#5ec962">retracción precoz del útero</span></b>.
+- En forma exclusiva contribuye a periodos de <b><span style="color:#5ec962">amenorrea de lactancia</span></b>.
+- Contribuye a que la mayoría de las madres pierdan progresiva y <b><span style="color:#5ec962">lentamente el excedente de peso</span></b> que tienen de reserva precisamente para enfrentar la lactancia.
+
+Familia:
+- Es económico, práctico e higiénico. 
+- Ayuda en la planificación familiar
+- Menor riesgo de abuso y negligencia materna 
 
 
 5) Nombre en cinco pasos la:
- - Técnica adecuada de lactancia materna
- - Preparación adecuada de una mamadera
+- Técnica adecuada de lactancia materna
+
+1° Procurar estar en <b><span style="color:#5ec962">lugar tranquilo, tibio y agradable adoptando una posición cómoda</span></b> y segura. Para saber si la posición es adecuada, la cara del bebe frente al pecho (no ladeada), el cuerpo del bebe debe estar siempre alineado (su oreja, hombro y cadera siguen una misma línea imaginaria y su cabeza sigue la dirección del pecho). Mirar al niño a los ojos mientras amamanta, ya que puede ser un momento de profunda comunicación entre madre e hijo
+![posiciones lactancia](posiciones_lm.png)
+![angulo lm](angulo_lm.png)
+
+2° Acercar la guagua al pecho, apoyarlo en la mejilla. Al presentar el pecho, el bebé buscará instintivamente el pezón. Se debe esperar a que el bebé abra la boca e introducir todo el pezón en ella, apuntando hacia el fondo del paladar (debe quedar toda la areola dentro de su boca).
+
+3° El agarre al pecho con los labios evertidos (como si estuviera bostezando), pezón y areola dentro de la boca, pezón entre la lengua y el paladar de la guagua, su pera tocando el pecho y su nariz rozándolo ligeramente. No doloroso.
+
+4° La cabeza no debe estar rotada hacia un lado del cuerpo, ni la guagua muy separada del cuerpo de la madre. La cabeza del bebe debe seguir la dirección del pecho materno. Si la guagua queda prendida solamente del pezón, la madre debe deslizar su dedo meñique en su boca para que se desprenda con cuidado
+
+5° Procurar vaciar al menos uno de los pecho, antes de ofrecer el otro, para obtener todos los nutrientes, entre medio sacar chanchitos.
+
+![lm unicef](lm_unicef.png)
+
+![posiciones_lm2](posiciones_lm2.png)
+
+- Preparación adecuada de una mamadera
+
+
 
 6) En relación a suplementación de hierro y vitamina D, indique:
  - Desde y hasta que edad está recomendada
