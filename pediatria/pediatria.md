@@ -27,6 +27,17 @@ Perímetro cefálico para la talla:
 
 $$ PCT = frac{Talla}{2} + 10 \pm 1 $$
 
+Edad corregida en prematuros:
+
+En niños y niñas prematuros el registro se realiza de acuerdo con la edad corregida; hasta los 24 meses de edad corregida en RN de Muy Bajo Peso de Nacimiento (RNMBP), hasta los 12 meses de edad corregida en los RN prematuros moderados y hasta los 6 meses de edad corregida en los RN prematuros tardíos. En los RN de pretérmino de menos 40 semanas, se deben utilizar las curvas de Crecimiento Intrauterino Nacionales (anexo 12).
+
+Edad biológica en NNA:
+
+Cuando la edad biológica y la edad cronológica presenten una diferencia mayor a 1 año se justifica evaluar por edad biológica (esto incluye los indicadores IMC/E, T/E, P/E y PC/E); si dicha diferencia es menor a 1 año, se puede evaluar solo por edad cronológica.
+
+Evaluación nutricional
+![evaluacion_nutri](evaluacion_nutri.png)
+
 Tablitas hechas por chatqpt, no revisadas...
 ### mujeres
 | edad | peso | aumento de peso | talla |  aumento de talla | Perímetro cefálico |
@@ -654,6 +665,52 @@ Lo ideal es consumir **4 comidas** establecidas en el día: desayuno, almuerzo, 
 # Neumología
 Infiltrado perihiliar + Banda presidencial en ADV RxTx
 
+
+# Cardiología
+
+## Insuficiencia cardíaca (IC)
+Síntomas más frecuentes: 
+
+- Signos de deterioro de la <b><span style="color:#7707aa">función</span></b> miocárdica: Mala perfusión periférica, taquicardia basal, ritmo de galope, sudoración, frialdad, palidez, pulsos débiles y rápidos, llene capilar enlentecido, dificultad para alimentarse, anorexia, oliguria, compromiso pondo-estatural, cardiomegalia con dilatación o hipertrofia cardíaca, irritabilidad o llanto débil, fatiga, cansancio.
+- Signos de <b><span style="color:#7707aa">congestión venosa pulmonar</span></b>: Disnea, taquipnea, sibilancias, signología húmeda pulmonar, tos, cianosis (por edema agudo pulmonar o shunt derecha a izquierda), ortopnea, disnea paroxística nocturna, infecciones respiratorias frecuentes.
+- Signos de <b><span style="color:#7707aa">congestión venosa sistémica</span></b>: Hepatomegalia, ingurgitación yugular (difícil de ver en el lactante), edema facial/palpebral, edema periférico (raro en recién nacido y lactante), ascitis, anasarca
+
+Por ahí leí que principales manifestaciones en lactantes son:
+
+Genrales:
+1. Irritabilidad con llanto débil
+2. Lactancia entrecortada
+3. Baja de peso
+4. Sudoración
+
+Respi:
+
+5. Taquipnea, disnea, dificultad respiratoria
+6. Aleteo nasal, tiraje
+
+Otros
+
+7. Hepatomegalia (no es tan frecuente esplenomegalia, tendría que tener cirrosis cardíaca)
+8. Taquicardia
+
+Clasificación de ROSS
+- Clase I: <b><span style="color:#7707aa">Asintomático</span></b>.
+- Clase II: <b><span style="color:#7707aa">Sintomático</span></b>. Lactante con taquipnea o sudoración leves durante las tomas. Niño con disnea de ejercicio.
+- Clase III: <b><span style="color:#7707aa">Sintomático + baja de peso</span></b> Lactante con taquipnea o sudoración marcadas durante las tomas, duración prolongada de las tomas, estancamiento ponderal. Niño con disnea de ejercicio marcada.
+- Clase IV: <b><span style="color:#7707aa">sintomático en reposo</span></b>. En reposo presenta taquipnea, sudoración y retracción
+
+Índice Cardio torácico según edad:
+| Edad | Índice |
+|------|--------|
+| RN | <0.6 |
+| <2 años | <0.55 |
+| >2 años | <0.5 |
+
+Radiografía en Cardiopatías congénitas:
+
+A modo general:
+- HVD --> elevación apex
+- HVI --> crecimiento longitudinal
 
 # Curso Emergencias pediátricas
 

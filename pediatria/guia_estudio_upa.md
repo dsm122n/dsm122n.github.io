@@ -78,6 +78,21 @@ Familia:
 
 - Preparación adecuada de una mamadera
 
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+OJOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+OJOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+OJOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+OJOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+OJOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
+-------------------------------------------------
 
 
 6) En relación a suplementación de hierro y vitamina D, indique:
@@ -87,7 +102,14 @@ Familia:
 
 7) Mencione como se realiza el diagnostico nutricional integrado en el niño y cuáles son los parámetros que se utilizan en las diferentes edades.
 
+
 8) Realice el calendario de vacunas PNI y otro para las siguientes vacunas extra PNI (si están incluidas en el PNI especificar desde qué año y a qué edad se deberían indicar):
+ - Rotavirus 
+ - Hepatitis A
+ - Varicela
+ - Papiloma
+ - Meningococo
+
 
 <html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:x="urn:schemas-microsoft-com:office:excel" xmlns="http://www.w3.org/TR/REC-html40">
 
@@ -504,11 +526,13 @@ font-style:normal'>Vacunación 2023</h1>
 
 </html>
 
- - Rotavirus
- - Hepatitis A
- - Varicela
- - Papiloma
- - Meningococo
+https://sochinf.cl/recomendaciones-para-la-puesta-al-dia-de-calendarios-de-vacunacion-en-chile/ 
+
+![año incorporación pni](años_pni.png)
+
+Rotavirus (en lactantes <6 meses, ambas son orales): 
+- Rotarix (monovalente, virus atenuado): dos dosis--> 2 y 4 meses. Intervalo mínimo 4 semanas
+- Rotateq (polivalente, virus atenuado): tres dosis--> 2, 4 y 6 meses
 
 9) En relación a cada una de las vacunas PNI indique:
 - Tipo de vacuna
@@ -517,11 +541,35 @@ font-style:normal'>Vacunación 2023</h1>
 - Efectos adversos
 - Contraindicaciones
 
+| Vacuna | composición | 
+|--------|-------------|
+| BCG | viva atenuada | 
+| Hepatitis B | recombinante |
+| difteria, tétanos | toxoides (en la abreviatura DT/dt, mayúscula/minúscula implica más/menos toxoide, por eso hasta los 18 meses se da la DTPa y luego los refuerzos tienen la dTPa) |
+| tos convulsiva | acelular ("DTPa" la a implica **ACELULAR**. Creo que la con virus atenuado creo que ya no está disponible) |
+| Haemophilus influenzae tipo b | conjugada polisacárida + proteína|
+| poliomielitis | inactivada, esta es la de la hexavalente|
+| poliomielitis | viva atenuada (ya no se da)|
+| neumococo | conjugada polisacárida (inactiva) |
+| meningococo | conjugada polisacárida (inactiva) tetravalente (A, C, W, Y) |
+| meningococo | recombinante monovalente (serotipo B) |
+| sarampión, parotiditis, rubéola, varicela | virus vivos atenuados |
+| virus hepatitis A | inactivada |
+| vph | inactivada |
+| fiebre amarilla | virus vivos atenuados |
+
+
 10) Mencione cómo se realiza la higiene oral a las diferentes edades del niño y cuando se realizan los controles odontológicos habituales en la infancia.
+
+
 
 11) Realice una línea de tiempo, para mujeres y hombres, en relación a eventos normales de la pubertad.
 
+
+
 12) Mencione qué evaluaciones puede hacer en el examen físico para pesquisar patologías ortopédicas en el niño (escoliosis, pie plano y desviaciones del eje de las extremidades inferiores), cuando realizarlas y cuando son patológicas
+
+
 
 13) En relación a las evaluaciones oftalmológicas durante el control sano, mencione:
  - Que nombres tienen
@@ -536,6 +584,56 @@ font-style:normal'>Vacunación 2023</h1>
  - Diagnóstico
  - Tratamiento
  - Complicaciones
+
+Algoritmos AEPAP
+
+Exantemas purpúrico-petequiales:
+![purpurico_petequiales](purpurico_petequiales.png)
+
+
+Eritematomaculopapulares https://algoritmos.aepap.org/algoritmo/18/exantemas-maculopapulosos :
+
+Los exantemas eritematomaculopapulosos se caracterizan por un rash cutáneo eritematoso, máculas planas coloreadas casi siempre eritematosas y/o pápulas sobreelevadas. La lesión elemental predominante puede ser: mácula (lesión plana caracterizada por cambio de coloración), pápula (elevación circunscrita de la piel con un diámetro inferior a 10 mm, si es mayor de 1 cm se denomina placa), eritema o eritrodermia (enrojecimiento inflamatorio de grandes zonas o la totalidad de la piel), habón (pápulas o placas rosa pálido edematosas que en ocasiones se unen formando lesiones anulares o serpiginosas con evolución cambiante, duran < 24 h en una localización). En general son manifestaciones cutáneas de aparición brusca. Constituyen el grupo más amplio de las enfermedades exantemáticas. Acompañan a muchas enfermedades, la mayoría infecciosas de origen viral y autolimitadas. Otras causas: bacterias, Rickettsias, fármacos, paravirales, enfermedades sistémicas1. Algunas entidades coexisten con lesiones vesiculosas y/o petequiales, por lo que se describen también en los algoritmos respectivos.
+
+
+![maculopapular aepap](maculopapular.png)
+
+![diferencial maculopapular](diferencial_maculopapular.png)
+
+Notas:
+
+Enterovirus (Coxsackie, Echovirus): exantemas maculosos o maculopapulosos que pueden afectar a palmas y plantas y son concomitante con la fiebre. Son la causa más frecuente de fiebre sin foco en niños menores de 2 años. Pueden asociar herpangina, manifestaciones digestivas, meningismo, mialgias, miopericarditis, aunque la forma más habitual es enfermedad febril inespecífica
+
+Enfermedad de Kawasaki criterios: 
+<b><span style="color:#3b528b">Fiebre</span></b> > 5 días + 4 de 5:
+<ol>
+    <li>Inyección <b><span style="color:#3b528b">conjuntival</span></b> bilateral sin secreción</li>
+    <li>Alteración de la <b><span style="color:#3b528b">boca</span></b>: grietas en labios, enantema, lengua aframbuesada</li>
+    <li>Alteraciones de <b><span style="color:#3b528b">pies y manos</span></b>: eritema palmoplantar, edema duro de dorso de manos y pies</li>
+    <li><b><span style="color:#3b528b">Exantema</span></b> polimorfo y cambiante (intenso en periné en lactantes)</li>
+    <li><b><span style="color:#3b528b">Adenopatía</span></b> cervical > 1,5cm</li>
+    <li>Si hay lesión coronaria, se aceptan menos de 4 criterios.</li>
+</ol>
+
+Enfermedad de Kawasaki incompleta (hasta en 10-15% de los niños, sobre todo lactantes pequeños): <b><span style="color:#7707aa">fiebre</span></b> >5 días + 2-3 criterios <b><span style="color:#7707aa">clínicos</span></b> + <b><span style="color:#7707aa">PCR > 30 mg/l y/o VSG > 40 mm/h</span></b> más
+Al menos 3 criterios de laboratorio: 
+<ol>
+    <li>anemia, </li>
+    <li>plaquetas > 450000, </li>
+    <li>leucocitos ≥15000/mm, </li>
+    <li>aumento GPT, </li>
+    <li>albumina ≤3g/dl, </li>
+    <li>piuria estéril.</li>
+</ol>
+
+Transmitidos por vectores
+![exantemas_vectores](exantemas_vectores.png)
+
+
+Vesículo-ampollosos
+![vesiculo_ampollosos](vesiculo_ampollosos.png)
+
+![herpes](herpes.png)
 
 15) Indique el manejo ambulatorio de un paciente de:
  - 3 años con otitis media aguda
