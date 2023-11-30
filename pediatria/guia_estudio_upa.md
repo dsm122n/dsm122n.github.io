@@ -36,7 +36,7 @@ Niño:
 - Favorece el desarrollo <b><span style="color:#5ec962">intelectual</span></b>.
 - Beneficios relacionados con el desarrollo del <b><span style="color:#5ec962">vínculo</span></b>
 - Disminuye riesgo de <b><span style="color:#5ec962">enterocolitis necrotizante</span></b>
-- Disminuye riesgo de <b><span style="color:#5ec962">muerte súbita</span></b> col
+- Disminuye riesgo de <b><span style="color:#5ec962">muerte súbita</span></b>
 
 Madre:
 - Reduce la probabilidad de desarrollar <b><span style="color:#5ec962">cáncer de mamas</span></b> premenopáusico y de <b><span style="color:#5ec962">ovarios</span></b>
@@ -533,6 +533,8 @@ https://sochinf.cl/recomendaciones-para-la-puesta-al-dia-de-calendarios-de-vacun
 Rotavirus (en lactantes <6 meses, ambas son orales): 
 - Rotarix (monovalente, virus atenuado): dos dosis--> 2 y 4 meses. Intervalo mínimo 4 semanas
 - Rotateq (polivalente, virus atenuado): tres dosis--> 2, 4 y 6 meses
+
+- varicela, Meningitis buscar desde cuando y a quienes se podría recomendar
 
 9) En relación a cada una de las vacunas PNI indique:
 - Tipo de vacuna
