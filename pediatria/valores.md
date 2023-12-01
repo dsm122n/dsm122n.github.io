@@ -97,3 +97,29 @@ Referencia:
 http://www.elgipi.es/pdf/ECG_pediatrico_4ed.pdf
 
 ![ecg_ondas](ecg_ondas.png)
+
+# LCR
+
+## Valores normales
+
+|         	    | Leucocitos/μl         | Proteínas (mg/dl) 	| Glucosa (mg/dl)| 
+|---------------|-----------------------|-----------------------|----------------|
+| Prematuros    | 0–23 (PMN > 40%-60%) 	| 45–200 	            | 30–100 |
+| RNT < 7 días 	| 0–20 (PMN > 50%-60%) 	| 20–140 	            | 35–80 |
+| RNT 7–28 días | 0–20 (PMN > 20%) 	    | 15–100 	            | 40–80 |
+| RNT > 1 mes 	| 0–6 (PMN 0%) 	        | 10–45 	            | 40–80 |
+
+## en patologías específicas
+
+| 	            | Leucocitos/μl 	        |   Proteínas (mg/dl) 	        | Glucosa (mg/dl)|
+|---------------|-----------------------|-------------------------------|----------------|
+| Bacteriana 	 |50–30.000 (PMN) 	        |> 100 	                        |< 40  |
+| Viral 	|< 500 linfocitos 	            |< 100 	                | Normal |
+| Tuberculosa 	|25–100 linfocitos 	        |> 100 	                |< 40  |
+| Hongos 	|50–500 linfocitos 	        |> 100 	                |Normal o < 40  |
+| Herpética 	|0–500 linfocitosHasta 500 hematíes 	|60–200 	                |Normal o < 40  |
+| Absceso cerebral 	|100–200 linfocitos/PMN 	|> 100 	                |Normal  |
+| Válvula de derivación 	|> 50 (PMN) 	|> 100 	                |Normal o < 40  |
+
+
+Pueden observarse < 500 leucocitos/μl en meningitis grave por neumococoEn meningitis virales inicialmente pueden predominar los PMNHasta un 50% de meningitis herpéticas tienen hematíes en el LCR
