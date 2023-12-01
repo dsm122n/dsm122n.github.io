@@ -660,7 +660,9 @@ Lo ideal es consumir **4 comidas** establecidas en el día: desayuno, almuerzo, 
 ## Enfermedad de kawasaki
 ![kawasaki](image.png)
 
+## VIH en pediatría
 
+![tto_profilaxis_ped_vih](tto_profilaxis_ped_vih.png)
 
 # Neumología
 Infiltrado perihiliar + Banda presidencial en ADV RxTx

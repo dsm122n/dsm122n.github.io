@@ -117,7 +117,7 @@ http://www.elgipi.es/pdf/ECG_pediatrico_4ed.pdf
 | Viral 	|< 500 linfocitos 	            |< 100 	                | Normal |
 | Tuberculosa 	|25–100 linfocitos 	        |> 100 	                |< 40  |
 | Hongos 	|50–500 linfocitos 	        |> 100 	                |Normal o < 40  |
-| Herpética 	|0–500 linfocitosHasta 500 hematíes 	|60–200 	                |Normal o < 40  |
+| Herpética 	|0–500 linfocitos Hasta 500 hematíes 	|60–200 	                |Normal o < 40  |
 | Absceso cerebral 	|100–200 linfocitos/PMN 	|> 100 	                |Normal  |
 | Válvula de derivación 	|> 50 (PMN) 	|> 100 	                |Normal o < 40  |
 
