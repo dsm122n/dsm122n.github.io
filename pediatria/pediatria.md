@@ -712,10 +712,30 @@ A modo general:
 - HVD --> elevación apex
 - HVI --> crecimiento longitudinal
 
-# Curso Emergencias pediátricas
+## Soplos
+Soplo inocente
 
-## Reanimación básica y obstrucción de vía aerea por cuerpo extraño (OVACE)
+- Soplos no holosistólicos 
+- Poco intensos (≤ Grado III) 
+- Segundo ruido cardiaco (R2) normal
+- Disminuyen intensidad con maniobra de Valsalva
+- Varían con cambios de posición
+- Poca o sin irradiación
 
-- Principal causa PCR en pediatría --> insuf respiratoria => mayor enfoque en eso
-- Si respiración anormal: apertura vía aerea con frente-mentón, 5 ventilaciones de rescate --> si no responde, compresiones 15:2 100-120 lpm (30:2 si estamos solos para menor fatiga)
-- estándares calidad: compresión 1/3 del tórax, descomprimir totalmente
+
+Soplo patológico
+
+- Holosistólico o diastólico 
+- Intensidad mayor a III (frémito)
+- Intensidad máxima en borde paraesternal izquierdo superior
+- R2 anormal (amplio y fijo o único)
+- Click 
+- No varían con cambio de posición
+- Presencia de S3* y/o S4
+
+
+# Hemato-Onco
+
+Dx clínico de alteraciones hemostasia primaria vs secundaria 
+
+![dx_alt_hemostasia](dx_alt_hemostasia.png)

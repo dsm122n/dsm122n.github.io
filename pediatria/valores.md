@@ -93,5 +93,7 @@ Bloqueo completo de rama izquierda:
 - Desviación del eje a la izquierda
 
 
+Referencia:
+http://www.elgipi.es/pdf/ECG_pediatrico_4ed.pdf
 
 ![ecg_ondas](ecg_ondas.png)
