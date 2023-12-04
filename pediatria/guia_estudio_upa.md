@@ -1,5 +1,6 @@
 # Guía de Estudio 2023: Supervisión de Salud y Morbilidad
 
+## Objetivos programa de supervisión de salud del niño
 1) Mencione cuales son los objetivos del programa de supervisión de salud del niño y a que edades se realiza.
 
 Objetivos:
@@ -12,6 +13,7 @@ Objetivos:
 
 ![edades_ctrls_superv](edades_ctrls_superv.png)
 
+## esquema control sano
 2) Realice un esquema de control sano, desde recién nacido hasta los 6 años, mencionando las siguientes características:
 Hitos del desarrollo psicomotor
 Incremento de peso y talla
@@ -24,8 +26,8 @@ Tips de estimulación
  En relación al control sano del recién nacido, mencione los cuidados y hábitos de higiene que se deben recomendar. Además indique cinco eventos fisiológicos y cinco signos de alarma.
 
 
-
-4) Indique beneficios de la lactancia materna para el niño, para la madre y la familia
+## lactancia materna
+3) Indique beneficios de la lactancia materna para el niño, para la madre y la familia
 
 Niño:
 - Reduce la mortalidad por <b><span style="color:#5ec962">enfermedades infecciosas</span></b>.
@@ -57,8 +59,8 @@ Familia:
 - Ayuda en la planificación familiar
 - Menor riesgo de abuso y negligencia materna 
 
-
-5) Nombre en cinco pasos la:
+## técnicas de lactancia materna
+4) Nombre en cinco pasos la:
 - Técnica adecuada de lactancia materna
 
 1° Procurar estar en <b><span style="color:#5ec962">lugar tranquilo, tibio y agradable adoptando una posición cómoda</span></b> y segura. Para saber si la posición es adecuada, la cara del bebe frente al pecho (no ladeada), el cuerpo del bebe debe estar siempre alineado (su oreja, hombro y cadera siguen una misma línea imaginaria y su cabeza sigue la dirección del pecho). Mirar al niño a los ojos mientras amamanta, ya que puede ser un momento de profunda comunicación entre madre e hijo
@@ -91,7 +93,8 @@ PAra conseguir concentración de 13-14% por lo general se añade 1 medida por ca
 
 El volumen indicado de fórmula varía de acuerdo con la edad y peso del niño o niña, iniciándose la alimentación con aproximadamente 60 ml por vez en los primeros días, para llegar aproximadamente a 200 ml por vez a los cinco meses, utilizando el cálculo aproximado de 140 cc-160 cc x kg de peso x día.
 
-6) En relación a suplementación de hierro y vitamina D, indique:
+## suplementación hierro y VitD
+5) En relación a suplementación de hierro y vitamina D, indique:
  - Desde y hasta que edad está recomendada
  - Dosis en mg o UI
  - Dos presentaciones comerciales y a cuantas gotas corresponde la dosis recomendada
@@ -103,25 +106,18 @@ Vit D 400 UI/día desde el nacimiento hasta los 12 meses.
 Zinc: Si RNPT en los casos de alimentación con lactancia materna exclusiva, suplementar con 1 mg/kg/día, desde el alta de la neonatología hasta el inicio de la alimentación complementaria. Indicar a la familia que el Zinc se puede mezclar con las Vitaminas, pero no con el hierro. Por lo que deben ser administradas en momentos diferentes del día.
 
 
+Hierro: 
+- Cheltin 6 mg/ml, 20 gotas = 1 ml (1 gota = 0.3 mg)
+- Ferrigot 125 mg/ml, 25 gotas = 1 ml (1 gota = 5 mg)
+- Maltofer 50 mg/ml, 20 gotas = 1 ml (1 gota = 2.5 mg)
 
+Vitamina D:
+- VITDE 800 UI/4 gotas
+- InforVIT 800 UI/4 gotas
+- Vitamin life 800 UI/4 gotas
 
-falta presentaciones falta presentaciones falta presentaciones falta presentaciones falta presentaciones
-falta presentaciones falta presentaciones falta presentaciones falta presentaciones falta presentaciones
-falta presentaciones falta presentaciones falta presentaciones falta presentaciones falta presentaciones
-falta presentaciones falta presentaciones falta presentaciones falta presentaciones falta presentaciones
-falta presentaciones falta presentaciones falta presentaciones falta presentaciones falta presentaciones
-falta presentaciones falta presentaciones falta presentaciones falta presentaciones falta presentaciones
-falta presentaciones falta presentaciones falta presentaciones falta presentaciones falta presentaciones
-falta presentaciones falta presentaciones falta presentaciones falta presentaciones falta presentaciones
-falta presentaciones falta presentaciones falta presentaciones falta presentaciones falta presentaciones
-falta presentaciones falta presentaciones falta presentaciones falta presentaciones falta presentaciones
-
-
-
-
-
-
-7) Mencione como se realiza el diagnostico nutricional integrado en el niño y cuáles son los parámetros que se utilizan en las diferentes edades.
+## diagnóstico nutricional
+6) Mencione como se realiza el diagnostico nutricional integrado en el niño y cuáles son los parámetros que se utilizan en las diferentes edades.
 ![dg_nutri](dg_nutri.png)
 
 Utilizar edad corregida según esto: 
@@ -129,7 +125,9 @@ Utilizar edad corregida según esto:
 
 ![v_crecimiento_prematuros](v_crecimiento_prematuros.png)
 
-8) Realice el calendario de vacunas PNI y otro para las siguientes vacunas extra PNI (si están incluidas en el PNI especificar desde qué año y a qué edad se deberían indicar):
+
+## Vacunas
+7) Realice el calendario de vacunas PNI y otro para las siguientes vacunas extra PNI (si están incluidas en el PNI especificar desde qué año y a qué edad se deberían indicar):
  - Rotavirus 
  - Hepatitis A
  - Varicela
@@ -556,14 +554,8 @@ Rotavirus (en lactantes <6 meses, ambas son orales):
 - Rotarix (monovalente, virus atenuado): dos dosis--> 2 y 4 meses. Intervalo mínimo 4 semanas
 - Rotateq (polivalente, virus atenuado): tres dosis--> 2, 4 y 6 meses
 
-- varicela, Meningitis buscar desde cuando y a quienes se podría recomendar
-- varicela, Meningitis buscar desde cuando y a quienes se podría recomendar
-- varicela, Meningitis buscar desde cuando y a quienes se podría recomendar
-- varicela, Meningitis buscar desde cuando y a quienes se podría recomendar
-- varicela, Meningitis buscar desde cuando y a quienes se podría recomendar
-- varicela, Meningitis buscar desde cuando y a quienes se podría recomendar
-
-9) En relación a cada una de las vacunas PNI indique:
+## vacunas PNI
+8) En relación a cada una de las vacunas PNI indique:
 - Tipo de vacuna
 - Vía y dosis
 - Efectividad y/o Inmunogenicidad
@@ -587,8 +579,8 @@ Rotavirus (en lactantes <6 meses, ambas son orales):
 | vph | inactivada |
 | fiebre amarilla | virus vivos atenuados |
 
-
-10) Mencione cómo se realiza la higiene oral a las diferentes edades del niño y cuando se realizan los controles odontológicos habituales en la infancia.
+## higiene oral
+9) Mencione cómo se realiza la higiene oral a las diferentes edades del niño y cuando se realizan los controles odontológicos habituales en la infancia.
 
 - RN hasta erupción primer diente, limpieza con dedal de silicona o gasa limpia húmeda sin pasta de diente 1 vez al día. Higiene de encías, paladar y lengua. 
 - Desde erupción de primer diente hasta los 2 años: cepillado con pasta de diente fluorada (1000 a 1500 ppm) al menos 2 veces al día (mañana y noche) con cepillo de cerdas suaves y pequeño. Al final escupir pero no es necesario enjuagar. El cepillado más importante es antes de acostarse en la noche. Cantidad pasta: 1 grano de arroz.
@@ -598,17 +590,24 @@ Controles odontológicos:
 - Control con enfoque de riesgo odontológico (CERO): 6m, 12m, 2a, 3a, ... anualmente hasta los 9a
 - GES salud oral integral: a los 6 años
 
-11) Realice una línea de tiempo, para mujeres y hombres, en relación a eventos normales de la pubertad.
+## pubertad
+10) Realice una línea de tiempo, para mujeres y hombres, en relación a eventos normales de la pubertad.
 
 ![pubertad_mujer](pubertad_mujer.png)
 ![pubertad_hombre](pubertad_hombre.png)
 
+## ortopedia
+11) Mencione qué evaluaciones puede hacer en el examen físico para pesquisar patologías ortopédicas en el niño (escoliosis, pie plano y desviaciones del eje de las extremidades inferiores), cuando realizarlas y cuando son patológicas
 
-12) Mencione qué evaluaciones puede hacer en el examen físico para pesquisar patologías ortopédicas en el niño (escoliosis, pie plano y desviaciones del eje de las extremidades inferiores), cuando realizarlas y cuando son patológicas
+| Patología | Edad | Evaluación |
+|------------|------|-----------|
+| escoliosis | desde 5 a 6 años | maniobra de Adams |
+| pie plano | desde los 3 años | extensión dorsal del primer ortejo del pie y maniobra apoyo del pie en puntillas (apoyando metatarsos y elevando talón). Si no se forma arco es pie plano rígido (patológico) |
+| genu valgo | hasta 10 años es fisiológico | se considera **patológica** cuando: persiste en la adolescencia; es asimétrica, la distancia entre los pies (intermaleolar) es mayor a 10 cm. o si se encuentra asociado a otras condiciones (antecedentes de patología ósea o traumatismos). |
+| genu varo | hasta 2 años es fisiológico | se considera **patológica** cuando: >2 años, se incrementa en vez de disminuir; es asimétrico; la distancia intercondílea (entre rodillas) es demasiado amplia (mayor a 5 cm); o está acompañando de otras patologías óseas como raquitismo o displasias.| 
 
-
-
-13) En relación a las evaluaciones oftalmológicas durante el control sano, mencione:
+## oftalmología
+12) En relación a las evaluaciones oftalmológicas durante el control sano, mencione:
  - Que nombres tienen
  - A qué edad se realizan
  - Qué patologías buscan descartar
@@ -632,6 +631,21 @@ Controles odontológicos:
 	<td> RN - 10 años </td>
 	<td> estrabismo </td>
 </tr>
+<tr>
+	<td> Cover test (sobre todo cuando quedan dudas con test de hirschberg)</td>
+	<td> RN - 10 años </td>
+	<td> estrabismo </td>
+</tr>
+<tr>
+	<td> <b>fijación visual</b> desde las 4-6 semanas, si niño no colabora para Snellen</td>
+	<td> por lo general < 3 años </td>
+	<td> Agudeza visual, vicios de refracción </td>
+</tr>
+<tr>
+	<td> tabla E de Snellen	</td>
+	<td> 3 - 9 años (en > 6 años se podría utilizar tabla de Snellen)</td>
+	<td> agudeza visual </td>
+</tr>
 </tbody>
 </table>
 
@@ -642,7 +656,8 @@ Notas estrabismo:
 - Estrabismo fisiológico: en los menores de seis meses, puede existir estrabismo intermitente asociado con inmadurez del sistema de alineamiento ocular. Los/las niños/as que presenten estrabismo intermitente antes de los seis meses deben ser revaluados a los seis meses en el control de salud. En caso de persistir con estrabismo a esta edad deben ser derivados a oftalmólogo. Si el/la niño/a menor de seis meses tiene estrabismo constante o estrabismo asociado a alteración del rojo pupilar, debe ser derivado al oftalmólogo.
 - Pseudoestrabismo: es la apariencia de estrabismo existiendo un alineamiento normal. Su forma más frecuente es la pseudoendotropía. Se diagnostica con un reflejo corneal de luz centrado en ambas pupilas, ratificado con un Cover Test o un Cover Test con objeto de fijación.
 
-14) Realice un cuadro comparativo para las enfermedades exantemáticas clásicas, mencionando las siguientes características:
+## Exantemas
+13) Realice un cuadro comparativo para las enfermedades exantemáticas clásicas, mencionando las siguientes características:
  - Agente causal
  - Período de incubación
  - Características del exantema
@@ -710,7 +725,8 @@ Vesículo-ampollosos
 
 ![herpes](herpes.png)
 
-15) Indique el manejo ambulatorio de un paciente de:
+## morbilidad IRA
+14) Indique el manejo ambulatorio de un paciente de:
  - 3 años con <b><span style="color:#3b528b">otitis media aguda</span></b>(OMA): 
 	- **Dolor**: <b><span style="color:#5ec962">Paracetamol</span></b> 10-15 mg/kg c/6-8h o <b><span style="color:#5ec962">ibuprofeno</span></b> 5-10 mg/kg c/6-8h
 	- **Antibiótico**: Más frecuente por S. pneumoniae o H. influenzae. Duración 10 días si <2 años, 7 días si >2 años, 5 días si >6 años. **Inicio inmediato** si: < 6 meses, 6-24 meses con otitis bilateral, OMA con otorrea, OMA severa (fiebre >39°C,  48h evolución, otalgia leve-moderada), inmunodeficiencia, malformación craneofacial. **Observar sin ATB** con control en 48 a 72 h si: 6-24 meses con OMA unilateral, OMA leve, >24 meses leve.
@@ -788,10 +804,22 @@ Disfonía,  estridor,  tiraje  intenso,  palidez,  <b><span style="color:#7707aa
 
 ![nac_agentes_edad](nac_agentes_edad.png)
 
-16) Mencione cinco causas de angina o faringoamigdalitis en el niño y qué elementos son relevantes al examen físico para poder diagnosticarlas
+## angina
+15) Mencione cinco causas de angina o faringoamigdalitis en el niño y qué elementos son relevantes al examen físico para poder diagnosticarlas
+
+- Faringoamigdalitis estreptocócica
+
+- Mononucleosis infecciosa
+
+- Difteria
+
+- Estomatitis por enterovirus
+
+- 
 
 
-17) Escriba el Score de Tal y mencione el tratamiento e indicaciones para un niño de 8 meses con SBO leve.
+## SBO
+16) Escriba el Score de Tal y mencione el tratamiento e indicaciones para un niño de 8 meses con SBO leve.
 
 ![score_tal](score_tal.png)
 - <=5 puntos: SBO leve, manejo ambulatorio
@@ -813,13 +841,71 @@ Tratamiento SBO leve:
 
 ![tto SBO según score de tal y evol](tto_sbo_tal.png)
 
-18) Indique el tratamiento para un niño de:
- - 6 años con pediculosis
- - 3 años con sarna
- - 10 años con oxiuros
 
-19) Indique clínica y tratamiento de una dermatitis del pañal irritativa, por hongos y de una dermatitis seborreica.
+## Parasitosis
+17) Indique el tratamiento para un niño de:
+ - 6 años con pediculosis: Extracción mecánica con peines, Química (Dimeticona o Permetrina), vinagre en último enjuague para despegar liendres, tratamiento familiar y se repite a los 7 días. Luego de aplicación de permetrina, no lavar cabello por 24 a 48 h.
+ - 3 años con sarna: Ivermectina oral en 1 dosis, con excepción de lactantes y embarazadas que se usa exfoliante como Vaselina azufrada.
+ - 10 años con oxiuros: Aseo zona, aseo hogar, Mebendazol 100 mg/albendazol 10 mg/kg (máx 400 mg) [1 dosis, luego repetir], tratamiento familiar, repetir a las 3 semanas
 
-20) Mencione prevalencia de sobrepeso y obesidad infantil en Chile, factores de riesgo, etiologías primarias y secundarias y manejo en atención primaria.
 
-21) Imprima una radiografía de caderas y realice todas las líneas y ángulos necesarios para evaluar y descartar patología luxante de cadera.
+## dermatitis
+18) Indique clínica y tratamiento de una dermatitis del pañal irritativa, por hongos y de una dermatitis seborreica.
+- Dermatitis pañal irritativa:
+	- eritema, brillante, confluente y acentuado en zonas convexas (por la fricción). Se localiza en zonas más prominentes (porque tienen un mayor contacto con el pañal) o en forma de “W”. Respeta pliegues. Es generalmente asintomático.
+	- Cambiar pañales con orina/deposiciones, lavar con agua tibia sin frotar piel, exponer área al aire, usar cremas barrera como pasta lassar (óxido de zinc, lanolina, almidón, vaselina). Si severa, hidrocortisona 1% 1 a 2 veces al día por 3 a 5 días
+- Dermatitis pañal por hongos (candida):
+	- eritema rojo intenso y brillante, que compromete los pliegues, a veces con descamación, asociado a pápulas y pústulas satélites en la periferia. El borde se encuentra levemente solevantado y está bien delimitado. Es sintomática, el lactante llora cuando orina. Se expande más allá de la zona del pañal. Considerar si falla tratamiento dermatitis irritativa. 
+	- Tto idem dermatitis pañal irritativa asociado a: 
+		- nistatina, clotrimazol, miconazol o ciclopirox 3 veces al día por 10 días
+		- muy inflamatoria asociar hidrocortisona 1% 1 a 2 veces al día por 3 a 5 días
+- Dermatitis seborreica:
+	- Erupción descamativa, costrosa y eritematosa que se asienta en las áreas ricas en glándulas sebáceas. Bien delimitadas, no pican y se localizan en el cuero cabelludo, frente, bordes tarsianos de los párpados, orejas y pliegues nasolabiales. Por lo general se resuelven durante el primer año de vida. Dx con dermatitis atópica: dermatitis seborréica tiene una descamación grasa rojo-anaranjada y tiene distribución característica.
+	- Tto: Educación y tranquilizar a los padres, humectación, otros (corticoides tópicos, antifúngicos, vaselina). Es autoresolutivo, no deja secuelas.
+
+## obesidad
+19) Mencione prevalencia de sobrepeso y obesidad infantil en Chile, factores de riesgo, etiologías primarias y secundarias y manejo en atención primaria.
+
+![obesidad_chile_2014](obesidad_chile_2014.png)
+
+Etiologías:
+![causas_obesidad](causas_obesidad.png)
+
+![causas_obesidad_2](causas_obesidad_2.png)
+
+![causas_obesidad_3](causas_obesidad_3.png)
+
+Factores de riesgo:
+- dieta: alto consumo de grasas, azúcares, carbohidratos refinados, bajo consumo de frutas y verduras
+- sedentarismo
+- factores genéticos
+- factores psicosociales: estrés, depresión, ansiedad, baja autoestima, problemas familiares
+
+![fr_obesidad](fr_obesidad.png)
+
+
+Manejo en APS no farmacológico 
+
+**Cambios conductuales**:
+- Automonitoreo: porciones de comida y actividad física realizada. Esto ayuda al paciente y a la familia a evaluar qué factores ayudan a aumentar de peso. Es muy importante el feedback que realice el médico para contribuir a los cambios.
+- Control de estímulos: reducir comportamientos no saludables (alimentos no saludables, TV en la pieza) y establecer hábitos saludables (consumo de frutas y verduras).
+- Establecer objetivos de conductas saludables, más que “de bajar de peso”. Estos objetivos debieran ser específicos, medibles, alcanzables, realistas, y ajustarse a tiempos acotados.
+- Refuerzo positivo: Recompensa debe ser acordada entre el niño y sus padres. Idealmente premiarlo con actividades más que con juguetes. Evitar premiarlos con comida.
+
+**Involucrar a la familia**: se sugiere evitar “tentar” al niño con alimentos no saludables.
+
+**Centrado en el paciente**: debe ser colaborativo más que prescriptivo. Se debe comprometer a la familia con cambiar conductas específicas. Siempre considerar al paciente. Esto asegura que la familia y paciente tengan confianza en el cambio y se comprometan a éste. Debe elegir sus preferencias, en el contexto de cosas saludables.
+
+**Entrevista motivacional**: Siempre se debe tener en consideración la edad del niño para definir su protagonismo en la intervención; mientras mas pequeños son los niños es mayor el rol protagónico de los padres, situación que se invierte en la adolescencia.
+
+## displasia de cadera
+20) Imprima una radiografía de caderas y realice todas las líneas y ángulos necesarios para evaluar y descartar patología luxante de cadera.
+
+![rx_lux_cadera](rx_lux_cadera.png)
+
+Lineas:
+- Línea de Hilgenreiner: línea horizontal que une la parte superior de los cartílagos triradiados de ambas caderas (Y - Y’).
+- Línea de Perkins: línea perpendicular a la línea de Hilgenreiner, situada en el borde lateral del acetábulo. Ambas dividen la cadera en cuatro cuadrantes (de Ombredanne o de Putti). La cabeza femoral debe estar en cuadrante inferomedial (la cabeza femoral puede aparecer en forma tardía, hasta los seis meses, y aunque este ausente, la radiografía puede interpretarse correctamente). En caso de luxación suele estar en cuadrante superior externo (P & P’).
+- Línea tangente al acetábulo óseo: partiendo del cartílago triradiado (C & C’).
+Interpretación ángulos y distancias:
+- Ángulo acetabular, se forma por la intersección de las líneas de Hilgenreiner y de tangente al acetábulo. Este ángulo al control radiológico de los 3 meses debe ser menor a 30°
