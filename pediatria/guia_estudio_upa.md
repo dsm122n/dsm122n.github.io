@@ -1,16 +1,17 @@
 # Guía de Estudio 2023: Supervisión de Salud y Morbilidad
 
 1) Mencione cuales son los objetivos del programa de supervisión de salud del niño y a que edades se realiza.
-    
-	- **Evaluar** la salud *integral*.
-    - <b><span style="color:#5ec962">Acompañar la trayectoria </span></b>del proceso de crecimiento y desarrollo individual.
-    - Promover hábitos de <b><span style="color:#5ec962">vida saludables</span></b>.
-    - <b><span style="color:#7707aa">Prevenir</span></b> enfermedades o accidentes.
-    - <b><span style="color:#7707aa">Detectar</span></b> en forma temprana y derivar oportunamente, situaciones que puedan afectar la salud y el desarrollo.
-    - Activar las <b><span style="color:#5ec962">redes</span></b> y realizar <b><span style="color:#5ec962">seguimiento</span></b> en caso de detectar <b><span style="color:#7707aa">factores de riesgo</span></b>.
-    Edades:
-    - Diada (antes de los 10 días, ideal 48 a 72 horas post alta): realizado por matron/a o médico/a
-    - 
+
+Objetivos:
+- **Evaluar** la salud *integral*.
+- <b><span style="color:#5ec962">Acompañar la trayectoria </span></b>del proceso de crecimiento y desarrollo individual.
+- Promover hábitos de <b><span style="color:#5ec962">vida saludables</span></b>.
+- <b><span style="color:#7707aa">Prevenir</span></b> enfermedades o accidentes.
+- <b><span style="color:#7707aa">Detectar</span></b> en forma temprana y derivar oportunamente, situaciones que puedan afectar la salud y el desarrollo.
+- Activar las <b><span style="color:#5ec962">redes</span></b> y realizar <b><span style="color:#5ec962">seguimiento</span></b> en caso de detectar <b><span style="color:#7707aa">factores de riesgo</span></b>.
+
+Edades:
+- Diada (antes de los 10 días, ideal 48 a 72 horas post alta): realizado por matron/a o médico/a
 
 2) Realice un esquema de control sano, desde recién nacido hasta los 6 años, mencionando las siguientes características:
 Hitos del desarrollo psicomotor
@@ -718,16 +719,37 @@ Disfonía,  estridor,  tiraje  intenso,  palidez,  <b><span style="color:#7707aa
 
  - 5 años con <b><span style="color:#3b528b">neumonía lobar</span></b>:
 	- Medidas generales: hidratación, aseo nasal, PCT/aines si dolor/fiebre, broncodilatadores si obstrucción bronquial, Kine respiratoria.
-	- ATB empírico: 
- 
-	- Educación sobre medidas de prevención de infecciones respiratorias
+	- ATB empírico: neumonía lobar en 5 años, agente más probable S. pneumoniae: <b><span style="color:#5ec962">Amoxicilina 80-100 mg/kg/día en dos dosis por 7 días (max 2 g/día)</span></b>
+		- Si neumonía atípica o alergia a betalactámicos, usar macrólidos: <b><span style="color:#5ec962">Azitromicina  10  mg/kg/día  </span></b>en  una  dosis  diaria (Dosis máxima 500 mg /día) por  5  días; <b><span style="color:#5ec962">Claritromicina 15 mg/kg/día </span></b> cada 12 horas por 10 días (dosis máxima 1 gr /día); <b><span style="color:#5ec962">Eritromicina 50 mg/kg/día</span></b> dividido en 4 dosis, por 10 días (Dosis máxima 2 gr /día).
+ 	- Educación sobre medidas de prevención de infecciones respiratorias
 	- Educación a los cuidadores respecto de la evolución esperable de la enfermedad (afebril tras 48 -72 horas de tratamiento y mejoría del estado general). 
 
 ![nac_agentes_edad](nac_agentes_edad.png)
 
 16) Mencione cinco causas de angina o faringoamigdalitis en el niño y qué elementos son relevantes al examen físico para poder diagnosticarlas
 
+
 17) Escriba el Score de Tal y mencione el tratamiento e indicaciones para un niño de 8 meses con SBO leve.
+
+![score_tal](score_tal.png)
+- <=5 puntos: SBO leve, manejo ambulatorio
+- 6-8 puntos: SBO moderado, manejo ambulatorio
+- \>= 9 puntos: SBO grave, manejo hospitalario
+
+Medidas generales:
+- Posición semisentada
+- PCT si fiebre o dolor
+- Educación respecto a historia natural (disminución síntomas después de 48h, resolución en 1 semana)
+- Educación prevención inf respi
+- Entrenar en uso de aerocámara
+- Derivación a programa de enfermedades respiratorias infantiles si ha presentado 3 o más cuadros obstructivos en 1 año
+
+Tratamiento SBO leve: 
+- Salbutamol 2 puff cada 4-6 hrs por 5-7 días con aerocámara. - En caso necesario control al día siguiente en sala IRA. 
+- Kinesiterapia respiratoria. 
+- Derivar al programa IRA si ha presentado 3 ó más cuadros obstructivos. 
+
+![tto SBO según score de tal y evol](tto_sbo_tal.png)
 
 18) Indique el tratamiento para un niño de:
  - 6 años con pediculosis
@@ -739,8 +761,3 @@ Disfonía,  estridor,  tiraje  intenso,  palidez,  <b><span style="color:#7707aa
 20) Mencione prevalencia de sobrepeso y obesidad infantil en Chile, factores de riesgo, etiologías primarias y secundarias y manejo en atención primaria.
 
 21) Imprima una radiografía de caderas y realice todas las líneas y ángulos necesarios para evaluar y descartar patología luxante de cadera.
-
-
-
-
-
