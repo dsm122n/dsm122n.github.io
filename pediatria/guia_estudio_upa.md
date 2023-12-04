@@ -717,7 +717,13 @@ Disfonía,  estridor,  tiraje  intenso,  palidez,  <b><span style="color:#7707aa
 
 
  - 5 años con <b><span style="color:#3b528b">neumonía lobar</span></b>:
+	- Medidas generales: hidratación, aseo nasal, PCT/aines si dolor/fiebre, broncodilatadores si obstrucción bronquial, Kine respiratoria.
+	- ATB empírico: 
  
+	- Educación sobre medidas de prevención de infecciones respiratorias
+	- Educación a los cuidadores respecto de la evolución esperable de la enfermedad (afebril tras 48 -72 horas de tratamiento y mejoría del estado general). 
+
+![nac_agentes_edad](nac_agentes_edad.png)
 
 16) Mencione cinco causas de angina o faringoamigdalitis en el niño y qué elementos son relevantes al examen físico para poder diagnosticarlas
 
