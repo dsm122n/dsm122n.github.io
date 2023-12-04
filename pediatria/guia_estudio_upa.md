@@ -96,8 +96,38 @@ El volumen indicado de fórmula varía de acuerdo con la edad y peso del niño o
  - Dosis en mg o UI
  - Dos presentaciones comerciales y a cuantas gotas corresponde la dosis recomendada
 
-7) Mencione como se realiza el diagnostico nutricional integrado en el niño y cuáles son los parámetros que se utilizan en las diferentes edades.
+Fe 1 mg/kg/día desde los 4 meses hasta los 12 meses. Si RNPT 2 mg/kg/día desde el alta de neonatología hasta los 12 meses de edad corregida. 
 
+Vit D 400 UI/día desde el nacimiento hasta los 12 meses. 
+
+Zinc: Si RNPT en los casos de alimentación con lactancia materna exclusiva, suplementar con 1 mg/kg/día, desde el alta de la neonatología hasta el inicio de la alimentación complementaria. Indicar a la familia que el Zinc se puede mezclar con las Vitaminas, pero no con el hierro. Por lo que deben ser administradas en momentos diferentes del día.
+
+
+
+
+falta presentaciones falta presentaciones falta presentaciones falta presentaciones falta presentaciones
+falta presentaciones falta presentaciones falta presentaciones falta presentaciones falta presentaciones
+falta presentaciones falta presentaciones falta presentaciones falta presentaciones falta presentaciones
+falta presentaciones falta presentaciones falta presentaciones falta presentaciones falta presentaciones
+falta presentaciones falta presentaciones falta presentaciones falta presentaciones falta presentaciones
+falta presentaciones falta presentaciones falta presentaciones falta presentaciones falta presentaciones
+falta presentaciones falta presentaciones falta presentaciones falta presentaciones falta presentaciones
+falta presentaciones falta presentaciones falta presentaciones falta presentaciones falta presentaciones
+falta presentaciones falta presentaciones falta presentaciones falta presentaciones falta presentaciones
+falta presentaciones falta presentaciones falta presentaciones falta presentaciones falta presentaciones
+
+
+
+
+
+
+7) Mencione como se realiza el diagnostico nutricional integrado en el niño y cuáles son los parámetros que se utilizan en las diferentes edades.
+![dg_nutri](dg_nutri.png)
+
+Utilizar edad corregida según esto: 
+![edad_corregida](edad_corregida.png)
+
+![v_crecimiento_prematuros](v_crecimiento_prematuros.png)
 
 8) Realice el calendario de vacunas PNI y otro para las siguientes vacunas extra PNI (si están incluidas en el PNI especificar desde qué año y a qué edad se deberían indicar):
  - Rotavirus 
@@ -514,10 +544,6 @@ font-style:normal'>Vacunación 2023</h1>
 
 </div>
 
-
-<!----------------------------->
-<!--END OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD-->
-<!----------------------------->
 </body>
 
 </html>
@@ -530,6 +556,11 @@ Rotavirus (en lactantes <6 meses, ambas son orales):
 - Rotarix (monovalente, virus atenuado): dos dosis--> 2 y 4 meses. Intervalo mínimo 4 semanas
 - Rotateq (polivalente, virus atenuado): tres dosis--> 2, 4 y 6 meses
 
+- varicela, Meningitis buscar desde cuando y a quienes se podría recomendar
+- varicela, Meningitis buscar desde cuando y a quienes se podría recomendar
+- varicela, Meningitis buscar desde cuando y a quienes se podría recomendar
+- varicela, Meningitis buscar desde cuando y a quienes se podría recomendar
+- varicela, Meningitis buscar desde cuando y a quienes se podría recomendar
 - varicela, Meningitis buscar desde cuando y a quienes se podría recomendar
 
 9) En relación a cada una de las vacunas PNI indique:
@@ -569,6 +600,8 @@ Controles odontológicos:
 
 11) Realice una línea de tiempo, para mujeres y hombres, en relación a eventos normales de la pubertad.
 
+![pubertad_mujer](pubertad_mujer.png)
+![pubertad_hombre](pubertad_hombre.png)
 
 
 12) Mencione qué evaluaciones puede hacer en el examen físico para pesquisar patologías ortopédicas en el niño (escoliosis, pie plano y desviaciones del eje de las extremidades inferiores), cuando realizarlas y cuando son patológicas
@@ -579,6 +612,35 @@ Controles odontológicos:
  - Que nombres tienen
  - A qué edad se realizan
  - Qué patologías buscan descartar
+
+<table>
+<thead>
+<tr>
+	<th>Prueba</th>
+	<th>Edad</th>
+	<th>Patología a descartar</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+	<td> Test de ojo rojo</td>
+	<td> RN-3 años</td>
+	<td> cataratas congénitas; estrabismo; glaucoma infantil; vicios de refracción; hemorragia vítrea y tumores intraoculares como el retinoblastoma</td>
+</tr>
+<tr>
+	<td> Test de Hirschberg</td>
+	<td> RN - 10 años </td>
+	<td> estrabismo </td>
+</tr>
+</tbody>
+</table>
+
+
+
+Notas estrabismo: 
+- Estrabismo patológico: todo estrabismo permanente, independiente de la edad, y todo estrabismo intermitente, después de los 6 meses de edad. En estos casos se debe derivar a oftalmólogo inmediatamente. 
+- Estrabismo fisiológico: en los menores de seis meses, puede existir estrabismo intermitente asociado con inmadurez del sistema de alineamiento ocular. Los/las niños/as que presenten estrabismo intermitente antes de los seis meses deben ser revaluados a los seis meses en el control de salud. En caso de persistir con estrabismo a esta edad deben ser derivados a oftalmólogo. Si el/la niño/a menor de seis meses tiene estrabismo constante o estrabismo asociado a alteración del rojo pupilar, debe ser derivado al oftalmólogo.
+- Pseudoestrabismo: es la apariencia de estrabismo existiendo un alineamiento normal. Su forma más frecuente es la pseudoendotropía. Se diagnostica con un reflejo corneal de luz centrado en ambas pupilas, ratificado con un Cover Test o un Cover Test con objeto de fijación.
 
 14) Realice un cuadro comparativo para las enfermedades exantemáticas clásicas, mencionando las siguientes características:
  - Agente causal
