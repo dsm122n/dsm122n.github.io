@@ -755,7 +755,7 @@ Evaluación severidad:
 
 | Symptom or sign						| Points |
 |---------------------------------------|--------|
-| Abnormal nasal or postnasal discharge |       |
+| Abnormal nasal or postnasal discharge |        |
 | -	Minimal								| 1      |
 | -	Severe								| 2      |
 | Nasal congestion						| 1      |
@@ -807,15 +807,22 @@ Disfonía,  estridor,  tiraje  intenso,  palidez,  <b><span style="color:#7707aa
 ## angina
 15) Mencione cinco causas de angina o faringoamigdalitis en el niño y qué elementos son relevantes al examen físico para poder diagnosticarlas
 
-- Faringoamigdalitis estreptocócica
+(se describen solo elementos más relevantes de examen físico aparte de la amigdalitis)
+
+- Faringoamigdalitis estreptocócica:
+	- Fiebre > 38°C, exudado faringeo, petequias en paladar, adenitis cervical submandibular. Puede presentar exantema de escarlatina.  
 
 - Mononucleosis infecciosa
+	- Triada **sd mononucleósico** (Fiebre, exudado faringeo, adenopatías cervicales), **(hepato)esplenomegalia**. Adenopatías son muy marcadas, dolorosas y sin inflamación cutánea, siendo más llamativas y abundantes que en amigdalitis estreptocócica. Rash cutáneo maculopapular gatillado por el uso de Amoxicilina cuando hay infección por VEB.
 
-- Difteria
+- Difteria:
+	- blanco grisácea **pseudomembranosa adherente**, adenopatías cervicales prominentes, palidez, halitosis y cursa de manera afebril.
 
-- Estomatitis por enterovirus
+- Estomatitis por enterovirus (herpangina)
+	- Vesículas pequeñas en faringe posterior.
 
-- 
+- Adenovirus
+	- Fiebre faringo-conjuntival (faringitis, fiebre, conjuntivitis). Suele tener exudado
 
 
 ## SBO
