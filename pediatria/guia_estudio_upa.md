@@ -10,8 +10,7 @@ Objetivos:
 - <b><span style="color:#7707aa">Detectar</span></b> en forma temprana y derivar oportunamente, situaciones que puedan afectar la salud y el desarrollo.
 - Activar las <b><span style="color:#5ec962">redes</span></b> y realizar <b><span style="color:#5ec962">seguimiento</span></b> en caso de detectar <b><span style="color:#7707aa">factores de riesgo</span></b>.
 
-Edades:
-- Diada (antes de los 10 días, ideal 48 a 72 horas post alta): realizado por matron/a o médico/a
+![edades_ctrls_superv](edades_ctrls_superv.png)
 
 2) Realice un esquema de control sano, desde recién nacido hasta los 6 años, mencionando las siguientes características:
 Hitos del desarrollo psicomotor
@@ -78,24 +77,19 @@ Familia:
 
 ![posiciones_lm2](posiciones_lm2.png)
 
-- Preparación adecuada de una mamadera
+- Preparación adecuada de una mamadera:
+Ejemplo con Leche Purita + Pro 1 (12 a 23 meses de edad):
+1. Lavar manos y utensilios a utilizar en la preparación del producto
+2. Hervir agua potable y dejar enfriar hasta que esté tibia. Llenar a la mitad un vaso o taza. 
+3. Agregar 5 medidas o 10 cucharaditas rasas de Purita + PRO 1.
+4. Revolver hasta disolver completamente el polvo.
+5. Completar con agua hervida hasta el borde del vaso o taza (200 ml).
 
--------------------------------------------------
--------------------------------------------------
--------------------------------------------------
--------------------------------------------------
--------------------------------------------------
-OJOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-OJOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-OJOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-OJOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
-OJOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO
--------------------------------------------------
--------------------------------------------------
--------------------------------------------------
--------------------------------------------------
--------------------------------------------------
+Para la preparación de las fórmulas de inicio, deben seguirse las instrucciones que estánindicadas en cada envase de producto. En general se consiguen los aportes deseados y la densidad energética diluyéndola entre un 13% - 14% usando la medida incluida en el envase. No requieren adición de ningún otro ingrediente. 
 
+PAra conseguir concentración de 13-14% por lo general se añade 1 medida por cada 30 ml de agua. Ej, FI NAN 1 Pro medida 4.3 g / 30 ml = 14.3%
+
+El volumen indicado de fórmula varía de acuerdo con la edad y peso del niño o niña, iniciándose la alimentación con aproximadamente 60 ml por vez en los primeros días, para llegar aproximadamente a 200 ml por vez a los cinco meses, utilizando el cálculo aproximado de 140 cc-160 cc x kg de peso x día.
 
 6) En relación a suplementación de hierro y vitamina D, indique:
  - Desde y hasta que edad está recomendada
@@ -565,7 +559,13 @@ Rotavirus (en lactantes <6 meses, ambas son orales):
 
 10) Mencione cómo se realiza la higiene oral a las diferentes edades del niño y cuando se realizan los controles odontológicos habituales en la infancia.
 
+- RN hasta erupción primer diente, limpieza con dedal de silicona o gasa limpia húmeda sin pasta de diente 1 vez al día. Higiene de encías, paladar y lengua. 
+- Desde erupción de primer diente hasta los 2 años: cepillado con pasta de diente fluorada (1000 a 1500 ppm) al menos 2 veces al día (mañana y noche) con cepillo de cerdas suaves y pequeño. Al final escupir pero no es necesario enjuagar. El cepillado más importante es antes de acostarse en la noche. Cantidad pasta: 1 grano de arroz.
+- 2 años en adelante: mantener higiene bucal con cepillo de dientes y pasta de diente fluorada mínimo 2 veces al día. Cantidad de pasta aumenta hasta máximo tamaño de 1 arveja. Enfatizar que hasta al rededor de los 7 años los niños no tienen la habilidad de cepillarse solos y que los padres deben supervisar y ayudar. En escolares y adolescentes, se recomienda el uso de hilo dental. 
 
+Controles odontológicos: 
+- Control con enfoque de riesgo odontológico (CERO): 6m, 12m, 2a, 3a, ... anualmente hasta los 9a
+- GES salud oral integral: a los 6 años
 
 11) Realice una línea de tiempo, para mujeres y hombres, en relación a eventos normales de la pubertad.
 
