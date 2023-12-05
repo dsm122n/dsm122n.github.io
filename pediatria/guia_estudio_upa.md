@@ -25,6 +25,55 @@ Tips de estimulación
 
  En relación al control sano del recién nacido, mencione los cuidados y hábitos de higiene que se deben recomendar. Además indique cinco eventos fisiológicos y cinco signos de alarma.
 
+ 
+
+Para desarrollo psicomotor, de 1 a 24 meses se puede utilizar la escala de evaluación del desarrollo psicomotor adjunta a continuación
+
+![EEDP_1](EEDP_1.png)
+
+![EEDP_2](EEDP_2.png)
+
+Para evaluar desarrollo psicomotor de 2 a 5 años se puede utilizar el test de desarrollo psicomotor (TEPSI). Se obtiene un puntaje total que se transforma a un "puntaje T" según la edad del niño. Un puntaje T < 40 indica riesgo de retraso en el desarrollo psicomotor, < 30 indica retraso en el desarrollo psicomotor.
+
+![TEPSI_1](TEPSI_1.png)
+
+![TEPSI_2](TEPSI_2.png)
+
+![TEPSI_3](TEPSI_3.png)
+
+Tabla de hitos desarrollo psicomotor por edad hasta los 6 años de edad
+
+![DSM por edad](dsm-por-edad.png)
+
+Banderas rojas desarrollo psicomotor por área de evaluación:
+
+Motor:
+- 4-5 meses: no empuja para sentarse
+- 9-10 meses: no descarga peso
+- 15 meses: no camina
+- 30 meses: no salta en dos pies
+- 4 años: no salta en 1 pie
+
+Motor fino:
+- 7 meses: no toma objetos
+- 11 meses: no pinza
+- 15 meses: no pone ni saca de cajita
+- 30 meses: no vuelve página
+- 4 años: no copia círculo
+
+Lenguaje:
+- 5-6 meses: no balbucea
+- 10-11 meses: no silabea
+- 18 meses: no dice 3 palabras
+- 24 meses: no forma frases de 2 palabras
+- 3.5 años: no entiende más del 50% del lenguaje
+
+Cognitivo:
+- 2-3 meses: no atiende a la madre
+- 8-9 meses: no se interesa en juegos
+- 12 meses: no busca lo escondido
+- 36 meses: no sabe su nombre
+- 4-5 años: no cuenta secuencialmente
 
 ## lactancia materna
 3) Indique beneficios de la lactancia materna para el niño, para la madre y la familia
