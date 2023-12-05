@@ -14,18 +14,21 @@ Objetivos:
 ![edades_ctrls_superv](edades_ctrls_superv.png)
 
 ## esquema control sano
+
+(PENDIENTE SUBIR ARCHIVO)
+
 2) Realice un esquema de control sano, desde recién nacido hasta los 6 años, mencionando las siguientes características:
-Hitos del desarrollo psicomotor
-Incremento de peso y talla
-Aspectos relevantes a evaluar en el examen físico
-Alimentación y leches. Dilución, volumen y tipo de leche recomendada. Suplementos
-Vacunas y exámenes de screening si corresponden
-Prevención de accidentes : Intoxicaciones, quemaduras, caídas, asfixia, accidentes de tránsito
-Tips de estimulación    
+- Hitos del desarrollo psicomotor
+- Incremento de peso y talla
+- Aspectos relevantes a evaluar en el examen físico
+- Alimentación y leches. Dilución, volumen y tipo de leche recomendada. Suplementos
+- Vacunas y exámenes de screening si corresponden
+- Prevención de accidentes : Intoxicaciones, quemaduras, caídas, asfixia, accidentes de tránsito
+- Tips de estimulación    
 
  En relación al control sano del recién nacido, mencione los cuidados y hábitos de higiene que se deben recomendar. Además indique cinco eventos fisiológicos y cinco signos de alarma.
 
- 
+
 
 Para desarrollo psicomotor, de 1 a 24 meses se puede utilizar la escala de evaluación del desarrollo psicomotor adjunta a continuación
 
@@ -611,6 +614,8 @@ Rotavirus (en lactantes <6 meses, ambas son orales):
 - Efectos adversos
 - Contraindicaciones
 
+A continuación se describe composición.
+
 | Vacuna | composición | 
 |--------|-------------|
 | BCG | viva atenuada | 
@@ -627,6 +632,9 @@ Rotavirus (en lactantes <6 meses, ambas son orales):
 | virus hepatitis A | inactivada |
 | vph | inactivada |
 | fiebre amarilla | virus vivos atenuados |
+
+Todas las vacunas son intramusculares excepto la BCG y la de la fiebre amarilla que son subcutáneas. La de rotavirus (no incluída en PNI) es oral.
+
 
 ## higiene oral
 9) Mencione cómo se realiza la higiene oral a las diferentes edades del niño y cuando se realizan los controles odontológicos habituales en la infancia.
