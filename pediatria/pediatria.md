@@ -942,3 +942,47 @@ Debido a que se considera que la actividad convulsiva persistente causa daño ne
 Índice de gravedad
 ![gravedad_garces](gravedad_garces.png)
 ![interpretacion_garces](interpretacion_garces.png)
+
+En las categorías grave y siguientes debe incluirse además a todos los pacientes con: 
+- Paciente > 65 años con 10% o más de quemadura AB o B 
+- Quemadura respiratoria. 
+- Quemadura de alta tensión. 
+- Politraumatismo. 
+- Quemados con patologías graves asociadas 
+- Con quemaduras intermedias o profundas complejas, de cabeza, manos, pies o región perineal
+
+### manejo inicial
+
+Siempre ABCDE
+
+En C, recordar aporte de volumen según extensión por <b><span style="color:#5ec962">fórmula de parkland</span></b>
+ 
+4ml x superficie corporal quemada (%) x peso (kg) + Requerimientos basales: 
+• 100 ml por kilo peso primeros 10 kilos 
+• 50 ml por kilo peso segundos 10 kilos 
+• 20 ml por kilo peso > 20 kilos
+
+Tradicionalmente se señalaba que la estrategia de resucitación debía ser con el 50% del volumen total en las primeras 8 horas y el 50% restante en las siguientes 16 horas. En las condiciones actuales, el volumen calculado es sólo una estimación referencial, por lo que la reposición debe ajustarse al monitoreo. Este se basa en parámetros clínicos y de laboratorio, de los cuales el más importante es la MEDICIÓN DE LA DIURESIS HORARIA.
+
+Monitorizar:
+- Débito urinario: debe mantenerse al menos en 1 ml/kg. 
+- Presión arterial, presión venosa central: dentro de rangos normales por edad. 
+- Hematocrito: debe volver a la normalidad entre las primeras 24-48 horas. 
+- El balance hídrico en estos pacientes no es un parámetro confiable pues las pérdidas insensibles de las zonas quemadas habitualmente están subestimadas. 
+
+### lab
+Laboratorio 
+- Gasometría arterial 
+- Lactato 
+- Hemograma (incluyendo plaquetas) 
+- Electrolitos plasmáticos 
+- Creatinina y nitrógeno ureico 
+- Proteinemia 
+- Pruebas de coagulación: Protrombina, TTPK 
+- Recuento de plaquetas 
+- Glicemia 
+- Saturación venosa mixta (no indispensable) 
+- PCR 
+- CKT, ph urinario seriado, mioglobinuria (en caso de quemadura electrica) 
+- Calcio, fósforo, magnesio 
+
