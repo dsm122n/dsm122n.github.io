@@ -930,3 +930,15 @@ Debido a que se considera que la actividad convulsiva persistente causa daño ne
 ## síndromes epilépticos
 
 ![sd_epilépticos](sd_epilépticos.png)
+
+# Cirugía
+
+## Quemaduras
+
+
+![lund_browder](lund_browder.png)
+![grafica_lund_browder](grafica_lund_browder.png)
+
+Índice de gravedad
+![gravedad_garces](gravedad_garces.png)
+![interpretacion_garces](interpretacion_garces.png)
