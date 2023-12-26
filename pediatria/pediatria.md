@@ -986,3 +986,116 @@ Laboratorio
 - CKT, ph urinario seriado, mioglobinuria (en caso de quemadura electrica) 
 - Calcio, fósforo, magnesio 
 
+## Urología
+
+### ITU
+
+ITU recurrente en pediatría: 
+- 3 o más episodios de ITU baja
+- 2 o más episodios si al menos 1 fue PNA (idem anterior, pero "PNA vale x2")
+
+ITU atípica o complicada:
+- ITU alta con evolución tórpida.
+- Presenta elementos sugestivos de alteraciones anatomo-funcionales en la vía urinaria.
+- Indicadores incluyen: 
+	- microbiológicos:
+		- falta de respuesta a antibióticos a las 48 horas, 
+		- infección por germen distinto a E. Coli, 
+		- sepsis, 
+	- "obstrucción":
+		- aumento de la creatinina, 
+		- globo vesical y 
+		- chorro urinario débil
+
+Estudios imagenológicos con sus respectivas indicaciones:
+
+| Estudio | Indicaciones | 
+|---------|--------------|
+| Eco Renal y Vesical |<ol> <li> Para todo px, 6-8 semanas post <b><span style="color:#3b528b"> primera ITU</span></b> </li> <li> precoz si: <ul> <li> ITU atípica  <li> ITU recurrente < 6 meses </ul> </ol> <br> si alteración eco, repetir 1 vez al año |
+| Uretrocistografía | <ol> <li>ITU < 3 años con alteración eco (dialtación sistema colector, cicatrices renales, alteraciones vesicales, antecedente familiar RVU) <li> ITU recurrente < 3 años <li> ITU atípica < 6 meses </ol><br> necesita profilaxis para que no se encuentre con ITU  
+| cintigrama DMSA | <ol> <li> ITU atípica < 3 años </li> <li>para toda ITU recurrente <li> si eco R-V sugiere cicatrices renales</ol> |
+
+Contextos clínicos y estudios a solicitar
+
+Según edad:
+
+| Edad | Tipo de ITU | Estudios a solicitar y tiempo |
+|------|-------------|-------------------------------|
+| Cualquier edad | Primera ITU | <b><span style="color:#3b528b">Eco Renal y Vesical</span></b> a las 6-8 semanas post primera ITU. Repetir anualmente si hay alteración en la ecografía. |
+| Cualquier edad | ITU atípica | <b><span style="color:#3b528b">Eco Renal y Vesical</span></b> <b><span style="color:#7707aa">precozmente</span></b>. Repetir anualmente si hay alteración en la ecografía. |
+| Cualquier edad | ITU recurrente | <b><span style="color:#3b528b">Cintigrama DMSA</span></b>. |
+| Cualquier edad | Eco R-V sugiere cicatrices renales | <b><span style="color:#3b528b">Cintigrama DMSA</span></b>. |
+| Menos de 3 años | ITU con alteración eco | <b><span style="color:#3b528b">Uretrocistografía</span></b>. Necesita profilaxis para prevenir futuras ITU. |
+| Menos de 3 años | ITU recurrente | <b><span style="color:#3b528b">Uretrocistografía</span></b>. Necesita profilaxis para prevenir futuras ITU. |
+| Menos de 3 años | ITU atípica  | <b><span style="color:#3b528b"> Cintigrama DMSA </span></b>. |
+| Menos de 6 meses | ITU recurrente | <b><span style="color:#3b528b">Eco Renal y Vesical</span></b> <b><span style="color:#7707aa">precozmente</span></b>. Repetir anualmente si hay alteración en la ecografía. |
+| Menos de 6 meses | ITU atípica | <b><span style="color:#3b528b">Uretrocistografía</span></b>. Necesita profilaxis |
+
+Según tipo de ITU
+
+| Edad | Tipo de ITU | Estudios a solicitar y tiempo |
+|------|-------------|-------------------------------|
+| Cualquier edad | Primera ITU | <b><span style="color:#3b528b">Eco Renal y Vesical</span></b> a las 6-8 semanas post primera ITU. Repetir anualmente si hay alteración en la ecografía. |
+| Cualquier edad | ITU recurrente | <b><span style="color:#3b528b">Cintigrama DMSA</span></b>. |
+| Menos de 3 años | ITU recurrente | <b><span style="color:#3b528b">Uretrocistografía</span></b>. Necesita profilaxis para prevenir futuras ITU. |
+| Menos de 6 meses | ITU recurrente | <b><span style="color:#3b528b">Eco Renal y Vesical</span></b> <b><span style="color:#5ec962">precozmente</span></b>. Repetir anualmente si hay alteración en la ecografía. |
+| Cualquier edad | ITU atípica | <b><span style="color:#3b528b">Eco Renal y Vesical</span></b> <b><span style="color:#5ec962">precozmente</span></b>. Repetir anualmente si hay alteración en la ecografía. |
+| Menos de 3 años | ITU atípica  | <b><span style="color:#3b528b">Cintigrama DMSA</span></b>. |
+| Menos de 6 meses | ITU atípica | <b><span style="color:#3b528b">Uretrocistografía</span></b>. Necesita profilaxis |
+| Cualquier edad | Eco R-V sugiere cicatrices renales | <b><span style="color:#3b528b">Cintigrama DMSA</span></b>. |
+| Menos de 3 años | ITU con alteración eco | <b><span style="color:#3b528b">Uretrocistografía</span></b>. Necesita profilaxis para prevenir futuras ITU. |
+
+
+### Sindrome escrotal agudo
+
+Dx diferencial:
+- Torsión testicular (neonatos y pospuberales)
+- Torsión de hidátides (más en prepuberales)
+- Orquiepididimitis (por lo general más virales)
+
+- Torsión testicular:
+  - Presentación bimodal: neonatal y pospuberal (Tanner III)
+  - Clínica: <b><span style="color:#7707aa">dolor testicular</span></b>, náuseas, vómitos, dolor abdominal, signo de Prehn negativo
+  - Otros EF: testículo ascendido, horizontalizado, dolor a la palpación del cordón espermático, signo de prehn negativo (sin alivio dolor a la elevación), 
+  - Dx: Eco doppler
+  - Tto: quirúrgico
+
+
+- Torsión de hidátides:
+  - Presentación: prepuberal
+  - Clínica: <b><span style="color:#7707aa">dolor testicular más leve (molestia)</span></b>, más localizado
+  - Otros EF: <b><span style="color:#7707aa">Hidrocele reactivo</span></b>
+  - Dx: Eco doppler
+  - Tto: quirúrgico
+
+- Orquiepididimitis:
+  - Presentación: <b><span style="color:#7707aa">más en prepuberales</span></b>
+  - FR: Malformación vías urinarias, ITU, ...
+  - Clínica: <b><span style="color:#7707aa">dolor testicular más leve (molestia)</span></b>, fiebre, dolor abdominal, disuria, polaquiuria, náuseas, vómitos
+  - Otros EF: <b><span style="color:#7707aa">Hidrocele reactivo</span></b>
+  - Dx: Eco doppler
+  - Tto: antibióticos
+
+  ### Testículo no descendido
+
+  Signos tróficos boslillo escrotal: 
+  Ecografía es sub
+
+  ### Testículo retractil
+  - Que suba sin tensión
+  - simétrico
+
+  Cx: Conversión a criptorquidea (criptorquidea adquirida), 
+
+  # Politrauma
+
+  Lesiones de riesgo de muerte inminente
+  - Neumotx
+
+
+Hemotransfusión:
+10 cc/kg GR, 1 U plaquetas por cada 5 a 7 kg, 10 cc/kg plasma fresco congelado
+
+![indice_tmt_pediatrico](indice_tmt_pediatrico.png)
+
+<8 derivar a otro centro de trauma de mayor complejidad
