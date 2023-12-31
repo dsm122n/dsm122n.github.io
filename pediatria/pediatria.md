@@ -1086,12 +1086,24 @@ Dx diferencial:
   - simétrico
 
   Cx: Conversión a criptorquidea (criptorquidea adquirida), 
+### Disfunción vesical y enuresis
 
-  # Politrauma
+Capacidad vesical = volumen miccional + residuo postmiccional
+Capacidad vesical estimada (CVE) fórmulas:
+- CVE = 30 + (30 x edad en años) en ml entre 1 y 12 años. Luego aprox 390
+- (hay más fórmulas)
+
+Volumen miccional pequeño: <b><span style="color:#7707aa">menor a 65% de la CVE</span></b>
+
+Vol miccional grande: <b><span style="color:#7707aa">mayor a 150% de la CVE</span></b>
+
+Residuo postmiccional elevado: <b><span style="color:#7707aa">mayor a 20  ml</span></b>
+
+# Politrauma
 
   Lesiones de riesgo de muerte inminente
   - Neumotx
-
+(rev ppt)
 
 Hemotransfusión:
 10 cc/kg GR, 1 U plaquetas por cada 5 a 7 kg, 10 cc/kg plasma fresco congelado
