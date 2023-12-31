@@ -216,6 +216,7 @@ function loadGoogleSheet(){
 }
 
 function openPDF() {
-  var pdfUrl = '/showdown/Diccionario_LSCh.pdf';
+  var pdfUrl = 'https://uchile-my.sharepoint.com/personal/danielsanmartin_uchile_cl/Documents/Dan/Diccionario_LSCh.pdf?CT=1703984327422&OR=ItemsView';
   window.open(pdfUrl, '_blank');
 }
+
