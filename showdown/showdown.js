@@ -215,3 +215,7 @@ function loadGoogleSheet(){
   })
 }
 
+function openPDF() {
+  var pdfUrl = '/Diccionario_LSCh.pdf';
+  window.open(pdfUrl, '_blank');
+}
