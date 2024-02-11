@@ -56,6 +56,7 @@ Probabilidad pretest
 
 Medidas para ingresar K a células
 - Insulina (puede administrarse sola solo si la glucemia es >250 mg/dl)
+
 | insulina | glucosa bolo | glucosa infusión | monitoreo |
 |---|---|---|---|
 | bolo 10 U iv | 25 g Gluc iv  (50ml glucosa 50%) | luego infusión glucosa 10% a 50-75 ml/h | cada 5 a 6 horas |
@@ -97,6 +98,7 @@ La hemodiálisis puede eliminar de 25 a 50 mEq de K por hora, con variabilidad b
 
 ## Infectología
 ### Espectro antibiótico
+
 ![espectro antibiótico](/infectologia/espectro_atb_1.jpeg)
 ![espectro antibiótico](/infectologia/espectro_atb_2.jpeg)
 ![espectro gram positivo](/infectologia/espectro_gram_positivo.jpeg)
