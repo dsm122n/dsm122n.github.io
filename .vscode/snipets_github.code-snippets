@@ -1,0 +1,63 @@
+{
+	// Place your dsm122n.github.io workspace snippets here. Each snippet is defined under a snippet name and has a scope, prefix, body and 
+	// description. Add comma separated ids of the languages where the snippet is applicable in the scope field. If scope 
+	// is left empty or omitted, the snippet gets applied to all languages. The prefix is what is 
+	// used to trigger the snippet and the body will be expanded and inserted. Possible variables are: 
+	// $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. 
+	// Placeholders with the same ids are connected.
+	// Example:
+	// "Print to console": {
+	// 	"scope": "javascript,typescript",
+	// 	"prefix": "log",
+	// 	"body": [
+	// 		"console.log('$1');",
+	// 		"$2"
+	// 	],
+	// 	"description": "Log output to console"
+	// }
+	"span html para cosas buenas": {
+		"prefix": "tto",
+		"body": [
+			"<span style= \"color: #5ec962; font-weight: bold;\" >$1</span>",
+		],
+		"description": "span para cosas buenas"
+
+	},
+	"span html para cosas malas": {
+		"prefix": "sn",
+		"body": [
+			"<span style= \"color: #440154; font-weight: bold;\" >$1</span>",
+		],
+		"description": "span para cosas malas, sintomas, signos, etc"
+
+	},
+	"span html para estudios y diagnsoticos diferenciales": {
+		"prefix": "dx",
+		"body": [
+			"<span style= \"color: #21918c; font-weight: bold;\" >$1</span>",
+		],
+		"description": "span para estudios y diagnosticos diferenciales"
+
+	}
+	// viridis 5 colors
+	
+	//yellow
+	//rgb(253, 231, 37)
+	//#fde725
+
+	//Good, treatments
+	//rgb(94, 201, 98)
+	//#5ec962
+
+	// further studies, diferential diagnosis
+	//rgb(33, 145, 140)
+	//#21918c
+
+	// 
+	//rgb(59, 82, 139)
+	//#3b528b
+
+	//bad, signs and symptoms, clinical things
+	//rgb(68, 1, 84)
+	//#440154
+}

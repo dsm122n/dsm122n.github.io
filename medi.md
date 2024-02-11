@@ -49,6 +49,75 @@ Probabilidad pretest
 ![compensaciones acido base](/nefrologia/acid_base_compensation_rules.jpeg)
 ![mapa acido base](/nefrologia/acid_base_map.jpeg)
 
+### Alteraciones electrolíticas
+
+#### Hiperkalemia
+![hiperkalemia_alg](nefrologia/hiperkalemia_alg.png)
+
+Medidas para ingresar K a células
+- Insulina (puede administrarse sola solo si la glucemia es >250 mg/dl)
+| insulina | glucosa bolo | glucosa infusión | monitoreo |
+|---|---|---|---|
+| bolo 10 U iv | 25 g Gluc iv  (50ml glucosa 50%) | luego infusión glucosa 10% a 50-75 ml/h | cada 5 a 6 horas |
+| infusión 10 U/h iv | en 500 ml glucosa 10% (50 g glucosa) en 60 minutos| | cada 5 a 6 horas |
+
+Eso debería bajar 0.5 a 1.2 mEq/L. Recordar que la insulina dura 4 a 6 horas.
+
+- B2 agonistas
+Salbutamol
+
+| dosis | vía | tiempo |
+|---|---|---|
+| 10-20 mg en 4 ml| NBZ | en 10 minutos|
+| 0.5 mg | iv en 100 ml G 5% | en 15 minutos |
+
+inicio acción 6 a 8 minutos, dura hasta 2
+
+- "Bicarbonato"
+
+Eliminar K del organismo
+- Diuréticos de asa y tiacidas
+Furosemida: 
+  - si función renal buena: 40 mg c/12h (bolos o infusión). Si está eu/hipovolémico, dar sol salina para repletar o mantener volemia.
+  - si función renal mala: salina + bicarbonato isotónico + furo ajustada
+
+- Intercambiadores de cationes gastrointestinales:
+  - Patiromer 8.4 g VO repetido diariamente según necesidad
+  - Ciclosilicato de Zirconio y sodio 10 g VO c/8h 
+
+- Diálisis
+La hemodiálisis puede eliminar de 25 a 50 mEq de K por hora, con variabilidad basada en el K sérico inicial.
+
+1. eliminar la <span style= "color: #440154; font-weight: bold;" >causa</span> de hiperpotasemia.
+
+2. Reducir el aporte de potasio (frutas, jugos, productos vegetales).
+
+3. Controlar el <span style= "color: #21918c; font-weight: bold;" >ECG </span>y las funciones vitales, sobre todo si el K+ >6,3 mmol/l.
+resumir punto 4.
+4. si Δ ECG --> 
+  - gluconato de calcio 10% 30 ml iv (equivalente a 3 g de Ca2+??)
+  - cloruro de calcio 10% 10 ml iv (equivalente a 6,8 g de Ca2+??)
+  - facilitar ingreso K a células: 
+    - 
+    20-40 ml de solución de glucosa al 40% + 4-8 uds. de insulina de acción corta (1 ud. de insulina por cada 3 g de glucosa).
+  . Para facilitar el paso de potasio a las células, administrar 20-40 ml de solución de glucosa al 40% + 4-8 uds. de insulina de acción corta (1 ud. de insulina por cada 3 g de glucosa). En caso de acidosis, administrar además 50 ml de NaHCO3 al 8,4%. En diabéticos con hipoaldosteronismo hiporreninémico, suspender los fármacos con efecto hiperpotasémico (β-bloqueantes, IECA, ARA-II, bloqueadores del receptor mineralocorticoides, AINE). Si a pesar de suspender estos fármacos el potasio se mantiene >6,5 mmol/l, administrar fludrocortisona 0,05-0,2 mg/d VO. Empezar a administrar glucocorticoides iv. en caso de sospecha de insuficiencia suprarrenal.
+4. En caso de alteraciones electrocardiográficas propias de la hiperpotasemia o de arritmias → administración urgente de 30 ml de gluconato de calcio al 10 % iv. o de 10 ml de cloruro de calcio al 10 % iv. (con especial cuidado en enfermos tratados con glucósidos digitálicos). Para realizar el paso de potasio a las células, administrar 20-40 ml de solución de glucosa al 40 % + 4-8 uds. de insulina de acción corta (1 ud. de insulina por cada 3 g de glucosa). En caso de acidosis, administrar además 50 ml de NaHCO3 al 8,4 %. Se pueden reducir transitoriamente los niveles de potasio facilitando el paso de potasio al interior de las células administrando agonistas β2, p. ej. salbutamol en nebulización 2,5 mg cada 15 min hasta la dosis de 10-20 mg o 0,5 mg iv.
+
+5. Simultáneamente aplicar medidas que aumenten la eliminación del exceso de potasio. Opciones
+
+1) Diurético de asa en enfermos con diuresis conservada. p. ej. furosemida 20-40 mg iv.; la dosis puede repetirse después de 6-8 h. Simultáneamente, perfundir la solución de NaCl al 0,9 % para aumentar el volumen extracelular, lo que mejorará el filtrado glomerular y facilitará el paso de sodio al túbulo distal, aumentando la excreción de potasio.
+
+2) Intercambiadores de cationes que unen el potasio en el tracto digestivo: sulfato de poliestireno VO o VR 30 g en 150 ml de agua o solución de glucosa al 10 %. En unas 4-6 h se produce una reducción de la potasemia en 0,5-1,0 mmol/l. Administrar un laxante para vaciar los intestinos de las masas fecales con alto contenido de potasio. Los nuevos fármacos, patiromer y ciclosilicato de sodio y zirconio, se utilizan cuando todos los demás métodos terapéuticos han fallado.
+
+3) Hemodiálisis (raramente diálisis peritoneal): valorar en caso de potasemia >6,5 mmol/l; en general, necesaria en caso de hiperpotasemia sintomática y en enfermos con insuficiencia renal grave.
+
+6. En diabéticos con hipoaldosteronismo hiporreninémico en primer lugar suspender los fármacos con efecto hiperpotasémico (β-bloqueantes, IECA, ARA-II, bloqueadores del receptor mineralocorticoides, AINE). Si a pesar de suspender estos fármacos el potasio se mantiene >6,5 mmol/l → administrar fludrocortisona 0,05-0,2 mg/d VO.
+
+7. Empezar a administrar glucocorticoides iv. en caso de sospecha de insuficiencia suprarrenal →Insuficiencia corticosuprarrenal primaria (enfermedad de Addison).
+
+
+
+
 ## Glomerulopatías
 ### Síndrome nefrótico
 ![prevalencia sindrome nefrotico por edad](/nefrologia/sd_nefrotico_edad.jpeg)
