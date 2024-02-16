@@ -60,14 +60,15 @@ Medidas para ingresar K a células
 | insulina | glucosa bolo | glucosa infusión | monitoreo |
 |---|---|---|---|
 | bolo 10 U iv | 25 g Gluc iv  (50ml glucosa 50%) | luego infusión glucosa 10% a 50-75 ml/h | cada 5 a 6 horas |
-| infusión 10 U/h iv | en 500 ml glucosa 10% (50 g glucosa) en 60 minutos| | cada 5 a 6 horas |
+| <span style= "color: #5ec962; font-weight: bold;" >infusión 10 U/h iv </span> | <span style= "color: #5ec962; font-weight: bold;" >en 500 ml glucosa 10% (50 g glucosa) en 60 minutos</span> | | cada 5 a 6 horas |
 | 4-8 U insulina iv | 20-40 ml glucosa 40% (8g-16g) | |  |
 
-(1 U de insulina por cada 3 g de glucosa).
+(1 U de insulina por cada 5 g de glucosa).
 
 Eso debería bajar 0.5 a 1.2 mEq/L. Recordar que la insulina dura 4 a 6 horas.
 
 - B2 agonistas
+
 Salbutamol
 
 | dosis | vía | tiempo |
@@ -75,7 +76,7 @@ Salbutamol
 | 10-20 mg en 4 ml| NBZ | en 10 minutos|
 | 0.5 mg | iv en 100 ml G 5% | en 15 minutos |
 
-inicio acción 6 a 8 minutos, dura hasta 2
+inicio acción 6 a 8 minutos, dura hasta 2 h
 
 - "Bicarbonato": En caso de acidosis, administrar además 50 ml de NaHCO3 al 8,4% (la mitad de 1/6 M)
 
@@ -101,6 +102,12 @@ La hemodiálisis puede eliminar de 25 a 50 mEq de K por hora, con variabilidad b
 
 ![espectro antibiótico](/infectologia/espectro_atb_1.jpeg)
 ![espectro antibiótico](/infectologia/espectro_atb_2.jpeg)
+
+- ceftriaxona: gram positivos, gram negativos, anaerobios
+- pip-tazo: **Pseudomonas** + lo que cubre ceftriaxona (gram positivos, gram negativos, anaerobios)
+- imipenem: **Klebsiela** + lo que cubre pip-tazo
+- meropenem y ertapenem, **NO** cubren **Pseudomonas**, suceptibles a resistencia por porinas
+
 ![espectro gram positivo](/infectologia/espectro_gram_positivo.jpeg)
 ![espectro gram negativo](/infectologia/espectro_gram_negativo.jpeg)
 ![inicio atb criterios loebs](/infectologia/loebs_minimum_criteria.jpeg)

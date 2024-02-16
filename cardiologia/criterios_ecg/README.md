@@ -14,7 +14,8 @@
 
 Cálculo de QTc: 
 
-$$ QTc = \frac{QT}{\sqrt{RR}} $$
+$$ QTc = \frac{QT [ms]}{\sqrt{RR [s]}} $$
+**importante unidad QT en ms y RR en segundos**
 
 Cálculo FC:
 
