@@ -127,6 +127,12 @@ Ejemplo presentación y dosis media: budesonida-formoterol 200/6 mcg 2 puff inha
 
 ## Endocrinología
 
+### Diabetes
+
+Dosis insulina basal al hospitalizar: 
+- 70% del esquema previo
+- si se necesita ayuno, 50% del esquema previo
+
 ### Tiroides
 Grupos tamizaje hipotiroidismo:
 

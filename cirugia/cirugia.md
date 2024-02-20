@@ -59,8 +59,108 @@ Factores de riesgo:
 # VASCULAR PERIFÉRICO: 
 ## Insuficiencia Arterial Aguda: Embolia, Trombosis 
 
+6 P:
+- Pain (lo más precoz)
+- Pulseless
+- Pale
+- Poiquilotermia: La extremidad afectada suele estar fría. La obstrucción causa una importante alteración de la termorregulación local, llevando a que la extremidad adopte la temperatura ambiente a la que está expuesta
+- Parestesia (primero hiperestesia del primer espacio metatarsiano)
+- Parálisis: <span style= "color: #440154; font-weight: bold;" >tardío</span>. 1° se afecta compartimento anterior (dorsiflexión hallux).
+
+Clasificación Rutherford para Isquemia agua EEII
+
+| Grado | Interpretación | Pérdida Sensorial | Debilidad Muscular | Doppler arterial | Doppler venoso |
+|-------|----------------|-------------------|--------------------|------------------|----------------|
+| I | Viable | Ninguna | Ninguna | Audible | Audible |
+| IIa | Amenaza marginal | Mínima | Ninguna | Inaudible | Audible |
+| IIb | Amenaza inmediata | Sobrepasa los pies, asociado con dolor de reposo | Leve a moderada | Inaudible | Audible |
+| III | Irreversible | Profunda anestesia | Profunda, parálisis | Inaudible | Inaudible |
+
+Grado IIb tiene <span style= "color: #440154; font-weight: bold;" >alteración motora!!!</span> Se debe revascularizar en plazo de horas.
+
+
+Estudio a solicitar:
+1. Angio TC (mayor utilidad en suprapoplíteo)
+2. Eco Doppler
+3. (Angiografía)
+4. Ecocardio TT y/o TE (si sospecha embolia)
+
+Manejo inicial:
+
+1. **Analgesia** y estabilización:
+    - Posición de fowler, **fluidos** (y monitorización función renal, HE) y búsqueda Rabdomiolisis 
+2. **Anticoagulación** con HNF (porque puede requerir cx):
+    - HNF 80 UI/kg EV en bolo, luego 18 UI/kg/h
+
 
 ## Insuficiencia Arterial Crónica: Oclusión aorto-iliaca, Oclusión femoro-poplítea, patología carotídea
+
+Interpretación Indice tobillo brazo:
+| valor | interpretación |
+|-------|----------------|
+| >1.4 | calcificación |
+| 0.9 - 1.4 |  normal |
+| 0.71-0.9 | disminución de flujo leve|
+| 0.41-0.7 | disminución de flujo moderada |
+| 0-0.4 | disminución de flujo severa |
+
+
+
+Lectura EVNI:
+![ej_evni](ej_evni.png)
+
+1. Comprar presiones braquiales (si diferencia mayor a 10 mmHg, sospechar patología "central")
+2. Presiones segmentarias (sistólica): 
+    - Diferencia entre miembros al mismo nivel: >30 mmHg
+    - Disminución > 20 mmHg de proximal a distal
+3. índice segmentario-braquial:
+    - disminución de proximal a distal >0.15
+4. Índice tobillo brazo: 
+    - normal: [0.9, 1.4[
+    - si >= 1.4, ojo calcificación DM y ERC, evaluar índice dedo-brazo: 
+        - < 0.7 es anormal
+> nota: presión >30 mmHg en dedo pie es necesaria para curación. DM puede necesitar más de 45-50 mmHg
+5. PVR (Pulse Volume Recording): No se afecta por calcificación
+    - normal: 1-1.2
+    - si < 0.5, ojo isquemia crítica
+
+Clasificación Rutherford para EAO:
+
+| Grado | Clínica | Tratamiento |
+|-------|---------|-------------|
+| 0 | Asintomático | Control FR |
+| 1 | Claudicación leve | Control FR |
+| 2 | Claudicación moderada | Control FR |
+| 3 | Claudicación severa| Control FR |
+| 4 | Dolor en reposo | <span style= "color: #440154; font-weight: bold;" >Isquemia crítica </span> derivar|
+| 5 | Pérdida menor de tejido | <span style= "color: #440154; font-weight: bold;" >Isquemia crítica </span> derivar|
+| 6 | Pérdida mayor de tejido | <span style= "color: #440154; font-weight: bold;" >Isquemia crítica </span> derivar|
+
+Si Isquemia crítica, ITB <0.4 o claudicación que impide realización de actividades diarias, derivar a cirugía vascular.
+
+Escenarios EAO:
+1. Paciente <span style= "color: #5ec962; font-weight: bold;" >discretamente discapacitado</span> por claudicación intermitente: tratamiento **médico** de las comorbilidades, cesación del hábito tabáquico, rehabilitación de la marcha y uso de cilostazol logran aumento en la distancia de libre de claudicación.
+2. Paciente <span style= "color: #5ec962; font-weight: bold;" >severamente limitado</span> por claudicación, con extremidad no amenazada en su vitalidad: **intensificar el manejo conservador**. Solo el 5% de los claudicadores pasan a isquemia crítica. Es necesario ponderar con el paciente los beneficios de la revascularización quirúrgica en comparación a los riesgos en morbimortalidad inherentes a estos procedimientos.
+3. Paciente con <span style= "color: #21918c; font-weight: bold;" >isquemia critica</span>: está indicada la revascularización quirúrgica lo antes posible. Son pacientes con dolor de reposo, necrosis parcial o avanzada, o con ulceras isquémicas, capaces de tolerar procedimientos quirúrgicos y con posibilidad de rehabilitación. 
+4. Paciente con isquemia critica con baja <span style= "color: #21918c; font-weight: bold;" >probabilidad de recuperación y/o gangrena </span> de la extremidad con o sin infección asociada: salvo excepciones, la elección es la amputación. En general, son pacientes con estado de salud deteriorado, con mala tolerancia a procedimientos quirúrgicos, con lesiones extensas, anticipando mal resultado a la revascularización
+
+Qué hacer en APS:
+
+Hábitos de vida:
+1. Ejercicio físico 30-45 minutos, 3-4 veces por semana, durante 3 meses.
+2. Tabaquismo Cese del hábito
+
+Comorbilidades:
+
+3. Dislipidemia: Uso de estatinas Colesterol LDL < 70mg/dL
+4. Hipertensión Arterial: Uso de antihipertensivos orales; idealmente IECA o ARAII. Mantener cifras menores a 140/90 mmHg (130/80 mmHg si paciente es diabético o padece otra condición de riesgo). 
+5. Diabetes Mellitus Control metabólico según esquemas.
+
+Fcos:
+
+6. Antiagreción plaquetaria: Uso de aspirina (clopidogrel mejores resultados).
+7. Cilostazol 100mg dos veces al día (más para terciara porque se puede retirar eventualmente luego de rehabilitación)
+
 
 
 ## Pie Diabético. 
@@ -135,11 +235,168 @@ Prevención secundaria: realizar plantilla o zapato según new biomecánica (fis
 
 ## Insuficiencia Venosa Crónica, Varices. 
 
-## Trombosis venosa profunda y Tromboflebitis 
+
+### Síndrome Post Flebítico. 
+
+Def: formación de varices secundaria a TVP previa
+
+### complicaciones varices
+
+#### Varicorragia
+Corresponde a la hemorragia localizada en una várice. Su tratamiento consiste en la compresión localizada y elevación de la extremidad hasta el cede del sangrado. 
+ 
+#### Úlcera varicosa
+El pilar del tratamiento, además de las curaciones seriadas, corresponde al uso de soporte de alta compresión (40 mmHg). 
+ 
+#### Eczema cutáneo
+Se maneja con lubricación e higiene cutáneo.
+
+#### Varicoflebitis
+También denominada **trombosis venosa superficial**. Su diagnóstico clínico debe ser confirmado con ecodoppler venoso de EE.II. para descartar una trombosis venosa profunda y evaluar la extensión del trombo, dado que si es 
+
+- \> 5 cm, requiere de anticoagulación completa por 4 a 6 semanas mientras que si es 
+- < 5 cm, requiere solo manejo sn
+
+## Trombosis venosa profunda y Tromboflebitis (TVS)
+
+### TVP
+Score de Wells para TVP
+![wells_tvp](wells_tvp.png)
+
+0-1: Riesgo bajo de tvp
+
+2 o más: alto riesgo de tvp
+
+Score de Wells para TEP
+![wells_tep](wells_tep.png)
+
+0-4: poco probable
+
+5 o más: TEP probable
+
+Sg y Sn de TEP (lo más frecuente disnea y taquicardia)
+
+![sg_tep](sg_tep.png)
+
+FR comunes para ambas:
+
+Los FR alteran la triada de Virchow: **estasia sanguínea, lesión endotelial y hipercoagulabilidad.**
+
+
+
+| Modificables  | No modificables |
+|---------------|-----------------|
+| Neoplasia maligna | Edad |
+| Cirugía | Sexo |
+| Trauma | Antecedente de ETV |
+| Embarazo | Grupo Sanguíneo |
+| Uso de ACO y TRH | Trombofilia hereditaria |
+| Obesidad | Otras enfermedades crónicas y/o congénitas. |
+| Insuficiencia Cardiaca, EPOC | | 
+| Factores de riesgo cardiovascular | |
+| Fármacos | |
+
+| triada de Virchow | Modificables | No modificables |
+|------------------|--------------|-----------------|
+| hipercoagulabilidad | Neoplasia maligna, Uso de ACO, TRH y otros fcos, Obesidad, Insuficiencia Cardiaca, EPOC, Factores de riesgo cardiovascular| Trombofilia hereditaria, Otras enfermedades crónicas y/o congénitas. |
+| lesión endotelial | Cirugía, Trauma, Embarazo | Edad, Sexo |
+| estasis sanguínea | Cirugía, Trauma, poca movilidad | ¿antecedente de ETV? |
+
+Criterios diagnósticos de TVP en eco: 
+- ecogenicidad intraluminal venosa, 
+- aumento del diámetro venoso
+- **pérdida de la compresibilidad venosa**, 
+- ausencia de flujo espontáneo, 
+- ausencia de aumentación del flujo venoso a la compresión distal.
+### TVS
+
+Asociaciones con otras patologías:
+- Ca páncreas: un cuadro recurrente en diferentes sitios, conocido como **tromboflebitis migratoria**, representa un fenómeno paraneoplásico que particularmente se asocia al cáncer de páncreas. 
+- Ca mama: la TVS en la mama, conocida como Enfermedad de Mondor, está asociada al cáncer de mama
+
+Conducta: solicitar eco para explorar TVS y TVP.
+
+Hallazgos ecográficos TVS:
+- Trombo afecta a las venas perforantes
+- TVS a menos de 3 cm de la unión safeno-femoral
+- Trombo mayor a 5 cm
+
+Manejo:
+- < 5 cm <span style= "color: #5ec962; font-weight: bold;" >AINES o analgesia VO</span> repetir eco en 7 a 10 días
+- \> 5 cm: <span style= "color: #5ec962; font-weight: bold;" >Anticoagulación "profiláctica?" </span> y <span style= "color: #21918c; font-weight: bold;" >derivar</span>
+
+
+![tto_tvs](tto_tvs.png)
+
+
+Tto anticoagulante vs tromboprofilaxis
+
+
+![doac](doac.png)
+
+Esquema ajuste warfarina
+
+<table cellspacing="0"><tbody> <tr> <td class="subtitle1">Day</td> <td class="subtitle1">INR</td> <td class="subtitle1">Warfarin dose (mg)</td>
+ </tr> 
+<tr class="divider_bottom centered"> <td>1</td>
+ <td>&nbsp;</td>
+ <td>5</td>
+ </tr> 
+<tr class="divider_bottom centered"> <td>2</td>
+ <td>&nbsp;</td>
+ <td>5</td>
+ </tr> 
+<tr class="centered"> <td class="divider_bottom" rowspan="4">3</td>
+ <td>&lt;1.5</td>
+ <td>10</td>
+ </tr> 
+<tr class="centered"> <td>1.5-1.9</td>
+ <td>5</td>
+ </tr> 
+<tr class="centered"> <td>2-3</td>
+ <td>2.5</td>
+ </tr> 
+<tr class="divider_bottom centered"> <td>&gt;3</td>
+ <td>0</td>
+ </tr> 
+<tr class="centered"> <td class="divider_bottom" rowspan="4">4</td>
+ <td>&lt;1.5</td>
+ <td>10</td>
+ </tr> 
+<tr class="centered"> <td>1.5-1.9</td>
+ <td>7.5</td>
+ </tr> 
+<tr class="centered"> <td>2-3</td>
+ <td>5</td>
+ </tr> 
+<tr class="divider_bottom centered"> <td>&gt;3</td>
+ <td>0</td>
+ </tr> 
+<tr class="centered"> <td class="divider_bottom" rowspan="3">5</td>
+ <td>&lt;2</td>
+ <td>10</td>
+ </tr> 
+<tr class="centered"> <td>2-3</td>
+ <td>5</td>
+ </tr> 
+<tr class="divider_bottom centered"> <td>&gt;3</td>
+ <td>0</td>
+ </tr> 
+<tr class="centered"> <td rowspan="4">6</td>
+ <td>&lt;1.5</td>
+ <td>12.5</td>
+ </tr> 
+<tr class="centered"> <td>1.5-1.9</td>
+ <td>10</td>
+ </tr> 
+<tr class="centered"> <td>2-3</td>
+ <td>7.5</td>
+ </tr> 
+<tr class="centered"> <td>&gt;3</td>
+ <td>0</td>
+ </tr> </tbody></table>
 
 ## Úlceras de extremidades inferiores (venosas, varicosas, etc.)
-
-## Síndrome Post Flebítico. 
 
 ## Enfermedad Tromboembólica
 
@@ -283,6 +540,29 @@ Para pacientes pediátricos: Fórmula de Parkland + Fórmula de Holliday
 En pacientes gran quemados, no se recomienda el uso profiláctico de antibióticos tópicos o sistémicos. Recomendación A
 
 ## Conceptos generales sobre Injertos y Colgajos 
+
+Indicaciones de injertos antes de colgajos:
+- 
+
+Prendimiento de un injerto:
+
+1. Imbibición plasmática:
+    - Normalmente dura entre 24 y 48 horas.
+    - Se forma una capa de fibrina entre el injerto y la zona receptora que mantiene la adherencia.
+    - El injerto absorbe nutrientes y O2 que difunden desde el lecho dador.
+2. Inosculación:
+    - Los capilares de la zona dadora y receptora se alinean: kissing capillaries.
+3. Revascularización: Existen 3 teorías que tratan de explicar este fenómeno:
+    - Anastomosis entre vasos del injerto pre-existentes y los vasos del lecho dador.
+    - Nuevos vasos desde la zona dadora invaden el injerto.
+    - Combinación de vasos nuevos y viejos
+Entre todo, toma aprox 5 días, por lo que tiene que quedar inmovilizado y sin tensión por ese tiempo (curación cerrada de injerto)
+
+Causas de falla de injerto:
+-  Locales: hematoma (1º causa), infección (2º causa), seroma (3º causa), mala inmovilización, exceso de presión sobre el injerto, injerto traumatizado, ZR isquémica o sucia.
+- Generales: anemia, desnutrición, enfermedades del mesénquima, diabetes, isquemia crónica.
+
+
 ## Lesiones por presión 
 ## Cicatrización normal y patológica
 
