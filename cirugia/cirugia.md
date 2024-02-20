@@ -92,6 +92,11 @@ Manejo inicial:
 2. **Anticoagulación** con HNF (porque puede requerir cx):
     - HNF 80 UI/kg EV en bolo, luego 18 UI/kg/h
 
+Cmplx post-reperfusión:
+- Rabdomiolisis: elevación CK, mioglobinuria, AKI, HiperK, Hiperfosfemia, hipercalcemia.
+- Sd reperfusión: aumento permeabilidad prots en capilares, aumento presión intersticial --> síndrome compartimental. Mayoría pacientes need fasciotomía 
+- Cardiovasculares: IAM, Arritmias, etc.
+
 
 ## Insuficiencia Arterial Crónica: Oclusión aorto-iliaca, Oclusión femoro-poplítea, patología carotídea
 
@@ -161,6 +166,23 @@ Fcos:
 6. Antiagreción plaquetaria: Uso de aspirina (clopidogrel mejores resultados).
 7. Cilostazol 100mg dos veces al día (más para terciara porque se puede retirar eventualmente luego de rehabilitación)
 
+
+### Manejo Isquemia crítica EEII
+
+DERIVAR!!!
+
+Manejo inicial:
+
+Dolor de reposo:
+1. Higiene diaria agua y jabón, correcto secado (sobre todo entre dedos). Humectación piel con vaselina. 
+2. Prevenir nuevas lesiones:  no recortar callos ni limar la piel, vigilar que calcetines y calzado no tengan imperfecciones. 
+3. Dolor: Paracetamol + opiáceos.
+
+
+Lesión:
+1. Necrosis seca sin rotura del borde que limita con el tejido vivo: iguales a los cuidados descritos, además se debe pintar con povidona yodada la lesión y dejar secar, de esta forma no se humedece ni se infecta, mantener cubierta la lesión para evitar contaminación.
+2. Necrosis seca con área húmeda en el borde con el tejido vital: no se debe mojar, curaciones con suero fisiológico para mantener la herida limpia, no debridar tejido porque no cicatrizaría y aumentaría de tamaño. Antibióticos de amplio espectro si hay signos de infección, mantener herida cubierta. 
+3. Gangrena húmeda o absceso: requerirá de cirugía para aseo, para evitar progresión de la infección, antibióticos y curaciones. 
 
 
 ## Pie Diabético. 
