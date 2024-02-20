@@ -16,7 +16,10 @@
 ## Patológico y Hernia hiatal
 ## Diagnóstico y manejo Ulcera Péptica Gástrica y Duodenal. 
 ## Diagnóstico y manejo general de Tumores Gástricos Benignos. 
-## Diagnóstico, manejo completo de Hemorragia Digestiva Alta y baja; Colelitiasis, Colecistitis Aguda y Crónica; Coledocolitiasis; Ictericia Obstructiva; Colangitis; Pancreatitis aguda y sus complicaciones.
+## Diagnóstico, manejo completo de Hemorragia Digestiva Alta y baja; 
+
+## Colelitiasis, Colecistitis Aguda y Crónica; Coledocolitiasis; Ictericia Obstructiva; Colangitis; Pancreatitis aguda y sus complicaciones.
+
 
 ### Colelitiasis
 
@@ -29,7 +32,25 @@ Factores de riesgo:
 - **forty**: age ≥40 years
     - cholelithiasis can occur in young patients with a positive family history; in such cases, the '**familial**' factor can substitute for the 'forty' factor 2
 
+###  Pancreatitis aguda
 
+Causas más frecuentes:
+- Litiasis y barro biliar
+- alcohol
+- hipertrigliceridemia >1000
+- Post-ERCP
+- Lesión conducto biliar
+
+Por grupo de causas:
+- **Obstructivas**: Litiasis biliar, Tumores pancreáticos, divertículos duodenales, ascariasis biliar, hidatidosis hepática, anomalías anatómicas del páncreas, lesiones periampulares
+- **Metabólicas**: Hipertrigliceridemia, Hiperparatiroidismo, Hipercalcemia
+- **Tóxicas**: Alcohol (se cree que puede aumentar liberación de enzimas pancreáticas), Fármacos
+- **Infecto**: Viruses (Mumps, coxsackievirus, hepatitis B, cytomegalovirus, varicella-zoster, herpes simplex, human immunodeficiency virus (HIV)), Bacteria (Mycoplasma, Legionella, Leptospira, Salmonella), Fungi (Aspergillus), Parasites (Toxoplasma, Cryptosporidium, Ascaris)
+- **Idiopáticas** 
+
+> En casos severos, pancreatitis necrohemorrágica: 
+> - Sg Cullen: equímosis periumbilical
+> - Sg Grey Turner: equímosis flancos
 
 ## Diagnóstico y manejo inicial de Quistes y Abscesos Hepáticos e Hidatidosis Hepática;
 ## Diagnóstico y manejo general de Fístulas del Intestino Delgado. 
@@ -116,8 +137,8 @@ Lectura EVNI:
 
 1. Comprar presiones braquiales (si diferencia mayor a 10 mmHg, sospechar patología "central")
 2. Presiones segmentarias (sistólica): 
-    - Diferencia entre miembros al mismo nivel: >30 mmHg
-    - Disminución > 20 mmHg de proximal a distal
+    - Diferencia entre miembros al mismo nivel: >20 mmHg
+    - Disminución > 30 mmHg de proximal a distal
 3. índice segmentario-braquial:
     - disminución de proximal a distal >0.15
 4. Índice tobillo brazo: 
@@ -146,7 +167,7 @@ Si Isquemia crítica, ITB <0.4 o claudicación que impide realización de activi
 Escenarios EAO:
 1. Paciente <span style= "color: #5ec962; font-weight: bold;" >discretamente discapacitado</span> por claudicación intermitente: tratamiento **médico** de las comorbilidades, cesación del hábito tabáquico, rehabilitación de la marcha y uso de cilostazol logran aumento en la distancia de libre de claudicación.
 2. Paciente <span style= "color: #5ec962; font-weight: bold;" >severamente limitado</span> por claudicación, con extremidad no amenazada en su vitalidad: **intensificar el manejo conservador**. Solo el 5% de los claudicadores pasan a isquemia crítica. Es necesario ponderar con el paciente los beneficios de la revascularización quirúrgica en comparación a los riesgos en morbimortalidad inherentes a estos procedimientos.
-3. Paciente con <span style= "color: #21918c; font-weight: bold;" >isquemia critica</span>: está indicada la revascularización quirúrgica lo antes posible. Son pacientes con dolor de reposo, necrosis parcial o avanzada, o con ulceras isquémicas, capaces de tolerar procedimientos quirúrgicos y con posibilidad de rehabilitación. 
+3. Paciente con <span style= "color: #21918c; font-weight: bold;" >isquemia critica</span>: está indicada la revascularización quirúrgica lo antes posible. Son pacientes con dolor de reposo, necrosis parcial o avanzada, o con ulceras isquémicas, capaces de tolerar procedimientos quirúrgicos y con posibilidad de rehabilitación. 
 4. Paciente con isquemia critica con baja <span style= "color: #21918c; font-weight: bold;" >probabilidad de recuperación y/o gangrena </span> de la extremidad con o sin infección asociada: salvo excepciones, la elección es la amputación. En general, son pacientes con estado de salud deteriorado, con mala tolerancia a procedimientos quirúrgicos, con lesiones extensas, anticipando mal resultado a la revascularización
 
 Qué hacer en APS:
