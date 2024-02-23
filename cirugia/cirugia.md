@@ -52,6 +52,131 @@ Por grupo de causas:
 > - Sg Cullen: equímosis periumbilical
 > - Sg Grey Turner: equímosis flancos
 
+Diagnóstico con 2 de 3:
+- <span style= "color: #21918c; font-weight: bold;" >Clínica</span> Dolor compatible con pancreatitis
+- <span style= "color: #21918c; font-weight: bold;" >Laboratorio</span> Enzimas sobre 3 x VN
+- <span style= "color: #21918c; font-weight: bold;" >Imagen</span> que oriente a etiología (Eco con litiasis) o complicaciones
+
+> Notas:
+> - Lipasa más específica y sensible que amilasa
+> - Amilasa peak más tardío que la lipasa, entre 6-12 h del inicio del cuadro y al tener una vida media de 10 horas sus niveles plasmáticos se normalizan a los 3-5 días luego de resuelto el cuadro 
+
+Lab a solicitar en urgencias:
+1. Hemograma: hemoconcentración, leucocitosis
+2. F. Renal
+3. Gases (sobre todo si disfunción respi)
+4. ELP
+5. Perfil hepático (ojo alteración en caso de etiología biliar)
+6. PCR mg/dL. Si >150, mal pronóstico
+7. Estudio etiología "no biliar":
+    - Perfil lipídico
+    - Calcemia
+
+Estudio imagen:
+- Eco abdominal
+- TC abdomen: rendimiento mejora a partir de las 48-72 horas de iniciado el cuadro. Permite realizar diagnóstico, establecer gravedad y reconocer complicaciones locales
+
+Complicaciones locales según consenso de Atlanta:
+1. Pancreatitis edematosa intersticial.
+2. Pancreatitis necrotizante.
+3. Colección peripancreática aguda.
+4. Pseudoquiste pancreático.
+5. Colección necrótica aguda.
+6. Colección necrótica amurallada
+
+
+Evaluación disfunción orgánica: con marshall y SIRS
+
+Evaluación de severidad: según consenso de Atlanta, si falla organica según marshall persiste más de 48 horas --> pancreatitis severa
+
+
+![atlanta_marshall](atlanta_marshall.png)
+
+Score de gravedad por TC: Pts Balthazar + Pts por grado de necrosis. 
+
+Criterios de Balthazar:
+- A: Páncreas normal : 0
+- B: Aumento de tamaño o difuso: 1
+- C: Inflamación peripancreática: 2
+- D: 1 colección intra o extrapancreática: 3
+- E: 2 o más colecciones y/o gas retroperitoneal: 4
+
+Score por necrosis
+- 0%: 0
+- <30%: 2
+- 30-50%:4
+- \>50%: 6
+
+Un total de <span style= "color: #440154; font-weight: bold;" >>=5 </span> asociado a estadía hospitalaria prolongada y <span style= "color: #440154; font-weight: bold;" >aumento de la morbimortalidad</span> 15 veces en comparación a los con score < 5
+
+
+#### Manejo inicial
+
+1. <span style= "color: #5ec962; font-weight: bold;" >¿UPC?</span>
+
+Existen scores: APACHE II, Ranson, BISAP, etc. Tb evaluar:
+
+- Pancreatitis Severa por criterios de Atlanta
+- FC > 120 lpm (pese a reposición de fluidos y manejo analgésico óptimo).
+- FR > 30 ventilaciones por minuto.
+- PAS < 80 mmHg. o PAM < 60 mmHg.
+- PaO2 < 50 mmHg o PaFiO2 < 300.
+- pH <7,1 o >7,7
+- Alteraciones hidroelectrolíticas severas. 
+    - K < 2 o K >6,5 mg/dl.
+- Hiperglicemia > 700 mg/dl
+- Oligoanuria o Anuria
+- Compromiso de conciencia
+- SIRS >48 horas
+- Comorbilidad pulmonar o cardíaca severa / Obesidad severa
+
+2. <span style= "color: #5ec962; font-weight: bold;" >Fluidos</span> (hipovolemia por tercer espacio, disminución ingesta y aumento pérdidas)
+    - Severamente depletados: cristaloides, en dosis de 20-30 ml/kg en los primeros 30-45 min, continuando luego con una infusión de 3 ml/kg/hora en las primeras 8-12 horas. 
+    - Otros: debería ser suficiente BIC 5-10 ml/kg/h (250-500 ml/hora por las primeras 24 horas).
+
+Pasadas las primeras 6 horas, la reposición debe ser guiada por metas:
+    - No invasivas: Frecuencia cardiaca menor a 120 lpm, PAM entre 65-85 mmHg, débito urinario 0,5-1 cc/kg/hora.
+    - Invasivas: Distintos indicadores de variación de volumen sistólico (ej.: delta P/P), variación de volumen intratorácico, entre otras.
+    - Bioquímicas: Nitrógeno ureico (variación más que valor absoluto) , Hematocrito 35-44%. 
+
+3. <span style= "color: #5ec962; font-weight: bold;" >Nutrición</span>:
+    - Si no hay contraindicaciones, se debe iniciar nutrición enteral temprana, en las primeras 24-48 horas.
+        - Pueden ser fórmulas poliméricas hiperprotéicas baja en grasas. 
+    - Si no es posible, se debe iniciar nutrición parenteral.
+
+4. <span style= "color: #5ec962; font-weight: bold;" >Analgesia</span>
+- Opioides de elección: Fentanilo 20-50 mcg cada 10 a 20 minutos.
+- AINES y PCT si buena función renal
+
+5. <span style= "color: #5ec962; font-weight: bold;" >Antibióticos</span>
+Si se ha logrado establecer la infección de la necrosis por medio de **cultivos (Punción** bajo TC de la necrosis pancreática, por ejemplo), o si existen pruebas indirectas, como la aparición en la TC de **burbujas en la necrosis pancreática**, **hemocultivos positivos** para bacterias Gram negativas o existencia de un **deterioro clínico** no explicado por otra causa.
+
+- extremadamente graves, está indicado el uso de un antibiótico con perfil de acción pancreático óptimo cómo es el Imipenem
+- Estable, otros que llegan a t. Pancreático: criprofloxacino, cefalosporinas tercera +- metronidazol
+
+
+6. Manejo complicaciones Locales
+- Colección peripancreática (APFC; acute peripancreatic fluid collection): Es una colección de líquido peripancreático no relacionado a necrosis. Se aplica solamente a las áreas de líquido peripancreático vistas durante las primeras 4 semanas, en la fase temprana de la enfermedad. En el TAC se puede ver que no tiene paredes definidas, es homogénea y esta confinada por los planos fasciales normales retroperitoneales, pueden ser múltiples. Por lo general se resuelven en forma espontánea o pueden evolucionar a un pseudoquiste pancreático.
+- Pseudoquiste pancreático corresponde a una colección pancreática encapsulada por paredes inflamatorias o fibrosas bien definidas, usualmente fuera del páncreas, sin necrosis. Producido por fístula desde la glándula pancreática como desde la disrupción del conducto pancreático. Usualmente se demora 4 semanas en formarse y es rico en enzimas pancreáticas. **Si es asintomático no se debe intervenir**.
+    - La historia natural muestra un descenso del tamaño o resolución espontánea con tratamiento conservador en un elevado porcentaje. Si es <4 cms es buen predictor de resolución espontánea.
+    - La intervención <span style= "color: #5ec962; font-weight: bold;" >quirúrgica </span>está indicado en pseudoquiste **sintomático, infectado** (sepsis,presencia de burbujas de gas) o **crecimiento seriado en TAC**. Se debe drenar junto con toma de cultivo y gram. Habitualmente existe bacterias anaerobias entéricas. Drenaje: Percutáneo, endoscópico, laparoscópico, abierto, creación de cistogastrostomía endoscópica o quirúrgica.
+- Colección necrótica: Corresponde a colecciones que contiene cantidades variables de líquido y necrosis en parénquima pancreático y/o tejido peripancreático que ocurre habitualmente en la pancreatitis aguda moderadamente grave y grave.
+- Walled-off necrosis pancreática (necrosis encapsulada o amurallada): Es el resultado de la organización de colecciones peripancreáticas (APFC) (estas no están asociadas a la necrosis) o de colecciones necróticas pancreáticas, formando una pared de tejido de granulación o fibrótico sin epitelio, habitualmente ocurre después de las 4 semanas. Cualquier colección que ocupe o reemplace el parénquima pancreático se cataloga como necrosis amurallada. En caso de confirmarse infección a través de infección, se debe intervenir, ojalá esperando 3 o 4 semanas hasta que se demarque el tejido pancreático viable y la necrosis peripancreática. Se puede realizar drenaje endoscópico o retroperitoneal, como cirugía abierta o laparoscópica.
+
+
+
+7. Manejo etiología
+
+Si etiología biliar: colecistectimía (idealmente temprana) + colangografía intraoperatoria + ERCP
+
+ERCP (COLANGIOPANCREATOGRAFÍA RETRÓGRADA ENDOSCÓPICA)
+Ssi pancreatitis aguda biliar asociada a:
+- una colangitis aguda
+- coledocolitiasis retenida
+
+La colecistectomía en pancreatitis aguda grave se debe diferir hasta resolución del cuadro clínico. Para ese entonces parece razonable esperar 3 semanas
+
+
 ## Diagnóstico y manejo inicial de Quistes y Abscesos Hepáticos e Hidatidosis Hepática;
 ## Diagnóstico y manejo general de Fístulas del Intestino Delgado. 
 ## Manejo completo de Ileostomías y Colostomías Megacolon 
