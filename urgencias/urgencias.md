@@ -9,6 +9,14 @@ Fármacos para inducción:
 | Propofol | agonista GABA | 1.5 - 3 mg/kg | 15 a 45 s | 5 a 10 min | Broncodilat, dismuye metabolismo cerebral, ANTICONVULSIVANTE | ↓ presión arterial (hasta 10 mmHg de PAM) |
 | Midazolam | aumenta frecuencia apertura GABA | 0.1 - **0.3** mg/kg | 30 a 60 s | 15 a 30 min | ANTICONVULSIVANTE, pero se usa como último recurso | Hipotensión |
 
+Para persona de 70 kg:
+
+- Etomidato: 2 mg/ml, dosis de 0.3 mg/kg (0.15 ml/kg) -> 21 mg = 10.5 ml 
+- Ketamina: 50 mg/ml, dosis de 1.5 mg/kg (0.03 ml/kg) -> 105 mg = 2.1 ml
+- Propofol: 10 mg/ml, dosis de 1.5 mg/kg (0.15 ml/kg) -> 105 mg = 10.5 ml
+- Midazolam: 5 mg/ml, dosis de 0.3 mg/kg (0.06 ml/kg) -> 21 mg = 4.2 ml
+
+
 Qué fco escoger en cada contexto y por qué?
 
 | Contexto | Fármaco recomendado | NO usar |
@@ -21,6 +29,8 @@ Qué fco escoger en cada contexto y por qué?
 | Intubación "despierta"/demorada | <li> <span style= "color: #5ec962; font-weight: bold;" >Ketamina</span>: no depresión centro respiratorio | |
 
 
+
+
 Ojo ketamina da harta taquicardia
 
 Midazolam es lo más disponible fuera de los hospitales. Sin embargo, su dosis es super errática y su efecto es muy variable. 
@@ -29,8 +39,20 @@ Fármacos para bloqueo neuromuscular:
 
 | Medicamento | Mecanismo | Dosis | inicio | duración | Pros | Contras |
 | ----------- | ---- | ---- | --------------- | --- | ---- | ------- |
-| Succinilcolina | despolarizante | 1.5 mg/kg | 45 a 60 s | 5 a 10 min | Rápido inicio y corta duración | Sin reversor, Hiperkalemia, rabdomiolisis, fasciculaciones, hipertermia maligna, bradicardia (por estimulación muscarínica |
+| Succinilcolina | despolarizante | 1.5 mg/kg | 45 a 60 s | 5 a 10 min | Rápido inicio y corta duración | Sin reversor, Hiperkalemia, rabdomiolisis, fasciculaciones, hipertermia maligna, bradicardia (por estimulación muscarínica) |
 | Rocuronio | no despolarizante (sitio alostérico) | 1.2 mg/kg (en secuencia de intubación rápida, porque en intubación en pabellón se usa la mitad o menos, para que dure menos tiempo) | 45 a 60 s | 30 a 60 min | Reversor neostigmina pero se necesitaría mucho y ¿gabaex?, No hiperkalemia, no fasciculaciones, no hipertermia maligna |  |
+
+para persona de 70 kg:
+- succinilcolina: 50 mg/ml, dosis de 1.5 mg/kg (0.03 ml/kg) -> 105 mg = 2.1 ml
+- rocuronio: 10 mg/ml, dosis de 1.2 mg/kg (0.12 ml/kg) -> 84 mg = 8.4 ml
+
+Cuando no usar succinilcolina:
+- hiperkalemia
+- quemados
+- politraumatizados
+- parálisis prolongada
+- miopatías
+
 
 Por duración y tiempo de inicio se puede elegir. Si va a ser difícil: succinilcolina, porque si me equivoco, dejará de hacer efecto en 5 a 10 minutos y se puede continuar ventilando con mascarilla con reservorio o ambú. Si no, rocuronio, porque se puede estar intentando varias veces con plan A, B, C, etc. 
 
