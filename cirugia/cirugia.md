@@ -747,10 +747,115 @@ Estudio, diagnóstico y manejo del paciente:
 
 # ANESTESIOLOGÍA: 
 Anatomía, Fisiología y Farmacología aplicadas a la anestesia. 
+
 Evaluación preoperatoria. 
-Manejo de vía aérea y accesos venosos periféricos. 
-Descripción de procedimiento de Anestesia local. Intoxicación por anestésicos locales 
-Manejo de soporte vital básico y avanzado. 
-Monitorización anestésica 
-Indicaciones, contraindicaciones y complicaciones de anestesia regional y general. 
-Manejo del dolor
+
+## Manejo de vía aérea y accesos venosos periféricos. 
+
+7 P de SRI
+
+![7p_SRI](7p_SRI.png)
+
+![preparacion_intub](preparacion_intub.png)
+
+Vía aerea anatómicamente difícil:
+![va_anatomica_dificil](va_anatomica_dificil.png)
+
+### pretratamiento
+Vía aerea fisiológicamente difícil:
+- Hipoxemia
+- hipotensión
+- acidosis
+- falla ventrículo derecho
+
+En esos casos: DVA, volúmen, aporte O2 precoz, optimizar condiciones que llevaron al paciente a acidosis extrema
+
+Fcos:
+![fcos_premedicacion](fcos_premedicacion.png)
+
+### Parálisis e Inducción
+![fcos_induccion](fcos_induccion.png)
+![fcos_induccion_2](fcos_induccion_2.png)
+
+![fcos_paralisis](fcos_paralisis.png)
+succi y rocu en realidad a dosis de 1 y 1.2 mg/kg respectivamente actúan a los 45 seg
+
+Contraindicaciones succi
+ Contraindications: personal or family history of malignant hyperthermia; likely difficult intubation or mask ventilation; known uncontrollable hyperkalemia; myopathy; chronic neuropathy/stroke; denervation illness or injury after 3 d; crush injury after 3 d; sepsis after >7 d; severe burns after 24 h
+
+
+## Descripción de procedimiento de Anestesia local. Intoxicación por anestésicos locales 
+
+existen amidas y esteres. Para diferenciar, amidas tienen 2 i, esteres 1 i en su nombre
+
+ej: amidas: lidocaína, bupivacaína. Esters: procaína, benzocaína
+
+
+Anestésicos locales, orden de bloqueo de fibras:
+1. dolor y sensación térmica
+2. tacto y propiocepción
+3. función motora
+
+Propiedades de los anestésicos locales:
+
+![propiedades_anestesicos](propiedades_anestesicos.png)
+
+Latencia depende de liposolubilidad, pKa y temperatura 
+
+A mayor pKa, mayor cantidad de AL en forma ionizada, por lo que tarda más en atravesar membrana celular.
+
+ej: 
+- pKa lidocaína 7.9 < pKa bupivacaína 8.1, por lo que lidocaína tiene menor latencia
+- coadministrar con bicarbonato aumenta pH y aumenta fracción no ionizada, disminuyendo latencia
+- coadministrar con epinefrina disminuye absorción y aumenta duración, pero como es ácida, disminuye pH y aumenta fracción ionizada, aumentando latencia
+
+A menor temperatura (ej hipotermia), pKa aumenta, por lo que aumenta latencia, queda más droga disponible para ejercer toxicidad. 
+
+Toxicidad se asocia a unión a proteínas. Mientras menos unión a prot, más libre en plasma, más disponible para efecto tóxico. Se unen 1° a glicoproteína Aa1 (proteína de fase aguda), luego a albúmina (menor afinidad). Estados de hipoalbuminemia (IRC, cirrosis, desnutrición) aumentan riesgo toxicidad. Estados inflamatorios (infección, trauma, cirugía, estado inflam crónico) aumentan glicoproteína Aa1, disminuyendo toxicidad.
+
+Datos de metabolismo para toxicidad:
+- Ésteres: metabolismo por pseudocolinesterasa, enzima no presente en LCR
+- Amidas son más estables, se pueden acumular con mayor facilidad
+- procaína y benzocaína: producen ácido paraaminobenzoico, que es super inmunogénico
+- prilocaína y benzocaína: pueden producir metahemoglobinemia
+
+
+Tipos de fibras nerviosas
+![fibras_nerviosas](fibras_nerviosas.png)
+
+datos en embarazo
+![embarazo](embarazo.png)
+
+Toxicidad sistémica lidocaína
+![toxicidad_lido](toxicidad_lido.png)
+
+Toxicidad en SNC
+1. fase excitatoria: parestesias periorales, tinnitus, confusión, convulsiones
+2. fase de depresión goblal: pérdida de conciencia -> coma -> depresión respiratoria
+
+Cardiotoxicidad.
+1. fase inicial (coincide con fase excitatoria SNC): hipertensión y taquicardia
+2. fase depresión miocárdica: caída GC e hipotensión
+3. fase de colapso: vasoplejía, colapso cardiovascular, bradicardia, alteraciones de la conducción, taquiarritmias
+
+Toxicidad SNC precede a cardiotoxicidad, salvo bupivacaína.
+
+En bupivacaína en cuanto a cardio toxicidad, además de lo anterior, tiene efecto inotrópico negativo y altera la conducción
+![toxicidad_bupi](toxicidad_bupi.png)
+
+Pacientes con mayor riesgo de toxicidad:
+- edades extremas
+- patologías cardíacas (ICC y alteraciones conducción)
+- alteración de la función hepática y renal
+- embarazadas
+
+ojo: lipidrescue.org 
+
+Recomendaciones tratamiento intoxicación sistémica por anestésicos locales que implica PCR
+
+![tto_intox_al](tto_intox_al.png)
+
+## Manejo de soporte vital básico y avanzado. 
+## Monitorización anestésica 
+## Indicaciones, contraindicaciones y complicaciones de anestesia regional y general. 
+## Manejo del dolor

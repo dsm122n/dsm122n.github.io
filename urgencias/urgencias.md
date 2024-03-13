@@ -115,3 +115,15 @@ Triada de cushing: bradicardia, hipertensión arterial y respiración irregular.
 Antídotos para intoxicaciones específicas e indicaciones
 ![antidotos](antidotos_intoxicaciones(2).jpeg)
 ![antidotos cardiovasculares](antidotos_drogas_cardiovasculares.jpeg)
+
+
+# Shock
+
+ojo si shock refractario a FLUIDOS y DROGAS, sospechar insuficiencia suprarrenal.
+
+The 5 S’s of adrenal crisis treatment are:
+- Salt (0.9% saline), 
+- Sugar (50% dextrose), 
+- Steroids (100 mg hydrocortisone IV once, then 200 mg over 24 hours), 
+- Support (normal saline to correct hypotension and electrolyte abnormalities), and
+- Search (for the underlying disorder).

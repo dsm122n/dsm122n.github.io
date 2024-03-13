@@ -206,6 +206,14 @@ Grupos tamizaje hipotiroidismo:
   - Enfermedad celíaca.
   - Vitiligo.
 
+### Suprarrenal
+
+#### Insuficiencia suprarrenal
+
+- Primary adrenal insufficiency: Pigments the skin. 
+- Secondary adrenal insufficiency Spares the skin. 
+- Tertiary adrenal insufficiency is due to Treatment (cortisol).
+
 
 ## Oftalmología
 
