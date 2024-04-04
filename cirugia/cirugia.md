@@ -1,3 +1,103 @@
+# Patologías Quirúrgicas GES
+
+| Patología | Población | Sospecha Para activación | Tiempos |
+|-----------|-----------|--------------------------|--------|
+| Gran Quemado | Todo paciente con quemaduras >20% SCQ |  |  |
+| Colecistectomía preventiva del cancer de vesícula en personas de 35 a 49 años | Todo paciente con colelitiasis |  |  |
+| Cáncer de mama | Todo paciente con sospecha de cáncer de mama |  |  |
+| Cáncer gástrico | |  |  |
+| Cáncer colorrectal en personas de 15 años y más | Todo paciente con sospecha de cáncer colorrectal |  |  |
+| Cáncer de pulmón en personas de 15 años y más | Todo paciente con sospecha de cáncer de pulmón |  |  |
+| Cáncer de tiroides en personas de 15 años y más | Todo paciente con sospecha de cáncer de tiroides |  |  |
+| Tratamiento de erradicación del H. Pylori | Todo paciente con infección por H. Pylori |  |  |
+
+
+## Gran Quemado
+Tratamiento
+- 72 horas desde confirmación diagnóstica (ingreso establecimiento de salud con capacidad resolutiva)
+- Estabilización en persona mayor a 15 años: 8 horas desde confirmación diagnóstica
+
+Seguimiento
+- Primer control dentro de 15 días desde confirmación diagnóstica
+- Rehabilitación
+    - hospitalizado 48 horas desde indicación médica
+    - Primera atención ambulatoria 15 días desde el alta hospitalaria
+    - Ayuda técnica 30 días desde indicación médica
+
+
+## Colecistectomía preventiva del cancer de vesícula en personas de 35 a 49 años
+Diagnóstico:
+- 30 días desde la sospecha diagnóstica
+- Tratamiento 90 días desde la confirmación diagnóstica
+
+## Cancer gástrico
+
+Sospecha 
+
+Plazos diagnósticos:
+- evaluación especialista 30 días después de sospecha
+- confirmación diagnóstica 30 días desde solicitud especialista
+
+Plazos terapéuticos:
+- cirugía 30 días desde confirmación diagnóstica
+- radio y quimioterapia 30 días desde la indicación médica
+
+
+
+<ol style="list-style-type: lower-roman;">
+<li>Tumor maligno del cardias</li>
+<li>Tumor maligno de oriﬁcio del cardias</li>
+<li>Tumor maligno de la unión cardioesofágica</li>
+<li>Tumor maligno de la unión gastroesofágica</li>
+<li>Tumor maligno del fundus gástrico</li>
+<li>Tumor maligno del cuerpo del estómago</li>
+<li>Tumor maligno del antro pilórico</li>
+<li>Tumor maligno del antro gástrico</li>
+<li>Tumor maligno del píloro</li>
+<li>Tumor maligno del conducto pilórico</li>
+<li>Tumor maligno del prepíloro</li>
+<li>Tumor maligno de la curvatura menor del estómago, sin otra especiﬁcación</li>
+<li>Tumor maligno de la curvatura mayor del estómago, sin otra especiﬁcación</li>
+<li>Carcinoma in situ del estómago</li>
+</ol>
+
+## Cáncer colorrectal en personas de 15 años y más
+
+Diagnóstico:
+- Diagnóstico 45 días desde sospecha diagnóstica
+- Etapificación 45 días desde la confirmación diagnóstica
+
+Tratamiento:
+- Primario y adyuvante 30 días desde indicación médica
+- Reconstrucción de transito intestinal o cierre colostomía 90 días desde indicación quirúrgica
+
+Seguimiento
+- Primer control, 90 días desde indicación médica
+
+## Cancer tiroides
+
+Diagnóstico:
+- etapificación 45 días desde confirmación diagnóstica
+- etapificación de cancer anaplásico 7 días desde confirmación diagnóstica
+
+Tratamiento:
+- Quirurgico según etapificación
+    - Cáncer diferenciado de alto riesgo y medular de tiroides 90 días desde la indicación médica
+    - Cáncer diferenciado de tiroides de riesgo intermedio 6 meses desde indicación médica
+    - Cáncer difeenciado de tiroides de bajo grado 9 meses 
+    - Cáncer anaplásico 7 días desde la indicación médica. 
+
+- Reestadificación 4 meses desde la cirugía
+- Tratamiento sistémico 60 días desde la indicación médica
+- complementario 90 días desde indicación médica
+
+Seguimiento
+- Primer control 90 días desde indicación médica
+- Rehabilitación 30 días desde indicación médica
+
+Urgencias de colon: pag pag 343 libro puc
+
+
 # CIRUGÍA GENERAL:
 ## Realiza Asepsia y antisepsia 
 ## Reconoce conceptos generales de manejo de drenajes y curación de heridas
