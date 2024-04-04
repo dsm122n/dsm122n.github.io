@@ -1,7 +1,7 @@
 # Obstetricia
 ## Síndrome hipertensivo del embarazo (SHE)
 
-<table class="api table-wrapper-wide" data-table="dGQlM0UlMjAlM0MvdHIlM0UlMEElM0MvdGJvZHklM0UlMEElM0MvdGFibGUlM0U=68417">
+<table class="table table-striped">
 <thead>
 <tr>
 <th colspan="3" scope="row"><span class="step-2-imppact2 imppact2 usmle-gs-imppact2 step-2-condensed strongImpactHighlight--qLdOc"><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed strongImpactHighlight--qLdOc"><span class="leitwort"><span class="api" data-type="anker" id="Zfd9aebb960cb304209384cac7dce777f"><span data-type="highlight" class="js-relevance-term step-1-imppact0 step-2-imppact0 imppact0 usmle-gs-imppact0" data-qxids="cI0abh;">Diagnostic criteria for hypertensive pregnancy disorders</span></span></span></span></span></th> </tr>

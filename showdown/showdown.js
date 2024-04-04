@@ -74,6 +74,18 @@ document.addEventListener('DOMContentLoaded', function() {
   })
 });
 
+const classMap = {
+  table: 'table table-striped table-bordered table-hover table-sm table-dark table-bordered border-primary',
+}
+
+const bindings = Object.keys(classMap)
+  .map(key => ({
+    type: 'output',
+    regex: new RegExp(`<${key}(.*)>`, 'g'),
+    replace: `<${key} class="${classMap[key]}" $1>`
+  }));
+
+
 function loadMD(filepath) {
   
   fetch(filepath)
@@ -82,6 +94,7 @@ function loadMD(filepath) {
       // Create a new instance of Showdown converter
       const converter = new showdown.Converter({
       tables: true,
+      extensions: [...bindings]
       });
       
       // Convert Markdown to HTML
