@@ -92,3 +92,198 @@
 </td> </tr>
 </tbody>
 </table>
+
+### Preeclampsia
+
+Hipertensión de novo presente después de las 20 semanas de gestación combinado con: 
+- proteinuria (>300 mg/día, IPC > 0.3, Dipstick 2+) o 
+- PA > **160/110 mmHg** o
+- **plaquetopenia** (< 100.000 / µl) o 
+- elevación de **transaminasas** (al doble de su valor basal) / dolor abdominal en cuadrante sup derecho o 
+- aumento de la **creatinina** sérica (> 1.1 mg/dL o el doble de su valor normal en ausencia de enfermedad renal) o 
+- **edema pulmonar** o 
+- aparición de **alteraciones cerebrales o visuales**. 
+
+En ausencia de proteinuria: hipertensión arterial junto ≥ 1 criterio de severidad de PE (en negrita). 
+
+#### Complicaciones
+
+Lo más grave: Crisis hipertensiva, Eclampsia, Síndrome HELLP
+
+Síntomas y signos premonitores de eclampsia (presentes en 50% de mujeres con PE que evolucionan a eclampsia)
+- Epigastralgia y/o dolor en hipocondrio derecho 
+- Reflejos osteotendíneos exaltados (aumento del área reflexógena y clonus) 
+- Cefalea intensa 
+- Alteraciones visuales (escotomas y fotopsias) 
+- Cambios en el estado de conciencia (estado de alerta disminuido)
+
+Maternas:
+
+| Sistema | Complicación |
+| --- | --- |
+| Cardiovascular | - **Crisis hipertensiva** <br> - Insuficiencia cardíaca |
+| Hematológico | - Coagulación intravascular diseminada (CID) <br> - Síndrome HELLP |
+| Renal | - Insuficiencia renal aguda <br> - Oliguria |
+| Neurológico | - **Eclampsia** <br> - Accidente cerebrovascular <br> - Síndrome de encefalopatía posterior reversible (PRES) |
+| Otros sistemas | - Edema pulmonar agudo (APE) <br> - Lesión hepatocelular (**HELLP**, infarto y/o rotura hepática) <br> - Lesión pulmonar aguda asociada a preeclampsia/eclampsia (PEE-ALI) (25% de los casos asociados a PE) <br> - Fallo multiorgánico y muerte |
+
+Fetales: 
+- **Restricción de crecimiento intrauterino** (RCIU)
+- DPPNI
+- Muerte fetal intrauterina
+- Prematuridad médicamente indicada
+- Muerte en período neonatal
+
+Factores de mal pronóstico en una PE (aunque no son criterios de severidad) 
+• Oliguria, definido como Diuresis < 500 mL/24h 
+• Proteinuria > 5 gr/24 h 
+• Uricemia > 10 mg/dL o elevación del ácido úrico en sangre mayor de 1 mg/dL en 24 h 
+• RCF debida a insuficiencia placentaria 
+• PE sobreagregada a una HTA crónica 
+
+#### Prevención
+
+1. Identificar riesgo según calculadoras a las 11-14 semanas
+
+A saber: PAM > 90 mm Hg en el primer trimestre se asocia con una incidencia de SHE 5 veces mayor que la del grupo de pacientes con presiones bajo este rango.
+
+Índice de pulsatilidad (IP) de las arterias uterinas: en embarazos normales, el IP es bajo, como consecuencia de la transformación de las arterias espirales (ver Placentación). En gestaciones con placentación deficiente y con alto riesgo de padecer PE (especialmente PE precoz), el IP de arterias uterinas es mayor a lo normal. El mejor momento para este tamizaje es en la <span style= "color: #21918c; font-weight: bold;" >ECO 11-14 semanas</span>. Existen tablas de IP normal y alterado de acuerdo con la edad gestacional. En la **ecografía 22-24 semanas un IP promedio mayor a 1.54** se asocia a riesgo significativamente mayor de desarrollar PE.
+
+
+
+<table>
+  <tr>
+    <th>Riesgo de PE</th>
+    <th>Factores de Riesgo</th>
+    <th>Recomendación</th>
+  </tr>
+  <tr>
+    <td>Bajo</td>
+    <td>Ninguno</td>
+    <td>-</td>
+  </tr>
+  <tr>
+    <td>Moderado</td>
+    <td>
+        <li>Nuliparidad</li>
+  <li>Obesidad (IMC > 30)</li>
+  <li>Historia familiar de PE (ej. Madre o hermana)
+
+      <li>Edad > 35 años</li>
+      <li>Embarazo mediante fertilización in vitro</li>
+      <li>Antecedentes obstétricos adversos (ej. RCF, muerte fetal in útero, más de 10 años desde el embarazo anterior)</li>
+  </li>    
+    </td>
+    <td>AAS 100 mg cada noche desde las 12-16 semanas si presenta ≥ 2 factores de riesgo moderado</td>
+  </tr>
+  <tr>
+    <td>Alto</td>
+    <td><li>Historia de PE, especialmente si tuvo resultado perinatal adverso</li>
+        <li>Embarazo múltiple</li>
+        <li>HTA Crónica</li>
+        <li>Diabetes pregestacional (tipo 1 o tipo 2)</li>
+        <li>Enfermedad renal</li>
+        <li>Enfermedad autoinmune (ej. LES, SAAF)</li></td>
+    <td>AAS 100 mg cada noche desde las 12-16 semanas</td>
+  </tr>
+</table>
+
+#### Manejo
+
+1. Medidas generales vigilancia materna y fetal: recordar régimen común (sin restricción de sal). Reposo de preferencia en decúbito lateral izquierdo. PA, FC, ROT, DU, LCF, diuresis. 
+    - Ex control compromiso parenquimatoso: severa cada 2 días, moderada cada 7 días. 
+    - Biometría cada 2 semanas y doppler arteria umbilical semanal
+
+2. Control de la PA: (meta 130-140 / 80-90)
+
+| Medicamento | Dosis | Efectos adversos | mecanismo |
+| --- | --- | --- | --- |
+| Metildopa | inicial 250 mg /12h ajustar c/48 hasta 500 mg /6h | Somnolencia, depresión, cefalea, sequedad de boca | Reduce el tono simpático central al estimular receptores alfa-2 en tronco encéfalo y así disminuye la RVS sin cambios en FC ni GC, manteniendo perfusión renal|
+| Nifedipino | 10- 20 mg VO c/8h  (max 120 mg/d)| Cefalea, rubor, palpitaciones | Antagonista de los canales de calcio dihidropiridínicos, disminuye la RVS |
+| Labetalol | 200 mg VO c/12-8h  (max 1200 mg/d) | Bradicardia, broncoespasmo, hipotensión | Bloquea receptores alfa y beta, disminuye la RVS y FC |
+
+3. Maduración pulmonar fetal (23-34s): Betametasona 12 mg IM c/24h x 2 dosis
+4. Prevención eclampsia: Sulfato de magnesio (4-6 g IV en 20 min [4 amp], luego 1-2 g/h)
+    - Propósito terapéutico: magnesemia de 4 a 8 mEq/L 
+    - Mantener hasta 24-48 horas posparto 
+    - Requiere de monitoreo frecuente de ROT, diuresis (poner sonda Foley) y frecuencia respiratoria. 
+    - Concentración terapéutica 4-7 mEq/L [5-9 mg/dL] 
+    - Concentración abolición de reflejo patelar >7 mEq/L [>9 mg/dL] 
+    - Paro respiratorio >10 mEq/L [>12mg/dL] 
+    - Paro cardiaco > 25 mEq/L [>30 mg/dL] 
+        
+        ANTIDOTO en caso de intoxicación con sulfato de magnesio: gluconato de calcio 1 g EV (1 ampolla tiene 10 cc de gluconato de calcio al 10%) 
+
+##### Eclampsia
+- Manejo: ABC
+- **Sulfato de magnesio** es el medicamento de elección para prevenir eclampsia, así como para tratar el episodio convulsivo. Solo en casos en que no se disponga del sulfato de magnesio, puede utilizarse Diazepam (dosis de 10 mg EV), el que logra controlar las convulsiones en el 80% de los casos.
+- La **interrupción del embarazo NO debe realizarse de emergencia**. Esta se efectúa una vez controlado el cuadro convulsivo y recuperada la conciencia de la paciente. Si < 28 sem, diferir 48h para maduración pulmonar.
+- Manejo crisis hipertensiva
+- Lab, control signología neuro, puede requerir PL o TAC si hay sospecha de hemorragia cerebral
+- **Status convulsivo**: considerar el uso de anestesia general e interrupción del embarazo.  
+
+##### Crisis Hipertensiva
+PAD > 110 mm Hg y/o PAS > 160 mm Hg
+
+Riesgo: ACV y DPPNI.
+
+Metas: PAS entre 140-155 y PAD: 90-105.
+
+- Labetalol 20-40 mg EV cada 20 minutos (1 mg/min). 1 ampolla de 20 mL equivale a 100 mg (medicamento de elección). Lo habitual es que la paciente responda apropiadamente con la primera dosis. En algunos centros se utilizan protocolos con dosis crecientes de labetalol cada 20 minutos: 20 mg – 40 mg – 80 mg. Contraindicado en pacientes con asma, insuficiencia cardiaca o bloqueo AV. Dosis máxima: 300 mg.  Su acción se inicia < 5 minutos y dura entre 3-6 h. Efectos adverso: cefalea, debilidad, mareos, hipotensión postural y somnolencia. Se puede dejar dosis de mantención en BIC en dosis de 1-4 mg /min. 
+- Nifedipino 20 mg VO cada 20 minutos (de segunda elección). Se debe tener precaución que el nifedipino no sea su forma “retard”, dado que éstos alcanzan peak plasmático a las 6 horas. El nifedipino inicia su efecto en 5-10 minutos. No usar vía sublingual por riesgo de hipotensión severa. 
+- Hidralazina EV, en bolos de 5 mg cada 20 minutos hasta 20-30 mg en total. Puede administrarse en infusión titulada de 5-10 mg/h. o Si la crisis hipertensiva no cede o recurre frecuentemente debe interrumpirse el embarazo.
+
+##### HELLP
+<span style= "color: #5ec962; font-weight: bold;" >Dolor </span> de epigastrio e hipocondrio derecho este diagnóstico debe tenerse en mente. Otros síntomas clásicos son náuseas, vómitos, compromiso estado general, cefalea, decaimiento.
+
+Indicación de <span style= "color: #5ec962; font-weight: bold;" >interrupción inmediata del embarazo</span>.
+
+<span style= "color: #5ec962; font-weight: bold;" >Corticoides</span> (dexametasona en dosis más altas que para madurez fetal) disminuye el compromiso funcional hepático, pero su efecto en el aumento de los niveles plaquetarios es transitorio. El uso de Dexametasona en dosis de 8-10mg ev c/12 h se recomienda en persistencia de la enfermedad > 48 h posparto
+
+Trombocitopenia posparto se ha recomendado como última línea la <span style= "color: #5ec962; font-weight: bold;" >plasmaféresis</span>; en pacientes con < 50.000 plaquetas o en pacientes con falla de 2 sistemas
+
+- La <span style= "color: #440154; font-weight: bold;" >hemorragia cerebral</span> es la causa más importante de muerte materna; el principal predictor de su aparición es el nivel de presión arterial sistólica. 
+- Complicaciones fetales se relacionan principalmente con la prematurez originada en la necesidad de interrupción del embarazo, además de trombocitopenia y muerte fetal.
+
+
+| Criterio | Descripción |
+|---|---|
+| Hemólisis | Esquistocitos en el frotis sanguíneo, Hiperbilirrubinemia |
+| Elevación de enzimas hepáticas | SGOT > 72 UI/L, LDH > 600 UI/L |
+| Plaquetas bajas | Trombocitopenia < 100.000/mm^3 |
+
+**Nota:**: HELLP parcial Cumple 2 de 3 criterios.
+
+##### Hematoma subcapsular hepático
+mortalidad materna del 59% y perinatal del 62%.
+
+Clínica es el <span style= "color: #5ec962; font-weight: bold;" >dolor epigástrico</span> intenso o persistente por horas, <span style= "color: #5ec962; font-weight: bold;" >omalgia</span> en algunos casos y/o shock hipovolémico. El diagnóstico se confirma con <span style= "color: #21918c; font-weight: bold;" >TAC o ultrasonido</span>
+
+Hematoma no roto tto conservador
+
+Hematoma roto tto quirúrgico con laparotomía
+
+
+### Hipertensión crónica en el embarazo
+
+| Medicamento | Dosis diaria | Notas |
+|---|---|---|
+| Alfa Metil Dopa* | 500-2.000 mg/día | Pocos efectos colaterales, mucha experiencia en su uso; es el tratamiento de primera elección. |
+| Hidralazina | 50-200 mg/día | - |
+| Labetalol** | 100-400 mg/día | Tratamiento de segunda línea. |
+| Atenolol** | 50-200 mg/día | Tratamiento de segunda línea. |
+| Nifedipino | 10-30 mg/día | - | 
+
+| Cuadro clínico | Momento interrupción |
+|---|---|
+| HTA crónica, sin necesidad de uso de hipotensores y PA en rango 140/90 mm Hg | 40 semanas |
+| HTA crónica con requerimiento de hipotensores | 37-38 semanas |
+| HTA crónica severa, HTA crónica de mal control, HTA crónica con compromiso de parénquimas y especialmente PE sobre agregada | 34-35 semanas |
+
+## Semanas de Interrupción de la Gestación
+
+| Situación clínica | Semanas de Interrupción |
+| --- | --- |
+| PE leve | 37 semanas |
+| PE severa | 34 semanas |
+| 
