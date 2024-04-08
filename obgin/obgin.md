@@ -287,3 +287,251 @@ Hematoma roto tto quirúrgico con laparotomía
 | PE leve | 37 semanas |
 | PE severa | 34 semanas |
 | 
+
+## Cosas a revisar de embarazada
+
+**Conocer caso**
+1. Multipara/nulipara/primigesta (GPA)
+    - Si multípara, de embarazos previos conocer 
+        1. RNT/RNPT, pesos aprox, 
+        2. complicaciones, 
+        3. tipo de parto
+2. Edad materna
+3. Edad gestacional (según FUR acorde (si FUR segura, confiable y diferencia aceptable con FURop) o FURop)
+4. CCA / Antecedente de CCA
+5. **Diagnóstico de hospitalización** e historia clínica
+6. Otros antecedentes
+    - Maternos
+    - Complicaciones/hospitalizaciones embarazo actual
+
+**Revisar en ficha:**
+1. **Ecografías** previas:
+
+| 11-14 semanas | 22-24 semanas | 30-34 semanas |
+| --- | --- | --- |
+| Biometría | Biometría | Biometría |
+| Vitalidad (LCF) | Anatomía | Ubicación placentaria |
+| Riesgo de aneuploidías (Translucencia nucal, Hueso nasal, Velocimetría doppler de Ductus venoso, Insuficiencia tricuspidea)| Marcadores aneuploidías ( Pliegue nucal >7mm Ventriculomegalia Foco hiperecogénico en corazón Pielectasia renal Intestino hiperecogénico Acortamiento de huesos largos Acortamiento de falange (clinodactilia)) | Líquido amniótico |
+| **Dpppler a. Uterinas** (Riesgo preeclampsia y RCIU) | **Doppler arterias uterinas, umbilicales y cerebrales medias** | Presentación |
+| anatomía gruesa fetal | Funcional: **Cervix y doppler** arterias uterinas |  |
+| número de fetos y corionicidad |  |  |
+
+2. Exámenes de laboratorio e img
+
+3. De ingreso conocer:
+- EF completo, incluyendo 
+    - Especuloscopía
+    - TV: Borramiento (2 cm = 100%), Dilatación cervical (max 10 cm), Consistencia (duro, intermedio o blando), Posición (posterior, semicentrado/intermedio, centrado/anterior)
+- Eco de ingreso
+
+De terapia de enfermería revisar:
+- **Control de signos vitales** (PA, FC, FR, T°)
+- Monitoreo obstétrico (LCF, contracciones, dinámica uterina)
+- RBNE (1 o dos veces por semana)
+- Diuresis, depos
+
+Revisar ultima eco obstétrica en ARO, se les suele hacer control cada 14 días.
+
+
+## Presentación de caso en visita
+1. Diagnósticos: 
+    - Multipara/nulipara/primigesta (GPA)
+    - Edad materna
+    - Edad gestacional 
+    - CCA / Antecedente de CCA
+    - Diagnóstico de hospitalización
+    - Otros antecedentes (maternos y fetales)
+2. Historia actual
+3. Hallazgos al ingreso, diagnóstico y manejo inicia
+4. Estado actual
+5. Planes
+
+
+## Datos para no olvidar
+
+Edad gestacional
+- FUR **segura** es aquella en que la paciente recuerda con precisión la fecha.  
+- FUR confiable es aquella que predice confiablemente que desde la menstruación hasta la ovulación pasaron 15 días.  Los casos más usuales en que la FUR no es confiable son: 
+    - Ciclos irregulares 
+    - Uso de ACO en los últimos 3 meses 
+    - Amenorrea por otra causa (Ej. lactancia)
+
+- Primigestas sienten los movimientos fetales desde las 20 semanas en adelante, en cambio, las multíparas usualmente los perciben desde las 18 semanas. 
+
+Examen obstétrico abdominal (tamaño uterino) 
+- 12 semanas: la parte superior del útero es palpable en la región suprapúbica. 
+- 16 semanas: el fondo uterino se encuentra a mitad de la distancia entre el ombligo y el pubis. 
+- 20 semanas: el fondo uterino se encuentra a la altura del ombligo. 
+- Mayor a 20 semanas: es posible medir la altura uterina. Existen tablas que permiten conocer el promedio de altura uterina para cada edad gestacional. La medición de la altura uterina podría servir para sospechar la edad gestacional, en ausencia de otros elementos.  
+
+Auscultación de LCF 
+- Desde las 12 semanas con el Doppler fetal. 
+- Desde las 20 semanas con estetoscopio de Pinard.
+
+Valores útiles para EG:
+| estructura | EG |
+| --- | --- |
+| Saco gestacional | visible desde las 4 1/2 semanas |
+| Saco vitelino | visible desde las 5 semanas |
+| Embrión | visible desde las 5 1/2 semanas |
+| LCN 3 mm | 6 semanas |
+| LCN 10 mm | 7 semanas |
+| LCN 16 mm | 8 semanas |
+| LCN 23 mm | 9 semanas |
+
+
+| Rango de Edad Gestacional | Parámetro Biométrico | Discrepancia que Requiere Calcular |
+|---|---|---|
+| ≤ 8+6 | LCN | >= 5 días |
+| 9+0 - 13+6 | DBP, CC, CA, LF | > 7 días |
+| 14+0 - 15+6 | DBP, CC, CA, LF | > 7 días |
+| 16+0 - 21+6 | DBP, CC, CA, LF | > 10 días |
+| 22+0 - 27+6 | DBP, CC, CA, LF | > 14 días |
+| ≥ 28+0 | DBP, CC, CA, LF | > 21 días |
+
+**Leyenda:**
+
+* LCN = Longitud céfalo nalgas
+* DBP = Diámetro biparietal
+* CC = Circunferencia craneana
+* CA = Circunferencia abdominal
+* LF = Longitud femoral
+
+
+
+# Ginecología
+
+## Sangrado uterino anormal
+
+Sangrado uterino normal:
+- Intervalos regulares con una variación menor o igual a 7-9 días.  
+- Frecuencia de ciclo: entre 24-38 días.   
+- Duración: de hasta 8 días. 
+- Volumen: Menor a 80 ml, pero que clínicamente no altera la calidad de vida.  
+
+Se puede acompañar de síntomas premenstruales, como cambios de humor, mastodinia, distensión abdominal, dismenorrea, cambios en el moco cervical y cambios en la temperatura. Estos síntomas permiten reconocer que la menstruación fue ovulatoria. 
+
+
+<table class="api table-wrapper-wide" data-table="dGQlM0UlMjAlM0MvdHIlM0UlMEElM0MvdGJvZHklM0UlMEElM0MvdGFibGUlM0U=39857">
+<thead>
+<tr>
+<th colspan="4" scope="row"> <span class="leitwort">Characteristics and causes of <a data-phrasegroup-id="rrbfiE" class="api tooltip__link link--same-article" data-type="link" data-anker="Z423d73a9f8f7ebab62e66770d5cf0175" data-learningcard-id="Ek08pT" data-lxid="Ek08pT" data-section-id="hDXcVZ0" data-sxid="hDXcVZ0" data-title="VGhlIG1lbnN0cnVhbCBjeWNsZSBhbmQgbWVuc3RydWFsIGN5Y2xlIGFibm9ybWFsaXRpZXMg4oaSIEFibm9ybWFsIHV0ZXJpbmUgYmxlZWRpbmc=" id="L90782110e5d92502a6be7ba48f60f745" data-source="L90782110e5d92502a6be7ba48f60f745" href="/us/article/Ek08pT#Z423d73a9f8f7ebab62e66770d5cf0175">AUB</a> according to <span data-phrasegroup-id="OQ0Iwf" data-type="bonus" class="api dictionary" data-content="PGk+QWJicmV2aWF0aW9uOiBGSUdPPC9pPg==" id="Lf54202ea86be712e4eaa3a6925ae3ba3" data-source="Lf54202ea86be712e4eaa3a6925ae3ba3">FIGO</span></span> <sup data-type="Reference" data-eid="-YXD79" data-page="393–408" data-cmt="">[15]</sup>
+</th> </tr>
+<tr>
+<th scope="row"><span class="leitwort">Characteristic</span></th> <th scope="col"><span class="leitwort">Normal parameters</span></th> <th scope="col"><span class="leitwort">Abnormal parameters</span></th> <th scope="col"><span class="leitwort">Common causes</span></th> </tr>
+</thead>
+<tbody>
+<tr>
+<th colspan="1" rowspan="3" scope="row"> <div><span class="leitwort">Frequency</span></div> </th> <td colspan="1" rowspan="3"> <ul>
+<li><span class="nowrap">≥ 24–38 days</span></li> </ul>
+</td> <td> <ul>
+<li>Absent (no bleeding): <a data-phrasegroup-id="x2bEPG" class="api tooltip__link link--same-article" data-type="link" data-anker="Z7b9bb3ba1e4052f4e3782e257cfac8fe" data-learningcard-id="Ek08pT" data-lxid="Ek08pT" data-section-id="SDXydZ0" data-sxid="SDXydZ0" data-title="VGhlIG1lbnN0cnVhbCBjeWNsZSBhbmQgbWVuc3RydWFsIGN5Y2xlIGFibm9ybWFsaXRpZXMg4oaSIEFtZW5vcnJoZWEgKG1lbnN0cnVhbCBjZXNzYXRpb24p" id="L95f2c37e97f0d7ca157a38d136cd0d05" data-source="L95f2c37e97f0d7ca157a38d136cd0d05" href="/us/article/Ek08pT#Z7b9bb3ba1e4052f4e3782e257cfac8fe">amenorrhea</a>
+</li> </ul>
+</td> <td> <ul>
+<li>See “<span class="linksuggest"><a data-phrasegroup-id="x2bEPG" class="api tooltip__link link--same-article" data-type="link" data-anker="Z7b9bb3ba1e4052f4e3782e257cfac8fe" data-learningcard-id="Ek08pT" data-lxid="Ek08pT" data-section-id="SDXydZ0" data-sxid="SDXydZ0" data-title="VGhlIG1lbnN0cnVhbCBjeWNsZSBhbmQgbWVuc3RydWFsIGN5Y2xlIGFibm9ybWFsaXRpZXMg4oaSIEFtZW5vcnJoZWEgKG1lbnN0cnVhbCBjZXNzYXRpb24p" id="L63c5a1fa417daa0c6279b1e580cba3d8" data-source="L63c5a1fa417daa0c6279b1e580cba3d8" href="/us/article/Ek08pT#Z7b9bb3ba1e4052f4e3782e257cfac8fe">Amenorrhea</a></span>” above.</li> </ul>
+</td> </tr>
+<tr>
+<td> <ul>
+<li>Infrequent: cycles intervals <span class="nowrap">&gt; 38 days</span> (formerly known as <span class="api" data-type="anker" id="Zb78cf0cd98bc85f103a2f3fba0d45e98">oligomenorrhea</span>)</li> </ul>
+</td> <td> <ul>
+<li>
+<span class="linksuggest"><a data-phrasegroup-id="MM0M6g" class="api tooltip__link" data-type="link" data-anker="Zeba6f488931dd463917047bb9c5f18f4" data-learningcard-id="dO0orT" data-lxid="dO0orT" data-title="UHJlZ25hbmN5" id="L8d7026099ce89fcc7389b2c1b309fac2" data-source="L8d7026099ce89fcc7389b2c1b309fac2" href="/us/article/dO0orT#Zeba6f488931dd463917047bb9c5f18f4">Pregnancy</a></span> (including <a data-phrasegroup-id="KM0Upg" class="api tooltip__link" data-type="link" data-anker="Z6ef0a96f067b4080a8b0db4679612a4c" data-learningcard-id="fO0k7T" data-lxid="fO0k7T" data-title="RWN0b3BpYyBwcmVnbmFuY3k=" id="Lcfb8e999159586417147bf58f43930c7" data-source="Lcfb8e999159586417147bf58f43930c7" href="/us/article/fO0k7T#Z6ef0a96f067b4080a8b0db4679612a4c">ectopic pregnancy</a>)</li> <li><span class="linksuggest"><a data-phrasegroup-id="Xn097g" class="api tooltip__link" data-type="link" data-anker="Zbd81e7bf0ad319fff0a5830a22d12550" data-learningcard-id="AO0RET" data-lxid="AO0RET" data-title="UG9seWN5c3RpYyBvdmFyeSBzeW5kcm9tZQ==" id="L61f0e40bc0b328c99d5b2cf7cc0d55f3" data-source="L61f0e40bc0b328c99d5b2cf7cc0d55f3" href="/us/article/AO0RET#Zbd81e7bf0ad319fff0a5830a22d12550">PCOS</a></span></li> <li>Insufficient caloric intake (e.g., due to <a data-phrasegroup-id="Fm0ghg" class="api tooltip__link" data-type="link" data-anker="Z5537c77b84671ba0eb45ab8a710a3f38" data-learningcard-id="Et0823" data-lxid="Et0823" data-title="QW5vcmV4aWEgbmVydm9zYQ==" id="L668c9d319afcaa9ede7777e35dc28b7b" data-source="L668c9d319afcaa9ede7777e35dc28b7b" href="/us/article/Et0823#Z5537c77b84671ba0eb45ab8a710a3f38">anorexia nervosa</a>)</li> <li><span class="linksuggest"><a data-phrasegroup-id="9P0NST" class="api tooltip__link" data-type="link" data-anker="Z7efc7350132a2f2a3e4cc7763e7f07f8" data-learningcard-id="bg0HF2" data-lxid="bg0HF2" data-section-id="Ol1ICS0" data-sxid="Ol1ICS0" data-title="SHlwZXJ0aHlyb2lkaXNtIGFuZCB0aHlyb3RveGljb3NpcyDihpIgRGVmaW5pdGlvbg==" id="Lb0b3f8a53975e20edacec4796df442da" data-source="Lb0b3f8a53975e20edacec4796df442da" href="/us/article/bg0HF2#Z7efc7350132a2f2a3e4cc7763e7f07f8">Hyperthyroidism</a></span></li> <li><span class="linksuggest"><a data-phrasegroup-id="bSaHyP" class="api tooltip__link" data-type="link" data-anker="Z4905b81ddbe89e29dbc3170d7240cd9c" data-learningcard-id="BO0zuT" data-lxid="BO0zuT" data-section-id="gPbFVF" data-sxid="gPbFVF" data-title="TWVub3BhdXNlIOKGkiBEZWZpbml0aW9u" id="L12498b42a72c7bd72acca95d5156573d" data-source="L12498b42a72c7bd72acca95d5156573d" href="/us/article/BO0zuT#Z4905b81ddbe89e29dbc3170d7240cd9c">Perimenopause</a></span></li> </ul>
+</td> </tr>
+<tr>
+<td> <ul>
+<li>Frequent: cycles intervals <span class="nowrap">&lt; 24 days</span> (formerly known as <span class="api" data-type="anker" id="Z775abb030074924175d6961d06d8a721">polymenorrhea</span>)</li> </ul>
+</td> <td> <ul>
+<li><a data-phrasegroup-id="VSYGAo" class="api tooltip__link" data-type="link" data-anker="Zfeb94cb1080f304c1140c5b7f3b94d2b" data-learningcard-id="PM0WKg" data-lxid="PM0WKg" data-section-id="fLckC10" data-sxid="fLckC10" data-title="UHViZXJ0eSDihpIgTm9ybWFsIHB1YmVydHk=" id="L96f9606120888d74f30b1461dd96e538" data-source="L96f9606120888d74f30b1461dd96e538" href="/us/article/PM0WKg#Zfeb94cb1080f304c1140c5b7f3b94d2b">Menarche</a></li> <li><span class="linksuggest"><a data-phrasegroup-id="bSaHyP" class="api tooltip__link" data-type="link" data-anker="Z4905b81ddbe89e29dbc3170d7240cd9c" data-learningcard-id="BO0zuT" data-lxid="BO0zuT" data-section-id="gPbFVF" data-sxid="gPbFVF" data-title="TWVub3BhdXNlIOKGkiBEZWZpbml0aW9u" id="L3349ef762f7ed0af163338f4d027c192" data-source="L3349ef762f7ed0af163338f4d027c192" href="/us/article/BO0zuT#Z4905b81ddbe89e29dbc3170d7240cd9c">Perimenopause</a></span></li> <li>Psychological stress</li> </ul>
+</td> </tr>
+<tr>
+<th scope="row"> <div><span class="leitwort">Regularity</span></div> </th> <td> <ul>
+<li>Variation between shortest and longest cycle (<span class="nowrap">7–9 days</span>) or normal cycle length <span class="nowrap">± 4 days</span> <span class="condensed-hidden"><span class="api explanation" data-type="bonus" data-content="PHNwYW4gY2xhc3M9ImFwaSIgZGF0YS10eXBlPSJsaW5rIiBkYXRhLWFua2VyPSJaNjRkYzg3NWM4YTcyMzlmM2UwMTYyOGNmNzE3YzZiZDciIGRhdGEtbGVhcm5pbmdjYXJkLWlkPSJFazA4cFQiIGRhdGEtbHhpZD0iRWswOHBUIiBkYXRhLXNlY3Rpb24taWQ9ImZEWGtkWjAiIGRhdGEtc3hpZD0iZkRYa2RaMCIgZGF0YS10aXRsZT0iVkdobElHMWxibk4wY25WaGJDQmplV05zWlNCaGJtUWdiV1Z1YzNSeWRXRnNJR041WTJ4bElHRmlibTl5YldGc2FYUnBaWE1nNG9hU0lGQm9lWE5wYjJ4dloza2diMllnZEdobElHMWxibk4wY25WaGJDQmplV05zWlE9PSIgaWQ9Ikw3NTYxZGQzMWZjOGVhMDYyYjI0Y2EzNWJmOTViOTViMCIgZGF0YS1zb3VyY2U9Ikw3NTYxZGQzMWZjOGVhMDYyYjI0Y2EzNWJmOTViOTViMCI+TWVuc3RydWFsIGN5Y2xlPC9zcGFuPiBsZW5ndGggcmVmZXJzIHRvIHRoZSBudW1iZXIgb2YgZGF5cyBmcm9tIHRoZSBzdGFydCBvZiBhIHBlcmlvZCB1bnRpbCB0aGUgc3RhcnQgb2YgdGhlIG5leHQgcGVyaW9kLiBWYXJpYXRpb25zIHRlbmQgdG8gaW5jcmVhc2Ugd2l0aCBhZ2UuCg==" id="E097b0c8f0225f274598f413823859c3c"><span class="inline-icon">
+
+</span></span></span> </li> </ul>
+</td> <td> <ul>
+<li>Irregular <ul>
+<li>Variation between shortest and longest cycle <span class="nowrap">≥ 8–10 days</span> (the amount of variation considered normal depends on the individual)</li> </ul>
+</li> </ul>
+</td> <td> <ul>
+<li><a data-phrasegroup-id="Xn097g" class="api tooltip__link" data-type="link" data-anker="Zbd81e7bf0ad319fff0a5830a22d12550" data-learningcard-id="AO0RET" data-lxid="AO0RET" data-title="UG9seWN5c3RpYyBvdmFyeSBzeW5kcm9tZQ==" id="L831a94d95dcada8ae48bc1a82bf3f343" data-source="L831a94d95dcada8ae48bc1a82bf3f343" href="/us/article/AO0RET#Zbd81e7bf0ad319fff0a5830a22d12550">PCOS</a></li> <li><span class="linksuggest"><a data-phrasegroup-id="bSaHyP" class="api tooltip__link" data-type="link" data-anker="Z4905b81ddbe89e29dbc3170d7240cd9c" data-learningcard-id="BO0zuT" data-lxid="BO0zuT" data-section-id="gPbFVF" data-sxid="gPbFVF" data-title="TWVub3BhdXNlIOKGkiBEZWZpbml0aW9u" id="Lc754d3e941d8bca4aa39d814e8eb4ed1" data-source="Lc754d3e941d8bca4aa39d814e8eb4ed1" href="/us/article/BO0zuT#Z4905b81ddbe89e29dbc3170d7240cd9c">Perimenopause</a></span></li> </ul>
+</td> </tr>
+<tr>
+<th scope="row"> <div><span class="leitwort">Duration</span></div> </th> <td> <ul>
+<li><span class="nowrap">≤ 8 days</span></li> </ul>
+</td> <td> <ul>
+<li>Prolonged: <span class="nowrap">&gt; 8 days</span>
+</li> </ul>
+</td> <td> <ul>
+<li><span class="linksuggest"><a data-phrasegroup-id="OM0IKg" class="api tooltip__link" data-type="link" data-anker="Z633903c447faa894b7cedd95c078b4fd" data-learningcard-id="-k0DqT" data-lxid="-k0DqT" data-title="RW5kb21ldHJpb3Npcw==" id="L0f5d2343ecad5f4a327d472cb86eec74" data-source="L0f5d2343ecad5f4a327d472cb86eec74" href="/us/article/-k0DqT#Z633903c447faa894b7cedd95c078b4fd">Endometriosis</a></span></li> <li><span class="linksuggest"><a data-phrasegroup-id="cHba6E" class="api tooltip__link" data-type="link" data-anker="Z0ca58253632bb757248bb5b4a3244d40" data-learningcard-id="UJ0btS" data-lxid="UJ0btS" data-section-id="9zcNEU0" data-sxid="9zcNEU0" data-title="QmVuaWduIGFuZCBwcmVtYWxpZ25hbnQgbGVzaW9ucyBvZiB0aGUgZW5kb21ldHJpdW0g4oaSIEVuZG9tZXRyaWFsIGh5cGVycGxhc2lh" id="L1c42c66a7969ff9dfda6ff676bfc5248" data-source="L1c42c66a7969ff9dfda6ff676bfc5248" href="/us/article/UJ0btS#Z0ca58253632bb757248bb5b4a3244d40">Endometrial hyperplasia</a></span></li> <li><span class="linksuggest"><a data-phrasegroup-id="NM0-Kg" class="api tooltip__link" data-type="link" data-anker="Zae6b43f6d0cfb98641d08a14ebaf922c" data-learningcard-id="0O0eIT" data-lxid="0O0eIT" data-title="RW5kb21ldHJpYWwgY2FuY2Vy" id="L7d5c8882c37dec70819cdcb0a3d1bc9f" data-source="L7d5c8882c37dec70819cdcb0a3d1bc9f" href="/us/article/0O0eIT#Zae6b43f6d0cfb98641d08a14ebaf922c">Endometrial cancer</a></span></li> </ul>
+</td> </tr>
+<tr>
+<th colspan="1" rowspan="2" scope="row"> <div><span class="leitwort">Volume</span></div> </th> <td colspan="1" rowspan="2"> <ul>
+<li>Determined by the patient</li> </ul>
+</td> <td> <ul>
+<li>
+<a data-phrasegroup-id="x2aEPP" class="api tooltip__link link--same-article" data-type="link" data-anker="Z24ebd11d039927bf8de42a80c421175c" data-learningcard-id="Ek08pT" data-lxid="Ek08pT" data-section-id="hDXcVZ0" data-sxid="hDXcVZ0" data-title="VGhlIG1lbnN0cnVhbCBjeWNsZSBhbmQgbWVuc3RydWFsIGN5Y2xlIGFibm9ybWFsaXRpZXMg4oaSIEFibm9ybWFsIHV0ZXJpbmUgYmxlZWRpbmc=" id="La236af0b3ba088ff48345447dffced7f" data-source="La236af0b3ba088ff48345447dffced7f" href="/us/article/Ek08pT#Z24ebd11d039927bf8de42a80c421175c">Light menstruation</a> (formerly known as <span class="api" data-type="anker" id="Z24ebd11d039927bf8de42a80c421175c">hypomenorrhea</span>)</li> </ul>
+</td> <td> <ul>
+<li>
+<a data-phrasegroup-id="vjXAXy" class="api tooltip__link" data-type="link" data-anker="Z35fc608984a172f7b06b0a5f7fb12522" data-learningcard-id="O60IOS" data-lxid="O60IOS" data-section-id="xFcE4V0" data-sxid="xFcE4V0" data-title="RmVtYWxlIHJlcHJvZHVjdGl2ZSBvcmdhbnMg4oaSIFV0ZXJ1cyBhbmQgY2Vydml4" id="Lb863fcba43a7a36c9bd56793b674ebf2" data-source="Lb863fcba43a7a36c9bd56793b674ebf2" href="/us/article/O60IOS#Z35fc608984a172f7b06b0a5f7fb12522">Endometrial</a> <a data-phrasegroup-id="dwYo3r" class="api tooltip__link" data-type="link" data-anker="Za78e93e8d8af6655bfa6f64569ad19e2" data-learningcard-id="VP0GdT" data-lxid="VP0GdT" data-section-id="aFXQg-" data-sxid="aFXQg-" data-title="Q2VsbHVsYXIgY2hhbmdlcyBhbmQgYWRhcHRpdmUgcmVzcG9uc2VzIOKGkiBDZWxsdWxhciBhZGFwdGF0aW9u" id="Lf1afbab588f681b387876c7179fe7e10" data-source="Lf1afbab588f681b387876c7179fe7e10" href="/us/article/VP0GdT#Za78e93e8d8af6655bfa6f64569ad19e2">atrophy</a>
+</li> <li>
+<span class="linksuggest"><a class="api" data-type="link" data-anker="Z9ae7b7ae2f4f3fc6861b417211e3a4e5" data-learningcard-id="GP0BTT" data-lxid="GP0BTT" data-title="T3ZlcnZpZXcgb2YgZWF0aW5nIGRpc29yZGVycw==" id="L614ddee67d67146bcb948c815f29835d" data-source="L614ddee67d67146bcb948c815f29835d" href="/us/article/GP0BTT#Z9ae7b7ae2f4f3fc6861b417211e3a4e5">Eating disorders</a></span> (e.g., <span class="linksuggest"><a data-phrasegroup-id="Fm0ghg" class="api tooltip__link" data-type="link" data-anker="Z5537c77b84671ba0eb45ab8a710a3f38" data-learningcard-id="Et0823" data-lxid="Et0823" data-title="QW5vcmV4aWEgbmVydm9zYQ==" id="L7cdf2c4ed94a411b066d63cf4a4e637e" data-source="L7cdf2c4ed94a411b066d63cf4a4e637e" href="/us/article/Et0823#Z5537c77b84671ba0eb45ab8a710a3f38">anorexia nervosa</a></span>)</li> <li>Chronic <a data-phrasegroup-id="IyaYgM" class="api tooltip__link link--same-article" data-type="link" data-anker="Zf8e1decd77cd3c6b37f3d2ffebf3dbba" data-learningcard-id="Ek08pT" data-lxid="Ek08pT" data-section-id="OKcIgW0" data-sxid="OKcIgW0" data-title="VGhlIG1lbnN0cnVhbCBjeWNsZSBhbmQgbWVuc3RydWFsIGN5Y2xlIGFibm9ybWFsaXRpZXMg4oaSIERpZmZlcmVudGlhbCBkaWFnbm9zaXMgYW5kIHRyZWF0bWVudCBvZiBkeXNtZW5vcnJoZWEgYW5kIGFibm9ybWFsIHV0ZXJpbmUgYmxlZWRpbmc=" id="L8dab1f3b0162ce1f8c5f0b18574e33ac" data-source="L8dab1f3b0162ce1f8c5f0b18574e33ac" href="/us/article/Ek08pT#Zf8e1decd77cd3c6b37f3d2ffebf3dbba">endometritis</a>
+</li> <li>
+<a data-phrasegroup-id="Dla1_k" class="api tooltip__link" data-type="link" data-anker="Z899aa9dfd6a8c31255c1b74109423c32" data-learningcard-id="rt0fU3" data-lxid="rt0fU3" data-section-id="uKWpRm0" data-sxid="uKWpRm0" data-title="Q29udHJhY2VwdGlvbiDihpIgSG9ybW9uYWwgY29udHJhY2VwdGlvbg==" id="Lb86669a1d981360ae7504b09f7201acc" data-source="Lb86669a1d981360ae7504b09f7201acc" href="/us/article/rt0fU3#Z899aa9dfd6a8c31255c1b74109423c32">OCP</a> use</li> </ul>
+</td> </tr>
+<tr>
+<td> <ul>
+<li>
+<span class="step-2-imppact2 imppact2 usmle-gs-imppact2 step-2-condensed strongImpactHighlight--qLdOc"><span class="api" data-type="anker" id="Z1744486730a94438b46e1a8de9d14587"><span data-type="highlight" class="js-relevance-term step-1-imppact0 step-2-imppact0 imppact0 usmle-gs-imppact0" data-qxids="NEa-Dm;">Heavy menstrual bleeding</span></span><span data-type="highlight" class="js-relevance-term step-1-imppact0 step-2-imppact0 imppact0 usmle-gs-imppact0" data-qxids="NEa-Dm;">: excessive blood loss that interferes with physical, social, and/or emotional quality of life</span></span> <span class="condensed-hidden"><span class="api explanation" data-type="bonus" data-content="Rm9ybWVybHkga25vd24gYXMgPHNwYW4gZGF0YS1waHJhc2Vncm91cC1pZD0iOTJhTlBQIiBjbGFzcz0iYXBpIiBkYXRhLXR5cGU9ImxpbmsiIGRhdGEtYW5rZXI9IloxNzQ0NDg2NzMwYTk0NDM4YjQ2ZTFhOGRlOWQxNDU4NyIgZGF0YS1sZWFybmluZ2NhcmQtaWQ9IkVrMDhwVCIgZGF0YS1seGlkPSJFazA4cFQiIGRhdGEtc2VjdGlvbi1pZD0iaERYY1ZaMCIgZGF0YS1zeGlkPSJoRFhjVlowIiBkYXRhLXRpdGxlPSJWR2hsSUcxbGJuTjBjblZoYkNCamVXTnNaU0JoYm1RZ2JXVnVjM1J5ZFdGc0lHTjVZMnhsSUdGaWJtOXliV0ZzYVhScFpYTWc0b2FTSUVGaWJtOXliV0ZzSUhWMFpYSnBibVVnWW14bFpXUnBibWM9IiBpZD0iTDVmOTAxYWIwNmU2ZGFmYTMzOTJiODk2NWY0NWFmYzZiIiBkYXRhLXNvdXJjZT0iTDVmOTAxYWIwNmU2ZGFmYTMzOTJiODk2NWY0NWFmYzZiIj5oeXBlcm1lbm9ycmhlYTwvc3Bhbj4gb3IgPHNwYW4gZGF0YS1waHJhc2Vncm91cC1pZD0iOTJhTlBQIiBjbGFzcz0iYXBpIiBkYXRhLXR5cGU9ImxpbmsiIGRhdGEtYW5rZXI9IloxNzQ0NDg2NzMwYTk0NDM4YjQ2ZTFhOGRlOWQxNDU4NyIgZGF0YS1sZWFybmluZ2NhcmQtaWQ9IkVrMDhwVCIgZGF0YS1seGlkPSJFazA4cFQiIGRhdGEtc2VjdGlvbi1pZD0iaERYY1ZaMCIgZGF0YS1zeGlkPSJoRFhjVlowIiBkYXRhLXRpdGxlPSJWR2hsSUcxbGJuTjBjblZoYkNCamVXTnNaU0JoYm1RZ2JXVnVjM1J5ZFdGc0lHTjVZMnhsSUdGaWJtOXliV0ZzYVhScFpYTWc0b2FTSUVGaWJtOXliV0ZzSUhWMFpYSnBibVVnWW14bFpXUnBibWM9IiBpZD0iTDJmZDJlNmNlY2NlMjczODQ5ODMzOGVkYzFmMDhiZmVjIiBkYXRhLXNvdXJjZT0iTDJmZDJlNmNlY2NlMjczODQ5ODMzOGVkYzFmMDhiZmVjIj5tZW5vcnJoYWdpYTwvc3Bhbj4K" id="E9d1ab8133ed8888ff5c483ff7dedd389"><span class="inline-icon">
+
+</span></span></span>
+</li> </ul>
+</td> <td> <ul>
+<li>
+<a data-phrasegroup-id="NM0-Kg" class="api tooltip__link" data-type="link" data-anker="Zae6b43f6d0cfb98641d08a14ebaf922c" data-learningcard-id="0O0eIT" data-lxid="0O0eIT" data-title="RW5kb21ldHJpYWwgY2FuY2Vy" id="L96eae2302c3f7f0932a0433072fc8eec" data-source="L96eae2302c3f7f0932a0433072fc8eec" href="/us/article/0O0eIT#Zae6b43f6d0cfb98641d08a14ebaf922c"><span data-type="highlight" class="js-relevance-term step-1-imppact0 step-2-imppact0 imppact0 usmle-gs-imppact0" data-qxids="Pq0WAS;Pq0WAS;">Endometrial cancer</span></a><span data-type="highlight" class="js-relevance-term step-1-imppact0 step-2-imppact0 imppact0 usmle-gs-imppact0" data-qxids="Pq0WAS;Pq0WAS;">/</span><a data-phrasegroup-id="W8aPlm" class="api tooltip__link" data-type="link" data-anker="Z7c2f7198db9b555525515960ad48bd59" data-learningcard-id="VP0GdT" data-lxid="VP0GdT" data-section-id="aFXQg-" data-sxid="aFXQg-" data-title="Q2VsbHVsYXIgY2hhbmdlcyBhbmQgYWRhcHRpdmUgcmVzcG9uc2VzIOKGkiBDZWxsdWxhciBhZGFwdGF0aW9u" id="La98f81ee7c56df29ac5c480d7db60606" data-source="La98f81ee7c56df29ac5c480d7db60606" href="/us/article/VP0GdT#Z7c2f7198db9b555525515960ad48bd59"><span data-type="highlight" class="js-relevance-term step-1-imppact0 step-2-imppact0 imppact0 usmle-gs-imppact0" data-qxids="Pq0WAS;Pq0WAS;">hyperplasia</span></a>
+</li> <li><a data-phrasegroup-id="OM0IKg" class="api tooltip__link" data-type="link" data-anker="Z633903c447faa894b7cedd95c078b4fd" data-learningcard-id="-k0DqT" data-lxid="-k0DqT" data-title="RW5kb21ldHJpb3Npcw==" id="L8223d57b2a91cf09896f74ae344d8bf0" data-source="L8223d57b2a91cf09896f74ae344d8bf0" href="/us/article/-k0DqT#Z633903c447faa894b7cedd95c078b4fd">Endometriosis</a></li> <li><a data-phrasegroup-id="CP0qST" class="api tooltip__link" data-type="link" data-anker="Z3fd41eef8b8ce3cec9c7eda727b6d1ce" data-learningcard-id="cg0a82" data-lxid="cg0a82" data-title="SHlwb3RoeXJvaWRpc20=" id="L1cb4f27c7b688a0c1f1930259efa30f6" data-source="L1cb4f27c7b688a0c1f1930259efa30f6" href="/us/article/cg0a82#Z3fd41eef8b8ce3cec9c7eda727b6d1ce">Hypothyroidism</a></li> </ul>
+</td> </tr>
+<tr>
+<th colspan="1" rowspan="2" scope="row"> <span class="step-2-imppact2 imppact2 usmle-gs-imppact2 step-2-condensed strongImpactHighlight--qLdOc"><span class="leitwort"><span data-phrasegroup-id="y2ad4P" data-type="bonus" class="api dictionary" data-content="PHA+VGhlIG9jY3VycmVuY2Ugb2YgYWJub3JtYWwgYmxlZWRpbmcgYmV0d2VlbiBtZW5zdHJ1YWwgcGVyaW9kcy4gQ29tbW9uIGNhdXNlcyBpbmNsdWRlIG92YXJpYW4gaW5zdWZmaWNpZW5jeSwgZW5kb21ldHJpYWwgY2FuY2VyIG9yIGh5cGVycGxhc2lhLCBjZXJ2aWNhbCBjYW5jZXIsIGFuZCBvcmFsIGNvbnRyYWNlcHRpdmUgdXNlLjwvcD4=" id="L5433ef90dffdc4b4a7677b96525ce811" data-source="L5433ef90dffdc4b4a7677b96525ce811">Intermenstrual bleeding</span></span></span> <span class="condensed-hidden"><span class="api explanation" data-type="bonus" data-content="T3V0c2lkZSB0aGUgPHNwYW4gY2xhc3M9Im5vd3JhcCI+NzV0aCA8c3BhbiBkYXRhLXBocmFzZWdyb3VwLWlkPSJCRGJ6Z0QiIGNsYXNzPSJhcGkiIGRhdGEtdHlwZT0ibGluayIgZGF0YS1hbmtlcj0iWjU4YzMzZGViZDFlNWFkZmIzOWJiOTI4OThmYmUwNWY2IiBkYXRhLWxlYXJuaW5nY2FyZC1pZD0ibm4wN0ZnIiBkYXRhLWx4aWQ9Im5uMDdGZyIgZGF0YS1zZWN0aW9uLWlkPSJmcGNrS1cwIiBkYXRhLXN4aWQ9ImZwY2tLVzAiIGRhdGEtdGl0bGU9IlUzUmhkR2x6ZEdsallXd2dZVzVoYkhsemFYTWdiMllnWkdGMFlTRGlocElnVFdWaGMzVnlaWE1nYjJZZ1pHbHpjR1Z5YzJsdmJnPT0iIGlkPSJMODZmNDJjNjY4OGQ1YTMyYzM1OWI1OTEyMzk5YTVlMGQiIGRhdGEtc291cmNlPSJMODZmNDJjNjY4OGQ1YTMyYzM1OWI1OTEyMzk5YTVlMGQiPnBlcmNlbnRpbGU8L3NwYW4+PC9zcGFuPgo=" id="E176d6a977b8c0a8cd9822730213eec4d"><span class="inline-icon">
+
+</span></span></span> </th> <td colspan="1" rowspan="2"> <ul>
+<li>None</li> </ul>
+</td> <td> <ul>
+<li>Random</li> </ul>
+</td> <td> <ul>
+<li>
+<a data-phrasegroup-id="NM0-Kg" class="api tooltip__link" data-type="link" data-anker="Zae6b43f6d0cfb98641d08a14ebaf922c" data-learningcard-id="0O0eIT" data-lxid="0O0eIT" data-title="RW5kb21ldHJpYWwgY2FuY2Vy" id="L89c5b454eaeb07dbcd4df573b5a6c07b" data-source="L89c5b454eaeb07dbcd4df573b5a6c07b" href="/us/article/0O0eIT#Zae6b43f6d0cfb98641d08a14ebaf922c"><span data-type="highlight" class="js-relevance-term step-1-imppact0 step-2-imppact0 imppact0 usmle-gs-imppact0" data-qxids="Pq0WAS;Pq0WAS;">Endometrial cancer</span></a><span data-type="highlight" class="js-relevance-term step-1-imppact0 step-2-imppact0 imppact0 usmle-gs-imppact0" data-qxids="Pq0WAS;Pq0WAS;">/</span><a data-phrasegroup-id="W8aPlm" class="api tooltip__link" data-type="link" data-anker="Z7c2f7198db9b555525515960ad48bd59" data-learningcard-id="VP0GdT" data-lxid="VP0GdT" data-section-id="aFXQg-" data-sxid="aFXQg-" data-title="Q2VsbHVsYXIgY2hhbmdlcyBhbmQgYWRhcHRpdmUgcmVzcG9uc2VzIOKGkiBDZWxsdWxhciBhZGFwdGF0aW9u" id="L57b455454c85c2acb76da184773026a9" data-source="L57b455454c85c2acb76da184773026a9" href="/us/article/VP0GdT#Z7c2f7198db9b555525515960ad48bd59"><span data-type="highlight" class="js-relevance-term step-1-imppact0 step-2-imppact0 imppact0 usmle-gs-imppact0" data-qxids="Pq0WAS;Pq0WAS;">hyperplasia</span></a>, <a data-phrasegroup-id="lM0vKg" class="api tooltip__link" data-type="link" data-anker="Zb0043b20d16c82430e1686560be81736" data-learningcard-id="ZO0ZIT" data-lxid="ZO0ZIT" data-title="SW52YXNpdmUgY2VydmljYWwgY2FuY2Vy" id="L28f072e4b836997f7ffeed3ba99075f8" data-source="L28f072e4b836997f7ffeed3ba99075f8" href="/us/article/ZO0ZIT#Zb0043b20d16c82430e1686560be81736">cervical cancer</a>
+</li> <li><span class="linksuggest"><a data-phrasegroup-id="vHbAHE" class="api tooltip__link" data-type="link" data-anker="Z27c4cafca4bb74a81fa518cc96327369" data-learningcard-id="sF0tj3" data-lxid="sF0tj3" data-title="Q2VydmljaXRpcw==" id="L6b7faeef50f0e2e68f98ac86319751d7" data-source="L6b7faeef50f0e2e68f98ac86319751d7" href="/us/article/sF0tj3#Z27c4cafca4bb74a81fa518cc96327369">Cervicitis</a></span></li> <li><span class="linksuggest">Polyps</span></li> <li>
+<a data-phrasegroup-id="Dla1_k" class="api tooltip__link" data-type="link" data-anker="Z899aa9dfd6a8c31255c1b74109423c32" data-learningcard-id="rt0fU3" data-lxid="rt0fU3" data-section-id="uKWpRm0" data-sxid="uKWpRm0" data-title="Q29udHJhY2VwdGlvbiDihpIgSG9ybW9uYWwgY29udHJhY2VwdGlvbg==" id="L5fd769e89b4e590a569f3e6b8fdd724f" data-source="L5fd769e89b4e590a569f3e6b8fdd724f" href="/us/article/rt0fU3#Z899aa9dfd6a8c31255c1b74109423c32">OCP</a> use</li> </ul>
+</td> </tr>
+<tr>
+<td> <ul>
+<li>Cyclic (predictable bleeding): minimal bleeding seen during early, mid, or late cycle</li> </ul>
+</td> <td> <ul>
+<li>
+<a data-phrasegroup-id="UeXbyC" class="api tooltip__link link--same-article" data-type="link" data-anker="Z4444420b54b73b5aae96fe23b2824fc4" data-learningcard-id="Ek08pT" data-lxid="Ek08pT" data-section-id="fDXkdZ0" data-sxid="fDXkdZ0" data-title="VGhlIG1lbnN0cnVhbCBjeWNsZSBhbmQgbWVuc3RydWFsIGN5Y2xlIGFibm9ybWFsaXRpZXMg4oaSIFBoeXNpb2xvZ3kgb2YgdGhlIG1lbnN0cnVhbCBjeWNsZQ==" id="Lb96b37aae706923fb3a102fc8284f703" data-source="Lb96b37aae706923fb3a102fc8284f703" href="/us/article/Ek08pT#Z4444420b54b73b5aae96fe23b2824fc4">Ovulation</a> <span class="condensed-hidden"><span class="api explanation" data-type="bonus" data-content="Q2FuIG9jY3VyIGFzIGEgcGh5c2lvbG9naWMgcmVzcG9uc2UgdG8gZGVjcmVhc2VkIDxzcGFuIGRhdGEtcGhyYXNlZ3JvdXAtaWQ9Ik9UYklJRyIgY2xhc3M9ImFwaSIgZGF0YS10eXBlPSJsaW5rIiBkYXRhLWFua2VyPSJaOWY3NzNiNzAwZDMwNmRjYTVhMWY3YzI1MzI1YjJlY2UiIGRhdGEtbGVhcm5pbmdjYXJkLWlkPSJ1azBwcFQiIGRhdGEtbHhpZD0idWswcHBUIiBkYXRhLXNlY3Rpb24taWQ9ImREWG9XWjAiIGRhdGEtc3hpZD0iZERYb1daMCIgZGF0YS10aXRsZT0iUm1WdFlXeGxJSE5sZUNCb2IzSnRiMjVsY3lEaWhwSWdSWE4wY205blpXND0iIGlkPSJMMzUzMzFiOGY5ZjdjN2VlMTlhODJlZWYxOWRlNjk4MDEiIGRhdGEtc291cmNlPSJMMzUzMzFiOGY5ZjdjN2VlMTlhODJlZWYxOWRlNjk4MDEiPmVzdHJvZ2VuPC9zcGFuPiBsZXZlbHMuIEl0IGRvZXMgbm90IG9jY3VyIGluIGFsbCB3b21lbi4K" id="E3c99200187dd291d2dcf8c65f9920cc4"><span class="inline-icon">
+
+</span></span></span>
+</li> <li>
+<span class="step-2-imppact2 imppact2 usmle-gs-imppact2 step-2-condensed strongImpactHighlight--qLdOc"><span class="wichtig"><span class="api" data-type="anker" id="Zc8a1a5cec2efdfbf73ed6c0db5fc2fbc">Breakthrough bleeding</span></span>: midcycle bleeding due to <a data-phrasegroup-id="ZKaZUl" class="api tooltip__link" data-type="link" data-anker="Zc880c21d5265a921cfdf80b444377952" data-learningcard-id="AT0Rt2" data-lxid="AT0Rt2" data-section-id="eJXxG_" data-sxid="eJXxG_" data-title="R2VuZXJhbCBlbmRvY3Jpbm9sb2d5IOKGkiBCYXNpY3Mgb2YgZW5kb2NyaW5vbG9neQ==" id="L5119ca4836fbf70b0e1c5457a84b5bfd" data-source="L5119ca4836fbf70b0e1c5457a84b5bfd" href="/us/article/AT0Rt2#Zc880c21d5265a921cfdf80b444377952">hormone</a> imbalance (usually after starting new <a data-phrasegroup-id="Dla1_k" class="api tooltip__link" data-type="link" data-anker="Z899aa9dfd6a8c31255c1b74109423c32" data-learningcard-id="rt0fU3" data-lxid="rt0fU3" data-section-id="uKWpRm0" data-sxid="uKWpRm0" data-title="Q29udHJhY2VwdGlvbiDihpIgSG9ybW9uYWwgY29udHJhY2VwdGlvbg==" id="L36e5a43192737b0da0efb4a6a65a8b1f" data-source="L36e5a43192737b0da0efb4a6a65a8b1f" href="/us/article/rt0fU3#Z899aa9dfd6a8c31255c1b74109423c32">OCP</a> therapy)</span> <sup data-type="Reference" data-eid="nua77m" data-page="1371–1380; discussion 1381–1382" data-cmt="">[14]</sup> <ul>
+<li>
+<a data-phrasegroup-id="OTbIIG" class="api tooltip__link" data-type="link" data-anker="Z9f773b700d306dca5a1f7c25325b2ece" data-learningcard-id="uk0ppT" data-lxid="uk0ppT" data-section-id="dDXoWZ0" data-sxid="dDXoWZ0" data-title="RmVtYWxlIHNleCBob3Jtb25lcyDihpIgRXN0cm9nZW4=" id="Lbcc99fca353fc746e1fa96e713de02d4" data-source="Lbcc99fca353fc746e1fa96e713de02d4" href="/us/article/uk0ppT#Z9f773b700d306dca5a1f7c25325b2ece">Estrogen</a> breakthrough <span class="condensed-hidden"><span class="api explanation" data-type="bonus" data-content="VW5kaWZmZXJlbnRpYXRlZCBncm93dGggb2YgPHNwYW4gZGF0YS1waHJhc2Vncm91cC1pZD0idmpYQVh5IiBjbGFzcz0iYXBpIiBkYXRhLXR5cGU9ImxpbmsiIGRhdGEtYW5rZXI9IlozNWZjNjA4OTg0YTE3MmY3YjA2YjBhNWY3ZmIxMjUyMiIgZGF0YS1sZWFybmluZ2NhcmQtaWQ9Ik82MElPUyIgZGF0YS1seGlkPSJPNjBJT1MiIGRhdGEtc2VjdGlvbi1pZD0ieEZjRTRWMCIgZGF0YS1zeGlkPSJ4RmNFNFYwIiBkYXRhLXRpdGxlPSJSbVZ0WVd4bElISmxjSEp2WkhWamRHbDJaU0J2Y21kaGJuTWc0b2FTSUZWMFpYSjFjeUJoYm1RZ1kyVnlkbWw0IiBpZD0iTGNmMTVmM2I4NTJiYzA3OGJhYTkzZDI3Nzg5ZjQxNmQ2IiBkYXRhLXNvdXJjZT0iTGNmMTVmM2I4NTJiYzA3OGJhYTkzZDI3Nzg5ZjQxNmQ2Ij5lbmRvbWV0cml1bTwvc3Bhbj4gdGhhdCBldmVudHVhbGx5IHNsb3VnaHMgb2ZmCg==" id="E4167661dce0676bb990d6f8dd70c31e6"><span class="inline-icon">
+
+</span></span></span>
+</li> <li>
+<a data-phrasegroup-id="2gXTux" class="api tooltip__link" data-type="link" data-anker="Zf885481311d66b6abb1510c2c20cd63d" data-learningcard-id="uk0ppT" data-lxid="uk0ppT" data-section-id="SK1yf30" data-sxid="SK1yf30" data-title="RmVtYWxlIHNleCBob3Jtb25lcyDihpIgUHJvZ2VzdGVyb25l" id="L36dd56228b8568ec070d758b2e4db26b" data-source="L36dd56228b8568ec070d758b2e4db26b" href="/us/article/uk0ppT#Zf885481311d66b6abb1510c2c20cd63d">Progesterone</a> breakthrough <span class="condensed-hidden"><span class="api explanation" data-type="bonus" data-content="QW4gb3ZlcmFidW5kYW5jZSBvZiA8c3BhbiBkYXRhLXBocmFzZWdyb3VwLWlkPSIyZ1hUdXgiIGNsYXNzPSJhcGkiIGRhdGEtdHlwZT0ibGluayIgZGF0YS1hbmtlcj0iWmY4ODU0ODEzMTFkNjZiNmFiYjE1MTBjMmMyMGNkNjNkIiBkYXRhLWxlYXJuaW5nY2FyZC1pZD0idWswcHBUIiBkYXRhLWx4aWQ9InVrMHBwVCIgZGF0YS1zZWN0aW9uLWlkPSJTSzF5ZjMwIiBkYXRhLXN4aWQ9IlNLMXlmMzAiIGRhdGEtdGl0bGU9IlJtVnRZV3hsSUhObGVDQm9iM0p0YjI1bGN5RGlocElnVUhKdloyVnpkR1Z5YjI1bCIgaWQ9Ikw3OGU1MmYxZGVlNDZmNzY4N2E1ZjZmYjFjZmFlZDhmOCIgZGF0YS1zb3VyY2U9Ikw3OGU1MmYxZGVlNDZmNzY4N2E1ZjZmYjFjZmFlZDhmOCI+cHJvZ2VzdGVyb25lPC9zcGFuPiBsZWFkcyB0byA8c3BhbiBkYXRhLXBocmFzZWdyb3VwLWlkPSJkd1lvM3IiIGNsYXNzPSJhcGkiIGRhdGEtdHlwZT0ibGluayIgZGF0YS1hbmtlcj0iWmE3OGU5M2U4ZDhhZjY2NTViZmE2ZjY0NTY5YWQxOWUyIiBkYXRhLWxlYXJuaW5nY2FyZC1pZD0iVlAwR2RUIiBkYXRhLWx4aWQ9IlZQMEdkVCIgZGF0YS1zZWN0aW9uLWlkPSJhRlhRZy0iIGRhdGEtc3hpZD0iYUZYUWctIiBkYXRhLXRpdGxlPSJRMlZzYkhWc1lYSWdZMmhoYm1kbGN5QmhibVFnWVdSaGNIUnBkbVVnY21WemNHOXVjMlZ6SU9LR2tpQkRaV3hzZFd4aGNpQmhaR0Z3ZEdGMGFXOXUiIGlkPSJMNzQ1NWYwYmFlYTE1NDM5ZDBhZmJhZDY5OGM3YjMzZDEiIGRhdGEtc291cmNlPSJMNzQ1NWYwYmFlYTE1NDM5ZDBhZmJhZDY5OGM3YjMzZDEiPmF0cm9waGljPC9zcGFuPiBhbmQgdWxjZXJhdGVkIDxzcGFuIGRhdGEtcGhyYXNlZ3JvdXAtaWQ9InZqWEFYeSIgY2xhc3M9ImFwaSIgZGF0YS10eXBlPSJsaW5rIiBkYXRhLWFua2VyPSJaMzVmYzYwODk4NGExNzJmN2IwNmIwYTVmN2ZiMTI1MjIiIGRhdGEtbGVhcm5pbmdjYXJkLWlkPSJPNjBJT1MiIGRhdGEtbHhpZD0iTzYwSU9TIiBkYXRhLXNlY3Rpb24taWQ9InhGY0U0VjAiIGRhdGEtc3hpZD0ieEZjRTRWMCIgZGF0YS10aXRsZT0iUm1WdFlXeGxJSEpsY0hKdlpIVmpkR2wyWlNCdmNtZGhibk1nNG9hU0lGVjBaWEoxY3lCaGJtUWdZMlZ5ZG1sNCIgaWQ9IkxmM2Q4OTNhNGE5M2I1NzI1MDY4NmZjZmJkODM5NjYxYSIgZGF0YS1zb3VyY2U9IkxmM2Q4OTNhNGE5M2I1NzI1MDY4NmZjZmJkODM5NjYxYSI+ZW5kb21ldHJpdW08L3NwYW4+LCBjYXVzaW5nIGJsZWVkaW5nLgo=" id="E3e84fe124e6397e06e51b29febdb55e0"><span class="inline-icon">
+
+</span></span></span>
+</li> <li>
+<a data-phrasegroup-id="OTbIIG" class="api tooltip__link" data-type="link" data-anker="Z9f773b700d306dca5a1f7c25325b2ece" data-learningcard-id="uk0ppT" data-lxid="uk0ppT" data-section-id="dDXoWZ0" data-sxid="dDXoWZ0" data-title="RmVtYWxlIHNleCBob3Jtb25lcyDihpIgRXN0cm9nZW4=" id="La6d024ddd74c230e306fcf40de51014d" data-source="La6d024ddd74c230e306fcf40de51014d" href="/us/article/uk0ppT#Z9f773b700d306dca5a1f7c25325b2ece">Estrogen</a> withdrawal <span class="condensed-hidden"><span class="api explanation" data-type="bonus" data-content="RGVjcmVhc2VkIDxzcGFuIGRhdGEtcGhyYXNlZ3JvdXAtaWQ9Ik9UYklJRyIgY2xhc3M9ImFwaSIgZGF0YS10eXBlPSJsaW5rIiBkYXRhLWFua2VyPSJaOWY3NzNiNzAwZDMwNmRjYTVhMWY3YzI1MzI1YjJlY2UiIGRhdGEtbGVhcm5pbmdjYXJkLWlkPSJ1azBwcFQiIGRhdGEtbHhpZD0idWswcHBUIiBkYXRhLXNlY3Rpb24taWQ9ImREWG9XWjAiIGRhdGEtc3hpZD0iZERYb1daMCIgZGF0YS10aXRsZT0iUm1WdFlXeGxJSE5sZUNCb2IzSnRiMjVsY3lEaWhwSWdSWE4wY205blpXND0iIGlkPSJMZDVkYjQxOWY2MmE2YTA0NmFjNTlmZmVlMWMwMGJiNjQiIGRhdGEtc291cmNlPSJMZDVkYjQxOWY2MmE2YTA0NmFjNTlmZmVlMWMwMGJiNjQiPmVzdHJvZ2VuPC9zcGFuPiByZXN1bHRzIGluIGluaGliaXRlZCA8c3BhbiBkYXRhLXBocmFzZWdyb3VwLWlkPSJ2alhBWHkiIGNsYXNzPSJhcGkiIGRhdGEtdHlwZT0ibGluayIgZGF0YS1hbmtlcj0iWjM1ZmM2MDg5ODRhMTcyZjdiMDZiMGE1ZjdmYjEyNTIyIiBkYXRhLWxlYXJuaW5nY2FyZC1pZD0iTzYwSU9TIiBkYXRhLWx4aWQ9Ik82MElPUyIgZGF0YS1zZWN0aW9uLWlkPSJ4RmNFNFYwIiBkYXRhLXN4aWQ9InhGY0U0VjAiIGRhdGEtdGl0bGU9IlJtVnRZV3hsSUhKbGNISnZaSFZqZEdsMlpTQnZjbWRoYm5NZzRvYVNJRlYwWlhKMWN5QmhibVFnWTJWeWRtbDQiIGlkPSJMY2UwN2VhMTcyNmVjMmM3NjMzNDM5MGQ5NjRhNjFjOWIiIGRhdGEtc291cmNlPSJMY2UwN2VhMTcyNmVjMmM3NjMzNDM5MGQ5NjRhNjFjOWIiPmVuZG9tZXRyaXVtPC9zcGFuPiBncm93dGgsIGxlYWRpbmcgdG8gc2xvdWdoaW5nLgo=" id="Ede44697977e531c28bf5fdd75f3d99c7"><span class="inline-icon">
+
+</span></span></span>
+</li> </ul>
+</li> <li>
+<a data-phrasegroup-id="OM0IKg" class="api tooltip__link" data-type="link" data-anker="Z633903c447faa894b7cedd95c078b4fd" data-learningcard-id="-k0DqT" data-lxid="-k0DqT" data-title="RW5kb21ldHJpb3Npcw==" id="L2a33ffe08ee4cc3b5f84077ce5d57dd1" data-source="L2a33ffe08ee4cc3b5f84077ce5d57dd1" href="/us/article/-k0DqT#Z633903c447faa894b7cedd95c078b4fd">Endometriosis</a>, myomas, polyps, <a data-phrasegroup-id="58XiM-" class="api tooltip__link" data-type="link" data-anker="Z22674f156f136302ff6142f806db0d5a" data-learningcard-id="WM0Png" data-lxid="WM0Png" data-section-id="azXQr00" data-sxid="azXQr00" data-title="R2VuZXJhbCBvbmNvbG9neSDihpIgTm9tZW5jbGF0dXJl" id="Lf157cadd243708a20f4b353fe4e40487" data-source="Lf157cadd243708a20f4b353fe4e40487" href="/us/article/WM0Png#Z22674f156f136302ff6142f806db0d5a">carcinomas</a>
+</li> <li>Contact bleeding (e.g., during <a class="api" data-type="link" data-anker="Za63b4708c002798ccb69847987650da2" data-learningcard-id="1r02Th" data-lxid="1r02Th" data-section-id="em1xeh0" data-sxid="em1xeh0" data-title="T0IvR1lOOiBoaXN0b3J5IGFuZCBwaHlzaWNhbCBleGFtaW5hdGlvbiDihpIgR3luZWNvbG9naWMgZXhhbWluYXRpb24=" id="Laad41aa9d24484fe1b58e32af71bfa1f" data-source="Laad41aa9d24484fe1b58e32af71bfa1f" href="/us/article/1r02Th#Za63b4708c002798ccb69847987650da2">gynecological examination</a> in patients with <a data-phrasegroup-id="lM0vKg" class="api tooltip__link" data-type="link" data-anker="Zb0043b20d16c82430e1686560be81736" data-learningcard-id="ZO0ZIT" data-lxid="ZO0ZIT" data-title="SW52YXNpdmUgY2VydmljYWwgY2FuY2Vy" id="Lc819d0e0b8ce09183404a978a6d40a5c" data-source="Lc819d0e0b8ce09183404a978a6d40a5c" href="/us/article/ZO0ZIT#Zb0043b20d16c82430e1686560be81736">cervical carcinoma</a>)</li> <li>During <a data-phrasegroup-id="MM0M6g" class="api tooltip__link" data-type="link" data-anker="Zeba6f488931dd463917047bb9c5f18f4" data-learningcard-id="dO0orT" data-lxid="dO0orT" data-title="UHJlZ25hbmN5" id="Lbc743c301d27bee4aec6626a6b6ad639" data-source="Lbc743c301d27bee4aec6626a6b6ad639" href="/us/article/dO0orT#Zeba6f488931dd463917047bb9c5f18f4">pregnancy</a>: may indicate <a data-phrasegroup-id="a7bQ4E" class="api tooltip__link" data-type="link" data-anker="Z01254b7e089987fbcbaa659199d6e64c" data-learningcard-id="gO0F7T" data-lxid="gO0F7T" data-section-id="yDXdSZ0" data-sxid="yDXdSZ0" data-title="UHJlZ25hbmN5IGxvc3Mg4oaSIFNwb250YW5lb3VzIGFib3J0aW9u" id="L337be3d0a18dad857ba1d5de24df6e3c" data-source="L337be3d0a18dad857ba1d5de24df6e3c" href="/us/article/gO0F7T#Z01254b7e089987fbcbaa659199d6e64c">spontaneous abortion</a>
+</li> </ul>
+</td> </tr>
+</tbody>
+</table>
+
+
