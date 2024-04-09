@@ -7,3 +7,19 @@ img{
 .dosis-ped{
     max-width: 100%;
 }
+
+/* sidebar at left, main at right*/
+
+@media screen and (max-width: 600px) {
+    #sidebar-index-container{
+        display: none;
+    }
+    #inicio{
+        width: 100%;
+    }
+    #main-content-full{
+        width: 110%;
+        margin: 0;
+    }
+
+}

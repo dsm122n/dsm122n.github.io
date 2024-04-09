@@ -74,9 +74,67 @@ document.addEventListener('DOMContentLoaded', function() {
   })
 });
 
+function populateSidebarHeadings() {
+  const allHeadings = document.querySelectorAll('h1, h2, h3');
+  const sidebarList = document.getElementById('sidebar-headings');
+
+  sidebarList.innerHTML = ''; // Clear existing content
+
+  const processedHeadings = new Set(); // Track processed headings to avoid duplicates
+
+  function processHeading(heading) {
+    if (processedHeadings.has(heading)) {
+      return null; // Skip already processed heading
+    }
+    processedHeadings.add(heading);
+
+    const anchor = document.createElement('a');
+    anchor.href = '#' + heading.id;
+    anchor.textContent = heading.textContent.trim();
+
+    const listItem = document.createElement('li');
+    listItem.appendChild(anchor);
+
+    let currentList = listItem;
+
+    // Loop through subsequent siblings (avoiding duplicates)
+    for (let nextHeading = heading.nextElementSibling; nextHeading; nextHeading = nextHeading.nextElementSibling) {
+      if (nextHeading.tagName === 'H2' || nextHeading.tagName === 'H3' && !processedHeadings.has(nextHeading)) {
+        const subHeadingText = nextHeading.textContent.trim();
+        const subItem = document.createElement('li');
+        const subAnchor = document.createElement('a');
+        subAnchor.href = '#' + nextHeading.id;
+        subAnchor.textContent = subHeadingText;
+        subItem.appendChild(subAnchor);
+
+        if (nextHeading.tagName === 'H2') {
+          currentList.appendChild(subItem);
+        } else { // h3
+          const subList = document.createElement('ul');
+          subItem.appendChild(subList);
+          currentList.appendChild(subItem);
+        }
+        currentList = subItem; // Update currentList for nesting only if h2
+      }
+    }
+
+    processedHeadings.add(heading); // Mark heading as processed again (for potential future references)
+
+    return listItem;
+  }
+
+  const sidebarItems = Array.from(allHeadings).map(processHeading).filter(Boolean); // Remove null values (skipped headings)
+  sidebarList.append(...sidebarItems);
+}
+
+
+
+
 const classMap = {
   table: 'table table-striped table-bordered table-hover table-sm table-dark table-bordered border-primary',
 }
+
+
 
 const bindings = Object.keys(classMap)
   .map(key => ({
@@ -117,18 +175,9 @@ function loadMD(filepath) {
       document.getElementById('inicio').setAttribute('class',"tab-pane container active");
       document.getElementById('tabla_farmacos').setAttribute('class',"tab-pane container");
     })
-    // .then(order => {
-    //   // insert a lateral div with a tree view of the document headings h1, h2, h3, h4 and h5
-    //   document.getElementsByTagName('h1').setAttribute('class', 'heading');
-    //   document.getElementsByTagName('h2').setAttribute('class', 'heading');
-    //   document.getElementsByTagName('h3').setAttribute('class', 'heading');
-    //   document.getElementsByTagName('h4').setAttribute('class', 'heading');
-    //   document.getElementsByTagName('h5').setAttribute('class', 'heading');
-
-    //   const headings = document.getElementById('inicio').getElementsByTagName('h1');
-    //   array.forEach(element => {
-        
-    //   });      
+    .then(order => {
+      populateSidebarHeadings();
+      })      
         
 
 
@@ -148,6 +197,7 @@ function loadMD(filepath) {
 //     }
     
 // }
+
 
 function loadHTML(filepath) {
   fetch(filepath)

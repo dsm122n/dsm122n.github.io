@@ -280,6 +280,42 @@ Hematoma roto tto quirúrgico con laparotomía
 | HTA crónica con requerimiento de hipotensores | 37-38 semanas |
 | HTA crónica severa, HTA crónica de mal control, HTA crónica con compromiso de parénquimas y especialmente PE sobre agregada | 34-35 semanas |
 
+## Metrorragia en embarazo
+
+### Metrorragia primera mitad del embarazo
+
+| Diagnóstico | Hallazgos | Clasificaciones | Manejo |
+| --- | --- | --- | --- |
+| Aborto | - Sangrado vaginal <br> - Dolor pélvico | - Aborto espontáneo <br> - Aborto incompleto <br> - Aborto completo <br> - Aborto inevitable <br> - Aborto diferido | - Expectante <br> - Medicamentoso <br> - Quirúrgico |
+| Embarazo ectópico | - Sangrado vaginal <br> - Dolor pélvico | - Tubárico <br> - Abdominal <br> - Ovárico <br> - Cervical | - Expectante <br> - Medicamentoso <br> - Quirúrgico |
+| Enfermedad trofoblastica gestacional | - Sangrado vaginal <br> - Dolor pélvico | - Mola completa (sin cromosomas maternos, más sintomática) <br> - Mola parcial (con cromosomas maternos, usualmente menos sintomáticas, puede tener partes de feto) | - Expectante <br> - Quirúrgico |
+
+
+
+### Metrorragia segunda mitad del embarazo
+Tabla 2 pag 37 traspasar
+
+Si bien el tacto vaginal debe evitarse en el manejo de la mujer con metrorragia de la segunda mitad del embarazo (al menos hasta que se haya descartado una placenta previa), si la paciente se presenta con un sangrado escaso, en que la sangre parece mezclada con mucosidad, y refiere dinámica uterina intensa y/o dolorosa, un tacto vaginal es la mejor manera de descartar un trabajo de parto avanzado y debe practicarse cuidadosamente. 
+
+| Característica | DPPN | Placenta previa (PP) | Rotura uterina |
+|---|---|---|---|
+| Incidencia | 0.5-1% | 0.2-0.5% | Poco habitual |
+| Inicio | Súbito | Insidioso | Súbito |
+| Hemorragia | Interna o mixta | Externa | Interna o mixta |
+| Sangrado | Rojo oscuro | Rojo brillante | Rojo |
+| Hipertensión | Frecuente | No | No |
+| Shock | Frecuente | Ocasional | Frecuente |
+| Dolor | Sí | No | Sí |
+| Útero | Hipertonico | Relajado | No palpable |
+| Palpación fetal | Difícil | Normal | Fácil |
+| Cicatriz uterina | No | Puede estar presente | Habitual |
+| Ecografía | Placenta no indicada | Placenta previa | Variable |
+| Dopplers | Sí | Normalmente no | Sí |
+| Hematoma subcoriónico (SFA) | Frecuente | Poco común | Muy frecuente |
+| Consumo de cocaína/tabaco | Sí | No | No |
+
+
+
 ## Semanas de Interrupción de la Gestación
 
 | Situación clínica | Semanas de Interrupción |
@@ -396,7 +432,6 @@ Valores útiles para EG:
 * CC = Circunferencia craneana
 * CA = Circunferencia abdominal
 * LF = Longitud femoral
-
 
 
 # Ginecología
@@ -535,3 +570,5 @@ Se puede acompañar de síntomas premenstruales, como cambios de humor, mastodin
 </table>
 
 
+## Otro título 2
+## un título dos más 
