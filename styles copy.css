@@ -21,7 +21,7 @@ img{
     display: block;
     margin-right: 20px;
     border-right: 2pt;
-    background-color: #65532c;
+    background-color: #2c737d;
     height: 100vh;
     width: 250px;
     overflow-y: scroll;
@@ -89,7 +89,7 @@ img{
         max-width: 250px;
         height: 100vh;
         margin: 0;
- 
+        
         position: fixed;
         display: none;
         top: 0;
@@ -115,7 +115,6 @@ img{
         /* middle layer, i.e. appears below the sidebar */
         z-index: 998;
         /* animate the transition */
-        transition: all 0.5s ease-in-out;
     }
     /* display .overlay when it has the .active class */
     .overlay.active {
