@@ -328,7 +328,20 @@ Diabetes pregestacional: diabetes tipo 1 o tipo 2 diagnosticada antes del embara
 - Glicemia en ayunas en plasma venoso mayor o igual a 126 mg/dl. Debe confirmarse con una segunda glicema mayor o igual a 126 mg/dl en un día diferente. (Ayuno se define como un período sin ingesta calórica de por lo menos ocho horas).
 - Glicemia mayor o igual a 200 mg/dl dos horas después de una carga de 75 g de glucosa durante una PTGO. 
 
-### Diabetes gestacional
+### Screening confirmación dg y seguimiento
+![screenin-dm-embarazo](screenin-dm-embarazo.png)
+
+![lab-mal-control-metabólico](lab-mal-control-metabólico.png)
+
+### Metas control glicémico
+| Glicemia capilar  | Objetivo |
+| --- | --- |
+| Antes del desayuno | 60-90 mg/dl |
+| Antes de las comidas | 60-105 mg/dl |
+| 1 hora después de las comidas | < 140 mg/dl |
+| 2 horas después de las comidas | < 120 mg/dl |
+| durante la noche | 60-99 mg/dl |
+| Hemoglobina glicosilada | < 6% |
 
 ## Semanas de Interrupción de la Gestación
 
