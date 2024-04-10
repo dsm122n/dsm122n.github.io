@@ -29,19 +29,24 @@ img{
     font: 1.2em 'Arial', sans-serif;
     font-weight: bold;
     color:rgb(255, 255, 255);
-    
+    -webkit-overflow-scrolling: touch; /* smooth scrolling on iOS devices */
     li{
         margin: 10px;
         color: #ffffff
     };
     a{
-        color: #cdcdcd;
+        color: #ffffff;
+        -webkit-text-fill-color: #ffffff;
+        -webkit-text-stroke-width: 1px;
+        -webkit-text-stroke-color: #000000;
+
         text-decoration: none;
         display: block;
         padding: 5px;
         border-bottom: 1px solid #ffc2c2;
         border-right: 1px solid #ffc2c2;
-        -webkit-text-decoration-skip: none;
+        -webkit-text-decoration-skip: none; /* specify how overlines and underlines are drawn when they pass over a glyph */
+
     }
     .sub-h2{
         margin-left: 20px;
@@ -117,6 +122,8 @@ img{
         /* middle layer, i.e. appears below the sidebar */
         z-index: 998;
         /* animate the transition */
+        -webkit-transition: background-color 0.5s ease; /* transition effect for background color */
+    
     }
     /* display .overlay when it has the .active class */
     .overlay.active {
@@ -132,6 +139,10 @@ img{
         /* top right corner of the sidebar */
         top: 10px;
         right: 10px;
+        -webkit-transition: opacity 0.5s ease; /* transition effect for opacity */
+    
     }
     
 }
+/* Webkit for safari compatibility */
+
