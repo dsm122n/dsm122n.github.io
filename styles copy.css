@@ -26,12 +26,13 @@ img{
     width: 250px;
     overflow-y: scroll;
     scrollbar-width: none;
-    font: 1.2em 'Open Sans', sans-serif;
+    font: 1.2em 'Arial', sans-serif;
     font-weight: bold;
+    color:rgb(255, 255, 255);
     
     li{
         margin: 10px;
-        
+        color: #ffffff
     };
     a{
         color: #cdcdcd;
@@ -40,6 +41,7 @@ img{
         padding: 5px;
         border-bottom: 1px solid #ffc2c2;
         border-right: 1px solid #ffc2c2;
+        -webkit-text-decoration-skip: none;
     }
     .sub-h2{
         margin-left: 20px;

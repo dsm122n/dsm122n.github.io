@@ -315,6 +315,20 @@ Si bien el tacto vaginal debe evitarse en el manejo de la mujer con metrorragia 
 | Consumo de cocaína/tabaco | Sí | No | No |
 
 
+## Diabetes en embarazo
+
+
+Diabetes gestacional: cualquier grado de intolerancia a la glucosa que se diagnostica por primera vez durante el embarazo.
+- GAA 100-125 mg/dl en dos días diferentes
+- PTGO >= 140 mg/dl a las 2 horas con **75 g de glucosa** en segundo o tercer trimestre
+
+
+Diabetes pregestacional: diabetes tipo 1 o tipo 2 diagnosticada antes del embarazo.
+- Síntomas clásicos de diabetes (polidipsia, poliuria, polifagia y baja de peso) y una glicemia en cualquier momento del día mayor o igual a 200 mg/dl, sin relación con el tiempo transcurrido desde la última comida.
+- Glicemia en ayunas en plasma venoso mayor o igual a 126 mg/dl. Debe confirmarse con una segunda glicema mayor o igual a 126 mg/dl en un día diferente. (Ayuno se define como un período sin ingesta calórica de por lo menos ocho horas).
+- Glicemia mayor o igual a 200 mg/dl dos horas después de una carga de 75 g de glucosa durante una PTGO. 
+
+### Diabetes gestacional
 
 ## Semanas de Interrupción de la Gestación
 

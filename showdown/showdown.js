@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() {
-    document.getElementById('sidebar').style = 'display: none;';
-    document.getElementById('content').style = 'margin-left: 0px; width: 100%;';
+    // document.getElementById('sidebar').style = 'display: none;';
+    // document.getElementById('content').style = 'margin-left: 0px; width: 100%;';
     document.getElementById('tabla_farmacos').innerHTML = '<input type="text" id="search" placeholder="Type to search"></input>';
     document.getElementById('tabla_farmacos').innerHTML += '<table class="table" id="la-tabla"><thead><tr id="nombres_cols"> </tr></thead><tbody id="cuerpo_tabla"></tbody></table>';
     document.getElementById('tabla_farmacos').setAttribute('class',"tab-pane container active");
@@ -69,7 +69,7 @@ function generateTitleObject() {
     const heading = titleObject[i];
     const headingText = heading.innerText;
     const headingId = headingText.replace(/\s+/g, '-').toLowerCase();
-    const headingLevel = heading.tagName;
+    const headingLevel = heading.tagName.toLowerCase();
     heading.setAttribute('id', `${headingLevel}-${headingId}`);
   }
   // populate sidebar with headings with jquery
@@ -101,10 +101,10 @@ const classMap = {
   table: 'table table-striped table-bordered table-hover table-sm table-dark table-bordered border-primary',
 }
 
-function setStyleDefault() {
-  document.getElementById('sidebar').style = 'display: block; position: absolute; height: 100%; width: 250px; top: auto;';
-  document.getElementById('content').style = 'position: relative; margin-left: auto; padding-left: 20px; width: calc(100% - 250px);';
-}
+// function setStyleDefault() {
+//   document.getElementById('sidebar').style = 'display: block; position: absolute; height: 100%; width: 250px; top: auto;';
+//   document.getElementById('content').style = 'position: relative; margin-left: auto; padding-left: 20px; width: calc(100% - 250px);';
+// }
 
 const bindings = Object.keys(classMap)
   .map(key => ({
@@ -147,7 +147,7 @@ function loadMD(filepath) {
     })
     .then(order => {
         console.log(generateTitleObject());
-        setStyleDefault();
+        // setStyleDefault();
       })      
         
 
@@ -184,8 +184,8 @@ function loadHTML(filepath) {
 }
 
 function loadGoogleSheet(){
-  document.getElementById('sidebar').style = 'display: none;';
-  document.getElementById('content').style = 'display: block; margin-left: 0px; max-width: 100vw;';
+  // document.getElementById('sidebar').style = 'display: none;';
+  // document.getElementById('content').style = 'display: block; margin-left: 0px; max-width: 100vw;';
   document.getElementById('inicio').innerHTML = '';
   
   document.getElementById('tabla_farmacos').innerHTML = '<input type="text" id="search" placeholder="Type to search"></input>';
@@ -235,8 +235,8 @@ function loadGoogleSheet(){
       // document.getElementById("Dosis adulto").setAttribute('style','width: 20ch');
       // document.getElementById("Presentación").setAttribute('style','width: 20ch');
      
-      $('inicio').style = 'position: absolute; overflow: hidden; max-width: 100vw; height: 100%; position: 0';
-      $('main').style = 'position: absolute; overflow: hidden; max-width: 100vw; height: 100%; position: 0';
+      // $('inicio').style = 'position: absolute; overflow: hidden; max-width: 100vw; height: 100%; position: 0';
+      // $('main').style = 'position: absolute; overflow: hidden; max-width: 100vw; height: 100%; position: 0';
   })
   .then(rep => {
     var $rows = $('#cuerpo_tabla tr');
