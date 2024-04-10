@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Home</title>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/katex.min.css"> -->
+    <!-- <link rel="stylesheet" href="styles.css"> -->
+    <script src="https://cdn.jsdelivr.net/npm/showdown@1.9.1/dist/showdown.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <link rel="icon" href="icon-1.png" type="image/png">
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+    <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="styles copy.css">
+    <script src="showdown/showdown.js"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.css" integrity="sha384-wcIxkf4k558AjM3Yz3BBFQUbk/zgIYC2R0QpeeYb+TwlBVMrlgLqwRjRtGZiK7ww" crossorigin="anonymous">
+
+    <!-- The loading of KaTeX is deferred to speed up page rendering -->
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.js" integrity="sha384-hIoBPJpTUs74ddyc4bFZSM1TVlQDA60VBbJS0oA934VSz82sBx1X7kSx2ATBDIyd" crossorigin="anonymous"></script>
+
+    <!-- To automatically render math in text elements, include the auto-render extension: -->
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/contrib/auto-render.min.js" integrity="sha384-43gviWU0YVjaDtb/GhzOouOXtZMP/7XUzwPTstBeZFe/+rCMvRwr4yROQP43s0Xk" crossorigin="anonymous"
+        onload="renderMathInElement(document.body);"></script>
+</head>
+<body styles="min-height: 100vh">
+
+        <nav class="navbar navbar-expand-sm bg-dark navbar-dark text-white sticky-top" style="width: 110%">
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="collapsibleNavbar">
+
+                <ul class="nav nav-pills navbar-dark bg-dark" >
+                    <li class="nav-item"><a class="nav-link" data-bs-toggle="pill" href="#inicio" onclick="loadMD('medi.md')" id="medi-especialidades">Medi y especialidades</a></li>
+                    <li class="nav-item"><a class="nav-link" data-bs-toggle="pill" href="#" onclick="loadMD('cardiologia/criterios_ecg/README.md')" id="ecg">ECG criterios</a></li>
+                    <li class="nav-item"><a class="nav-link" data-bs-toggle="pill" href="#" onclick="loadMD('cirugia/cirugia.md')" id="cirugia">Cirugía</a></li>
+                    <li class="nav-item"><a class="nav-link" data-bs-toggle="pill" href="#" onclick="loadMD('urgencias/urgencias.md')" id="urgencias">Urgencias</a></li>
+                    <li class="nav-item"><a class="nav-link" data-bs-toggle="pill" href="#" onclick="loadMD('obgin/obgin.md')" id="obgin">Obste y Gine</a></li>
+                    <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" id="pediatria">Pediatría</a>
+                        <ul class="dropdown-menu" data-bs-theme="dark">
+                            <li class="nav-item"><a class="dropdown-item" data-bs-toggle="pill" href="#inicio" onclick="loadMD('pediatria/pediatria.md')">datitos pediatría</a>
+                                <li class="nav-item"><a class="dropdown-item" data-bs-toggle="pill" href="#inicio" onclick="loadHTML('pediatria/Dosis.html')">dosis pedatría</a></li>
+                                <li class="nav-item"><a class="dropdown-item" data-bs-toggle="pill" href="#inicio" onclick="loadHTML('pediatria/Signos vitales.html')">signos vitales</a></li>
+                                <li class="nav-item"><a class="dropdown-item" data-bs-toggle="pill" href="#inicio" onclick="loadHTML('pediatria/Usos ATB.html')">usos algunos ATB</a></li>
+                                <li class="nav-item"><a class="dropdown-item" data-bs-toggle="pill" href="#inicio" onclick="loadMD('pediatria/guia_estudio_upa.md')">Guía estudio UPA</a></li>
+                                <li class="nav-item"><a class="dropdown-item" data-bs-toggle="pill" href="#inicio" onclick="loadMD('pediatria/valores.md')">Valores exámenes</a></li>
+                                <!-- <li class="nav-item"><a class="dropdown-item" data-bs-toggle="pill" href="#formatos_ingresos" onclick="loadMD('formatos.md')" id="medi-especialidades">Plant</a></li> -->
+                            </ul>
+                    </li>
+                    <li class="nav-item"><a class="nav-link active" data-bs-toggle="pill" href="#tabla_farmacos" onclick="loadGoogleSheet()" id="farmacologia">farmacología</a></li>
+                    <li class="nav-item"><a class="nav-link" data-bs-toggle="pill" href="https://uchile-my.sharepoint.com/:f:/g/personal/danielsanmartin_uchile_cl/EhouDuDBZxpEtwfy2CCMS4sB3nl_slMXYRkuua_VhReLmw?e=LD9RVW">OneDrive Material</a></li>
+                    <li class="nav-item"><a class="nav-link" data-bs-toggle="pill" href="https://uchile-my.sharepoint.com/personal/danielsanmartin_uchile_cl/Documents/Dan/Diccionario_LSCh.pdf?CT=1703984327422&OR=ItemsView">LSCh</a></li>
+                </nav>
+        <div style="position: absolute; right: 0; bottom: 0; z-index: 9000;" >
+            <button class="navbar-toggler button" type="button" data-bs-toggle="collapse" data-bs-target="#sidebar-index-container">
+                <p>hola mundo</p>
+            </button>   
+        </div>
+        <div class="d-flex flex-row" id="main-content-full">
+            
+            <nav class="navbar navbar-expand-lg collapse navbar-collapse col-2 bg-light sticky-top" style="width: 200px; position: sticky; top: 55px; left: 0px; overflow-y: scroll; height: 90vh;" id="sidebar-index-container" >
+            
+
+                  <ul id="sidebar-headings">
+                    <li><a href="#">Titulo 2</a></li>
+                    <li><a href="#">Titulo 3</a></li>
+                    <li><a href="#">Titulo 4</a></li>
+                    <li><a href="#">Titulo 5</a></li>
+                    <li><a href="#">Titulo 5</a></li>
+                    <li><a href="#">Titulo 5</a></li>
+                    <li><a href="#">Titulo 5</a></li>
+                    <li><a href="#">Titulo 5</a></li>
+                    <li><a href="#">Titulo 5</a></li>
+                    <li><a href="#">Titulo 5</a></li>
+                    <li><a href="#">Titulo 5</a></li>
+                    <li><a href="#">Titulo 5</a></li>
+                    <li><a href="#">Titulo 5</a></li>
+                    <li><a href="#">Titulo 5</a></li>
+                    <li><a href="#">Titulo 5</a></li>
+                    <li><a href="#">Titulo 5</a></li>
+                    <li><a href="#">Titulo 5</a></li>
+                    <li><a href="#">Titulo 5</a></li>
+                    <li><a href="#">Titulo 5</a></li>
+                    <li><a href="#">Titulo 5</a></li>
+                    <li><a href="#">Titulo 5</a></li>
+                    <li><a href="#">Titulo 5</a></li>
+                    <li><a href="#">Titulo 5</a></li>
+                    <li><a href="#">Titulo 5</a></li>
+                    <li><a href="#">Titulo 4</a></li>
+                    <li><a href="#">Titulo 4</a></li>
+                    <li><a href="#">Titulo 4</a></li>
+                    <li><a href="#">Titulo 4</a></li>
+                    <li><a href="#">Titulo 4</a></li>
+                    <li><a href="#">Titulo 4</a></li>
+                    </ul>
+                    
+                </div>
+            </nav>
+            <main class="col-10 overflow-y: scroll" style="padding-left: 0px; top:0; overflow-y: scroll; height: 90vh;">
+                <br>
+                
+                <div class="tab-content">
+                <div class="tab-pane container" id ="inicio"></div>
+                    <p>Siéntase libre de editar la tabla de fármacos en el siguiente link: <a href="https://docs.google.com/spreadsheets/d/1SMU1ltLrMVifOb2T8sN5gu5Yd3tKmQ6eid6QnjSDlQo/edit?usp=sharing">google sheets dosis fármacos</a></p>
+                  <div class="tab-pane container active" id="tabla_farmacos">
+                    <input type="text" id="search" placeholder="Type to search">
+        
+                    <div style="overflow: scroll; height: 400px;">  <table class="table" id="table" styles="display: block; width: 100%">  <thead>
+                          <tr id="headings_tabla">
+                            <th></th>
+                            </tr>
+                        </thead>
+                        <tbody id="cuerpo_tabla">
+                          </tbody>
+                      </table>
+                    </div>
+                  </div>
+                  </div>
+            </main>
+        
+    </div>
+</body>
+
+
+</html>

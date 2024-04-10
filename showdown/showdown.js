@@ -74,59 +74,40 @@ document.addEventListener('DOMContentLoaded', function() {
   })
 });
 
-function populateSidebarHeadings() {
-  const allHeadings = document.querySelectorAll('h1, h2, h3');
-  const sidebarList = document.getElementById('sidebar-headings');
 
-  sidebarList.innerHTML = ''; // Clear existing content
+function generateTitleObject() {
 
-  const processedHeadings = new Set(); // Track processed headings to avoid duplicates
-
-  function processHeading(heading) {
-    if (processedHeadings.has(heading)) {
-      return null; // Skip already processed heading
-    }
-    processedHeadings.add(heading);
-
-    const anchor = document.createElement('a');
-    anchor.href = '#' + heading.id;
-    anchor.textContent = heading.textContent.trim();
-
-    const listItem = document.createElement('li');
-    listItem.appendChild(anchor);
-
-    let currentList = listItem;
-
-    // Loop through subsequent siblings (avoiding duplicates)
-    for (let nextHeading = heading.nextElementSibling; nextHeading; nextHeading = nextHeading.nextElementSibling) {
-      if (nextHeading.tagName === 'H2' || nextHeading.tagName === 'H3' && !processedHeadings.has(nextHeading)) {
-        const subHeadingText = nextHeading.textContent.trim();
-        const subItem = document.createElement('li');
-        const subAnchor = document.createElement('a');
-        subAnchor.href = '#' + nextHeading.id;
-        subAnchor.textContent = subHeadingText;
-        subItem.appendChild(subAnchor);
-
-        if (nextHeading.tagName === 'H2') {
-          currentList.appendChild(subItem);
-        } else { // h3
-          const subList = document.createElement('ul');
-          subItem.appendChild(subList);
-          currentList.appendChild(subItem);
-        }
-        currentList = subItem; // Update currentList for nesting only if h2
-      }
-    }
-
-    processedHeadings.add(heading); // Mark heading as processed again (for potential future references)
-
-    return listItem;
+  let titleObject = document.querySelectorAll('h1, h2, h3');
+  // change headings id to match text content with no blank spaces and all lowercase
+  for (let i = 0; i < titleObject.length; i++) {
+    const heading = titleObject[i];
+    const headingText = heading.innerText;
+    const headingId = headingText.replace(/\s+/g, '-').toLowerCase();
+    const headingLevel = heading.tagName;
+    heading.setAttribute('id', `${headingLevel}-${headingId}`);
   }
-
-  const sidebarItems = Array.from(allHeadings).map(processHeading).filter(Boolean); // Remove null values (skipped headings)
-  sidebarList.append(...sidebarItems);
+  // populate sidebar with headings with jquery
+  let sidebar = document.getElementById('sidebar');
+  let sidebarContent = '<ul class="list-unstyled components">';
+  for (let i = 0; i < titleObject.length; i++) {
+    const heading = titleObject[i];
+    const headingText = heading.innerText;
+    const headingId = heading.getAttribute('id');
+    const headingLevel = heading.tagName;
+    sidebarContent += `<li><a href="#${headingId}">${headingText}</a></li>`;
+  }
+  sidebarContent += '</ul>';
+  sidebar.innerHTML = sidebarContent;
+  // assign class sub-h2 to h2 headings and sub-h3 to h3 headings in sidebar
+  let sidebarHeadings = document.querySelectorAll('#sidebar a');
+  for (let i = 0; i < sidebarHeadings.length; i++) {
+    const sidebarHeading = sidebarHeadings[i];
+    let sidebarHeadingLevel = sidebarHeading.getAttribute('href').split('-')[0];
+    // delete # from beginning of string
+    sidebarHeadingLevel = sidebarHeadingLevel.slice(1).toLowerCase();
+    sidebarHeading.classList.add(`sub-${sidebarHeadingLevel}`);
+  }
 }
-
 
 
 
@@ -176,7 +157,7 @@ function loadMD(filepath) {
       document.getElementById('tabla_farmacos').setAttribute('class',"tab-pane container");
     })
     .then(order => {
-      populateSidebarHeadings();
+        console.log(generateTitleObject());
       })      
         
 
@@ -213,6 +194,7 @@ function loadHTML(filepath) {
 }
 
 function loadGoogleSheet(){
+  
   document.getElementById('inicio').innerHTML = '';
   
   document.getElementById('tabla_farmacos').innerHTML = '<input type="text" id="search" placeholder="Type to search"></input>';
@@ -261,8 +243,8 @@ function loadGoogleSheet(){
       // document.getElementById("Dosis pediatrica").setAttribute('style','width: 20ch');
       // document.getElementById("Dosis adulto").setAttribute('style','width: 20ch');
       // document.getElementById("Presentación").setAttribute('style','width: 20ch');
-
-      
+     
+      $('inicio').style = 'position: relative; overflow: hidden; max-width: 100%; height: 100%;'
   })
   .then(rep => {
     var $rows = $('#cuerpo_tabla tr');
@@ -274,6 +256,7 @@ function loadGoogleSheet(){
             return !~text.indexOf(val);
         }).hide();
     });
+    
 
   })
 }
@@ -283,3 +266,26 @@ function openPDF() {
   window.open(pdfUrl, '_blank');
 }
 
+$(document).ready(function () {
+  console.log('hola jquery');
+
+/*   $("#sidebar").mCustomScrollbar({
+      theme: "minimal"
+  }); */
+
+  $('#dismiss, .overlay').on('click', function () {
+      // hide sidebar
+      $('#sidebar').removeClass('active');
+      // hide overlay
+      $('.overlay').removeClass('active');
+  });
+
+  $('#sidebarCollapse').on('click', function () {
+      // open sidebar
+      $('#sidebar').addClass('active');
+      // fade in the overlay
+      $('.overlay').addClass('active');
+      $('.collapse.in').toggleClass('in');
+      $('a[aria-expanded=true]').attr('aria-expanded', 'false');
+  });
+});

@@ -8,18 +8,129 @@ img{
     max-width: 100%;
 }
 
-/* sidebar at left, main at right*/
+
+.wrapper {
+    display: block;
+}
+
+
+#toggle-sidebar {
+    display: none;
+}
+#sidebar {
+    display: block;
+    margin-right: 20px;
+    border-right: 2pt;
+    background-color: #65532c;
+    height: 100vh;
+    width: 250px;
+    overflow-y: scroll;
+    scrollbar-width: none;
+    font: 1.2em 'Open Sans', sans-serif;
+    font-weight: bold;
+    
+    li{
+        margin: 10px;
+        
+    };
+    a{
+        color: #cdcdcd;
+        text-decoration: none;
+        display: block;
+        padding: 5px;
+        border-bottom: 1px solid #ffc2c2;
+        border-right: 1px solid #ffc2c2;
+    }
+    .sub-h2{
+        margin-left: 20px;
+        font-size: 0.9em;
+        font-weight: normal;
+    }
+    .sub-h3{
+        margin: 0 0 0 50px;
+        font-size: 0.7em;
+        font-weight: normal;
+        font-style: italic;
+        border: none;
+    }
+
+}
+#content {
+    margin-left: auto;
+    padding-left: 20px;
+    width: calc(100% - 250px);
+}
+#dismiss {
+    display: none;
+}
+
 
 @media screen and (max-width: 600px) {
-    #sidebar-index-container{
-        display: none;
-    }
+
     #inicio{
         width: 100%;
     }
-    #main-content-full{
-        width: 110%;
+    #content{
+        width: 100%;
         margin: 0;
+        position: absolute;
+        top: auto;
+        left: 0;
+    }
+    #toggle-sidebar{
+        position: absolute;
+        display:block;
+        bottom: 0;
+        right: 0;
     }
 
+    #sidebar {
+        min-width: 250px;
+        max-width: 250px;
+        height: 100vh;
+        margin: 0;
+ 
+        position: fixed;
+        display: none;
+        top: 0;
+        left: 0;
+        /* top layer */
+        z-index: 9999;
+    }
+    #sidebar.active {
+        display: block;
+    }
+    
+    .overlay {
+        display: none;
+        position: absolute;
+        top: 0px;
+        left: 0px;
+        /* full screen */
+        width: 100vw;
+        height: 100vh;
+        /* transparent black */
+        background-color: #00000000;
+    
+        /* middle layer, i.e. appears below the sidebar */
+        z-index: 998;
+        /* animate the transition */
+        transition: all 0.5s ease-in-out;
+    }
+    /* display .overlay when it has the .active class */
+    .overlay.active {
+        display: block;
+        visibility: visible;
+        background-color: #00000089;
+    }
+    
+    #dismiss {
+        width: 35px;
+        height: 35px;
+        position: absolute;
+        /* top right corner of the sidebar */
+        top: 10px;
+        right: 10px;
+    }
+    
 }

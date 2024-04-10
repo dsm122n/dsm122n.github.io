@@ -19,17 +19,24 @@
 
     <!-- The loading of KaTeX is deferred to speed up page rendering -->
     <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/katex.min.js" integrity="sha384-hIoBPJpTUs74ddyc4bFZSM1TVlQDA60VBbJS0oA934VSz82sBx1X7kSx2ATBDIyd" crossorigin="anonymous"></script>
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/solid.js" integrity="sha384-tzzSw1/Vo+0N5UhStP3bvwWPq+uvzCMfrN1fEFe+xBmv1C/AtVX5K0uZtmcHitFZ" crossorigin="anonymous"></script>
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/fontawesome.js" integrity="sha384-6OIrr52G08NpOFSZdxxz1xdNSndlD4vdcf/q2myIUVO0VsqaGHJsB0RaBE01VTOY" crossorigin="anonymous"></script>
 
+    <script src="https://code.jquery.com/jquery-3.7.1.slim.js" integrity="sha256-UgvvN8vBkgO0luPSUl2s8TIlOSYRoGFAX4jlCIm9Adc=" crossorigin="anonymous"></script>
+   <!-- Popper.JS -->
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.0/umd/popper.min.js" integrity="sha384-cs/chFZiN24E4KMATLdqdvsezGxaGsi4hLGOzlXwp5UZB1LY//20VyM2taTB4QvJ" crossorigin="anonymous"></script>
+
+  
     <!-- To automatically render math in text elements, include the auto-render extension: -->
     <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/contrib/auto-render.min.js" integrity="sha384-43gviWU0YVjaDtb/GhzOouOXtZMP/7XUzwPTstBeZFe/+rCMvRwr4yROQP43s0Xk" crossorigin="anonymous"
         onload="renderMathInElement(document.body);"></script>
 </head>
 <body styles="min-height: 100vh">
 
-        <nav class="navbar navbar-expand-sm bg-dark navbar-dark text-white sticky-top" style="width: 110%">
+        <nav class="navbar navbar-expand-sm bg-dark navbar-dark text-white sticky-top" style="width: 110%; position: relative;">
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
                 <span class="navbar-toggler-icon"></span>
-              </button>
+            </button>
             <div class="collapse navbar-collapse" id="collapsibleNavbar">
 
                 <ul class="nav nav-pills navbar-dark bg-dark" >
@@ -49,48 +56,192 @@
                                 <!-- <li class="nav-item"><a class="dropdown-item" data-bs-toggle="pill" href="#formatos_ingresos" onclick="loadMD('formatos.md')" id="medi-especialidades">Plant</a></li> -->
                             </ul>
                     </li>
-                    <li class="nav-item"><a class="nav-link active" data-bs-toggle="pill" href="#tabla_farmacos" onclick="loadGoogleSheet()" id="farmacologia">farmacología</a></li>
+                    <li class="nav-item"><a class="nav-link active" data-bs-toggle="pill" href="#" onclick="loadGoogleSheet()" id="farmacologia">farmacología</a></li>
                     <li class="nav-item"><a class="nav-link" data-bs-toggle="pill" href="https://uchile-my.sharepoint.com/:f:/g/personal/danielsanmartin_uchile_cl/EhouDuDBZxpEtwfy2CCMS4sB3nl_slMXYRkuua_VhReLmw?e=LD9RVW">OneDrive Material</a></li>
                     <li class="nav-item"><a class="nav-link" data-bs-toggle="pill" href="https://uchile-my.sharepoint.com/personal/danielsanmartin_uchile_cl/Documents/Dan/Diccionario_LSCh.pdf?CT=1703984327422&OR=ItemsView">LSCh</a></li>
         </nav>
-        <div class="d-flex flex-row" id="main-content-full">
-
-            <nav class="col-2 bg-light sticky-top" style="width: 200px; position: sticky; top: 55px; left: 0px; overflow-y: scroll; height: 90vh;" id="sidebar-index-container">
-              <ul id="sidebar-headings">
-                <li><a href="#">Titulo 1</a></li>
-                <li><a href="#">Titulo 2</a></li>
-                <li><a href="#">Titulo 3</a></li>
-                <li><a href="#">Titulo 4</a></li>
-                <li><a href="#">Titulo 4</a></li>
-                <li><a href="#">Titulo 4</a></li>
-                <li><a href="#">Titulo 4</a></li>
-                <li><a href="#">Titulo 4</a></li>
-                <li><a href="#">Titulo 4</a></li>
-                <li><a href="#">Titulo 4</a></li>
-                <li><a href="#">Titulo 4</a></li>
-                <li><a href="#">Titulo 4</a></li>
-                <li><a href="#">Titulo 4</a></li>
-                <li><a href="#">Titulo 4</a></li>
-                <li><a href="#">Titulo 4</a></li>
-                <li><a href="#">Titulo 4</a></li>
-                <li><a href="#">Titulo 4</a></li>
-                <li><a href="#">Titulo 4</a></li>
-                <li><a href="#">Titulo 4</a></li>
-                <li><a href="#">Titulo 4</a></li>
-                <li><a href="#">Titulo 4</a></li>
-                <li><a href="#">Titulo 4</a></li>
-                <li><a href="#">Titulo 4</a></li>
-                <li><a href="#">Titulo 4</a></li>
-                <li><a href="#">Titulo 4</a></li>
-                <li><a href="#">Titulo 4</a></li>
-                <li><a href="#">Titulo 4</a></li>
-                <li><a href="#">Titulo 4</a></li>
-                <li><a href="#">Titulo 4</a></li>
-                <li><a href="#">Titulo 4</a></li>
-                </ul>
-            </nav>
         
-            <main class="col-10 overflow-y: scroll" style="padding-left: 0px; top:0; overflow-y: scroll; height: 90vh;">
+        
+    <div class="wrapper">
+        <!-- Sidebar -->
+        <nav id="sidebar" class="nav-pills" style="position: absolute; top:auto;">
+
+            <div id="dismiss">
+                <i class="fas fa-arrow-left"></i>
+            </div>
+
+            <ul class="list-unstyled components">
+                <li class="active">
+                    <a href="#homeSubmenu" data-toggle="collapse" aria-expanded="false">Home</a>
+                    <ul class="collapse list-unstyled" id="homeSubmenu">
+                       
+                        <li>
+                            <a href="#">Home 2</a>
+                        </li>
+                        <li>
+                            <a href="#">Home 3</a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#">About</a>
+                    <a href="#pageSubmenu" data-toggle="collapse" aria-expanded="false">Pages</a>
+                    <ul class="collapse list-unstyled" id="pageSubmenu">
+                        <li>
+                            <a href="#">Page 1</a>
+                        </li>
+                        <li>
+                            <a href="#">Page 2</a>
+                        </li>
+                        <li>
+                            <a href="#">Page 3</a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="#">Portfolio</a>
+                </li>
+                <li>
+                    <a href="#">Contact</a>
+                </li>
+                <li>
+                    <a href="#">Contact</a>
+                </li>
+                <li>
+                    <a href="#">Contact</a>
+                </li>
+                <li>
+                    <a href="#">Contact</a>
+                </li>
+                <li>
+                    <a href="#">Contact</a>
+                </li>
+                <li>
+                    <a href="#">Contact</a>
+                </li>
+                <li>
+                    <a href="#">Portfolio</a>
+                </li>
+                <li>
+                    <a href="#">Contact</a>
+                </li>
+                <li>
+                    <a href="#">Contact</a>
+                </li>
+                <li>
+                    <a href="#">Contact</a>
+                </li>
+                <li>
+                    <a href="#">Contact</a>
+                </li>
+                <li>
+                    <a href="#">Contact</a>
+                </li>
+                <li>
+                    <a href="#">Contact</a>
+                </li>
+                <li>
+                    <a href="#">Portfolio</a>
+                </li>
+                <li>
+                    <a href="#">Contact</a>
+                </li>
+                <li>
+                    <a href="#">Contact</a>
+                </li>
+                <li>
+                    <a href="#">Contact</a>
+                </li>
+                <li>
+                    <a href="#">Contact</a>
+                </li>
+                <li>
+                    <a href="#">Contact</a>
+                </li>
+                <li>
+                    <a href="#">Contact</a>
+                </li>
+                <li>
+                    <a href="#">Portfolio</a>
+                </li>
+                <li>
+                    <a href="#">Contact</a>
+                </li>
+                <li>
+                    <a href="#">Contact</a>
+                </li>
+                <li>
+                    <a href="#">Contact</a>
+                </li>
+                <li>
+                    <a href="#">Contact</a>
+                </li>
+                <li>
+                    <a href="#">Contact</a>
+                </li>
+                <li>
+                    <a href="#">Contact</a>
+                </li>
+                <li>
+                    <a href="#">Portfolio</a>
+                </li>
+                <li>
+                    <a href="#">Contact</a>
+                </li>
+                <li>
+                    <a href="#">Contact</a>
+                </li>
+                <li>
+                    <a href="#">Contact</a>
+                </li>
+                <li>
+                    <a href="#">Contact</a>
+                </li>
+                <li>
+                    <a href="#">Contact</a>
+                </li>
+                <li>
+                    <a href="#">Contact</a>
+                </li>
+                <li>
+                    <a href="#">Portfolio</a>
+                </li>
+                <li>
+                    <a href="#">Contact</a>
+                </li>
+                <li>
+                    <a href="#">Contact</a>
+                </li>
+                <li>
+                    <a href="#">Contact</a>
+                </li>
+                <li>
+                    <a href="#">Contact</a>
+                </li>
+                <li>
+                    <a href="#">Contact</a>
+                </li>
+                <li>
+                    <a href="#">Contact</a>
+                </li>
+            </ul>
+        </nav>
+        <!-- fin de sidebar -->
+
+        <!-- Page Content -->
+        <div id="content">
+            <nav class="navbar" id="toggle-sidebar">
+                <div class="container-fluid">
+    
+                    <button type="button" id="sidebarCollapse" class="btn btn-info">
+                        <i class="fas fa-align-left"></i>
+                    </button>
+                </div>
+            </nav>
+
+
+
+            <main class="overflow-y: scroll" style="padding-left: 0px; top:0; overflow-y: scroll; height: 90vh;">
                 <br>
                 
                 <div class="tab-content">
@@ -111,9 +262,19 @@
                   </div>
                   </div>
             </main>
+            
+        </div>
+        <!-- Dark Overlay element -->
+        
+        
+        
+        
         
     </div>
+    <div class="overlay"></div>
+
+ 
 </body>
 
-
+  
 </html>
