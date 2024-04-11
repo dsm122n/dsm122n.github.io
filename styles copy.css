@@ -77,6 +77,16 @@ img{
 
     }
 }
+/* support for safari to ident for .sub-h2 and -sub-h3*/
+@supports (-webkit-touch-callout: none) {
+    .sub-h2 {
+        margin-left: 20px;
+        
+    }
+    .sub-h3 {
+        margin: 0 0 0 50px;
+    }
+}
 
 #dismiss {
     display: none;
