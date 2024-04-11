@@ -235,6 +235,17 @@ function loadMD(filepath) {
     .then(order => {
         generateTitleObject();
         // setStyleDefault();
+        // add event listener to all sidebar links to scroll to heading when clicked
+        let sidebarLinks = document.querySelectorAll('#sidebar a');
+        for (let i = 0; i < sidebarLinks.length; i++) {
+          const sidebarLink = sidebarLinks[i];
+          sidebarLink.addEventListener('click', function(event) {
+            event.preventDefault();
+            let headingId = sidebarLink.getAttribute('href').slice(1);
+            let heading = document.getElementById(headingId);
+            heading.scrollIntoView({behavior: 'smooth'});
+          });
+        }
       })      
         
 
