@@ -66,6 +66,18 @@ img{
     padding-left: 20px;
     width: calc(100% - 250px);
 }
+/* add support for styling of anchor tags for safari, I dont want them to be underlined and in blue*/
+@supports (-webkit-touch-callout: none) {
+    a {
+        
+        color: #ffffff;
+        -webkit-text-decoration: none;
+
+        text-decoration: none;
+
+    }
+}
+
 #dismiss {
     display: none;
 }
@@ -168,8 +180,9 @@ a.sidebar-link:hover {
     #toggle-sidebar{
         position: absolute;
         display:block;
-        bottom: 0;
-        right: 0;
+        bottom: calc(10%);
+        right: calc(10%);
+        opacity: 0.5;
     }
 
     #sidebar {
@@ -227,6 +240,7 @@ a.sidebar-link:hover {
         right: 10px;
     
     }
+    
     
 }
 /* Webkit for safari compatibility */
