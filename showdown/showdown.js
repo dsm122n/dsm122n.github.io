@@ -74,15 +74,22 @@ function generateTitleObject() {
   }
   // populate sidebar with headings with jquery
   let sidebar = document.getElementById('sidebar');
-  let sidebarContent = '<ul class="list-unstyled components">';
+  let sidebarContent = '';
   for (let i = 0; i < titleObject.length; i++) {
     const heading = titleObject[i];
     const headingText = heading.innerText;
     const headingId = heading.getAttribute('id');
     const headingLevel = heading.tagName;
-    sidebarContent += `<li><a href="#${headingId}">${headingText}</a></li>`;
+    sidebarContent += `<li class="sidebar-item"><a href="#${headingId}" class="sidebar-link">
+                          <span>${headingText}</span>
+                        </a></li>`;
+    console.log(`heading level: ${headingLevel} heading text: ${headingText} heading id: ${headingId} `);
+    if (headingLevel == 'H2') {
+      sidebarContent += '<ul class="sidebar-dropdown list-unstyled collapse" data-bs-parent="#sidebar">';
+    }
   }
-  sidebarContent += '</ul>';
+  console.log(sidebarContent);
+  // sidebarContent += '</ul>';
   sidebar.innerHTML = sidebarContent;
   // assign class sub-h2 to h2 headings and sub-h3 to h3 headings in sidebar
   let sidebarHeadings = document.querySelectorAll('#sidebar a');
@@ -91,8 +98,11 @@ function generateTitleObject() {
     let sidebarHeadingLevel = sidebarHeading.getAttribute('href').split('-')[0];
     // delete # from beginning of string
     sidebarHeadingLevel = sidebarHeadingLevel.slice(1).toLowerCase();
-    sidebarHeading.classList.add(`sub-${sidebarHeadingLevel}`);
+    sidebarHeading.classList.add(`sub-${sidebarHeadingLevel} navigation_link`);
+    
+    console.log(sidebarHeading);
   }
+  
 }
 
 
@@ -147,6 +157,23 @@ function loadMD(filepath) {
     })
     .then(order => {
         console.log(generateTitleObject());
+        var coll = document.querySelectorAll('.collapsible');
+        var i;
+
+        for (i = 0; i < coll.length; i++) {
+          coll[i].addEventListener("click", function() {
+            this.classList.toggle("active");
+            var content = this.nextElementSibling;
+            if (content.classList.contains('content_index')) {
+              content.style.display = 'block';
+            }
+            if (content.style.display === "block") {
+              content.style.display = "none";
+            } else {
+              content.style.display = "block";
+            }
+          });
+}
         // setStyleDefault();
       })      
         

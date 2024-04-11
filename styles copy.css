@@ -18,34 +18,33 @@ img{
     display: none;
 }
 #sidebar {
-    display: block;
-    margin-right: 20px;
-    border-right: 2pt;
-    background-color: #2c737d;
-    height: 100vh;
-    width: 250px;
-    overflow-y: scroll;
-    scrollbar-width: none;
-    font: 1.2em 'Arial', sans-serif;
-    font-weight: bold;
-    color:rgb(255, 255, 255);
-    -webkit-overflow-scrolling: touch; /* smooth scrolling on iOS devices */
+
+        width: 250px;
+        height: 100vh;  
+        z-index: 1000;
+        transition: all .25s ease-in-out;
+        background-color: #0e2238;
+        display: flex;
+        flex-direction: column;
+        overflow-y: scroll;
+        scrollbar-width: none;
+        font: 1.2em 'Arial', sans-serif;
+        font-weight: bold;
+        color:rgb(255, 255, 255);
+
+
     li{
+        list-style: none;
         margin: 10px;
         color: #ffffff
     };
     a{
         color: #ffffff;
-        -webkit-text-fill-color: #ffffff;
-        -webkit-text-stroke-width: 1px;
-        -webkit-text-stroke-color: #000000;
-
         text-decoration: none;
         display: block;
         padding: 5px;
-        border-bottom: 1px solid #ffc2c2;
-        border-right: 1px solid #ffc2c2;
-        -webkit-text-decoration-skip: none; /* specify how overlines and underlines are drawn when they pass over a glyph */
+        /* border-bottom: 1px solid #ffc2c2;
+        border-right: 1px solid #ffc2c2; */
 
     }
     .sub-h2{
@@ -71,6 +70,25 @@ img{
     display: none;
 }
 
+
+
+.overlay {
+    display: none;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    /* full screen */
+    width: 100vw;
+    height: 100vh;
+    /* transparent black */
+    background-color: #00000000;
+
+    /* middle layer, i.e. appears below the sidebar */
+    z-index: 998;
+    /* animate the transition */
+
+
+}
 
 @media screen and (max-width: 600px) {
 
@@ -103,6 +121,12 @@ img{
         left: 0;
         /* top layer */
         z-index: 9999;
+        backdrop-filter: blur(1.5rem);
+        background-color: #0e223868;
+        transition: all .25s ease-in-out;
+
+        
+
     }
     #sidebar.active {
         display: block;
@@ -122,7 +146,6 @@ img{
         /* middle layer, i.e. appears below the sidebar */
         z-index: 998;
         /* animate the transition */
-        -webkit-transition: background-color 0.5s ease; /* transition effect for background color */
     
     }
     /* display .overlay when it has the .active class */
@@ -139,10 +162,15 @@ img{
         /* top right corner of the sidebar */
         top: 10px;
         right: 10px;
-        -webkit-transition: opacity 0.5s ease; /* transition effect for opacity */
     
     }
     
 }
 /* Webkit for safari compatibility */
 
+@supports (-webkit-backdrop-filter: none) or (backdrop-filter: none) {
+    #sidebar {
+        -webkit-backdrop-filter: blur(1.5rem);
+        backdrop-filter: blur(1.5rem);
+    }
+}
