@@ -75,8 +75,11 @@ function generateTitleObject() {
     headingId = headingId.replace('í', 'i');
     headingId = headingId.replace('ó', 'o');
     headingId = headingId.replace('ú', 'u');
-    // insert \ before special characters
-    headingId = headingId.replace(/[^a-zA-Z0-9-]/g, '\\$&');
+    // replace ñ with n
+    headingId = headingId.replace('ñ', 'n');
+    // replace special characters with _
+    headingId = headingId.replace(/[^a-zA-Z0-9]/g, '_');
+
     const headingLevel = heading.tagName.toLowerCase();
     heading.setAttribute('id', `${headingLevel}-${headingId}`);
   }
@@ -114,7 +117,7 @@ function generateTitleObject() {
                                 <span>${headingText}</span>\n
                               </a></li>\n`;
           console.log(`heading level: ${headingLevel} heading text: ${headingText} heading id: ${headingId} `);
-          sidebarContent += `<ul id="${headingId}-list-dropdown" class="sidebar-dropdown list-unstyled collapse" data-bs-parent="#sidebar">\n`; 
+          sidebarContent += `<ul id="${headingId}-list-dropdown" class="sidebar-dropdown list-unstyled collapse" >\n`; 
     
         } 
         if (headingLevel == 'H1' && titleObject[i+1].tagName != 'H2') {
@@ -127,12 +130,12 @@ function generateTitleObject() {
         if (headingLevel == 'H2' && titleObject[i+1].tagName == 'H3') {
           sidebarContent += `<li class="sidebar-item ">\n
                               <a href="#${headingId}" class="sidebar-link collapsed has-dropdown" data-bs-toggle="collapse"\n
-                              data-bs-target="#${headingId}-list-dropdown" aria-expanded="false">\n
+                              data-bs-target="#${headingId}-list-dropdown"  aria-expanded="false">\n
                                 <span>${headingText}</span>\n
                               </a></li>\n`;
           console.log(`heading level: ${headingLevel} heading text: ${headingText} heading id: ${headingId} `);
     
-          sidebarContent += `<ul id="${headingId}-list-dropdown" class="sidebar-dropdown list-unstyled collapse" data-bs-parent="#sidebar">\n`;
+          sidebarContent += `<ul id="${headingId}-list-dropdown" class="sidebar-dropdown list-unstyled collapse" >\n`;
           console.log(`el html del sidebar es: ${sidebarContent}`);
         }
         if (headingLevel == 'H2' && titleObject[i+1].tagName != 'H3') {
@@ -243,6 +246,21 @@ function loadMD(filepath) {
             event.preventDefault();
             let headingId = sidebarLink.getAttribute('href').slice(1);
             let heading = document.getElementById(headingId);
+
+            // Check if the heading is inside a collapsed parent
+            let parent = heading.parentElement;
+            while (parent) {
+              if (parent.classList.contains('collapse') && !parent.classList.contains('show')) {
+                // If the parent is collapsed, trigger a click on its link to expand it
+                let parentLink = document.querySelector(`[href="#${parent.id}"]`);
+                if (parentLink) {
+                  parentLink.click();
+                }
+              }
+              parent = parent.parentElement;
+            }
+
+            // Scroll to the heading
             heading.scrollIntoView({behavior: 'smooth'});
           });
         }
