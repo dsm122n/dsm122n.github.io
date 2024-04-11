@@ -329,6 +329,7 @@ Diabetes pregestacional: diabetes tipo 1 o tipo 2 diagnosticada antes del embara
 - Glicemia mayor o igual a 200 mg/dl dos horas después de una carga de 75 g de glucosa durante una PTGO. 
 
 ### Screening confirmación dg y seguimiento
+
 ![screenin-dm-embarazo](screenin-dm-embarazo.png)
 
 ![lab-mal-control-metabólico](lab-mal-control-metabólico.png)

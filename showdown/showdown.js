@@ -68,26 +68,103 @@ function generateTitleObject() {
   for (let i = 0; i < titleObject.length; i++) {
     const heading = titleObject[i];
     const headingText = heading.innerText;
-    const headingId = headingText.replace(/\s+/g, '-').toLowerCase();
+    let headingId = headingText.replace(/\s+/g, '-').toLowerCase();
+    // jot characters to non-jot characters
+    headingId = headingId.replace('á', 'a');
+    headingId = headingId.replace('é', 'e');
+    headingId = headingId.replace('í', 'i');
+    headingId = headingId.replace('ó', 'o');
+    headingId = headingId.replace('ú', 'u');
+    // insert \ before special characters
+    headingId = headingId.replace(/[^a-zA-Z0-9-]/g, '\\$&');
     const headingLevel = heading.tagName.toLowerCase();
     heading.setAttribute('id', `${headingLevel}-${headingId}`);
   }
   // populate sidebar with headings with jquery
   let sidebar = document.getElementById('sidebar');
   let sidebarContent = '';
+  console.log(titleObject);
+  console.log(titleObject[0].tagName);
   for (let i = 0; i < titleObject.length; i++) {
+    console.log(`heading level: ${titleObject[i].tagName}`)
     const heading = titleObject[i];
     const headingText = heading.innerText;
     const headingId = heading.getAttribute('id');
     const headingLevel = heading.tagName;
-    sidebarContent += `<li class="sidebar-item"><a href="#${headingId}" class="sidebar-link">
-                          <span>${headingText}</span>
-                        </a></li>`;
-    console.log(`heading level: ${headingLevel} heading text: ${headingText} heading id: ${headingId} `);
-    if (headingLevel == 'H2') {
-      sidebarContent += '<ul class="sidebar-dropdown list-unstyled collapse" data-bs-parent="#sidebar">';
+    if (titleObject[i+1] == undefined) {
+      sidebarContent += `<li class="sidebar-item"> \n
+                          <a href="#${headingId}" class="sidebar-link">\n
+                            <span>${headingText}</span>\n
+                          </a>\n
+                          </li>`;
+      console.log(`heading level: ${headingLevel} heading text: ${headingText} heading id: ${headingId} `);
+      if (headingLevel == 'H1') {
+        sidebarContent += '</ul>\n';
+      }      
+      if (headingLevel == 'H2') {
+        sidebarContent += '</ul>\n';
+      }
+      if (headingLevel == 'H3') {
+        sidebarContent += '</ul>\n </ul>\n';
+      }
+    } else {
+        if (headingLevel == 'H1' && titleObject[i+1].tagName == 'H2') {
+          sidebarContent += `<li class="sidebar-item ">\n
+                              <a href="#${headingId}" class="sidebar-link collapsed has-dropdown" data-bs-toggle="collapse" data-bs-target="#${headingId}-list-dropdown" aria-expanded="false">\n
+                                <span>${headingText}</span>\n
+                              </a></li>\n`;
+          console.log(`heading level: ${headingLevel} heading text: ${headingText} heading id: ${headingId} `);
+          sidebarContent += `<ul id="${headingId}-list-dropdown" class="sidebar-dropdown list-unstyled collapse" data-bs-parent="#sidebar">\n`; 
+    
+        } 
+        if (headingLevel == 'H1' && titleObject[i+1].tagName != 'H2') {
+          sidebarContent += `<li class="sidebar-item ">\n
+                              <a href="#${headingId}" class="sidebar-link">\n
+                                  <span>${headingText}</span>\n
+                              </a>\n</li>`;
+          console.log(`heading level: ${headingLevel} heading text: ${headingText} heading id: ${headingId} `);
+        }
+        if (headingLevel == 'H2' && titleObject[i+1].tagName == 'H3') {
+          sidebarContent += `<li class="sidebar-item ">\n
+                              <a href="#${headingId}" class="sidebar-link collapsed has-dropdown" data-bs-toggle="collapse"\n
+                              data-bs-target="#${headingId}-list-dropdown" aria-expanded="false">\n
+                                <span>${headingText}</span>\n
+                              </a></li>\n`;
+          console.log(`heading level: ${headingLevel} heading text: ${headingText} heading id: ${headingId} `);
+    
+          sidebarContent += `<ul id="${headingId}-list-dropdown" class="sidebar-dropdown list-unstyled collapse" data-bs-parent="#sidebar">\n`;
+          console.log(`el html del sidebar es: ${sidebarContent}`);
+        }
+        if (headingLevel == 'H2' && titleObject[i+1].tagName != 'H3') {
+          sidebarContent += `<li class="sidebar-item">\n
+                              <a href="#${headingId}" class="sidebar-link">\n
+                                <span>${headingText}</span>\n
+                              </a>\n
+                              </li>`;
+          console.log(`heading level: ${headingLevel} heading text: ${headingText} heading id: ${headingId} `);
+        }
+        if (headingLevel == 'H3') {
+          sidebarContent += `<li class="sidebar-item ">\n
+                              <a href="#${headingId}" class="sidebar-link">\n
+                                <span>${headingText}</span>\n
+                              </a>\n</li>`;
+          console.log(`heading level: ${headingLevel} heading text: ${headingText} heading id: ${headingId} `);
+        }
+
+        // closing ul tags for H2 and H3 headings
+        if (headingLevel == 'H2' && titleObject[i+1].tagName == 'H1') {
+          sidebarContent += '</ul>\n';
+        }
+        if (headingLevel == 'H3' && titleObject[i+1].tagName == 'H2') {
+          sidebarContent += '</ul>\n';
+        }
     }
+
+    
+    
+
   }
+  sidebarContent += '</ul>';
   console.log(sidebarContent);
   // sidebarContent += '</ul>';
   sidebar.innerHTML = sidebarContent;
@@ -98,7 +175,7 @@ function generateTitleObject() {
     let sidebarHeadingLevel = sidebarHeading.getAttribute('href').split('-')[0];
     // delete # from beginning of string
     sidebarHeadingLevel = sidebarHeadingLevel.slice(1).toLowerCase();
-    sidebarHeading.classList.add(`sub-${sidebarHeadingLevel} navigation_link`);
+    sidebarHeading.classList.add(`sub-${sidebarHeadingLevel}`);
     
     console.log(sidebarHeading);
   }
@@ -156,24 +233,7 @@ function loadMD(filepath) {
       document.getElementById('tabla_farmacos').setAttribute('class',"tab-pane container");
     })
     .then(order => {
-        console.log(generateTitleObject());
-        var coll = document.querySelectorAll('.collapsible');
-        var i;
-
-        for (i = 0; i < coll.length; i++) {
-          coll[i].addEventListener("click", function() {
-            this.classList.toggle("active");
-            var content = this.nextElementSibling;
-            if (content.classList.contains('content_index')) {
-              content.style.display = 'block';
-            }
-            if (content.style.display === "block") {
-              content.style.display = "none";
-            } else {
-              content.style.display = "block";
-            }
-          });
-}
+        generateTitleObject();
         // setStyleDefault();
       })      
         
