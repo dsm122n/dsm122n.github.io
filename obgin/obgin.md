@@ -317,16 +317,17 @@ Si bien el tacto vaginal debe evitarse en el manejo de la mujer con metrorragia 
 
 ## Diabetes en embarazo
 
+A las 28 semanas se considera el periodo de máxima resistencia a la insulina, por eso a esta edad gestacional se debe hacer el TTG. Lo normal es que la glicemia baje el primer trimestre, por eso siempre tener la sospecha con valores de glicemia alrededor de 100 mg/dL o si tiene el antecedente de diabetes gestacional en embarazo previo, en estos casos es razonable hacer un TTG al ingreso a control prenatal, y adelantar levemente en TTG del segundo trimestre (24-26 semanas).
 
 Diabetes gestacional: cualquier grado de intolerancia a la glucosa que se diagnostica por primera vez durante el embarazo.
 - GAA 100-125 mg/dl en dos días diferentes
-- PTGO >= 140 mg/dl a las 2 horas con **75 g de glucosa** en segundo o tercer trimestre
+- PTGO > **o =** 140 mg/dl a las 2 horas con **75 g de glucosa** en segundo o tercer trimestre
 
 
 Diabetes pregestacional: diabetes tipo 1 o tipo 2 diagnosticada antes del embarazo.
-- Síntomas clásicos de diabetes (polidipsia, poliuria, polifagia y baja de peso) y una glicemia en cualquier momento del día mayor o igual a 200 mg/dl, sin relación con el tiempo transcurrido desde la última comida.
-- Glicemia en ayunas en plasma venoso mayor o igual a 126 mg/dl. Debe confirmarse con una segunda glicema mayor o igual a 126 mg/dl en un día diferente. (Ayuno se define como un período sin ingesta calórica de por lo menos ocho horas).
-- Glicemia mayor o igual a 200 mg/dl dos horas después de una carga de 75 g de glucosa durante una PTGO. 
+- <span style= "color: #440154; font-weight: bold;" >Síntomas</span> clásicos de diabetes (polidipsia, poliuria, polifagia y baja de peso) y una glicemia en cualquier momento del día > **o igual** a <span style= "color: #440154; font-weight: bold;" >200</span> mg/dl, sin relación con el tiempo transcurrido desde la última comida.
+- GAA en plasma venoso > **o igual** a 126 mg/dl. Debe confirmarse con una segunda glicema > **o igual** a 126 mg/dl en un día diferente. (Ayuno se define como un período sin ingesta calórica de por lo menos ocho horas).
+- Glicemia > **o igual** a 200 mg/dl dos horas después de una carga de 75 g de glucosa durante una PTGO. 
 
 ### Screening confirmación dg y seguimiento
 
@@ -342,7 +343,36 @@ Diabetes pregestacional: diabetes tipo 1 o tipo 2 diagnosticada antes del embara
 | 1 hora después de las comidas | < 140 mg/dl |
 | 2 horas después de las comidas | < 120 mg/dl |
 | durante la noche | 60-99 mg/dl |
-| Hemoglobina glicosilada | < 6% |
+| Hemoglobina glicosilada | < 6.5% |
+
+¿rev cuando iniciar insulina vs metformina vs dieta?
+
+En puererio disminuyen requerimientos de insulina inmediatamente
+
+Manual PUC:
+Objetivos metabólicos del control metabólico en DM Pregestacional 
+- Glicemia de ayunas <90 mg/dl 
+- Glicemias postprandiales a las 2 horas <120 mg/dl 
+- HbA1c <7% 
+- Cetonuria negativa 
+- Ganancia de peso aceptable: 20% del peso inicial, en promedio 11 kilos.
+
+### Complicaciones
+
+![riesgos_pregest](riesgos_pregest.png)
+
+
+> complicaciones obstétricas más importantes, muerte y retención de hombro
+
+> no vale la pena pedir curva de insulina en embarazada
+
+### Seguimiento
+
+Ojo: si se mantiene creciendo GEG
+
+### Interrupción
+
+> 90% diabetes gestacionales se deberían compensar con dieta, sin requerir metformina 
 
 ## Semanas de Interrupción de la Gestación
 
@@ -460,6 +490,47 @@ Valores útiles para EG:
 * CC = Circunferencia craneana
 * CA = Circunferencia abdominal
 * LF = Longitud femoral
+
+## ITS en embarazo
+
+### Sífilis
+
+![dg_sifilis](dg_sifilis.png)
+Gold Standard: Microscopía de campo oscuro
+
+Frente a sospecha de paciente con VDRL, antes de confirmar con Treponémica, <span style= "color: #5ec962; font-weight: bold;" >TRATAR</span> y <span style= "color: #21918c; font-weight: bold;" >derivar a ARO</span> (por lo general llegan derivaciones después de dos dosis)
+
+Mayor transmisión en 2° y 3er trimestre, traspaso placentario.
+- 
+
+#### Tto
+
+Tto:
+- PNC 2.400.000 /semana
+    - 2 semanas en 
+    - 3 semanas en 
+
+Tratamiento adecuado:
+1. Última dosis de 2.4 millones UI de penicilina benzatina por lo menos 1 mes antes del parto. 
+2. Al momento del nacimiento, debe existir una disminución ≥ 2 diluciones de VDRL. 
+3. El tratamiento debe haber sido realizado con penicilina benzatina.  
+4. La pareja sexual debe recibir tratamiento.  
+
+
+## Hipotiroidismo
+
+### Ajuste tto
+
+### Metas TSH
+
+### Complicaciones 
+
+Obstétricas:
+- DPPNI
+- 
+
+Fetales/RN
+- Déficit CI
 
 
 # Ginecología
