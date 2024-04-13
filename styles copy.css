@@ -2,7 +2,7 @@ img{
     max-width: 100%;
 }
 #table{
-     width: 200%;
+     width: auto;
 }
 .dosis-ped{
     max-width: 100%;
@@ -76,9 +76,9 @@ img{
         text-decoration: none;
 
     }
-}
-/* support for safari to ident for .sub-h2 and -sub-h3*/
-@supports (-webkit-touch-callout: none) {
+    li{
+        -webkit-text-decoration: none;
+    }
     .sub-h2 {
         margin-left: 20px;
         
@@ -87,6 +87,7 @@ img{
         margin: 0 0 0 50px;
     }
 }
+
 
 #dismiss {
     display: none;
