@@ -1,7 +1,92 @@
 # Obstetricia
+
+## Control prenatal
+
+### Primer control prenatal
+
+Objetivos **primer control**:
+- Definir el estado actual de salud de la mujer y del feto.
+- Detectar factores de riesgo psicosocial. 
+- Determinar la edad gestacional. 
+- Evaluar los posibles riesgos  y eventualmente corregirlos. 
+- Planificar el control prenatal en relación al riesgo asignado.
+- Entregar información para el autocuidado, beneficios legales.
+- Derivar a salud bucal (ver Guía GES), nutrición, salud mental, según corresponda.
+
+| Tiempo (semanas) | Exámenes solicitados |
+|---|---|
+| Primer control | - VIH<br>- Citología cervical<br>- Glicemia<br>- Ultrasonido por indicación<br>- Examen de chagas a embarazadas de zona endémica y según Norma General Técnica. Control y Prevención Nacional de Enfermedad de Chagas 2014. |
+| 10-15 | - Ultrasonido 11 a 14 semanas para riesgo aneuploidía<br>- Ultrasonido anatomía y marcadores aneuploidía |
+| 20-24 | - Doppler de arteria uterina<br>- Evaluación del cérvix, según disponibilidad<br>- VDRL-RPR<br>- Glicemia post prandial tamizaje de Diabetes |
+| 26-28 | - Coombs Indirecto en Rh no sensibilizada.<br>- Administración inmunoglobulina anti Rho (Rh negativas no sensibilizadas), según disponibilidad |
+| 32-34 | - VDRL o RPR |
+| 32-38 | - Ultrasonido<br>- Repetir hematocrito-hemoglobina |
+| 35-37 | - Cultivo perianal Estreptococo Grupo B (toda embarazada debe realizarse cultivo perianal de Estreptococo Grupo B a las 35 - 37 semanas como estrategia de prevención de neumonía neonatal, con excepción de mujeres con urocultivo (+) al mismo germen.) |
+
+Perioricidad de controles si sin factores de riesgo: 
+1) un control cada cuatro semanas hasta la semana 28, luego 
+2) cada dos semanas hasta la 36, y posteriormente 
+3) un control semanal hasta el momento del parto.
+
+El examen obstétrico abdominal adquiere importancia, desde aproximadamente las 12 semanas de gestación. En estos casos la altura uterina, medida en cms, desde el borde superior de la sínfisis pubiana a la parte más alta del fondo uterino, debe encontrarse entre el percentil 10 y 90 de la curva; esta medida nos entrega información referente al tamaño del feto e indirectamente, de la edad gestacional. 
+
+**Entre las 18 y 32 semanas la altura uterina medida en centímetros equivale a la edad gestacional en semanas**.
+
+### Evaluación en Segundo semestre
+
+Bienestar fetal:
+- Percepción y número de movimientos fetales: Disminución o ausencia de movimientos fetales puede ser signo de alteración del bienestar fetal.
+
+Signos y síntomas de complicaciones:
+
+- Hipertensión: Cefalea, fotopsia (visión de luces o destellos), tinitus (zumbido en los oídos).
+- Infección urinaria: Disuria (dolor al orinar), polaquiuria (aumento de la frecuencia urinaria), pujo y tenesmo vesical (sensación de no vaciar completamente la vejiga).
+- Amenaza de parto prematuro: Contracciones uterinas regulares y dolorosas.
+- Colestasia intrahepática del embarazo: Prurito palmo-plantar (picazón en las palmas de las manos y las plantas de los pies), especialmente de noche.
+- Enfermedades de transmisión sexual (ITS): Secreción vaginal anormal, dolor o ardor al orinar, verrugas genitales, úlceras genitales.
+
+
+Derivación a Nivel secundario / Terciario
+
+![derivacion_emb](derivacion_emb.png)
+
+
+## Requerimientos nutri en embarazo
+
+<table cellspacing="0"><colgroup span="7" width="14%"></colgroup> <tbody> <tr> <td class="subtitle1_left">&nbsp;</td> <td class="subtitle1_left">Source of goal</td> <td class="subtitle1_left">Nonpregnant/<br> nonlactating females</td> <td class="subtitle1_left">Pregnant<br> (age 14 to 18 years)</td> <td class="subtitle1_left">Pregnant<br> (age 19 to 30 years)</td> <td class="subtitle1_left">Pregnant<br> (age 31 to 50 years)</td> <td class="subtitle1_left">Upper limit</td> </tr> <tr> <td class="subtitle2_left" colspan="7"><annotation-anchor data-content-id="5U1idT0" amboss-annotation-variant="none">Macronutrients</annotation-anchor></td> </tr> <tr> <td class="indent1">Protein (as % of kcal)</td> <td>AMDR</td> <td>10 to 30%</td> <td>10 to 30%</td> <td>10 to 35%</td> <td>10 to 35%</td> <td>&nbsp;</td> </tr> <tr> <td class="indent1">Protein</td> <td><annotation-anchor data-content-id="_Oc5Ec0" amboss-annotation-variant="none">RDA</annotation-anchor></td> <td>46 g</td> <td>71 g</td> <td>71 g</td> <td>71 g</td> <td>&nbsp;</td> </tr> <tr> <td class="indent1">Carbohydrate (as % kcal)</td> <td>AMDR</td> <td>45 to 65%</td> <td>45 to 65%</td> <td>45 to 65%</td> <td>45 to 65%</td> <td>&nbsp;</td> </tr> <tr> <td class="indent1">Carbohydrate</td> <td><annotation-anchor data-content-id="_Oc5Ec0" amboss-annotation-variant="none">RDA</annotation-anchor></td> <td>130 g</td> <td>175 g</td> <td>175 g</td> <td>175 g</td> <td>&nbsp;</td> </tr> <tr> <td class="indent1">Fiber</td> <td>14 g per 1000 kcal</td> <td>25 to 28 g</td> <td>25 to 34 g</td> <td>28 to 36 g</td> <td>25 to 34 g</td> <td>&nbsp;</td> </tr> <tr> <td class="indent1">Added sugars (as % of kcal)</td> <td>DGA</td> <td>&lt;10%</td> <td>&lt;10%</td> <td>&lt;10%</td> <td>&lt;10%</td> <td>&nbsp;</td> </tr> <tr> <td class="indent1">Total fat (as % of kcal)</td> <td>AMDR</td> <td>20 to 35%</td> <td>25 to 35%</td> <td>20 to 35%</td> <td>20 to 35%</td> <td>&nbsp;</td> </tr> <tr> <td class="indent1">Saturated fat (as % of kcal)</td> <td>DGA</td> <td>&lt;10%</td> <td>&lt;10%</td> <td>&lt;10%</td> <td>&lt;10%</td> <td>&nbsp;</td> </tr> <tr> <td class="indent1">18:3 <annotation-anchor data-content-id="0D1e1Q0" amboss-annotation-variant="none">Linolenic acid</annotation-anchor></td> <td>AI</td> <td>1.1 g</td> <td>1.4 g</td> <td>1.4 g</td> <td>1.4 g</td> <td>&nbsp;</td> </tr> <tr> <td class="subtitle2_left" colspan="7">Minerals</td> </tr> <tr> <td class="indent1"><annotation-anchor data-content-id="YrWnf50" amboss-annotation-variant="none">Calcium</annotation-anchor></td> <td><annotation-anchor data-content-id="_Oc5Ec0" amboss-annotation-variant="none">RDA</annotation-anchor></td> <td>1000 mg</td> <td>1300 mg</td> <td>1000 mg</td> <td>1300 mg</td> <td>2500 mg</td> </tr> <tr> <td class="indent1">Iron</td> <td><annotation-anchor data-content-id="_Oc5Ec0" amboss-annotation-variant="none">RDA</annotation-anchor></td> <td>18 mg</td> <td>27 mg</td> <td>27 mg</td> <td>27 mg</td> <td>45 mg</td> </tr> <tr> <td class="indent1"><annotation-anchor data-content-id="05Yeip" amboss-annotation-variant="none">Magnesium</annotation-anchor></td> <td><annotation-anchor data-content-id="_Oc5Ec0" amboss-annotation-variant="none">RDA</annotation-anchor></td> <td>310 to 360 mg</td> <td>400 mg</td> <td>350 mg</td> <td>360 mg</td> <td>350 mg<sup>*</sup></td> </tr> <tr> <td class="indent1"><annotation-anchor data-content-id="0rWef50" amboss-annotation-variant="none">Phosphorus</annotation-anchor></td> <td><annotation-anchor data-content-id="_Oc5Ec0" amboss-annotation-variant="none">RDA</annotation-anchor></td> <td>700 mg</td> <td>1250 mg</td> <td>700 mg</td> <td>700 mg</td> <td>4000 mg</td> </tr> <tr> <td class="indent1">Zinc</td> <td><annotation-anchor data-content-id="_Oc5Ec0" amboss-annotation-variant="none">RDA</annotation-anchor></td> <td>8 mg</td> <td>12 mg</td> <td>11 mg</td> <td>11 mg</td> <td>40 mg</td> </tr> <tr> <td class="indent1">Iodine</td> <td><annotation-anchor data-content-id="_Oc5Ec0" amboss-annotation-variant="none">RDA</annotation-anchor></td> <td>150 mcg</td> <td>220 mcg</td> <td>220 mcg</td> <td>220 mcg</td> <td>1110 mcg</td> </tr> <tr> <td class="indent1">Selenium</td> <td><annotation-anchor data-content-id="_Oc5Ec0" amboss-annotation-variant="none">RDA</annotation-anchor></td> <td>55 mcg</td> <td>60 mcg</td> <td>60 mcg</td> <td>60 mcg</td> <td>400 mcg</td> </tr> <tr> <td class="subtitle2_left" colspan="7">Vitamins</td> </tr> <tr> <td class="indent1"><annotation-anchor data-content-id="d6boPu" amboss-annotation-variant="none">Vitamin A</annotation-anchor></td> <td><annotation-anchor data-content-id="_Oc5Ec0" amboss-annotation-variant="none">RDA</annotation-anchor></td> <td>700 mcg RAE</td> <td>750 mcg RAE</td> <td>770 mcg RAE</td> <td>770 mcg RAE</td> <td>3000 mcg RAE</td> </tr> <tr> <td class="indent1"><annotation-anchor data-content-id="RG0l_h" amboss-annotation-variant="none">Vitamin D</annotation-anchor></td> <td><annotation-anchor data-content-id="_Oc5Ec0" amboss-annotation-variant="none">RDA</annotation-anchor></td> <td>600 international units</td> <td>600 international units</td> <td>600 international units</td> <td>600 international units</td> <td>4000 international units</td> </tr> <tr> <td class="indent1"><annotation-anchor data-content-id="JgbswG" amboss-annotation-variant="none">Vitamin E</annotation-anchor></td> <td><annotation-anchor data-content-id="_Oc5Ec0" amboss-annotation-variant="none">RDA</annotation-anchor></td> <td>15 mg</td> <td>15 mg</td> <td>15 mg</td> <td>15 mg</td> <td>1000 mg</td> </tr> <tr> <td class="indent1"><annotation-anchor data-content-id="93bNkt" amboss-annotation-variant="none">Vitamin K</annotation-anchor></td> <td>AI</td> <td>90 mcg</td> <td>75 mcg</td> <td>90 mcg</td> <td>90 mcg</td> <td>ND</td> </tr> <tr> <td class="indent1"><annotation-anchor data-content-id="znbrD8" amboss-annotation-variant="none">Vitamin C</annotation-anchor></td> <td><annotation-anchor data-content-id="_Oc5Ec0" amboss-annotation-variant="none">RDA</annotation-anchor></td> <td>75 mg</td> <td>80 mg</td> <td>85 mg</td> <td>85 mg</td> <td>2000 mg</td> </tr> <tr> <td class="indent1">Thiamin</td> <td><annotation-anchor data-content-id="_Oc5Ec0" amboss-annotation-variant="none">RDA</annotation-anchor></td> <td>1.1 mg</td> <td>1.4 mg</td> <td>1.4 mg</td> <td>1.4 mg</td> <td>ND</td> </tr> <tr> <td class="indent1"><annotation-anchor data-content-id="XIb9YE" amboss-annotation-variant="none">Riboflavin</annotation-anchor></td> <td><annotation-anchor data-content-id="_Oc5Ec0" amboss-annotation-variant="none">RDA</annotation-anchor></td> <td>1.1 mg</td> <td>1.4 mg</td> <td>1.4 mg</td> <td>1.4 mg</td> <td>ND</td> </tr> <tr> <td class="indent1"><annotation-anchor data-content-id="2WYTkL" amboss-annotation-variant="none">Niacin</annotation-anchor></td> <td><annotation-anchor data-content-id="_Oc5Ec0" amboss-annotation-variant="none">RDA</annotation-anchor></td> <td>14 mg</td> <td>18 mg</td> <td>18 mg</td> <td>18 mg</td> <td>35 mg</td> </tr> <tr> <td class="indent1">Vitamin B6</td> <td><annotation-anchor data-content-id="_Oc5Ec0" amboss-annotation-variant="none">RDA</annotation-anchor></td> <td>1.3 mg</td> <td>1.9 mg</td> <td>1.9 mg</td> <td>1.9 mg</td> <td>100 mg</td> </tr> <tr> <td class="indent1">Vitamin B12</td> <td><annotation-anchor data-content-id="_Oc5Ec0" amboss-annotation-variant="none">RDA</annotation-anchor></td> <td>2.4 mcg</td> <td>2.6 mcg</td> <td>2.6 mcg</td> <td>2.6 mcg</td> <td>ND</td> </tr> <tr> <td class="indent1">Choline</td> <td>AI</td> <td>425 mg</td> <td>450 mg</td> <td>450 mg</td> <td>450 mg</td> <td>3500 mg</td> </tr> <tr> <td class="indent1"><annotation-anchor data-content-id="HlXKyy" amboss-annotation-variant="none">Folate</annotation-anchor></td> <td><annotation-anchor data-content-id="_Oc5Ec0" amboss-annotation-variant="none">RDA</annotation-anchor></td> <td>400 mcg DFE</td> <td>600 mcg DFE</td> <td>600 mcg DFE</td> <td>600 mcg DFE</td> <td>1000 mcg DFE</td> </tr> </tbody></table>
+
+En Gemelar:
+
+<table cellspacing="0"><colgroup span="4" width="25%"></colgroup> <tbody> <tr> <td class="subtitle1">Intervention</td> <td class="subtitle1"><annotation-anchor data-content-id="sMctJ10" amboss-annotation-variant="none">First trimester</annotation-anchor></td> <td class="subtitle1"><annotation-anchor data-content-id="GMcBJ10" amboss-annotation-variant="none">Second trimester</annotation-anchor></td> <td class="subtitle1"><annotation-anchor data-content-id="tMcXq10" amboss-annotation-variant="none">Third trimester</annotation-anchor></td> </tr> <tr class="divider_bottom"> <td>Maternal weight/weight gain</td> <td>Assess maternal pregravid <annotation-anchor data-content-id="Qs0uuh" amboss-annotation-variant="none">BMI</annotation-anchor>, determine <annotation-anchor data-content-id="Qs0uuh" amboss-annotation-variant="none">BMI</annotation-anchor>-specific weight gain goals</td> <td>Assess/counsel regarding maternal <annotation-anchor data-content-id="Qs0uuh" amboss-annotation-variant="none">BMI</annotation-anchor>-specific weight gain (each prenatal care visit)</td> <td>Assess/counsel regarding maternal <annotation-anchor data-content-id="Qs0uuh" amboss-annotation-variant="none">BMI</annotation-anchor>-specific weight gain (each prenatal care visit)</td> </tr> <tr> <td colspan="4">Caloric requirements (kcal × kg<sup>–1</sup> × d<sup>–1</sup>)</td> </tr> <tr> <td class="indent1">Normal <annotation-anchor data-content-id="Qs0uuh" amboss-annotation-variant="none">BMI</annotation-anchor></td> <td class="centered">40 to 45</td> <td class="divider_bottom" rowspan="3">Alter as necessary for weight gain goal</td> <td class="divider_bottom" rowspan="3">Alter as necessary for weight gain goal</td> </tr> <tr> <td class="indent1">Underweight</td> <td class="centered">42 to 50</td> </tr> <tr class="divider_bottom"> <td class="indent1"><annotation-anchor data-content-id="v81Aoi0" amboss-annotation-variant="none">Overweight</annotation-anchor></td> <td class="centered">30 to 35</td> </tr> <tr> <td colspan="4"><annotation-anchor data-content-id="YGWnB50" amboss-annotation-variant="none">Micronutrient</annotation-anchor> supplement (daily total intake)</td> </tr> <tr> <td class="indent1">MVI with iron (30 mg elemental tablets)</td> <td class="centered">1</td> <td class="centered">2</td> <td class="centered">2</td> </tr> <tr> <td class="indent1"><annotation-anchor data-content-id="YrWnf50" amboss-annotation-variant="none">Calcium</annotation-anchor> (mg)</td> <td class="centered">1500</td> <td class="centered">2500</td> <td class="centered">2500</td> </tr> <tr> <td class="indent1"><annotation-anchor data-content-id="RG0l_h" amboss-annotation-variant="none">Vitamin D</annotation-anchor> (international units)</td> <td class="centered">1000</td> <td class="centered">1000</td> <td class="centered">1000</td> </tr> <tr> <td class="indent1"><annotation-anchor data-content-id="05Yeip" amboss-annotation-variant="none">Magnesium</annotation-anchor> (mg)</td> <td class="centered">400</td> <td class="centered">800</td> <td class="centered">800</td> </tr> <tr> <td class="indent1">Zinc (mg)</td> <td class="centered">15</td> <td class="centered">30</td> <td class="centered">30</td> </tr> <tr> <td class="indent1">DHA/EPA (mg)</td> <td class="centered">300 to 500</td> <td class="centered">300 to 500</td> <td class="centered">300 to 500</td> </tr> <tr> <td class="indent1"><annotation-anchor data-content-id="HlXKyy" amboss-annotation-variant="none">Folic acid</annotation-anchor> (mg)</td> <td class="centered">1</td> <td class="centered">1</td> <td class="centered">1</td> </tr> <tr class="divider_bottom"> <td class="indent1">Vitamin C/E (mg/international units)</td> <td class="centered">500 to 1000/400</td> <td class="centered">500 to 1000/400</td> <td class="centered">500 to 1000/400</td> </tr> <tr class="divider_bottom"> <td>Nutritional consultation</td> <td>Yes</td> <td>Repeat if not at weight gain goal, anemia, GDM</td> <td>Repeat if not at weight gain goal, anemia, GDM</td> </tr> <tr class="divider_bottom"> <td>Laboratory nutritional assessment</td> <td>Hemoglobin ferritin folate/B12 early screen for GDM (risk factors) vitamin D</td> <td>Follow up abnormalities from first trimester</td> <td>Hemoglobin ferritin GDM screen with or without vitamin D</td> </tr> <tr> <td>Risk factor-appropriate exercise or reduction in activity</td> <td>Screen</td> <td>Screen</td> <td>Screen</td> </tr> </tbody></table>
+
+
+Suplementos y alimentos que pueden ser dañinos:
+- Vitamina A, >10.000 UI/día (1 UI = 0,3 mcg de retinol) parece ser teratogénico
+- Yodo, Congenital hypothyroidism has been reported in offspring of pregnant people ingesting 2.3 to 12.5 mg iodine daily (greater than 10 times the recommended dietary allowances [RDA] of 220 mcg, and greater than two times the upper limit of 1100 mcg)
+- Cafeina (limitar a no más de 200 mg/día)
+- Ácidos grasos trans: direct effects on membrane structures or metabolism, or by replacing maternal intake of the cis essential fatty acids
+
+Aporte calórico: se debe aumentar el aporte calórico en 350 y 450 Kcal/día durante el segundo y tercer trimestre respectivamente
+
+Hierro:
+- requerimientos de hierro durante el embarazo son de 27 mg por día y su aporte en la dieta corriente no supera los 15 mg
+- aportar 30 a 60 mg por día de hierro elemental, en forma de sales ferrosas como fumarato, gluconato, o sulfato desde las 16 semanas de gestación en adelante.
+  - anemia ferropriva deben recibir una dosis adicional de 30 a 120 mg/día, hasta corregir la anemia
+
+Ac. Fólico:
+- suplemento de ácido fólico (0,4-0,8 mg por día) 3 meses antes y 12 semanas después de la concepción para prevenir el riesgo de defectos del tubo neural.
+  - pan tipo marraqueta (100 g) aporta aproximadamente. 200 mcg de ácido fólico.
+
+### Incremento de peso
+
+Recomendación Guía perinatal:
+- 12.7-18,2 kg en mujeres de bajo peso. 
+- 11,4 a 15,9 kg en embarazadas normales. 
+- 6,8-11,4 kg en sobrepeso
+- 5,0-9,1 kg para embarazadas con obesidad. 
+
+
 ## Síndrome hipertensivo del embarazo (SHE)
-
-
 
 
 
@@ -321,10 +406,16 @@ Si bien el tacto vaginal debe evitarse en el manejo de la mujer con metrorragia 
 
 ## Diabetes en embarazo
 
-A las 28 semanas se considera el periodo de máxima resistencia a la insulina, por eso a esta edad gestacional se debe hacer el TTG. Lo normal es que la glicemia baje el primer trimestre, por eso siempre tener la sospecha con valores de glicemia alrededor de 100 mg/dL o si tiene el antecedente de diabetes gestacional en embarazo previo, en estos casos es razonable hacer un TTG al ingreso a control prenatal, y adelantar levemente en TTG del segundo trimestre (24-26 semanas).
+A las 28 semanas se considera el periodo de máxima resistencia a la insulina, por eso a esta edad gestacional se debe hacer PTGO. Lo normal es que la glicemia baje el primer trimestre, por eso siempre tener la sospecha con valores de glicemia alrededor de 100 mg/dL o si tiene el **antecedente de diabetes gestacional en embarazo previo**, en estos casos es razonable hacer un TTG al ingreso a control prenatal, y adelantar levemente la PTGO del segundo trimestre (24-26 semanas).
+
+At around 16 weeks, insulin resistance begins to increase, and total daily insulin doses increase linearly 5% per week through week 36. This usually results in a doubling of daily insulin dose compared with the prepregnancy requirement
+
+Due to the potential for growth restriction or acidosis in the setting of placental insufficiency, **metformin** should **not be used** in pregnant people with **hypertension or preeclampsia or those at risk for intrauterine growth restriction**.
+
+### Diagnóstico
 
 Diabetes gestacional: cualquier grado de intolerancia a la glucosa que se diagnostica por primera vez durante el embarazo.
-- GAA 100-125 mg/dl en dos días diferentes
+- GAA 100-125 mg/dl en **dos días** diferentes
 - PTGO > **o =** 140 mg/dl a las 2 horas con **75 g de glucosa** en segundo o tercer trimestre
 
 
@@ -348,6 +439,14 @@ Diabetes pregestacional: diabetes tipo 1 o tipo 2 diagnosticada antes del embara
 | 2 horas después de las comidas | < 120 mg/dl |
 | durante la noche | 60-99 mg/dl |
 | Hemoglobina glicosilada | < 6.5% |
+
+ADA 2024, pre-gestacional (DM1 y DM2):
+- G en ayunas 70 a 95 mg/dl
+- 1h postprandial 110 - 140 mg/dl
+- 2h postprandial 100 - 120 mg/dl
+- HbA1c < 6% mientras no implique mucha hipoglicemia (menor a 6.5%, por mayor recambio de eritrocitos)
+Hipoglicemia según ADA, no está claro, pero <60 o <70 mg/dl
+
 
 ¿rev cuando iniciar insulina vs metformina vs dieta?
 

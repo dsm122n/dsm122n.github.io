@@ -11,6 +11,8 @@ img{
 
 .wrapper {
     display: block;
+    /* height to full */
+    height: calc(50px - 1rem);
 }
 
 
@@ -78,6 +80,7 @@ img{
     }
     li{
         -webkit-text-decoration: none;
+        text-decoration: none;
     }
     .sub-h2 {
         margin-left: 20px;
@@ -102,10 +105,10 @@ img{
     left: 0px;
     /* full screen */
     width: 100vw;
-    height: 100vh;
+    height: 150%;
     /* transparent black */
     background-color: #00000000;
-
+    position: fixed;
     /* middle layer, i.e. appears below the sidebar */
     z-index: 998;
     /* animate the transition */
@@ -176,7 +179,7 @@ a.sidebar-link:hover {
     transition: all .2s ease-out;
 } */
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 768px) {
 
     #inicio{
         width: 100%;
@@ -191,8 +194,8 @@ a.sidebar-link:hover {
     #toggle-sidebar{
         position: absolute;
         display:block;
-        bottom: calc(10%);
-        right: calc(10%);
+        bottom: 10%;
+        right: 10%;
         opacity: 0.5;
     }
 
@@ -208,7 +211,7 @@ a.sidebar-link:hover {
         left: 0;
         /* top layer */
         z-index: 9999;
-        backdrop-filter: blur(1.5rem);
+        backdrop-filter: blur(0.7em);
         background-color: #0e223868;
         transition: all .25s ease-in-out;
 
@@ -221,15 +224,15 @@ a.sidebar-link:hover {
     
     .overlay {
         display: none;
-        position: absolute;
-        top: 0px;
+        position: relative;
+        top: -50px;
         left: 0px;
         /* full screen */
         width: 100vw;
-        height: 100vh;
+        height: calc(100vh + 100px);
         /* transparent black */
         background-color: #00000000;
-    
+        overflow: hidden;
         /* middle layer, i.e. appears below the sidebar */
         z-index: 998;
         /* animate the transition */
@@ -251,6 +254,12 @@ a.sidebar-link:hover {
         right: 10px;
     
     }
+    /* scroll smoothly on ios */
+    @supports (-webkit-overflow-scrolling: touch) {
+        main {
+            -webkit-overflow-scrolling: touch;
+        }
+    }
     
     
 }
@@ -258,7 +267,7 @@ a.sidebar-link:hover {
 
 @supports (-webkit-backdrop-filter: none) or (backdrop-filter: none) {
     #sidebar {
-        -webkit-backdrop-filter: blur(1.5rem);
-        backdrop-filter: blur(1.5rem);
+        -webkit-backdrop-filter: blur(0.7rem);
+        backdrop-filter: blur(0.7rem);
     }
 }
