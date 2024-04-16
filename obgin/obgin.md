@@ -91,6 +91,14 @@ Recomendación Guía perinatal:
 - 6,8-11,4 kg en sobrepeso
 - 5,0-9,1 kg para embarazadas con obesidad. 
 
+## Ecografía en control perinatal
+
+- Eco 11-14 mejor determinación de edad gestacional
+- Evaluación de anatomía en 11-14 permite detectar cerca del 50% de malformaciones mayores
+- Predicción de aneuploidías de 11-14 es mejor que a las 22-24
+- Predicción de PE en 11-14 es ligeramente inferior que a las 22-24, pero permite intervenciones tempranas
+- Eco 22-24 ofrece mejor predicción de parto prematuro espontáneo
+- Evaluación anatómica 22-24 es la mejor para detectar malformaciones mayores (no aneuploidías)
 
 ## Síndrome hipertensivo del embarazo (SHE)
 
@@ -489,7 +497,28 @@ Ojo: si se mantiene creciendo GEG
 | --- | --- |
 | PE leve | 37 semanas |
 | PE severa | 34 semanas |
-| 
+ 
+## Restricción de crecimiento intrauterino (RCIU)
+
+PEG: EPF (estimación peso fetal) entre P3 y P10 sin alteraciones doppler. Seguimiento cada 2-3 semanas
+
+Crecimiento intrauterino restringido (CIR): EPF < P3 con alteraciones doppler
+
+| | CIR estadío I | CIR estadío II | CIR estadío III | CIR estadío IV |
+| --- | --- | --- | --- | --- |
+| Definición | alguno de: <br><li> PFE < p3 (Figueras F EJOGR 2008) <li> **ICP** < p5 [en dos ocasiones> 12h] (Bachat AA UOG 2003) <li> **IP ACM**< p5 [en dos ocasiones> 12h] (Bachat AA UOG 2003) <li> **IP AUt medio**> p95 (Gomez O, UOG 2008) | PFE < p10 + alguno: <br> UA-AEDV (**flujo diastólico ausente en AU**> 50% de ciclos en asa libre en ambas arterias y en dos ocasiones> 12h) | EPF < p 10 + alguno: <br><li>**Arterial: Flujo reverso** diastólico en la AU (art umbil) (en >50% ciclos, en las 2 arterias y en dos ocasiones separadas >6-12h) <li>**Venoso**: IP ductus venoso **(DV)> percentil 95** o flujo diástólico ausente DV o pulsaciones venosas de manera dícrota y persistente (en dos ocasiones separadas >6- 12h) | EPF < p10 + alguno: <br><li> Flujo diastólico **reverso en el DV** (en dos ocasiones separadas >6-12h) <li> **Variabilidad patológica** (< 5 lpm) en Registro cardiotocográfico (RBNE) en 1 h (registro electrónico < 2.6 ms entre las 26 y las 28+6 semanas <3ms a partir de las 29 semanas)  <li> patrón desacelerativo: **> o = 2 desaceleraciones espontáneas** cada 10 min durante 30 minutos. |
+| Seguimiento | c/1-2 semanas | c/2-4 días | c/24-48h | c/12-48h |
+| Maduración pulmonar | | confirmado: a partir de 33 semanas | confirmado: a partir de 26 semanas | confirmado: a partir de 25.5 semanas, 26 semanas sin esperar confirmación |
+| Interrupción | 37 semanas | 34 semanas | 30 semanas | 26 semanas |
+
+
+Si CIR + PE --> aumentar en 1 grado el estadío
+
+- neuroprofilaxis con sulfato de magnesio  serán: <34 semanas y siempre que sea posible >4 horas previas al nacimiento. En caso de presentar un CTG patológico, se procederá a la finalización immediata.
+
+- Doppler del DV patológico y un Doppler de AU normal, se procederá a la finalización de la gestación a partir de las 34 semanas. 
+
+![RCIU_clinic_barcelona](RCIU_clinic_barcelona.png)
 
 ## Cosas a revisar de embarazada
 

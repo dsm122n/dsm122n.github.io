@@ -53,6 +53,7 @@ img{
         margin-left: 20px;
         font-size: 0.9em;
         font-weight: normal;
+        padding: 5px;
     }
     .sub-h3{
         margin: 0 0 0 50px;
@@ -74,7 +75,7 @@ img{
         
         color: #ffffff;
         -webkit-text-decoration: none;
-
+        padding: 5px;
         text-decoration: none;
 
     }
@@ -82,8 +83,14 @@ img{
         -webkit-text-decoration: none;
         text-decoration: none;
     }
+    .sub-h1{
+        -webkit-text-decoration: none;
+        text-decoration: none;
+        margin-top: 10px;
+    }
     .sub-h2 {
         margin-left: 20px;
+        padding: 5px;
         
     }
     .sub-h3 {
@@ -260,7 +267,7 @@ a.sidebar-link:hover {
             -webkit-overflow-scrolling: touch;
         }
     }
-    
+
     
 }
 /* Webkit for safari compatibility */
