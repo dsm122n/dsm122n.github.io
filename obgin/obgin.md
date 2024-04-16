@@ -13,20 +13,26 @@ Objetivos **primer control**:
 - Entregar información para el autocuidado, beneficios legales.
 - Derivar a salud bucal (ver Guía GES), nutrición, salud mental, según corresponda.
 
+
+
+
 | Tiempo (semanas) | Exámenes solicitados |
 |---|---|
-| Primer control | - VIH<br>- Citología cervical<br>- Glicemia<br>- Ultrasonido por indicación<br>- Examen de chagas a embarazadas de zona endémica y según Norma General Técnica. Control y Prevención Nacional de Enfermedad de Chagas 2014. |
-| 10-15 | - Ultrasonido 11 a 14 semanas para riesgo aneuploidía<br>- Ultrasonido anatomía y marcadores aneuploidía |
-| 20-24 | - Doppler de arteria uterina<br>- Evaluación del cérvix, según disponibilidad<br>- VDRL-RPR<br>- Glicemia post prandial tamizaje de Diabetes |
-| 26-28 | - Coombs Indirecto en Rh no sensibilizada.<br>- Administración inmunoglobulina anti Rho (Rh negativas no sensibilizadas), según disponibilidad |
-| 32-34 | - VDRL o RPR |
-| 32-38 | - Ultrasonido<br>- Repetir hematocrito-hemoglobina |
-| 35-37 | - Cultivo perianal Estreptococo Grupo B (toda embarazada debe realizarse cultivo perianal de Estreptococo Grupo B a las 35 - 37 semanas como estrategia de prevención de neumonía neonatal, con excepción de mujeres con urocultivo (+) al mismo germen.) |
+| Primer control | <li>Hemograma / Hto-Hb <li>Urocultivo y orina completa. <li>Grupo sanguíneo Rh/Coombs indirecto  <li>VDRL-RPR <li>VIH <li>Citología cervical <li>Glicemia <li>Eco por indicación <li>Examen de chagas a embarazadas de zona endémica y según Norma General Técnica. Control y Prevención Nacional de Enfermedad de Chagas 2014. <li>TSH / T4L <li>PCR ITS, *Cultivo de secreción vaginal* <li>VHB <li>¿VHS-2? |
+| 10-15 | <li> Eco 11-14 para riesgo aneuploidía (y junto con FR estimación riesgo PE) |
+| 20-24 | <li> Eco 20-25 <li> Doppler de arteria uterina <li> Cervicometría <li> VDRL-RPR |
+| 26-28 | <li> PTGO <li> Coombs Indirecto en Rh no sensibilizada (identifica anticuerpos) <li> Administración inmunoglobulina anti Rho (Rh negativas no sensibilizadas), según disponibilidad |
+| 32-34 | VDRL o RPR |
+| 32-38 | <li> Eco <li> Repetir Hto-Hb |
+| 35-37 | - Cultivo perianal SGB (prevención de neumonía neonatal, con excepción de mujeres con urocultivo (+) al mismo germen) |
+
+ojo, contraindicación PTGO en bariátrica (ppalmente bypass gástrico) por damping
 
 Perioricidad de controles si sin factores de riesgo: 
-1) un control cada cuatro semanas hasta la semana 28, luego 
-2) cada dos semanas hasta la 36, y posteriormente 
-3) un control semanal hasta el momento del parto.
+
+1. un control cada cuatro semanas hasta la semana 28, luego 
+2. cada dos semanas hasta la 36, y posteriormente 
+3. un control semanal hasta el momento del parto.
 
 El examen obstétrico abdominal adquiere importancia, desde aproximadamente las 12 semanas de gestación. En estos casos la altura uterina, medida en cms, desde el borde superior de la sínfisis pubiana a la parte más alta del fondo uterino, debe encontrarse entre el percentil 10 y 90 de la curva; esta medida nos entrega información referente al tamaño del feto e indirectamente, de la edad gestacional. 
 
@@ -61,7 +67,7 @@ En Gemelar:
 
 
 Suplementos y alimentos que pueden ser dañinos:
-- Vitamina A, >10.000 UI/día (1 UI = 0,3 mcg de retinol) parece ser teratogénico
+- <span style= "color: #440154; font-weight: bold;" >Vitamina A</span>, >10.000 UI/día (1 UI = 0,3 mcg de retinol) parece ser teratogénico
 - Yodo, Congenital hypothyroidism has been reported in offspring of pregnant people ingesting 2.3 to 12.5 mg iodine daily (greater than 10 times the recommended dietary allowances [RDA] of 220 mcg, and greater than two times the upper limit of 1100 mcg)
 - Cafeina (limitar a no más de 200 mg/día)
 - Ácidos grasos trans: direct effects on membrane structures or metabolism, or by replacing maternal intake of the cis essential fatty acids
