@@ -1,5 +1,7 @@
 # Obstetricia
 
+Protocolos clinic barcelona: https://fetalmedicinebarcelona.org/protocolos/
+
 ## Control prenatal
 
 ### Primer control prenatal
