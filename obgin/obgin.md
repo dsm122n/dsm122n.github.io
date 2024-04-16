@@ -1,6 +1,9 @@
 # Obstetricia
+ 
+Hola mundo, qué tal está el manuel
 
-Protocolos clinic barcelona: https://fetalmedicinebarcelona.org/protocolos/
+
+[Protocolos clinic barcelona](https://fetalmedicinebarcelona.org/protocolos/)
 
 ## Control prenatal
 
@@ -200,7 +203,7 @@ Recomendación Guía perinatal:
 
 ### Preeclampsia
 
-Hipertensión de novo presente después de las 20 semanas de gestación combinado con: 
+Hipertensión de novo presente desde 20 semanas de gestación combinado con: 
 - proteinuria (>300 mg/día, IPC > 0.3, Dipstick 2+) o 
 - PA > **160/110 mmHg** o
 - **plaquetopenia** (< 100.000 / µl) o 
@@ -307,6 +310,9 @@ A saber: PAM > 90 mm Hg en el primer trimestre se asocia con una incidencia de S
 | Nifedipino | 10- 20 mg VO c/8h  (max 120 mg/d)| Cefalea, rubor, palpitaciones | Antagonista de los canales de calcio dihidropiridínicos, disminuye la RVS |
 | Labetalol | 200 mg VO c/12-8h  (max 1200 mg/d) | Bradicardia, broncoespasmo, hipotensión | Bloquea receptores alfa y beta, disminuye la RVS y FC |
 
+también se puede dar ¿hidralazina?
+
+
 3. Maduración pulmonar fetal (23-34s): Betametasona 12 mg IM c/24h x 2 dosis
 4. Prevención eclampsia: Sulfato de magnesio (4-6 g IV en 20 min [4 amp], luego 1-2 g/h)
     - Propósito terapéutico: magnesemia de 4 a 8 mEq/L 
@@ -328,6 +334,7 @@ A saber: PAM > 90 mm Hg en el primer trimestre se asocia con una incidencia de S
 - **Status convulsivo**: considerar el uso de anestesia general e interrupción del embarazo.  
 
 ##### Crisis Hipertensiva
+
 PAD > 110 mm Hg y/o PAS > 160 mm Hg
 
 Riesgo: ACV y DPPNI.
@@ -339,6 +346,7 @@ Metas: PAS entre 140-155 y PAD: 90-105.
 - Hidralazina EV, en bolos de 5 mg cada 20 minutos hasta 20-30 mg en total. Puede administrarse en infusión titulada de 5-10 mg/h. o Si la crisis hipertensiva no cede o recurre frecuentemente debe interrumpirse el embarazo.
 
 ##### HELLP
+
 <span style= "color: #5ec962; font-weight: bold;" >Dolor </span> de epigastrio e hipocondrio derecho este diagnóstico debe tenerse en mente. Otros síntomas clásicos son náuseas, vómitos, compromiso estado general, cefalea, decaimiento.
 
 Indicación de <span style= "color: #5ec962; font-weight: bold;" >interrupción inmediata del embarazo</span>.
@@ -353,13 +361,14 @@ Trombocitopenia posparto se ha recomendado como última línea la <span style= "
 
 | Criterio | Descripción |
 |---|---|
-| Hemólisis | Esquistocitos en el frotis sanguíneo, Hiperbilirrubinemia |
-| Elevación de enzimas hepáticas | SGOT > 72 UI/L, LDH > 600 UI/L |
+| Hemólisis | LDH, Esquistocitos en el frotis sanguíneo |
+| Elevación de enzimas hepáticas | transaminasas >2 veces |
 | Plaquetas bajas | Trombocitopenia < 100.000/mm^3 |
 
 **Nota:**: HELLP parcial Cumple 2 de 3 criterios.
 
 ##### Hematoma subcapsular hepático
+
 mortalidad materna del 59% y perinatal del 62%.
 
 Clínica es el <span style= "color: #5ec962; font-weight: bold;" >dolor epigástrico</span> intenso o persistente por horas, <span style= "color: #5ec962; font-weight: bold;" >omalgia</span> en algunos casos y/o shock hipovolémico. El diagnóstico se confirma con <span style= "color: #21918c; font-weight: bold;" >TAC o ultrasonido</span>
@@ -379,11 +388,22 @@ Hematoma roto tto quirúrgico con laparotomía
 | Atenolol** | 50-200 mg/día | Tratamiento de segunda línea. |
 | Nifedipino | 10-30 mg/día | - | 
 
+#### Seguimiento
+
+Según Doppler A Ut al segundo trimestre:
+- normal: eco para ev crecimiento fetal cada 4 semanas (28, 32 y 36 semanas). 
+- patológicas:control 24, 28, 32 y 36 semanas.
+
+#### Interrupción en HTA cron
+
 | Cuadro clínico | Momento interrupción |
 |---|---|
 | HTA crónica, sin necesidad de uso de hipotensores y PA en rango 140/90 mm Hg | 40 semanas |
-| HTA crónica con requerimiento de hipotensores | 37-38 semanas |
-| HTA crónica severa, HTA crónica de mal control, HTA crónica con compromiso de parénquimas y especialmente PE sobre agregada | 34-35 semanas |
+| HTA crónica con requerimiento de hipotensores | 37-38 (más para 38) semanas |
+| HTA crónica severa, HTA crónica de mal control, HTA crónica con compromiso de parénquimas y especialmente PE sobre agregada | 34-35 (tal vez 37) semanas |
+
+?PE previo a las 20 semanas
+?Antiox??
 
 ## Metrorragia en embarazo
 

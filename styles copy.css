@@ -248,6 +248,8 @@ a.sidebar-link:hover {
     /* display .overlay when it has the .active class */
     .overlay.active {
         display: block;
+        position: sticky;
+        
         visibility: visible;
         background-color: #00000089;
     }
