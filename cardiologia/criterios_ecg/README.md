@@ -28,6 +28,7 @@ $$ FC = \frac{300 (=1')}{nº CG + 0.2*C_{pequeños}} $$
 - Si ritmo irregular, contar en 6 segundos (30 cuadros grandes) y multiplicar por 10. 
 
 
+
 ## SCA
 Supradesnivel ST: >1mm en cualquier derivada, salvo V2 y V3
 Infradesnivel ST: > 0.5mm en cualquier derivada, salvo V2 y V3 (donde es >1mm)
@@ -42,6 +43,9 @@ Inversión onda T:
 
 ![definición infarto](image.png)
 
+Criterios de Barcelona para diagnóstico de infarto agudo de miocardio (IAM) en pacientes con BCRI:
+- concordancia de polaridad QRS con desnivel ST en V1-V3
+- 
 
 ### Paredes del corazón
 
