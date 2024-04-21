@@ -32,7 +32,8 @@
     <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.10/dist/contrib/auto-render.min.js" integrity="sha384-43gviWU0YVjaDtb/GhzOouOXtZMP/7XUzwPTstBeZFe/+rCMvRwr4yROQP43s0Xk" crossorigin="anonymous"
         onload="renderMathInElement(document.body);"></script>
 </head>
-<body styles="min-height: 100vh">
+<body>
+    <div id="viewport">
 
         <nav class="navbar navbar-expand-sm bg-dark navbar-dark text-white sticky-top" style="width: 100vw; position: relative; min-height: 50px; z-index: 1000;">
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
@@ -62,63 +63,67 @@
                     <li class="nav-item"><a class="nav-link" data-bs-toggle="pill" href="https://uchile-my.sharepoint.com/personal/danielsanmartin_uchile_cl/Documents/Dan/Diccionario_LSCh.pdf?CT=1703984327422&OR=ItemsView">LSCh</a></li>
  -->        </nav>
         
-        
-    <div class="wrapper">
-        <!-- Sidebar -->
-        <nav style="position: absolute; top:auto; ">
+    <div id="below_navbar">
 
-            <div id="dismiss" >
-                <i class="fas fa-arrow-left"></i>
-            </div>
-            <ul id="sidebar" class="sidebar-nav">
+        <div class="wrapper">
+            <!-- Sidebar -->
+            <nav style="position: absolute; top:auto; ">
 
-            </ul>
-        </nav>
-        <!-- fin de sidebar -->
-
-        <!-- Page Content -->
-        <div id="content">
-            <nav class="navbar" id="toggle-sidebar">
-                <div class="container-fluid">
-    
-                    <button type="button" id="sidebarCollapse" class="btn btn-info">
-                        <i class="fas fa-align-left" style="width: 25px; height: 25px;"></i>
-                    </button>
+                <div id="dismiss" >
+                    <i class="fas fa-arrow-left"></i>
                 </div>
+                <ul id="sidebar" class="sidebar-nav">
+
+                </ul>
             </nav>
+            <!-- fin de sidebar -->
 
-
-
-            <main class="overflow-y: scroll" style="padding-left: 0px; top:0; overflow-y: scroll; height: 100vh;">
-                <br>
-                
-                <div class="tab-content">
-                <div class="tab-pane container" id ="inicio"></div>
-                    <p>Siéntase libre de editar la tabla de fármacos en el siguiente link: <a href="https://docs.google.com/spreadsheets/d/1SMU1ltLrMVifOb2T8sN5gu5Yd3tKmQ6eid6QnjSDlQo/edit?usp=sharing">google sheets dosis fármacos</a></p>
-                  <div class="tab-pane container active" id="tabla_farmacos">
-                    <input type="text" id="search" placeholder="Type to search">
+            <!-- Page Content -->
+            <div id="content">
+                <nav class="navbar" id="toggle-sidebar">
+                    <div class="container-fluid">
         
-                    <div style="overflow: scroll; height: 400px;">  <table class="table" id="table" styles="display: block; width: 100%">  <thead>
-                          <tr id="headings_tabla">
-                            <th></th>
-                            </tr>
-                        </thead>
-                        <tbody id="cuerpo_tabla">
-                          </tbody>
-                      </table>
+                        <button type="button" id="sidebarCollapse" class="btn btn-info">
+                            <i class="fas fa-align-left" style="width: 25px; height: 25px;"></i>
+                        </button>
                     </div>
-                  </div>
-                  </div>
-            </main>
+                </nav>
+
+
+
+                <main class="overflow-y: scroll" style="padding-left: 0px; top:0; overflow-y: scroll; height: 100vh;">
+                    <br>
+                    
+                    <div class="tab-content">
+                    <div class="tab-pane container" id ="inicio"></div>
+                        <p>Siéntase libre de editar la tabla de fármacos en el siguiente link: <a href="https://docs.google.com/spreadsheets/d/1SMU1ltLrMVifOb2T8sN5gu5Yd3tKmQ6eid6QnjSDlQo/edit?usp=sharing">google sheets dosis fármacos</a></p>
+                    <div class="tab-pane container active" id="tabla_farmacos">
+                        <input type="text" id="search" placeholder="Type to search">
+            
+                        <div style="overflow: scroll; height: 400px;">  <table class="table" id="table" styles="display: block; width: 100%">  <thead>
+                            <tr id="headings_tabla">
+                                <th></th>
+                                </tr>
+                            </thead>
+                            <tbody id="cuerpo_tabla">
+                            </tbody>
+                        </table>
+                        </div>
+                    </div>
+                    </div>
+                </main>
+                
+            </div>
+            <!-- Dark Overlay element -->
+            
+            
+    </div>
+            
+            
             
         </div>
-        <!-- Dark Overlay element -->
-        
-        
-        
-        
-        
     </div>
+
     <div class="overlay" ></div>
 
  

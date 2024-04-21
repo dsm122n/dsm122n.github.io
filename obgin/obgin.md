@@ -1,7 +1,5 @@
 # Obstetricia
  
-Hola mundo, qué tal está el manuel
-
 
 
 [Protocolos clinic barcelona](https://fetalmedicinebarcelona.org/protocolos/)
@@ -514,6 +512,35 @@ Ojo: si se mantiene creciendo GEG
 
 > 90% diabetes gestacionales se deberían compensar con dieta, sin requerir metformina 
 
+
+### Diabetes pregestacional
+
+Ojo: requerimientos insulina en DM1, en primer trimestre bajan y en segundo trimestre aumentan
+- primer trimestre aprox 0.7 U/kg/día
+- segundo trimestre aprox 1.0 U/kg/día
+
+En primer trimestre hiperemesis gravídica es más frecuente en DM1
+
+#### Estudio organo blanco
+
+--> ojo, retinopatía es más frecuente que progrese
+
+### Malformaciones 
+
+Todas son más frecuentes, pero las más frecuentes son y CIV y miocardiopatía hipertrófica
+
+Síndrome de regresión caudal: más patognomónica
+
+[Isotretinoina, talidomida y azucar las peroes que producen malformaciones]
+
+
+
+## Dar AAS de entrada en 
+
+DPG, HTA, ERC, Trombofilia, mesenquimopatía
+
+PG, >40 años,  
+
 ## Semanas de Interrupción de la Gestación
 
 | Situación clínica | Semanas de Interrupción |
@@ -523,7 +550,26 @@ Ojo: si se mantiene creciendo GEG
  
 ## Restricción de crecimiento intrauterino (RCIU)
 
+Clasif:
+- Verdadero / Constitucional
+- Precoz / Tardía --> según 32 semanas
+  - EPF < P3 o circunferencia abdom < P3
+  - Descenso de 2 cuartiles
+  - EPF < P10 y alteraciones doppler:
+- Causa: Fetal, placentaria, materna
+
+Eco en RCIU:
+1. Doppler
+2. Líquido amniótico
+3. anatomía
+
+
+
+Orienta a causa: constitucional, aneuploidia, infección, hipóxica
+
 PEG: EPF (estimación peso fetal) entre P3 y P10 sin alteraciones doppler. Seguimiento cada 2-3 semanas
+
+Ojo: peak de ACM, util en anemia fetal por incompatibilidad de grupo???????
 
 Crecimiento intrauterino restringido (CIR): EPF < P3 con alteraciones doppler
 
@@ -693,6 +739,37 @@ Obstétricas:
 Fetales/RN
 - Déficit CI
 
+## Metrorragia 
+
+Causas: 4T
+- Tono: Inercia uterina
+- Tejido: Restos placentarios
+- Trauma: lesiones del tracto GU
+- Trombina: coagulopatías
+
+Notas random:
+
+- hematoma ligamento ancho frecuente en cesareas 
+
+
+### Manejo inicial
+
+[paper manejo inicial](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7064978/pdf/IJGO-148-290.pdf)
+
+First response PPH bundle
+- Uterotonic drugs
+- Isotonic crystalloids
+- Tranexamic acid
+- Uterine massage
+- Notes: Initial fluid resuscitation is performed together with intravenous (IV) administration of uterotonics. If IV uterotonics are not available, fluid resuscitation should be started in parallel with sublingual misoprostol or other parenteral uterotonics. If postpartum hemorrhage (PPH) is in the context of placental retention, the placenta should be extracted and a single dose of antibiotics should be administered.
+
+Response to refractory PPH bundle
+- Compressive measure (aortic compression or bimanual uterine compression)
+- Intrauterine balloon tamponade
+- Non- pneumatic anti shock garment
+- Notes: A continuing dose of uterotonics (e.g., oxytocin diluted in isotonic crystalloids) and a second dose of tranexamic acid should be administered during the application of this bundle.
+
+[cesarea de fondo -> pagos, placenta acreta]
 
 # Ginecología
 
