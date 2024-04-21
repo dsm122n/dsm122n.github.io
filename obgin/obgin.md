@@ -734,10 +734,11 @@ Tratamiento adecuado:
 
 Obstétricas:
 - DPPNI
-- 
 
 Fetales/RN
 - Déficit CI
+
+hola mundo
 
 ## Metrorragia 
 
@@ -751,6 +752,7 @@ Notas random:
 
 - hematoma ligamento ancho frecuente en cesareas 
 
+hola mundo
 
 ### Manejo inicial
 
@@ -770,6 +772,7 @@ Response to refractory PPH bundle
 - Notes: A continuing dose of uterotonics (e.g., oxytocin diluted in isotonic crystalloids) and a second dose of tranexamic acid should be administered during the application of this bundle.
 
 [cesarea de fondo -> pagos, placenta acreta]
+
 
 # Ginecología
 

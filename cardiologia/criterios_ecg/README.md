@@ -45,7 +45,6 @@ Inversión onda T:
 
 Criterios de Barcelona para diagnóstico de infarto agudo de miocardio (IAM) en pacientes con BCRI:
 - concordancia de polaridad QRS con desnivel ST en V1-V3
-- 
 
 ### Paredes del corazón
 

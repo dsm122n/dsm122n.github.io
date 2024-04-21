@@ -1,6 +1,8 @@
 document.addEventListener('DOMContentLoaded', function() {
     // document.getElementById('sidebar').style = 'display: none;';
     // document.getElementById('content').style = 'margin-left: 0px; width: 100%;';
+    document.getElementById('sidebar').classList.remove('active');
+
     document.getElementById('tabla_farmacos').innerHTML = '<input type="text" id="search" placeholder="Type to search"></input>';
     document.getElementById('tabla_farmacos').innerHTML += '<table class="table" id="la-tabla"><thead><tr id="nombres_cols"> </tr></thead><tbody id="cuerpo_tabla"></tbody></table>';
     document.getElementById('tabla_farmacos').setAttribute('class',"tab-pane container active");
@@ -42,6 +44,10 @@ document.addEventListener('DOMContentLoaded', function() {
               }
           }
       }
+      const edit = document.createElement('p');
+      edit.id = 'edit';
+      edit.innerHTML = 'Siéntase libre de editar la tabla de fármacos en el siguiente link: <a href="https://docs.google.com/spreadsheets/d/1SMU1ltLrMVifOb2T8sN5gu5Yd3tKmQ6eid6QnjSDlQo/edit?usp=sharing">google sheets dosis fármacos</a>';
+      document.getElementById('inicio').insertAdjacentElement('afterend',edit);
       // set cursor on search bar
 
       document.getElementById('search').focus();
@@ -62,7 +68,14 @@ document.addEventListener('DOMContentLoaded', function() {
 
 
 function generateTitleObject() {
-
+  // if viewport is less than 801px, class .active of sidebar off, else on 
+/*   if (window.innerWidth < 801) {
+    if (document.getElementById('sidebar').classList.contains('active')) {
+      document.getElementById('sidebar').classList.remove('active');
+    }
+  } else {
+    document.getElementById('sidebar').classList.add('active');
+  } */
   let titleObject = document.querySelectorAll('h1, h2, h3');
   // change headings id to match text content with no blank spaces and all lowercase
   for (let i = 0; i < titleObject.length; i++) {
@@ -100,7 +113,7 @@ function generateTitleObject() {
                             <span>${headingText}</span>\n
                           </a>\n
                           </li>`;
-      console.log(`heading level: ${headingLevel} heading text: ${headingText} heading id: ${headingId} `);
+      //console.log(`heading level: ${headingLevel} heading text: ${headingText} heading id: ${headingId} `);
       if (headingLevel == 'H1') {
         sidebarContent += '</ul>\n';
       }      
@@ -116,7 +129,7 @@ function generateTitleObject() {
                               <a href="#${headingId}" class="sidebar-link collapsed has-dropdown" data-bs-toggle="collapse" data-bs-target="#${headingId}-list-dropdown" aria-expanded="false">\n
                                 <span>${headingText}</span>\n
                               </a></li>\n`;
-          console.log(`heading level: ${headingLevel} heading text: ${headingText} heading id: ${headingId} `);
+          //console.log(`heading level: ${headingLevel} heading text: ${headingText} heading id: ${headingId} `);
           sidebarContent += `<ul id="${headingId}-list-dropdown" class="sidebar-dropdown list-unstyled collapse" >\n`; 
     
         } 
@@ -125,7 +138,7 @@ function generateTitleObject() {
                               <a href="#${headingId}" class="sidebar-link">\n
                                   <span>${headingText}</span>\n
                               </a>\n</li>`;
-          console.log(`heading level: ${headingLevel} heading text: ${headingText} heading id: ${headingId} `);
+          //console.log(`heading level: ${headingLevel} heading text: ${headingText} heading id: ${headingId} `);
         }
         if (headingLevel == 'H2' && titleObject[i+1].tagName == 'H3') {
           sidebarContent += `<li class="sidebar-item ">\n
@@ -133,10 +146,10 @@ function generateTitleObject() {
                               data-bs-target="#${headingId}-list-dropdown"  aria-expanded="false">\n
                                 <span>${headingText}</span>\n
                               </a></li>\n`;
-          console.log(`heading level: ${headingLevel} heading text: ${headingText} heading id: ${headingId} `);
+          //console.log(`heading level: ${headingLevel} heading text: ${headingText} heading id: ${headingId} `);
     
           sidebarContent += `<ul id="${headingId}-list-dropdown" class="sidebar-dropdown list-unstyled collapse" >\n`;
-          console.log(`el html del sidebar es: ${sidebarContent}`);
+          //console.log(`el html del sidebar es: ${sidebarContent}`);
         }
         if (headingLevel == 'H2' && titleObject[i+1].tagName != 'H3') {
           sidebarContent += `<li class="sidebar-item">\n
@@ -144,14 +157,14 @@ function generateTitleObject() {
                                 <span>${headingText}</span>\n
                               </a>\n
                               </li>`;
-          console.log(`heading level: ${headingLevel} heading text: ${headingText} heading id: ${headingId} `);
+          //console.log(`heading level: ${headingLevel} heading text: ${headingText} heading id: ${headingId} `);
         }
         if (headingLevel == 'H3') {
           sidebarContent += `<li class="sidebar-item ">\n
                               <a href="#${headingId}" class="sidebar-link">\n
                                 <span>${headingText}</span>\n
                               </a>\n</li>`;
-          console.log(`heading level: ${headingLevel} heading text: ${headingText} heading id: ${headingId} `);
+          //console.log(`heading level: ${headingLevel} heading text: ${headingText} heading id: ${headingId} `);
         }
 
         // closing ul tags for H2 and H3 headings
@@ -161,6 +174,9 @@ function generateTitleObject() {
         if (headingLevel == 'H3' && titleObject[i+1].tagName == 'H2') {
           sidebarContent += '</ul>\n';
         }
+        if (headingLevel == 'H3' && titleObject[i+1].tagName == 'H1') {
+          sidebarContent += '</ul>\n</ul>\n';
+        }
     }
 
     
@@ -168,7 +184,7 @@ function generateTitleObject() {
 
   }
   sidebarContent += '</ul>';
-  console.log(sidebarContent);
+ /*  console.log(sidebarContent); */
   // sidebarContent += '</ul>';
   sidebar.innerHTML = sidebarContent;
   // assign class sub-h2 to h2 headings and sub-h3 to h3 headings in sidebar
@@ -180,7 +196,7 @@ function generateTitleObject() {
     sidebarHeadingLevel = sidebarHeadingLevel.slice(1).toLowerCase();
     sidebarHeading.classList.add(`sub-${sidebarHeadingLevel}`);
     
-    console.log(sidebarHeading);
+   /*  console.log(sidebarHeading); */
   }
   
 }
@@ -231,12 +247,27 @@ function loadMD(filepath) {
         fileFolder = `./${fileFolder}/` 
         image.setAttribute('src', fileFolder + currentSrc);
       }     
+      generateTitleObject();
       document.getElementsByTagName('main')[0].style.maxWidth = '800px'
       document.getElementById('inicio').setAttribute('class',"tab-pane container active");
       document.getElementById('tabla_farmacos').setAttribute('class',"tab-pane container");
+      if(document.getElementById('edit') != null){
+        document.getElementById('edit').remove();
+      }
+      // if viewport is greater than 801px, class .active of sidebar on, else off
+      if (window.innerWidth > 801) {
+        if (!document.getElementById('sidebar').classList.contains('active')) {
+          document.getElementById('sidebar').classList.add('active');
+        }
+        
+      }else{
+        if (!document.getElementById('sidebar').classList.contains('active')) {
+          document.getElementById('sidebar').classList.remove('active');
+        }
+      }
+
     })
     .then(order => {
-        generateTitleObject();
         // setStyleDefault();
         // add event listener to all sidebar links to scroll to heading when clicked
         let sidebarLinks = document.querySelectorAll('#sidebar a');
@@ -292,7 +323,7 @@ function loadHTML(filepath) {
     .then(htmlText => {
       document.getElementById('inicio').innerHTML = htmlText;
       // change css main max-width to 100%
-      document.getElementsByTagName('main')[0].style.maxWidth = '100%';
+      /* document.getElementsByTagName('main')[0].style.maxWidth = '100%'; */
     })
     .catch(err => {
       console.log(err);
@@ -344,6 +375,18 @@ function loadGoogleSheet(){
               }
           }
       }
+      const edit = document.createElement('p');
+      edit.id = 'edit';
+      edit.innerHTML = 'Siéntase libre de editar la tabla de fármacos en el siguiente link: <a href="https://docs.google.com/spreadsheets/d/1SMU1ltLrMVifOb2T8sN5gu5Yd3tKmQ6eid6QnjSDlQo/edit?usp=sharing">google sheets dosis fármacos</a>';
+      document.getElementById('inicio').insertAdjacentElement('afterend',edit);
+      // set cursor on search bar
+
+      document.getElementById('search').focus();
+      document.getElementsByTagName('main')[0].style.maxWidth = '100%';
+      // make sidebar disappear
+      if (document.getElementById('sidebar').classList.contains('active')) {
+        document.getElementById('sidebar').classList.remove('active');
+      }
       // set min width of all columns of table to 20 characters
       // document.getElementById("Fármaco").setAttribute('style','width: 20ch');
       // document.getElementById("Categoría").setAttribute('style','width: 20ch');
@@ -364,6 +407,7 @@ function loadGoogleSheet(){
             return !~text.indexOf(val);
         }).hide();
     });
+
     
 
   })
