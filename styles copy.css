@@ -6,6 +6,18 @@ img{
     width: 100%;
     
 }
+.table{
+    width: 100% !important;
+    position: relative;
+    border-collapse: collapse;
+    border-spacing: 0;
+    border: 1px solid #000;
+    margin: 0;
+    padding: 0;
+    overflow-x:scroll;
+    scrollbar-width:thin;
+
+}
 .dosis-ped{
     max-width: 100%;
 }
@@ -292,7 +304,18 @@ a.sidebar-link:hover {
         visibility: visible;
         background-color: #00000089;
     }
+    .table{
+        width: 100vw !important;
+        position: relative;
+        border-collapse: collapse;
+        border-spacing: 0;
+        border: 1px solid #000;
+        margin: 0;
+        padding: 0;
+        overflow-x:scroll;
+        scrollbar-width:thin;
     
+    }
     #dismiss {
         width: 35px;
         height: 35px;
@@ -311,6 +334,7 @@ a.sidebar-link:hover {
 
     
 }
+
 /* Webkit for safari compatibility */
 
 @supports (-webkit-backdrop-filter: none) or (backdrop-filter: none) {

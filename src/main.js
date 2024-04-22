@@ -265,7 +265,16 @@ function loadMD(filepath) {
           document.getElementById('sidebar').classList.remove('active');
         }
       }
+      document.querySelectorAll('table').forEach(table => {
+        // includ table in div with width = 100vw and overflow-x: auto
+        let div = document.createElement('div');
+        div.classList.add('table-responsive'); 
+        div.style = 'width: auto; overflow-x: auto;';
+        table.parentNode.insertBefore(div, table);
+        div.appendChild(table);
 
+        
+      });
     })
     .then(order => {
         // setStyleDefault();
