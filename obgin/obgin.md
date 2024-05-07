@@ -956,3 +956,160 @@ Se puede acompañar de síntomas premenstruales, como cambios de humor, mastodin
 | Descarga vaginal mucopurulenta | PIP |
 
 ![dol_pelv_agudo](dol_pelv_agudo.png)
+
+## Amenorrea
+
+### Orientación clínica
+
+![clin_amenorrea](clin_amenorrea.png)
+
+### Algoritmo diagnóstico
+
+Amenorrea primaria: ausencia de menariquia a los 13 años sin desarrollo secundario sexual o a los 15 años con desarrollo secundario sexual.
+
+![dx_amenorrea](dx_amenorrea.png)
+
+
+Amenorrhea secundaria: ausencia de menstruación por 3 meses en mujeres con ciclos previamente regulares o por 9 meses en mujeres con ciclos previamente irregulares.
+
+![dx_amenorrea_2](dx_amenorrea_2.png)
+
+## Dolor pélvico crónico
+
+Dismenorrea: 
+- primaria (más en adolescencia, pero igual estudiar porque no es normal que adolesecnte falte a clases 1 vez al mes)
+- Secundaria (a alguna patología)
+
+### Clasificación y etiología
+
+
+- Ginecológico
+    - Cíclico
+    - Acíclico
+- No ginecológico
+    - Urológico: cistitis intersticial, cálculos renales, infecciones urinarias
+    - Gastrointestinal: síndrome de intestino irritable, enfermedad inflamatoria intestinal
+    - Neurológico: neuralgia del pudendo, neuropatía periférica
+    - Musculoesquelético: disfunción de la articulación sacroilíaca, hernia discal
+    - Psicosocial: depresión, ansiedad, abuso sexual
+
+
+
+1. Visceral
+- Gynecologic
+  - Cíclico
+    - Adenomyosis
+    - Endometriosis: antecedente primer grado con endometriosis aumento cerca 20 a 40% P(endometriosis). Cuando se pide eco para endometriosis, pedir eco PARA endometriosis (Eco TV para endometriosis o TC para endometriosis).
+  - Aciclíco
+    - Adnexalmass
+    - Chronic pelvic inflammatory disease/chronic endometritis
+    - Leiomyoma
+    - Ovarian remnant syndrome
+    - Pelvic adhesions
+    - Vestibulitis
+    - Vulvodynia
+- Gastrointestinal
+    - Celiac disease
+    - Colorectal cancer and cancer therapy
+    - Diverticular colitis
+    - Inflammatory bowel disease
+    - Irritable bowel syndrome
+- Urologic
+    - Bladder cancer and cancer therapy
+    - Chronic or complicated UTI
+    - Interstitial cystitis: Usualmente cursan con ITU a repetición. Dolor a palpación de uretra. Es más frecuente de lo que uno creería. 
+    - Painful bladder syndrome
+    - Urethral diverticulum
+2. Neuromusculoskeletal
+- Fibromyalgia
+- Myofascial syndromes
+    - Coccydynia
+    - Musculus levator ani syndrome
+- Postural syndrome
+- Abdominal wall syndromes
+    - Muscular injury
+    - Trigger point
+- Neurologic
+    - Abdominal epilepsy
+    - Abdominal migraine
+    - Neuralgia (neuralgia del pudendo)
+    - Neuropathic pain
+3. Psychosocial
+- Abuse
+    - Physical,emotional, sexual
+- Depressive disorders
+    - Majordepressivedisorder
+    - Persistentdepressivedisorder(dysthymia)
+    - Substance-inducedormedication-induced depressivedisorder
+- Anxiety disorders
+    - Generalized anxiety disorder
+    - Panic disorder
+    - Social anxiety disorder
+    - Substance-inducedormedication-induced anxietydisorder    
+- Somatic symptom disorders
+    - Somatic symptom disorder with pain features
+    - Somatic symptom disorder with somatic characteristics
+- Substance use disorder
+    - Substance abuse
+    - Substancex  xx|
+Para la dispareunia, acotar en qué momento:
+
+- Dispareunia al inicio penetración: más de procesos inflamatorios "superficiales" (vaginitis, vulvovaginitis, vestibulitis)
+- Dispareunia profunda: más de procesos inflamatorios profundos (endometriosis, adenomiosis, miomas, adherencias).
+
+### Manejo 
+
+## Miomatosis
+
+![PALM_COEIN](PALM_COEIN.png)
+
+Por lo general asintomáticos. Síntomas pueden ser:
+FIGO 0-2 (submucoso:)
+- Aumento de flujo menstrual (más sangrado)
+- Dismenorrea
+
+FIGO más externo de grandes dimensiones (subserosos):
+- Dolor
+- Por lo general son mucho más grandes. 
+
+EF: podría palparse
+- Si es grande, masa irregular 
+- Si es más pequeño, podría no palparse, o palparse utero aumentado de tamaño
+
+Paciente asintomática con mioma, <span style= "color: #5ec962; font-weight: bold;" >manejo expectante</span>
+
+Si dolor: ácido mefenámico, administrar antes de 
+
+Si sangrado: 
+1. ACO según preferencia de paciente
+2. Analogo de GnRH (previo a cirugía, para ganar un tiempecito)
+3. Cirugía
+    - Conservadora (miomectomía)
+      - Miomectomía por histeroscopía: para submucosos
+      - Miomectomía por laparoscopía: para otros
+    - "Radical" (histerectomía)
+
+## Adenomiosis
+
+Peak cercano a los 40 años
+
+### Síntomas
+
+Poco frecuente que sean asintomáticas
+
+Pilares fundamentales 
+
+EF: no tiene nada
+
+A utero y ovario, NUNCA escaner
+
+### Tratamiento
+
+- Pilar tratamiento: Médico
+- En Menopausia no histerectomía, ya no debería dar síntomas, estudiar otras causas
+- Premenopausia -> 
+
+## Ca endometrio
+
+Síntoma principal es el sangrado 
+
