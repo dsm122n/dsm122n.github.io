@@ -776,6 +776,92 @@ Response to refractory PPH bundle
 
 # Ginecología
 
+## Métodos anticonceptivos
+
+### Criterios elegibilidad WHO resumen
+
+![elegibilidad_MAC1](elegibilidad_MAC1.png)
+
+![elegibilidad_MAC2](elegibilidad_MAC2.png)
+
+### Efectividad MAC
+
+![indice_pearl](indice_pearl.png)
+
+Progestágenos son los mein para inhibir peak de gonadotrofinas
+
+Estrógenos necesitan dosis más altas (peligrosas por RAM) que progestágenos para inhibir peak gonadotrofinas
+
+Progestágenos inhiben motilidad tormpas, ojo, si falla, mayor P(embarazo ectópico)
+
+Anticonceptivos combinados "multifásicos", no han demostrado mejoría en eficacia ni disminución significativa de efectos adversos y son más caros. Por eso usualmente se prefieren monofásicos. Podrían ser útiles los multifásicos en mujeres con metrorragia importante (utilizando los monofásicos).
+
+Actualmente la mayoría son de microdosis de etinil estradiol (<50 mcg), el que más tiene actualmente es 35 mcg de etinilestradiol. 
+
+Ideal partir con 20-30 mcg de etinil estradiol. Preferir 30 mcg si paciente con más síntomas androgénicos (acné, piel grasa, hirsutismo).
+
+Si cefalea catamenial, preferir 15-20 mcg etinil estradiol (como anillo vaginal). 
+
+Parche mucha hormona, nunca dar a paciente con cefalea. 
+
+Si inestabilidad anímica/depre, no es bueno progestágeno puro (como implanon). (simil a estado premenstrual). 
+
+Con Mirena no suele pasar, la RAM media clásica es "acné como en collar de mandíbula y cuello" y spoting. Se puede combinar con ACO con estrógenos (basta con 5 mcg etinil estradiol o valedato estradiol).
+- ACO tres meses junto con inicio de progestágeno
+
+Estrógenos son procoag, pueden disminuir metrorragia aparte del mec por estimulación crecimiento endometrio.
+
+"legrado médico" --> dar estrógenos cada 8 horas por... y luego suspenderlos de golpe.
+
+Usualmente ACO son <span style= "color: #21918c; font-weight: bold;" >inductores hepáticos</span>, por lo que aceleran metabolismo de varios fármacos, revisar, ojo fcos psiquiátricos. 
+
+### Progestágenos
+
+Acetato de progesterona es el gold estandard para comparación, acetato de ciproterona es 250 veces más potente (darlo máx por 6 meses en contexto de ACO)
+
+![fx_progestagenos](fx_progestagenos.png)
+
+### ¿cómo y cuando comenzar ACO?
+
+- Advertir RAM
+- Uso de condón para prevenir ETS
+- Entregar PAU (anticoncepción emergencia) en caso de olvido
+- Incluir a la pareja
+- Esquema continuo/prolongado
+
+- Cuando se inicia ACO o se cambia, usar sí o sí preservativo los primeros 7 días 
+- Antes se indicaba partir el día 5 de la menstruación. Sin embargo, ahora se recomienda el primer día por temas prácticos. 
+
+menstruación != flujo rojo cuando está con ACO (porque no está ovulando)
+
+Metrorragia "anovulatoria" por hiperestrogenismo mantenido (ACO o incluso obesidad)
+
+Menstruación es "sinónimo" de ovulación (need coordinación de los ejes hormonales et al)
+
+### Olvido toma de una píldora
+
+- Irse a la segura con preservativo
+- Hasta 3 días se pueden tomar las 3 pastillas
+
+![olvido_aco](olvido_aco.png)
+![olvido_aco2](olvido_aco2.png)
+
+[Link libro metodos anticonceptivos](https://1drv.ms/b/s!Ak26tjXtxiL0gYFu2Wokn8biyL6uaA?e=8C5k8t)
+
+### DIU
+
+Ojo, descartar embarazo y EIP antes de colocar DIU
+
+### Vasectomía
+
+Ojo: need espermiograma 3 meses post para confirmar efectividad
+
+### Anticoncepción de emergencia
+
+Yuzpe (con estrógeno), 85% efectividad primeros 3 días. Produce descamación de endometrio
+
+Progestágeno (inhibe ovulación, podría prevenir fecundación si se toma previo a ovulación).
+
 ## Sangrado uterino anormal
 
 Sangrado uterino normal:
