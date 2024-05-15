@@ -574,12 +574,25 @@ Spoting citológico ojo células endometriales en PAP
 
 # Climaterio y terapia de reemplazo hormonal
 
+Definiciones: climaterio es lo que antecede a la menopausia
+
+- Menopausia --> need 1 año sin ovulación (dg retrospectivo)
+- < 40 años --> insuficiencia ovárica prematura
+- 40-45 --> menopausia precoz
+- post-55 años --> menopausia tardía 👀
+
+Diagnóstico climaterio es clínico
+
+
+(rev guía atención integral climaterio)
+
 Evaluación de climaterio:
 - Síntomas vasomotores
 - Síntomas genitourinarios
 - Síntomas psicológicos
 
-Escala: MRS (Menopause Rating Scale)
+
+<b><span style="color:#7707aa">Escala MRS (autoaplicable) </span></b>(Menopause Rating Scale)
 ¿Cuál de las siguientes molestias siente en la actualidad y con qué intensidad?
 (responder 0-4: 0, No siento molestia; 1, Siento molestia leve; 2, Siento molestia moderada; 3, Siento molestia importante; 4, Siento demasiada molestia)
  
@@ -601,9 +614,83 @@ Escala: MRS (Menopause Rating Scale)
 
 \> 15: severidad moderada
 
+Si paciente quiere la TRH, darla siempre que no tenga contraindicaciones (no es mala, estudio WHI está malardo)
+
+Obesidad: ojo estrona, tiene más estrógenos
+
+Remember PALM-COEIN. 
+
+SUA sin TRH, endometrio debe ser <= 4 mm. Sobre 5 mm derivar. 
+
+Sin SUA... endometrio...
+
+Tamoxifeno tb engrosa endometrio, pero es quístico, solo biopsiar si está sangrando
+
+## Síndromes 
+### Síntomas Vasomotores
+Fisiopato: alteración de set point por falta de estrógenos. Ojo, no solo se puede tratar con hormonas, tb puede con no hormonales antidepresivos 
+
+Alternativas tto:
+
+- Estrógenos
+- Tibolona (si no se quiere utilizar progestágeno por RAM). Tibolona menos sangrado que estrógenos + progestágenos. Tb aumenta la líbido.
+- Inhibidores de la recaptación de la serotonina (venlafaxina y desvenlafaxina se han probado, tb se puede <span style= "color: #5ec962; font-weight: bold;" >escitalopram 10 mg/día vo eficacia 61%</span>, sin interacción con tamoxifeno)
+- Paroxetina (no puede utilizarse junto con tamoxifeno)
+- Oxibutinina
+- (...)
+- Isoflovanos (fitoestrógenos, pero no tienen estudios de seguridad, doc no lo recomienda)
 
 
-## terapia hormonal
+No hormonales usarlos cuando contraindicación hormonas
+
+Nuevas terapias:
+- Estetrol (E4), lo bueno es que no actúa sobre mama
+- 
+
+### Atrofia urogenital
+
+Dispareunia, sequedad, ardor, prurito
+
+Alternativas tto:
+- Lubricantes vaginales, durante relaciones sexuales
+- hidratantes vaginales (aplicar cada 3 a 4 días), si síntomas durante el día.
+- Promestrieno: 10 mg cada día por 20 días...
+- TRH oral y transdérmica
+- Estrógeno local
+- Estradiol intravaginal
+- ...
+
+### Osteoporosis
+
+- FRAX :)
+
+Indicaciones densitometría:
+- Mujeres >= 65 años
+- Antes si insuficiencia ovárica prematura
+- Si Frax moderado o alto, indicar densitometría
+
+Tto:
+- Modificar FR:
+    - Ejercicio
+    - Ca y VitD
+- Estrógenos
+- Bisfosfonatos
+- Raloxifeno (ojo, aumenta riesgo CV)
+- Denosumab (es bueno, contraindicaciones solo hipersensibilidad e hipocalcemia grave)
+
+### Deterioro cognitivo
+
+Es beneficioso para prevenir, no para tratar. Estrógenos solos se cree que disminuye riesgo de alzheimer, combinada se cree que aumenta el riesgo. 
+
+Para que TRH no sea FR de demencia, iniciar TRH antes de 65 años o no iniciar.
+
+## Riesgo cardiovascular
+
+Aumenta post-menopausia. TRH es segura previo a formación de placas. Dar TRH dentro de 10 años de menopausia (idealmente 6 años) o antes de 60 años para que sea beneficiosa 
+
+
+
+## Terapia hormonal
 
 | Indicaciones  | Contraindicaciones |
 |---|---|
@@ -619,6 +706,8 @@ Inicio TH:
 
 Su inicio tardío se asocia con mayores efectos adversos cardiovasculares y tromboembólicos. 
 
+Antes de iniciar, evaluar RCV, ojo en Chile solo 0.8 % mujeres en Chile con RCV bajo en peri menopausia
+
 Esquemas terapéuticos 
 - Estrógenos sólos (E): en mujeres sin útero  
 - Esquemas combinados (E+P): en mujeres con útero 
@@ -627,6 +716,8 @@ Esquemas terapéuticos
 - TH con tibolona. No requiere protección endometrial adicional. 
 - TH con un TSEC: complejo estrogénico tejido-selectivo formulado con estrógenos conjugados equinos y bazedoxifeno. No requiere protección endometrial adicional. 
 
+
+TRH vía oral beneficiosa para diabetes porque primer paso hepático disminuye insulino resistencia. Siempre y cuando <b><span style="color:#7707aa">no tenga daño de organo blanco</span></b>
 
 ## Estrógenos
 
@@ -640,9 +731,16 @@ La tendencia actual es el uso de 17 beta estradiol.
 
 Utilizar dosis mínima efectiva de estrógenos. Se consideran dosis bajas diarias 0,5 mg de estradiol, 0,3 mg de estrógenos conjugados de equinos o sintéticos, 25ug de estradiol transdérmico en parche y 0,5 g de estradiol transdérmico en gel. 
 
-Vía transdérmica debe preferirse en pacientes con hipertrigliceridemia, en aquellas con mayor riesgo trombótico venoso y aquellas con mayor riesgo cardiovascular en general. (ojo primer paso hepático)
+<span style= "color: #5ec962; font-weight: bold;" >Vía transdérmica</span> es más segura si RCV elevado. Debe preferirse en pacientes con hipertrigliceridemia, en aquellas con mayor riesgo trombótico venoso y aquellas con mayor riesgo cardiovascular en general. (ojo primer paso hepático)
 
-estrógeno para uso local vaginal prácticamente no tiene efectos sistémicos y no es necesario agregar una progestina para protección endometrial.
+- Lo malo de transdérmica es que pacientes sangran más. 1 puff de spray diario a permanencia + 1 progestágeno 10 a 14 días al mes en la noche vo
+- Puff aplicar en cualquier zona de la piel excepto en mamas.
+
+(donde se pone?)
+
+Estrógeno para uso local vaginal prácticamente no tiene efectos sistémicos y no es necesario agregar una progestina para protección endometrial.
+
+Por lo general si tiene alguna patol de esfera CV, preferir transdérmica, salvo en diabetes que VO es beneficiosa
 
 
 ## Progestinas
@@ -652,3 +750,20 @@ Preferir progestinas puras similares a la humana como la <span style= "color: #5
 Las progestinas pueden administrarse por vía oral, vaginal, a través de dispositivos intrauterinos y 
 depósito intramuscular. No existe evidencia que sugiera superioridad de una vía de administración por sobre 
 otra. 
+
+En esquema cíclico: 
+- por 10-14 días del mes para protección endometrial
+
+Dar estrogenos solos si riesgo de Ca Mama, porque progestágenos aumentan riesgo.
+
+Tibolona contraindicada en Ca de mama
+
+Acetato de medroxiprogesterona el con mayor riesgo de Ca de mama
+
+Dienogest NO es anticonceptivo. Está diseñado para endometriosis
+
+Lo ideal para climaterio es mirena :) 
+
+## MAC
+
+Cuando suspender? Rev...
