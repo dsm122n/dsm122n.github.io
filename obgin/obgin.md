@@ -541,6 +541,12 @@ DPG, HTA, ERC, Trombofilia, mesenquimopatía
 
 PG, >40 años,  
 
+## Trabajo de parto
+
+velocidad dilatación y descenso
+
+![tp](image-4.png)
+
 ## Semanas de Interrupción de la Gestación
 
 | Situación clínica | Semanas de Interrupción |
@@ -1199,3 +1205,232 @@ A utero y ovario, NUNCA escaner
 
 Síntoma principal es el sangrado 
 
+## Ca cervicouterino y prevención
+
+Prevención: primaria, secundaria y terciaria
+
+VPH es ITS más común en el mundo
+
+Genotipos alto riesgo:
+- **16**, **18**, 31, 33, 35, 39, 45, 51, 52, 56, 58, 59, 68
+- Riesgo acumulado de infección es de 80%
+- Alta prevalencia en menores de 20
+
+
+FR:
+- Genotipo
+- Tabaquismo (por temas inmunes)
+- Inmunocomromiso
+- Infección por C. Trachomatis
+- Uso ACO (no se tiene claro, pero Ojo estrógenos producen cierto grado de ectropion)
+
+
+### Prevención primaria
+![vacunas_vph](vacunas_vph.png)
+
+Pacientes vacunadas **DEBEN** realizarse screening de todos modos
+
+### Prevención secundaria
+
+Citología: Papanicolaou (PAP)
+- Baja sensibilidad pero alta especificidad en chile, porque analisis a cargo de patólogo dedicado a esto
+
+PAP Alterado:
+- Atípico: 
+    - ASCUS
+    - ASC-H
+    - AGC
+- Lesión intraepitelial escamosa:
+    - Bajo grado (LSIL)
+    - Alto grado (HSIL)
+- Carcinoma escamoso
+
+
+![Bethesda_pap](Bethesda_pap.png)
+
+
+VPH:
+- Alta especificidad y sensibilidad para infección
+- **Ventaja, alto VPN**
+
+Alternativas de tamizaje:
+- 
+
+
+Tamizaje en <25 años no se recomienda, porque tienen mayor P de eliminación de virus y no es costoefectividad
+
+En inmunocomprometidas desde inicio actividad sexual
+
+Finalización tamizaje: 64 años si
+
+- Tamizaje adecuado en los 10 años previos
+    - 3 PAP negativos
+    - 2 VPH negativos
+- 
+
+*insertar algoritmos minsal*
+
+PAP positivo:
+- Sugerente de NIE 
+
+- 2 ASCUS 
+
+PAP atípico: 
+
+Atípico **glandular** atípico:
+- <span style= "color: #21918c; font-weight: bold;" >REALIZAR además ESTUDIO ENDOMETRIAL</span>
+- 
+
+Cono LEEP: 
+- Rol diagnóstico principalmente
+- luego rol terapéutico
+
+
+
+### Tamizaje
+
+Recomendación del ACOG (American College of Obstetricians & Gynecologysts) 
+- No tamizaje en menores de 21 años  
+- 21-29 años PAP cada 3 años  
+- 30-65 años: PAP cada 3 años o prueba VPH cada 5 años o Co-testeo (PAP y prueba VPH) cada 5 años  
+- Dejar el tamizaje en mujeres mayores a 65 años con citologías previas vigentes negativas 
+- Dejar el tamizaje en pacientes con histerectomía total sin historia de lesiones de alto grado ni cáncer. En caso contrario se debe seguir solicitando PAP de la mucosa vaginal.
+
+
+### Post biopsia
+
+![alt text](image-5.png)
+
+Siempre preferir Cono. Crioterapia y [] no permiten biopsia, malito, puede progresar 
+
+### Pacientes embarazadas
+
+Siempre derivar. Se seguirá. En Caso de sospecha carcinoma invasor, ojo puede ser IVE. 
+
+### Ca Invasor
+
+Vías de diseminación en orden:
+- Directa
+- Linfática
+- Hematológica (principalmente a pulmón e hígado??)
+
+#### Etapificación FIGO 2018
+
+- Clínico + imagen
+    - Especuloscopía + tacto rectovaginal
+        - 
+Imágen: 
+- TAC
+- RNM: útil para
+- PET-CT: útil solo para seguimiento
+
+
+Tratamiento según comité oncológico:
+- Etapa precoz (hasta IB2) puede ser quirúrgica. 
+- Mayor, quimioterapia + radioterapia (no conservan fertilidad)
+
+Preservación de fertilidad, posible en IA1, IA2, IB1
+- 
+
+
+### Recidiva y seguimiento
+- 80% recidiva en primeros 24 meses, mayoría locoregional
+- Seguimiento es clínico
+- PAP no mejora significativamente detección de recidiva precoz
+
+Sintomatológico:
+- <span style= "color: #440154; font-weight: bold;" >Sangrado y dolor</span> (los principales, los otros pueden ser por qmt-rdt)
+- Dolor o hinchazzón en piernas
+- Problemas para orinar
+- Tos
+- Fatiga
+
+
+- 5 años seguimiento estricto
+- cada 3-4 meses por 3 años
+- cada 6 meses hasta completar 6 años
+
+Factor pronóstico principal es estadío de diagnóstico
+
+Spoting citológico ojo células endometriales en PAP
+
+## Climaterio y terapia de reemplazo hormonal
+
+Evaluación de climaterio:
+- Síntomas vasomotores
+- Síntomas genitourinarios
+- Síntomas psicológicos
+
+Escala: MRS (Menopause Rating Scale)
+¿Cuál de las siguientes molestias siente en la actualidad y con qué intensidad?
+(responder 0-4: 0, No siento molestia; 1, Siento molestia leve; 2, Siento molestia moderada; 3, Siento molestia importante; 4, Siento demasiada molestia)
+ 
+1. Bochornos, sudoración, calores.
+2. Molestias al corazón (sentir latidos del corazón, palpitaciones, opresión al pecho).
+3. Molestias musculares y articulares (dolores de huesos y articulaciones, dolores reumáticos).
+4. Dificultades en el sueño (insomnio, duerme poco).
+5. Estado de ánimo depresivo (sentirse deprimida, decaída, triste a punto de llorar, sin ganas de vivir).
+6. Irritabilidad (sentirse tensa, explota fácil, sentirse rabiosa, sentirse intolerante).
+7. Ansiedad (sentirse angustiada, temerosa, inquieta, tendencia al pánico).
+8. Cansancio físico y mental (rinde menos, se cansa fácil, olvidos frecuentes, mala memoria, le cuesta concentrarse)
+9. Problemas sexuales (menos ganas de sexo, menor frecuencia de relaciones sexuales, menor satisfacción sexual).
+10. Problemas con la orina (problemas al orinar, orina más veces, urgencia al orinar, se le escapa la orina).
+11. Sequedad vaginal (sensación de genitales secos, malestar o ardor en los genitales malestar o dolor con las relaciones sexuales).
+
+1-4 somáticos
+5-8 psicológicos
+9-11 urogenitales
+
+\> 15: severidad moderada
+
+
+
+### terapia hormonal
+
+| Indicaciones  | Contraindicaciones |
+|---|---|
+| Síndrome climatérico | Cáncer de mama hormonodependiente |
+| Sd genitourinario | Enfermedad tromboembólica activa |
+| Insuficiencia ovárica primaria | Sangrado genital de origen no aclarado |
+|  | Enfermedad coronaria o accidente cerebrovascular previo |
+|  | Hipertensión arterial sin control |
+
+Inicio TH:
+- durante los 50-59 años o
+- antes de los primeros 10 años (idealmente 6 años) de postmenopausia 
+
+Su inicio tardío se asocia con mayores efectos adversos cardiovasculares y tromboembólicos. 
+
+Esquemas terapéuticos 
+- Estrógenos sólos (E): en mujeres sin útero  
+- Esquemas combinados (E+P): en mujeres con útero 
+    - modalidad continua: administración de estrógenos en combinación con progestina todos los días, con la intención de mantener un endometrio atrófico y evitar el sangrado ginecológico. 
+    - modalidad secuencial: administración de estrógenos todos los días y la progestina se agrega por 10 a 14 días de cada mes. Este esquema suele producir flujo rojo después de la suspensión de la progestina en alrededor del 80% de los casos. 
+- TH con tibolona. No requiere protección endometrial adicional. 
+- TH con un TSEC: complejo estrogénico tejido-selectivo formulado con estrógenos conjugados equinos y bazedoxifeno. No requiere protección endometrial adicional. 
+
+
+#### Estrógenos
+
+Tipos de estrógenos  
+- estradiol oral 1 - 2 mg/d 
+- estradiol gel transdérmico 0,5 a 1,5 g /d 
+- estradiol parche transdérmico 25 – 50 - 100 ug /d 
+- estrógenos conjugados equinos oral 0,3 - 0,625 mg/d  
+- estrógenos conjugados sintéticos oral 0,3 - 0,625 mg/d  
+La tendencia actual es el uso de 17 beta estradiol. 
+
+Utilizar dosis mínima efectiva de estrógenos. Se consideran dosis bajas diarias 0,5 mg de estradiol, 0,3 mg de estrógenos conjugados de equinos o sintéticos, 25ug de estradiol transdérmico en parche y 0,5 g de estradiol transdérmico en gel. 
+
+Vía transdérmica debe preferirse en pacientes con hipertrigliceridemia, en aquellas con mayor riesgo trombótico venoso y aquellas con mayor riesgo cardiovascular en general. (ojo primer paso hepático)
+
+estrógeno para uso local vaginal prácticamente no tiene efectos sistémicos y no es necesario agregar una progestina para protección endometrial.
+
+
+#### Progestinas
+
+Preferir progestinas puras similares a la humana como la <span style= "color: #5ec962; font-weight: bold;" >progesterona micronizada y dihidrogesterona</span>. Se aconseja evitar el uso de <span style= "color: #440154; font-weight: bold;" >medroxiprogesterona</span> acetato o limitarlo a menos de 5 años. 
+
+Las progestinas pueden administrarse por vía oral, vaginal, a través de dispositivos intrauterinos y 
+depósito intramuscular. No existe evidencia que sugiera superioridad de una vía de administración por sobre 
+otra. 
