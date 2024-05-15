@@ -46,7 +46,12 @@
                     <li class="nav-item"><a class="nav-link" data-bs-toggle="pill" href="#" onclick="loadMD('cardiologia/criterios_ecg/README.md')" id="ecg">ECG criterios</a></li>
                     <li class="nav-item"><a class="nav-link" data-bs-toggle="pill" href="#" onclick="loadMD('cirugia/cirugia.md')" id="cirugia">Cirugía</a></li>
                     <li class="nav-item"><a class="nav-link" data-bs-toggle="pill" href="#" onclick="loadMD('urgencias/urgencias.md')" id="urgencias">Urgencias</a></li>
-                    <li class="nav-item"><a class="nav-link" data-bs-toggle="pill" href="#" onclick="loadMD('obgin/obgin.md')" id="obgin">Obste y Gine</a></li>
+                    <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" id="obgin">Obste y Gine</a>
+                        <ul class="dropdown-menu" data-bs-theme="dark">
+                            <li class="nav-item"><a class="dropdown-item" data-bs-toggle="pill" href="#inicio" onclick="loadMD('obgin/obste.md')">Obstetricia</a>
+                            <li class="nav-item"><a class="dropdown-item" data-bs-toggle="pill" href="#inicio" onclick="loadMD('obgin/gine.md')">Ginecología</a>
+                        </ul>
+                    </li>
                     <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" id="pediatria">Pediatría</a>
                         <ul class="dropdown-menu" data-bs-theme="dark">
                             <li class="nav-item"><a class="dropdown-item" data-bs-toggle="pill" href="#inicio" onclick="loadMD('pediatria/pediatria.md')">datitos pediatría</a>
