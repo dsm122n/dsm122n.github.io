@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Home</title>
+    <title>Notas de Dan</title>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
     <!-- <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.12.0/katex.min.css"> -->
     <!-- <link rel="stylesheet" href="styles.css"> -->
@@ -42,17 +42,18 @@
             <div class="collapse navbar-collapse" id="collapsibleNavbar">
 
                 <ul class="nav nav-pills navbar-dark bg-dark" >
-                    <li class="nav-item"><a class="nav-link" data-bs-toggle="pill" href="#inicio" onclick="loadMD('medi.md')" id="medi-especialidades">Medi y especialidades</a></li>
-                    <li class="nav-item"><a class="nav-link" data-bs-toggle="pill" href="#" onclick="loadMD('cardiologia/criterios_ecg/README.md')" id="ecg">ECG criterios</a></li>
-                    <li class="nav-item"><a class="nav-link" data-bs-toggle="pill" href="#" onclick="loadMD('cirugia/cirugia.md')" id="cirugia">Cirugía</a></li>
-                    <li class="nav-item"><a class="nav-link" data-bs-toggle="pill" href="#" onclick="loadMD('urgencias/urgencias.md')" id="urgencias">Urgencias</a></li>
-                    <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" id="obgin">Obste y Gine</a>
+                    <li class="nav-item"><a class="nav-link" data-bs-toggle="pill" href="#inicio" onclick="loadMD('medi.md')" id="medi-especialidades">Medicina interna 💊🩺</a></li>
+                    <li class="nav-item"><a class="nav-link" data-bs-toggle="pill" href="#" onclick="loadMD('otras_especialidades/oftalmo.md')" id="oftalmo">Oftalmo 👓</a></li>
+                    <li class="nav-item"><a class="nav-link" data-bs-toggle="pill" href="#" onclick="loadMD('cardiologia/criterios_ecg/README.md')" id="ecg">ECG criterios 🫶</a></li>
+                    <li class="nav-item"><a class="nav-link" data-bs-toggle="pill" href="#" onclick="loadMD('cirugia/cirugia.md')" id="cirugia">Cirugía 🔪</a></li>
+                    <li class="nav-item"><a class="nav-link" data-bs-toggle="pill" href="#" onclick="loadMD('urgencias/urgencias.md')" id="urgencias">Urgencias 🏥</a></li>
+                    <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" id="obgin">Obste y Gine 🐣</a>
                         <ul class="dropdown-menu" data-bs-theme="dark">
                             <li class="nav-item"><a class="dropdown-item" data-bs-toggle="pill" href="#inicio" onclick="loadMD('obgin/obste.md')">Obstetricia</a>
                             <li class="nav-item"><a class="dropdown-item" data-bs-toggle="pill" href="#inicio" onclick="loadMD('obgin/gine.md')">Ginecología</a>
                         </ul>
                     </li>
-                    <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" id="pediatria">Pediatría</a>
+                    <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" id="pediatria">Pediatría🐥</a>
                         <ul class="dropdown-menu" data-bs-theme="dark">
                             <li class="nav-item"><a class="dropdown-item" data-bs-toggle="pill" href="#inicio" onclick="loadMD('pediatria/pediatria.md')">datitos pediatría</a>
                                 <li class="nav-item"><a class="dropdown-item" data-bs-toggle="pill" href="#inicio" onclick="loadHTML('pediatria/Dosis.html')">dosis pedatría</a></li>
@@ -63,7 +64,7 @@
                                 <!-- <li class="nav-item"><a class="dropdown-item" data-bs-toggle="pill" href="#formatos_ingresos" onclick="loadMD('formatos.md')" id="medi-especialidades">Plant</a></li> -->
                             </ul>
                     </li>
-                    <li class="nav-item"><a class="nav-link active" data-bs-toggle="pill" href="#" onclick="loadGoogleSheet()" id="farmacologia">farmacología</a></li>
+                    <li class="nav-item"><a class="nav-link active" data-bs-toggle="pill" href="#" onclick="loadGoogleSheet()" id="farmacologia">Farmacología 💊</a></li>
                     <!-- <li class="nav-item"><a class="nav-link" data-bs-toggle="pill" href="https://uchile-my.sharepoint.com/:f:/g/personal/danielsanmartin_uchile_cl/EhouDuDBZxpEtwfy2CCMS4sB3nl_slMXYRkuua_VhReLmw?e=LD9RVW">OneDrive Material</a></li>
                     <li class="nav-item"><a class="nav-link" data-bs-toggle="pill" href="https://uchile-my.sharepoint.com/personal/danielsanmartin_uchile_cl/Documents/Dan/Diccionario_LSCh.pdf?CT=1703984327422&OR=ItemsView">LSCh</a></li>
  -->        </nav>
@@ -90,6 +91,7 @@
 
             <!-- Page Content -->
             <div id="content">
+
                 <main>
                     <br>
                     
@@ -98,7 +100,7 @@
                     <div class="tab-pane container active" id="tabla_farmacos">
                         <input type="text" id="search" placeholder="Type to search">
                         <div style="overflow: scroll; height: 400px;">  
-                            <table class="table" id="table" styles="display: block; width: 100%">  <thead>
+                            <table class="table" id="la-tabla" styles="display: block; width: 100%">  <thead>
                             <tr id="headings_tabla">
                                 <th></th>
                                 </tr>
