@@ -767,3 +767,217 @@ Lo ideal para climaterio es mirena :)
 ## MAC
 
 Cuando suspender? Rev...
+
+# Vaginitis y Cervicitis
+
+![vulvovaginitis_amboss](vulvovaginitis_amboss.png)
+
+
+
+<table class="api table-wrapper-wide" data-table="ZCUzRSUyMCUzQy90ciUzRSUwQSUzQy90Ym9keSUzRSUwQSUzQy90YWJsZSUzRQ==30910">
+<thead>
+<tr>
+<th colspan="6" scope="row"><span class="leitwort">Overview</span></th> </tr>
+<tr>
+<th scope="row"><span class="leitwort">Features</span></th> <th scope="col"><span class="step-2-imppact2 imppact2 usmle-gs-imppact2 step-2-condensed strongImpactHighlight--qLdOc"><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed strongImpactHighlight--qLdOc"><span class="leitwort">
+Bacterial vaginosis
+</span></span></span></th> <th scope="col"><span class="step-2-imppact2 imppact2 usmle-gs-imppact2 step-2-condensed strongImpactHighlight--qLdOc"><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed strongImpactHighlight--qLdOc"><span class="leitwort">
+Trichomoniasis
+</span></span></span></th> <th scope="col"><span class="step-2-imppact2 imppact2 usmle-gs-imppact2 step-2-condensed strongImpactHighlight--qLdOc"><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed strongImpactHighlight--qLdOc"><span class="leitwort">
+Vaginal yeast infection
+</span></span></span></th> <th scope="col"><span class="step-2-imppact2 imppact2 usmle-gs-imppact2 step-2-condensed strongImpactHighlight--qLdOc"><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed strongImpactHighlight--qLdOc"><span class="leitwort">
+Gonorrhea
+</span></span></span></th> <th scope="col"><span class="step-2-imppact2 imppact2 usmle-gs-imppact2 step-2-condensed strongImpactHighlight--qLdOc"><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed strongImpactHighlight--qLdOc"><span class="leitwort">Chlamydia infections
+</span></span></span></th> </tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row"><span class="leitwort"><span data-phrasegroup-id="XgW9Fk0" data-type="bonus" class="api dictionary" data-content="PHA+QW4gb3JnYW5pc20ga25vd24gdG8gY2F1c2UgZGlzZWFzZSBpbiBodW1hbnMgYW5kLCBpZiBpZGVudGlmaWVkIG9uIGRpYWdub3N0aWNzLCB0aGF0IGlzIGFsd2F5cyBjb25zaWRlcmVkIGFuIGluZmVjdGlvbi48L3A+" id="Le6076798f80c10f9175483adce34d576" data-source="Le6076798f80c10f9175483adce34d576">Pathogen</span></span></th> <td> <ul>
+<li><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed strongImpactHighlight--qLdOc"><span class="step-2-imppact2 imppact2 usmle-gs-imppact2 step-2-condensed strongImpactHighlight--qLdOc"><span class="scientific-name">
+Gardnerella vaginalis
+</span></span></span></li> </ul>
+</td> <td> <ul>
+<li><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed strongImpactHighlight--qLdOc"><span class="step-2-imppact2 imppact2 usmle-gs-imppact2 step-2-condensed strongImpactHighlight--qLdOc"><span class="scientific-name">
+Trichomonas vaginalis
+</span></span></span></li> </ul>
+</td> <td> <ul>
+<li><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed strongImpactHighlight--qLdOc"><span class="step-2-imppact2 imppact2 usmle-gs-imppact2 step-2-condensed strongImpactHighlight--qLdOc"><span class="scientific-name">
+Candida albicans
+</span></span></span></li> </ul>
+</td> <td> <ul>
+<li><span class="step-2-imppact2 imppact2 usmle-gs-imppact2 step-2-condensed strongImpactHighlight--qLdOc"><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed strongImpactHighlight--qLdOc"><span class="scientific-name">
+Neisseria gonorrhoeae
+</span></span></span></li> </ul>
+</td> <td> <ul>
+<li><span class="step-2-imppact2 imppact2 usmle-gs-imppact2 step-2-condensed strongImpactHighlight--qLdOc"><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed strongImpactHighlight--qLdOc"><span class="scientific-name">
+Chlamydia trachomatis
+ </span><span class="nowrap"><span data-phrasegroup-id="-vWDcn0" data-type="bonus" class="api dictionary" data-content="PHA+QSBzdWJncm91cCB3aXRoaW4gYSBzcGVjaWVzIG9mIG1pY3Jvb3JnYW5pc21zIHRoYXQgc2hhcmUgYSBzcGVjaWZpYyBzdXJmYWNlIGFudGlnZW4uIERpZmZlcmVudCBzZXJvdHlwZXMgY2FuIHByb2R1Y2UgZGlmZmVyZW50IGNsaW5pY2FsIHByZXNlbnRhdGlvbnMgYW5kIGlsbG5lc3Mgc2V2ZXJpdGllcy4gRXhhbXBsZXMgb2YgcGF0aG9nZW5zIHdpdGggbXVsdGlwbGUgc2Vyb3R5cGVzIGluY2x1ZGUgU2FsbW9uZWxsYSAoJmd0OyAyLDUwMCBrbm93biBzZXJvdHlwZXMpIGFuZCBDaGxhbXlkaWEgdHJhY2hvbWF0aXMgKDE5IHNlcm90eXBlcykuPC9wPg==" id="L60ce385bac42fa481af99db0b160ad0f" data-source="L60ce385bac42fa481af99db0b160ad0f">serotype</span> D-K</span></span></span></li> </ul>
+</td> </tr>
+<tr>
+<th rowspan="2" scope="row"><span class="leitwort">Discharge</span></th> <td rowspan="2"> <ul>
+<li><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed strongImpactHighlight--qLdOc"><span class="step-2-imppact2 imppact2 usmle-gs-imppact2 step-2-condensed strongImpactHighlight--qLdOc">Gray/milky</span></span></li> <li><span class="wichtig"><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed strongImpactHighlight--qLdOc"><span class="step-2-imppact2 imppact2 usmle-gs-imppact2 step-2-condensed strongImpactHighlight--qLdOc">Fishy odor</span></span></span></li> </ul>
+</td> <td rowspan="2"> <ul>
+<li><span class="wichtig"><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed strongImpactHighlight--qLdOc"><span class="step-2-imppact2 imppact2 usmle-gs-imppact2 step-2-condensed strongImpactHighlight--qLdOc">Frothy, <span class="nowrap">yellow-green</span></span></span></span></li> <li><span class="wichtig"><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed strongImpactHighlight--qLdOc"><span class="step-2-imppact2 imppact2 usmle-gs-imppact2 step-2-condensed strongImpactHighlight--qLdOc"><span class="nowrap">Foul-smelling</span></span></span></span></li> </ul>
+</td> <td rowspan="2"> <ul>
+<li><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed strongImpactHighlight--qLdOc"><span class="step-2-imppact2 imppact2 usmle-gs-imppact2 step-2-condensed strongImpactHighlight--qLdOc">White, crumbly, and thick (<span class="wichtig">cottage <span class="nowrap">cheese-like</span></span>)</span></span></li> <li><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed strongImpactHighlight--qLdOc"><span class="step-2-imppact2 imppact2 usmle-gs-imppact2 step-2-condensed strongImpactHighlight--qLdOc">Odorless</span></span></li> </ul>
+</td> <td> <ul>
+<li><span class="step-2-imppact2 imppact2 usmle-gs-imppact2 step-2-condensed strongImpactHighlight--qLdOc"><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed strongImpactHighlight--qLdOc">
+Purulent, creamy</span></span></li> </ul>
+</td> <td> <ul>
+<li><span class="step-2-imppact2 imppact2 usmle-gs-imppact2 step-2-condensed strongImpactHighlight--qLdOc"><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed strongImpactHighlight--qLdOc">
+Purulent, bloody</span></span></li> </ul>
+</td> </tr>
+<tr>
+<td colspan="2" rowspan="1"> <ul>
+<li>May be malodorous</li> </ul>
+</td> </tr>
+<tr>
+<th scope="row"> <span class="leitwort">Vaginal inflammation</span> 
+</th> <td> <ul>
+<li><span class="step-2-imppact2 imppact2 usmle-gs-imppact2 step-2-condensed strongImpactHighlight--qLdOc"><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed strongImpactHighlight--qLdOc">Typically absent</span></span></li> </ul>
+</td> <td> <ul>
+<li><span class="step-2-imppact2 imppact2 usmle-gs-imppact2 step-2-condensed strongImpactHighlight--qLdOc"><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed strongImpactHighlight--qLdOc">Present</span></span></li> </ul>
+</td> <td> <ul>
+<li><span class="step-2-imppact2 imppact2 usmle-gs-imppact2 step-2-condensed strongImpactHighlight--qLdOc"><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed strongImpactHighlight--qLdOc">Present</span></span></li> </ul>
+</td> <td colspan="2"> <ul>
+<li><span class="step-2-imppact2 imppact2 usmle-gs-imppact2 step-2-condensed strongImpactHighlight--qLdOc"><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed strongImpactHighlight--qLdOc">Absent</span></span></li> </ul>
+</td> </tr>
+<tr>
+<th scope="row"><span class="leitwort">
+Cervicitis
+</span></th> <td> <ul>
+<li><span class="step-2-imppact2 imppact2 usmle-gs-imppact2 step-2-condensed strongImpactHighlight--qLdOc"><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed strongImpactHighlight--qLdOc">Typically absent</span></span></li> </ul>
+</td> <td> <ul>
+<li><span class="step-2-imppact2 imppact2 usmle-gs-imppact2 step-2-condensed strongImpactHighlight--qLdOc"><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed strongImpactHighlight--qLdOc">Often present</span></span></li> </ul>
+</td> <td> <ul>
+<li><span class="step-2-imppact2 imppact2 usmle-gs-imppact2 step-2-condensed strongImpactHighlight--qLdOc"><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed strongImpactHighlight--qLdOc">Absent </span></span></li> </ul>
+</td> <td colspan="2"> <ul>
+<li><span class="step-2-imppact2 imppact2 usmle-gs-imppact2 step-2-condensed strongImpactHighlight--qLdOc"><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed strongImpactHighlight--qLdOc">Present</span></span></li> </ul>
+</td> </tr>
+<tr>
+<th scope="row"><span class="leitwort">
+Vaginal pH
+</span></th> <td colspan="2" rowspan="1"> <ul>
+<li><span class="wichtig"><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed strongImpactHighlight--qLdOc"><span class="step-2-imppact2 imppact2 usmle-gs-imppact2 step-2-condensed strongImpactHighlight--qLdOc"><span class="nowrap">&gt; 4.5</span></span></span></span></li> </ul>
+</td> <td> <ul>
+<li><span class="wichtig"><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed strongImpactHighlight--qLdOc"><span class="step-2-imppact2 imppact2 usmle-gs-imppact2 step-2-condensed strongImpactHighlight--qLdOc"><span class="nowrap">4–4.5</span></span></span></span></li> </ul>
+</td> <td colspan="2" rowspan="1"> <ul>
+<li>Variable</li> </ul>
+</td> </tr>
+<tr>
+<th scope="row"><span class="leitwort">Microscopy findings</span></th> <td> <ul>
+<li><span class="wichtig"><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed strongImpactHighlight--qLdOc"><span class="step-2-imppact2 imppact2 usmle-gs-imppact2 step-2-condensed strongImpactHighlight--qLdOc">
+Clue cells
+</span></span></span></li> </ul>
+</td> <td> <ul>
+<li><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed strongImpactHighlight--qLdOc"><span class="step-2-imppact2 imppact2 usmle-gs-imppact2 step-2-condensed strongImpactHighlight--qLdOc">Flagellated 
+protozoa
+</span></span></li> </ul>
+</td> <td> <ul>
+<li><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed strongImpactHighlight--qLdOc"><span class="step-2-imppact2 imppact2 usmle-gs-imppact2 step-2-condensed strongImpactHighlight--qLdOc">
+Pseudohyphae
+</span></span></li> </ul>
+</td> <td> <ul>
+<li><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed strongImpactHighlight--qLdOc"><span class="nowrap">Gram-negative</span>, intracellular <span data-phrasegroup-id="j-X_C00" data-type="bonus" class="api dictionary" data-content="PHA+QSBiYWN0ZXJpYWwgc3BlY2llcyB0aGF0IGlzIHJvdW5kIGluIHNoYXBlIGFuZCB0eXBpY2FsbHkgZm91bmQgaW4gcGFpcnMgb2YgY2VsbHMuIEV4YW1wbGVzIGluY2x1ZGUgUy4gcG5ldW1vbmlhZSwgRW50ZXJvY29jY3VzLCBhbmQgTmVpc3NlcmlhLjwvcD4=" id="Lb299f07fff8b4a4d3073ed01409c8b6c" data-source="Lb299f07fff8b4a4d3073ed01409c8b6c">diplococci</span></span></li> </ul>
+</td> <td> <ul>
+<li><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed strongImpactHighlight--qLdOc">Intracellular organisms that 
+Gram stain poorly</span></li> </ul>
+</td> </tr>
+<tr>
+<th scope="row"><span class="leitwort">Treatment</span></th> <td> <ul>
+<li><span class="wichtig"><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed strongImpactHighlight--qLdOc"><span class="step-2-imppact2 imppact2 usmle-gs-imppact2 step-2-condensed strongImpactHighlight--qLdOc">
+<ul>
+<li><span style= "color: #5ec962; font-weight: bold;" >Metronidazol óvulos vaginales 500 mg por 5-7 días</span>
+</li> <li>Clindamicina vaginal al 2% (óvulos o crema) por 7-10 días</li> </ul>
+</span></span></span></li> </ul>
+</td> <td> <ul>
+
+<li>Metronidazol 2 gr vo en dosis única</li>
+<li>Tinidazol 2 gr vo en dosis única (mejor tolerancia que metro)</li>
+<li>Metronidazol 500 mg vo cada 12 horas, por 7 días</li>
+ <li>Treat sexual partner(s)</li> </ul>
+</td> 
+
+<td> <ul>
+<li><span style= "color: #5ec962; font-weight: bold;" >Fluconazol (150 mg) v.o. 1 dosis</span></li> 
+<li> Clotrimazol óvulos (100 mg) cada noche por 6 días
+</li> <li> Clotrimazol óvulos (500 mg) dosis única</li> 
+
+<li><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed strongImpactHighlight--qLdOc"><span class="step-2-imppact2 imppact2 usmle-gs-imppact2 step-2-condensed strongImpactHighlight--qLdOc">Topical <span class="wichtig">
+azoles
+</span> or 
+nystatin
+</span></span></li>  </ul>
+</td> <td> <ul>
+<li>
+<span class="wichtig"><span class="step-2-imppact2 imppact2 usmle-gs-imppact2 step-2-condensed strongImpactHighlight--qLdOc"><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed strongImpactHighlight--qLdOc">
+Ceftriaxone
+</span></span></span> IV/IM</li> <li><span class="step-2-imppact2 imppact2 usmle-gs-imppact2 step-2-condensed strongImpactHighlight--qLdOc">Treat sexual partner(s)</span></li> </ul>
+</td> <td> <ul>
+<li><span class="wichtig"><span class="step-2-imppact2 imppact2 usmle-gs-imppact2 step-2-condensed strongImpactHighlight--qLdOc"><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed strongImpactHighlight--qLdOc">
+Azithromycin
+</span></span></span></li> <li><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed strongImpactHighlight--qLdOc"><span class="step-2-imppact2 imppact2 usmle-gs-imppact2 step-2-condensed strongImpactHighlight--qLdOc"><span class="wichtig">
+Doxycycline
+ </span>in nonpregnant patients</span></span></li> <li><span class="step-2-imppact2 imppact2 usmle-gs-imppact2 step-2-condensed strongImpactHighlight--qLdOc">Treat sexual partner(s)</span></li> </ul>
+</td> </tr>
+</tbody>
+</table>
+
+### Vaginitis Bacteriana
+
+ 
+Criterios clínicos: AMSEL (tres de los siguientes) 
+- pH del flujo vaginal >4,5 (pH normal prácticamente descarta esta infección)
+- Descarga vaginal característica 
+- Células claves (> 20%) (clue cells) 
+- Test de Aminas: prueba KOH (+) 
+Criterios laboratorio: Test Nugent (Gram flujo vaginal) 
+- 7-12 diagnóstico de vaginosis bacteriana 
+- 4-6 dudoso 
+- 0-3 es normal
+
+Metronidazol 500 mg cada 12 horas, vo por 7 días. Es igualmente eficaz que la administración vaginal, con cura sintomática en aproximadamente el 80% y cura microbiológica aproximadamente del 70% al mes, de acuerdo con estudios randomizados controlados con placebo. Sin embargo, la adherencia a este esquema es mala.  
+- Clindamicina vaginal al 2% (óvulos o crema) por 7-10 días. Este tratamiento por 7 días es igualmente efectivo que el Metronidazol oral o vaginal. 
+- <span style= "color: #5ec962; font-weight: bold;" >Metronidazol óvulos vaginales 500 mg por 5-7 días</span>, 1 vez cada noche. Es el tratamiento de uso más habitual y recomendado. 
+- Metronidazol 2 gr vo por una vez. Es una opción para mejorar la adherencia al tratamiento, sin embargo, <b><span style="color:#7707aa">no se recomienda pues tiene 50% tasa de fracaso</span></b>.
+
+Para los casos de vaginosis bacteriana recurrente (tres o más episodios en el último año), un estudio doble ciego randomizados demostró que luego del tratamiento por 10 días con Metronidazol vaginal diario, el uso de Metronidazol en gel al 0,75% dos veces por semana por 16 semanas mantuvo la cura clínica en 75% de las pacientes a las 16 semanas y 50% de las pacientes a las 28 semanas. 
+
+En embarazadas...
+
+Manual PUC recomienda:  pesquisar y tratar la Vaginosis de modo rutinario a las 14 semanas en toda mujer con factores de riesgo para parto prematuro, principalmente aquellas con un parto prematuro previo este haya sido idiopático o por rotura de membranas. Si se hace el diagnóstico de vaginosis bacteriana en este escenario (embarazo con alto riesgo de prematurez), el tratamiento debe ser vía ORAL.  
+- Metronidazol 500 mg/12 horas x 7 días vo. 
+- Clindamicina 300 mg/12 horas por 7 días vo.
+
+### Candidiasis Vulvovaginal
+
+Tratamiento usual:
+- <span style= "color: #5ec962; font-weight: bold;" >Fluconazol (150 mg) v.o. 1 dosis</span>. Es el esquema más utilizado, por su buena respuesta y facilidad de uso. Se ha demostrado que este tratamiento oral reduce las recurrencias. 
+- Clotrimazol óvulos (100 mg) cada noche por 6 días 
+- Clotrimazol óvulos (500 mg) dosis única
+
+Candidiasis vulvovaginal complicada 
+- Embarazadas 
+- Inmunocomprometidas 
+- Diabéticas con mal control metabólico 
+- Con síntomas severos 
+- Con infección por especies no-Albicans 
+- Episodios recurrentes (4 ≥ en 1 año)
+
+Si **síntomas severos**:
+- una segunda dosis de Fluconazol oral (150mg) a las 72 horas luego de la primera dosis aumentó la tasa de cura de un 67 a un 80%.
+
+En **embarazadas**:
+- 7 días con óvulos de clotrimazol. 
+- Debe evitarse el uso de fluconazol oral en el primer trimestre, aunque no hay reportes de efectos adversos fetales.  
+
+Candidiasis vulvovaginal **recurrente**: 4 o más episodios en un plazo de 12 meses. Un estudio demostró utilidad de esquema:
+- Fluconazol oral (150 mg) diario por 10 días, 
+- y luego durante 6 meses un Fluconazol oral (150 mg) semanal
+
+### Tricomoniasis
+
+Tratamiento de la Trichomona Vaginal 
+- Metronidazol 2 gr vo en dosis única (mala tolerancia oral, pero mejor adherencia) 
+- Tinidazol 2 gr vo en dosis única. Es equivalente o superior al Metronidazol 2 gr oral en dosis única, mostrando una tasa de cura de 90 a 95%. 
+- Metronidazol 500 mg vo cada 12 horas, por 7 días(Prevalencia de resistencia leve al Metronidazol en pacientes infectados con T. Vaginalis es 2-5%)

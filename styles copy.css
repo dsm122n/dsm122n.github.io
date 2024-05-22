@@ -49,8 +49,9 @@ input {
 }
 
 input:focus {
-    border: 6px solid var(--color-accent);
-    background: #3a2d00;
+    border: 2px solid var(--color-accent);
+    background: #dbed73;
+    color: #242929;
     /* glow */
     box-shadow: 0 0 20px var(--color-accent);
     

@@ -654,3 +654,84 @@ Criterios de Roterdam (4 fenotipos):
 
 
 SOP siempre poner ojo con endometrio, que no esté engrosado
+
+
+
+
+# Endocrino
+
+1. 
+- Hiperpigmentación se relaciona con el aumento de ACTH. Para la mayor producción de ACTH se genera un aumento de su precursor propiomelanocortina (POMC) que a su vez se puede metabolizar a hormona estimulante de melanocitos. Tanto ACTH como MSH a nivel periférico (piel) produce una estimulación de recepctores de melanocortina que generan mayor síntesis de melanina. 
+- Letargo/astenia: Hipotiroidismo (disminución de T4) produce una disminución del metabolismo en sus tejidos diana. 
+- Desarrollo puberal incompleto: La hormona responsable del desarrollo de caracteres sexuales secundarios en la mujer son principalmente los estrógenos. En este caso, presenta un hipogonadismo, menor síntesis de estradiol, por lo cual no existirá estimulo de las celulas diana para el desarrollo de los caracteres sexuales secundarios. 
+2. Diagnósticos:
+- Hipotiroidismo primario: T4 normal-baja asociada a altos niveles de TSH. El aumento de los anticuerpos Anti-TPO / Anti-Tg orienta a pensar que hay destrucción de la glándula tiroides. De los síntomas orientan: Letargo/astenia, estreñimiento, hipotensión
+- Insuficiencia suprarrenal primaria: Hipotensión, episodio de hipoglicemia, hiperpigmentación. Hiponatremia asociada a hiperkalemia. Cortisol basal normal-bajo, ACTH elevada. Anti-21 hidroxilasa nos orienta a destrucción de corteza suprarrenal.
+- Hiperprolactinemia: Galactorrea, amenorrea. Hiperprolactinemia en el laboratorio. 
+- hipogonadismo hipogonadotrópico: Amenorrea. FSH y LH normales-bajas. Estradiol bajo. 
+3. Esto es provocado por el hipotiroidismo, ya que al haber niveles de T4 bajos, no se produce un feedback negativo de TSH y TRH, por lo que hay un aumento de ambas. Luego, el aumento de los niveles de TRH en el organismo estimulan un aumento en la producción de prolactina.
+4. Esto provocaría que haya una disminución de la enzima 21-hidroxilasa y en consecuencia una disminución de la síntesis de cortisol y aldosterona. El déficit de estas hormonas promovería la aparición de los síntomas de la paciente (insuficiencia suprarrenal y desequilibrio electrolítico).
+5. No presentaría una variación en sus niveles de cortisol, ya que el problema está en la hipofunción de la glándula suprarrenal y no a nivel central (hipófisis)
+6. Se observaría una inhibición de la ACTH a bajas y altas dosis de dexametasona. También se observaría una inhibición del cortisol (bajos niveles)
+7. Al hacer un aporte exógeno de glucocorticoide, mineralocorticoide y tiroxina, se estaría suplementando la falta de producción de las respectivas hormonas por parte de las glándulas. Todo esto ocasionaría que los síntomas causados por el déficit de estas hormonas desaparezcan
+8. En el test de clomifeno se observaría un aumento de la GnRH y por ende un aumento de FSH y LH. Por otro lado, la estimulación con GnRH provocaría también un aumento en los niveles de FSH y LH, dado que no se encuentra dañado el eje en sí (hay una inhibición por la prolactina)
+
+
+-----------
+
+
+Explique por que la paciente presenta a) hiperpigmentación, b) letargo, c) el desarrollo puberal incompleto. 
+
+Hiperpigmentación: en esta paciente la hiperpigmentación cutánea difusa se debe fundamentalmente a la deficiencia de cortisol. Esta deficiencia de cortisol generará un feedback negativo sobre la hipófisis anterior para que se secrete más ACTH en respuesta. Ahora, cuando se estimula la síntesis de ACTH, se libera su precursor: pro-opiomelanocortina, proteína que al clivarse libera dos hormonas: ACTH y beta-lipotropina. Estas dos hormonas al clivarse generan beta-MSH y gamma-MSH (hormona estimuladora de melanocitos), respectivamente. Esta MSH actúa directamente sobre los melanocitos, los cuales en respuesta generarán más melanina, lo que se traduce en zonas de hiperpigmentación.
+
+Letargo: en este caso, tenemos dos posibles mecanismo que pueden estar potenciándose entre ellos y generando el letargo. Por un lado, tenemos un cortisol normal/bajo y, como sabemos, el cortisol es un glucocorticoide importante para el mantenimiento de la vigilia y la energía, por lo que cantidades insuficientes de esta hormona pueden generar una disminución en la gluconeogénesis, así como otras rutas metabólicas energéticas de importancia, lo que se traduce en una hipoglicemia. En respuesta a esta hipoglicemia, distintos sistemas de nuestro organismo responden bajando su actividad metabólico, sobre todo el sistema nervioso y muscular, quienes son los principales sistemas que utilizan glucosa para su funcionamiento. Por otro lado, tenemos una baja en las hormonas tiroideas, lo cual generará que se disminuya el catabolismo neto del organismo, por lo que las células de nuestro organismo no podrán extraer energía de estos procesos, especialmente el cerebro y los músculos, por lo que nuevamente veríamos una disminución de la actividad metabólica. Estos dos mecanismos se estarían potenciando, disminuyendo bastante el metabolismo basal de los músculos y cerebro de la paciente, lo que genera el letargo.
+
+Desarrollo puberal incompleto: en este caso, el desarrollo puberal incompleto se debe a una deficiencia de las gonadotropinas, hormonas responsables de la maduración sexual. Por otro lado, tenemos que existe una hiperprolactinemia producto de los desórdenes hormonales de la paciente. Esta hiperprolactinemia generará un feedback negativo sobre las gonadotropinas, disminuyendo aún más su liberación y, por tanto, de la liberación de las hormonas sexuales necesarias para la maduración. Por otro lado, los aumentos en la producción de prolactina también pueden interferir en la función ovárica, suprimiéndola, por lo que el ovario tampoco respondería bien a las hormonas sexuales.
+
+Cuáles son los diagnósticos de la paciente. Justifique su respuesta en base a lo encontrado en los estudios bioquímicos, la regulación del eje hipotálamo-hipófisis-glándula y los síntomas de la paciente.
+
+ La paciente presenta tres diagnósticos de base:
+
+Tiroiditis de Hashimoto: queda en evidencia dado los aumentados niveles de TSH y los niveles normales/bajos de fT4. En este sentido, tenemos que ante una disminución de los niveles de hormonas tiroideas se generará un feedback negativo sobre la hipófisis para que secrete más TSH, razón por la cual se encuentra tan elevada; sin embargo, como es un hipotiroidismo primario, la glandula no responderá ante el estímul de TSH, manteniendo los valores de T4 bajos. Se distingue que es una tiroiditis de hashimoto dado la presencia de autoanticuerpos anti-TPO y anti-Tg, los cuales se encuentran presentes en estos casos con una prevalencia >85%. Estos anticuerpos generarán una destrucción glandular que nos llevará a un hipofuncionamiento de la tiroide.
+
+Enfermedad de Addison: se observa una enfermedad de Addison o insuficiencia suprarrenal primaria, dado los niveles insuficientes de cortisol, acompañado de una elevación marcada de ACTH, además de la sintomatología clásica de esta enfermedad, como: letargo, hipotensión,  hiperpigamentación, cuadros de hipoglicemia, etc. En esta línea, los niveles insuficientes de cortisol generarán un feedback negativo sobre la hipófisis para que se genere más ACTH, sin embargo, como en esta enfermedad el problema se encuentra a nivel glandular, no se aumentarán los niveles de cortisol, lo cual termina por generar aumentos exagerados de ACTH. En este caso particular, los niveles de cortisol aún se encuentran dentro del rango, lo cual es indicativo de que la glándula aún puede generar una respuesta, aunque muy leve, puesto que esta respuesta es a expensas de los niveles elevadísimos de ACTH.
+
+Hipogonadismo hipogonadotrópico: tenemos que la paciente presenta una FSH normal, mientras que la LH se encuentra disminuida y el estradiol está muy bajo. Sabemos que es un hipogonadismo hipogonadotrópico, puesto que la baja en los niveles de estradiol deben generar un feedback negativo sobre la hipófisis para aumentar la secreción de gondatropinas, sin embargo, esto no ocurre, lo cual queda en evidencia por la baja sobre todo en la LH, la cual responde en gran medida por las concentraciones estrogénicas (fase folicular del ciclo menstrual). Además de esto, tenemos una hiperprolactinemia que estaría contribuyendo a este hipogonadismo mediante la inhibición de la secreción de gonadotropinas, así como insensibiliza a los ovarios a la función de las pocas hormonas sexuales que esta paciente es capaz de generar. Probablemente, este hipogonadismo sea de origen hipotalámico, ya que al mirar el resto de hormonas hipofisarias, estas son acordes a las diferentes disfunciones que tiene la paciente, por lo que se podría decir que la hipófisis estaría respondiendo de forma normal.
+
+Estos tres diagnósticos, además de la presencia de vitiligo, nos indicarían que la paciente tiene un síndrome poliglandular autoinmune tipo II.
+
+Explique la desregulación de los niveles de prolactina. 
+
+La desrugulación en los niveles de prolactina se pueden deber a dos hormonas: cortisol y tiroxina. Respecto a las hormonas tiroideas, como estas se encuentran normal/bajas, la respuesta por parte del hipotálamo es secretar más TRH para que la hipófisis secrete más TSH y así aumentar los niveles de hormonas tiroideas. Como se genera un aumento en la secreción de TRH, se produce un aumento en los niveles de prolactina, ya que la TRH es un estimulador en la secreción de prolactina en la hipófisis. Por su parte, el cortisol es un importante modulador de la actividad dopaminérgica en el cerebro, modulando los receptores, la síntesis y la liberación de dopamina, así como también la sensibilidad de los receptores así la propia dopamina. Ante bajas en el cortisol, como el caso de la paciente, el sistema dopaminérgico se inhibe, por lo que la secreción y síntesis de dopamina comienza a disminuir. Aplicando esto a la paciente, al existir menos dopamina, se comenzaría a secretar más prolactina, ya que la dopamina inhibe la secreción de esta hormona, por lo que al haber menos dopamina, se está quitando al inhibidor de esta vía de secreción hormonal.
+
+¿Cómo influye en la patología  la presencia de anticuerpos anti 21-hidroxilasa?
+
+ Los anticuerpos anti 21-hidroxilasa son anticuerpos que atacan directamente a la enzima 21-hidroxilasa, enzima encargada de convertir progesterona en desoxicorticosterona y 17-hidroxiprogesterona en 11-desoxicortisol.
+
+Como se destruye esta enzima, lo que va a ocurrir es que exista una deficiencia en la síntesis de cortisol y de aldosterona, por lo que la paciente va a comenzar a desarrollar una enfermedad de Addison, ya que no podrá generar de ninguna forma: glucocorticoides y mineralocorticoides. Por otro lado, la deficiencia de esta enzima por la presencia de anticuerpos tiene una alta incidencia en la generación de hiperplasia adrenal congénita, dado que al disminuir los niveles de síntesis de cortisol y aldosterona, sus precursores (desoxicorticosterona y 17-hidroxiprogesterona, respectivamente) se comenzarán a acumular en la biosíntesis de hormonas esteroidales, por lo que estos se irán por la vía de la 17,20-liasa para transformarse en andrógenos; por tanto, se comienza a tener un aumento importante de andrógenos circulantes, lo que podría estar también provocando la amenorrea de la paciente (deberíamos ver amenorrea con cuadros de androgenización).
+
+Describa como respondería la paciente ante un test de estimulación de ACTH. Fundamente su respuesta.
+
+ Ante un test de estimulación con ACTH, dado que la paciente presenta enfermedad de Addison, no debiese haber respuesta alguna. Esto es así dado que en la enfermedad de Addison existe un daño glandular importante (>90%), por tanto, al estimular con ACTH, por más que se inyecte esta hormona, la glándula no será capaz de aumentar los niveles de cortisol, lo que quiere decir que no habría respuesta ante este test. Cabe mencionar que previo al test, los niveles de cortisol se encontrarán disminuidos, mietras que los niveles de ACTH estarán aumentados. Luego de la prueba se verá un cortisol aún disminuidos, mientras que los niveles de ACTH se mantienen constantemente aumentados fuera del rango normal.
+
+Los médicos deciden realizar una prueba de inhibición con dexametasona a altas y bajas dosis. ¿Cuál sería el resultado de esta paciente? Fundamente.
+
+En este caso, tanto a altas como bajas dosis de dexametasona, se esperaría que esta paciente responda de manera exagerada, por lo que los niveles de cortisol estarían drásticamete disminuidos (recordar que realizar esta prueba en enfermedad de Addison no tiene sentido, ya que es muy peligrosa para estos pacientes). Respecto a los niveles de ACTH, se esperaría que estos se encuentren disminuidos, puestos que en este caso, el problema es a nivel glandular, por lo que la hipófisis respondería ante el feedback negativo producto de la dexametasona, y disminuirían los niveles de ACTH (siempre y cuando la hipófisis se encuentre sana). Respecto a la CRH, debiese pasar lo mismo que para la ACTH.
+
+Describa cómo los fármacos administrados pudieron mejorar los síntomas de la paciente.
+
+Predsinona: en este caso, la prednisona estaría actuando como un análogo de cortisol, dado la deficiencia de esta hormona en la paciente, por lo que al administrar este fármaco, lo que se busca es tratar de restaurar los niveles de cortisol y sus funciones, razón por la cual mejoraría el cuadro. Por otro lado, la prednisona también puede generar inmunosupresión, sin embargo, se necesitan dosis más elevadas para que se genere esta actividad. Finalmente, dado su potencial efecto antiinflamatorio, estaría ayudando a aliviar la tiroiditis de hashimoto y la hiperreactividad del sistema inmune.
+
+Fludocortisona: corresponde a un glucocorticoide sintético que tiene una potencia mineralocorticoide muy aumentada. En este caso, este fármaco se da como reemplazo hormonal dado lo deficiencia de mineralocorticoides de la paciente, por lo que ayudaría a mejorar la sintomatología asociada al déficit de estas hormonas, tales como: desbalance de electrolitos, hipotensión, etc.
+
+Por ende, tanto la prednisona como la fludrocortisona ayudará a la paciente a regular el eje hipotálamo-hipófisis-glándula suprarrenal, mejorando sustacialmente la sintomatología, así como los niveles hormonales.
+
+Levotiroxina: corresponde a una tiroxina sintética, por lo que en este caso se administra con la intención de compensar la carencia de tiroxina dado el hipotiroidismo primario que tiene la paciente. Esto terminará por regular el eje hipotálamo-hipófisis-tiroide, mejorando los niveles hormonales y la sintomatología.
+
+Si a la paciente la someten a un test de clomifeno y a uno de estimulación con GnRH, ¿Cuál sería el resultado? Explique
+
+La prueba de clomifeno busca evaluar la integridad del eje hipotálamo-hipófisis-gónada. Al administrar clomifeno, se bloquea el feedback negativo que producen los estrógenos, sobre todo el estradiol; por ende, al no existir este feedback negativo, se estimula la liberación de GnRH, la cual estimulará la síntesis y liberación de FSH y LH. Esto se traducirá en un aumento de los niveles de hormonas sexuales.
+
+En el caso de la paciente, esta presenta un hipogonadismo hipogonadotrópico, por ende, el problema se encuentra nivel hipofisario y/o hipotalámico, por lo tanto, se esperaría que no hubiese una respuesta, o que la respuesta fuera incompleta/baja (dependiendo si el problema es hipofisario o hipotalámico). Esto quiere decir que o no se vería ningún tipo de aumento (problema hipofisario) o que el aumento es mínimo y no el esperado (problema hipotalámico).
+
+Lo mismo ocurriría ante una prueba de GnRH, puesto que la funcionalidad del test es exactamente la misma.

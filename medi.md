@@ -125,6 +125,9 @@ Ejemplo presentación y dosis media: budesonida-formoterol 200/6 mcg 2 puff inha
 
 # Endocrinología
 
+![hipotalamo_hipof_hormonas](hipotalamo_hipof_hormonas.png)
+
+
 ## Diabetes
 
 Dosis insulina basal al hospitalizar: 
@@ -206,9 +209,40 @@ Grupos tamizaje hipotiroidismo:
 
 ## Suprarrenal
 
+
+### Eje hipotálamo-hipófisis-suprarrenal
+
+![eje_hhs](endocrino/eje_hhs.png)
+
 ### Síntesis hormonas esteroidales
 
 ![sintesis_esteroidal](endocrino/sintesis_esteroidal.png)
+
+### Glucocorticoides
+
+**Regulación del metabolismo intermediario**: El cortisol constituye una importante hormona contrarregulatoria de la insulina, fundamental en la respuesta de mantención de la glicemia en ayuno prolongado. El cortisol activa la gluconeogénesis hepática a nivel enzimático, y activa los procesos catabólicos que aportan sustratos gluconeogénicos, como la lipólisis, que aporta glicerol, y la proteólisis muscular y tisular, que aporta con aminoácidos gluconeogénicos. El aumento de los ácidos grasos libres también favorece la gluconeogénesis mediante la activación de la piruvato carboxilasa, que induce la síntesis de oxaloacetato. El efecto del cortisol en músculo y tejido adiposo induce insulinorresistencia de esos tejidos, favoreciendo la utilización de glucosa por otros tejidos. La única respuesta anabólica del cortisol es la síntesis de glicógeno.
+
+**Efectos inmunológicos**:   
+  - Efecto antiinflamatorio: (-) síntesis de prostaglandinas, (-) respuesta vascular. 
+  - (-) maduración de linfocitos, eosinófilos, basófilos.
+  - (-) quimiotaxis, (-) salida de células inflamatorias del torrente sanguíneo. 
+  - (-) proliferación y activación de los linfocitos T. - Aumenta salida de neutrófilos de MO. 
+
+**Efectos hemodinámicos**: Regulación del tono vascular: Efecto sensibilizante a catecolaminas y 
+angiotensina II.  
+**Efectos en el metabolismo del calcio:** (-) Actividad osteoblástica en hueso. Efecto hipocalcémico por *antagonismo con el calcitriol*: (-) absorción de calcio, (+) calciuria por ↓ de la reabsorción tubular renal de calcio. 
+**Efectos gástricos**: Aumenta secreción ácida. Disminuye barrera mucosa gástrica. 
+**Efectos en el SNC**: ↑ excitabilidad neuronal. Induce apoptosis de neuronas en el hipocampo. 
+**Efectos endocrinos**: (-) secreción de gonadotrofinas (FSH, LH), TSH, GH y prolactina 
+
+Síntesis de cortisol a partir de cortisona en tejidos extraadrenales, como hígado, tejido graso, cerebro y músculo, proceso catalizado por la enzima 11β- hidroxiesteroide deshidrogenasa de tipo 1 (11β-HSD1). En Cortesa suprarenal está la 11β-HSD2 que convierte el cortisol en cortisona
+
+Hormonas tiroídeas pueden inhibir la actividad de la 11β-HSD1, induciendo que en la tirotoxicosis exista desacoplamiento del shunt y favoreciendo la degradación del cortisol. 
+
+La producción extraadrenal de cortisol por acción de la 11β-HSD1 puede estar aumentada en casos de obesidad y consumo crónico de alcohol, induciendo un aumento de los niveles de cortisol plasmático, condición denominada pseudocushing. 
+
+### Mineralocorticoides
+
 
 ### Insuficiencia suprarrenal
 
