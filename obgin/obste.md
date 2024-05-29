@@ -92,6 +92,50 @@ Recomendación Guía perinatal:
 - 6,8-11,4 kg en sobrepeso
 - 5,0-9,1 kg para embarazadas con obesidad. 
 
+# Diagnóstico de embarazo
+
+Alrededor de la semana 5-6 va a aparecer un saco gestacional (B). El saco gestacional tiene clásicamente un halo de trofoblastos (flechas naranjas) que es una zona blanca, de refuerzo, hiperecogénica, característica del saco.  
+
+En el periodo embrionario (C) el embarazo ya es más visible, con capacidad de escuchar latidos cardiofetales.  
+
+En promedio, con 1500 mUI/ml de hCG se logra identificar el embarazo por ecografía. 
+
+La curva normal Sub B hCG duplica su valor cada 48 horas. Generalmente se le exige al menos 60% de incremento cada 48 horas (se debe tomar la muestra en 48 horas exactas) para saber que el embarazo está en buenas condiciones.  
+
+Tamaño del saco gestacional:
+- El saco gestacional es visible en la eco TV desde las 4-5 semanas 
+- El tamaño del saco se relaciona con la EG: 
+  - 5 semanas: 10 mm 
+  - 6 semanas: 20 mm 
+  - 7-8 semanas: 30 mm 
+
+LCN:
+- LCN es medible entre las 6-12 semanas, cuando la LCN se encuentra entre 3 y 58 mm. Antes de las 6 semanas es difícil y posterior a las 12 semanas el feto deja de estar flectado. Entre las 7-10 semanas (9-33 mm) es el mejor momento para efectuar este examen, pues tiene el menor margen de error.  
+- EG = LCN cm + 6.5. 
+
+Saco gestacional 
+Saco vitelino 
+Embrión 
+
+
+LCN 3 mm 
+LCN 10 mm 
+Visible desde las 5 ½ semanas 
+6 semanas (con LCF) 
+LCN 16 mm 
+LCN 23 mm 
+7 semanas 
+8 semanas 
+9 semanas 
+
+| Saco gestacional | Visible desde las 4 ½ semanas |
+| Saco vitelino  | Visible desde las 5 semanas |
+| Embrión  | Visible desde las 5 ½ semanas |
+| LCN 3 mm  | 6 semanas **(con LCF)** |
+| LCN 10 mm  | 7 semanas |
+| LCN 16 mm  | 8 semanas |
+| LCN 23 mm  | 9 semanas |
+
 # Ecografía en control perinatal
 
 - Eco 11-14 mejor determinación de edad gestacional
@@ -430,10 +474,63 @@ Si bien el tacto vaginal debe evitarse en el manejo de la mujer con metrorragia 
 | Útero | Hipertonico | Relajado | No palpable |
 | Palpación fetal | Difícil | Normal | Fácil |
 | Cicatriz uterina | No | Puede estar presente | Habitual |
-| Ecografía | Placenta no indicada | Placenta previa | Variable |
-| Dopplers | Sí | Normalmente no | Sí |
-| Hematoma subcoriónico (SFA) | Frecuente | Poco común | Muy frecuente |
+| Ecografía | Placenta NI | Placenta previa | Variable |
+| Dinámica uterina | Sí | Normalmente no | Sí |
+| Sufrimiento fetal agudo | Frecuente | Poco común | Muy frecuente |
 | Consumo de cocaína/tabaco | Sí | No | No |
+
+
+Nota: Deterioro de unidad fetoplacentaria si no está en TP y Sufrimiento fetal agudo si está en TP.
+
+## Hemorragia post-parto
+Causas: 4T
+- Tono: Inercia uterina
+- Tejido: Restos placentarios
+- Trauma: lesiones del tracto GU
+- Trombina: coagulopatías
+
+Factores de riesgo:
+- Sobredistensión uterina. 
+- Trabajo de parto prolongado.
+- Antecedente de HPP.
+- SHE.
+- Cesárea.
+- Gran multípara.
+- Parto instrumental 
+
+Notas random:
+- hematoma ligamento ancho frecuente en cesareas 
+
+
+## Manejo inicial
+
+[paper manejo inicial](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7064978/pdf/IJGO-148-290.pdf)
+
+First response PPH bundle
+- Uterotonic drugs
+- Isotonic crystalloids
+- Tranexamic acid
+- Uterine massage
+- Notes: Initial fluid resuscitation is performed together with intravenous (IV) administration of uterotonics. If IV uterotonics are not available, fluid resuscitation should be started in parallel with sublingual misoprostol or other parenteral uterotonics. If postpartum hemorrhage (PPH) is in the context of placental retention, the placenta should be extracted and a single dose of antibiotics should be administered.
+
+Response to refractory PPH bundle
+- Compressive measure (aortic compression or bimanual uterine compression)
+- Intrauterine balloon tamponade
+- Non- pneumatic anti shock garment
+- Notes: A continuing dose of uterotonics (e.g., oxytocin diluted in isotonic crystalloids) and a second dose of tranexamic acid should be administered during the application of this bundle.
+
+[cesarea de fondo -> pagos, placenta acreta]
+
+# Ruptura prematura de membranas
+
+Semanas clave: 34 y 24
+
+![RMP_alg](RMP_alg.png)
+
+
+# Embarazo múltiple complicaciones específicas 
+
+![sd_emb_multiple](sd_emb_multiple.png)
 
 
 # Diabetes en embarazo
@@ -743,36 +840,57 @@ Fetales/RN
 
 hola mundo
 
-# Metrorragia 
+# Lactancia materna
 
-Causas: 4T
-- Tono: Inercia uterina
-- Tejido: Restos placentarios
-- Trauma: lesiones del tracto GU
-- Trombina: coagulopatías
+Dificultades más frecuentes: 
+- Madre siente que no es suficiente
+- Grietas
 
-Notas random:
+## Fases
 
-- hematoma ligamento ancho frecuente en cesareas 
+Calostro: 4 días, es de escaso volumen y alta densidad (2-20 ml/toma)
+Leche de transición: Hasta 15 días. Aumento de volumen brusco hasta 700 ml/día. Composición variable 
+Leche madura:
 
-hola mundo
+En 1 toma, primero más agua y prote, hacia el final sale más grasa. Por lo tanto no cambiar de mama antes de tiempo.
 
-## Manejo inicial
+## Evaluación Correcta al pecho
 
-[paper manejo inicial](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7064978/pdf/IJGO-148-290.pdf)
+1. Evaluar cantidad de areola visible
+2. Labios evertidos
+3. Nariz junto a pecho
+4. Cuando ofrecer el pecho (Tratar dar frente a signos tempranos para que cueste menos)
 
-First response PPH bundle
-- Uterotonic drugs
-- Isotonic crystalloids
-- Tranexamic acid
-- Uterine massage
-- Notes: Initial fluid resuscitation is performed together with intravenous (IV) administration of uterotonics. If IV uterotonics are not available, fluid resuscitation should be started in parallel with sublingual misoprostol or other parenteral uterotonics. If postpartum hemorrhage (PPH) is in the context of placental retention, the placenta should be extracted and a single dose of antibiotics should be administered.
+Cómo ofrecer la mama: apuntar "hacia arriba" de la boca del bebé
 
-Response to refractory PPH bundle
-- Compressive measure (aortic compression or bimanual uterine compression)
-- Intrauterine balloon tamponade
-- Non- pneumatic anti shock garment
-- Notes: A continuing dose of uterotonics (e.g., oxytocin diluted in isotonic crystalloids) and a second dose of tranexamic acid should be administered during the application of this bundle.
+Salud pezones: Sanos, irritados, heridos
+Características pezones: Blandos - Congestionados
+Calostro (cantidad)
 
-[cesarea de fondo -> pagos, placenta acreta]
+Acople...
+## Posiciones
+
+La más comoda depende de la mama también
+
+Clásica-acunada: si la mama apunta hacia el lado, cabeza no a nivel de pliegue del brazo, sino a nivel del "reloj"
+
+Tumbada: si hipotónico
+
+Balón de rugby:
+
+## Dolor al amamantar
+
+Si más de 14 días... dolor crónico, se necesita consultar. Puede ser normal dolor si es más "agudo"
+
+Grietas: ya no se recomienda lanolina <span style= "color: #5ec962; font-weight: bold;" >poner calostro mismo, calor local, aseo, limpieza y corregir acople</span>
+
+Congestión mamaria: AINES + medidas físicas. Importante que sigan dando pecho. <span style= "color: #5ec962; font-weight: bold;" >presión inversa suavizante </span>(para desplazar edema)
+
+## Prácticas que favorecen LM
+
+Piel a piel, Libre demanda, Alojamiento conjunto, Técnica de lactancia y acople.
+
+No dar horarios.
+
+Debería tomar 8 a 12 veces al día. Aprox cada 3 o 4 horas
 

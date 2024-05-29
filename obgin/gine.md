@@ -39,6 +39,8 @@ Estrógenos son procoag, pueden disminuir metrorragia aparte del mec por estimul
 
 Usualmente ACO son <span style= "color: #21918c; font-weight: bold;" >inductores hepáticos</span>, por lo que aceleran metabolismo de varios fármacos, revisar, ojo fcos psiquiátricos. 
 
+<b><span style="color:#3b528b">Dienogest no está aprobado como método anticonceptivo pero sí como control de sangrado uterino anormal</span></b>. Desogestrel, por otro lado, es un progestágeno aprobado para su uso como método anticonceptivo.
+
 ## Progestágenos
 
 Acetato de progesterona es el gold estandard para comparación, acetato de ciproterona es 250 veces más potente (darlo máx por 6 meses en contexto de ACO)
@@ -223,49 +225,298 @@ Se puede acompañar de síntomas premenstruales, como cambios de humor, mastodin
 
 ## Etiología por sistemas
 
-<table class="container" cellspacing="0"><colgroup span="2" width="50%"></colgroup> <tbody> <tr> <!-- Column Starts Here --> <td class="container"> <table cellspacing="0"> <tbody> <tr> <td class="subtitle1_single">Reproductive tract</td> </tr> <tr> <td class="indent1"> Gynecologic: Infectious <ul class="decimal_heading"> <li><annotation-anchor data-content-id="qyaCTM" amboss-annotation-variant="none">Pelvic inflammatory disease</annotation-anchor></li> <li><annotation-anchor data-content-id="IyaYgM" amboss-annotation-variant="none">Endometritis</annotation-anchor></li> <li><annotation-anchor data-content-id="ryafgM" amboss-annotation-variant="none">Salpingitis</annotation-anchor></li> <li><annotation-anchor data-content-id="26bT4u" amboss-annotation-variant="none">Tubo-ovarian abscess</annotation-anchor></li> </ul> </td> </tr> <tr> <td class="indent1"> Gynecologic: Noninfectious <ul class="decimal_heading"> <li><annotation-anchor data-content-id="F2agjP" amboss-annotation-variant="none">Dysmenorrhea</annotation-anchor></li> <li><annotation-anchor data-content-id="kTamIP" amboss-annotation-variant="none">Ovarian cyst</annotation-anchor> (ruptured or intact)</li> <li>Endometriosis</li> <li>Uterine leiomyoma (fibroid): Degenerating or not</li> <li>Adenomyosis</li> <li>Mittelschmerz (midcycle ovulatory pain)</li> <li>Adnexal torsion (ovary and/or fallopian tube)</li> <li>Ovarian hyperstimulation syndrome</li> <li>Endosalpingiosis</li> <li>Uterine perforation (in women who have undergone a uterine procedure)</li> <li>Asherman's syndrome</li> <li>Neoplasm</li> </ul> </td> </tr> <tr> <td class="subtitle1_single">Pregnancy-related</td> </tr> <tr> <td class="indent1"> First trimester <ul class="decimal_heading"> <li>Threatened abortion</li> <li>Ectopic pregnancy, including heterotopic pregnancy</li> <li>Corpus luteum hematoma</li> <li>Incomplete abortion</li> <li>Septic abortion</li> <li>Uterine impaction</li> </ul> </td> </tr> <tr> <td class="indent1"> Second and third trimesters <ul class="decimal_heading"> <li>Preterm labor</li> <li>Chorioamnionitis</li> <li>Placental abruption</li> <li>Degenerating uterine leiomyoma (fibroid)</li> <li>Medical complications during pregnancy, such as appendicitis</li> <li>Round ligament stretch</li> </ul> </td> </tr> <tr> <td class="indent1"> Postpartum <ul class="decimal_heading"> <li>Endometritis</li> <li>Wound infection (cesarean section, laceration, or episiotomy repair)</li> <li>Ovarian vein thrombosis or septic pelvic thrombophlebitis</li> </ul> </td> </tr> <tr> <td class="subtitle1_single">Gastrointestinal</td> </tr> <tr> <td class="indent1">Appendicitis</td> </tr> <tr> <td class="indent1">Irritable bowel syndrome</td> </tr> <tr> <td class="indent1">Diverticulitis</td> </tr> <tr> <td class="indent1">Inflammatory bowel disease</td> </tr> <tr> <td class="indent1">Fecal impaction or constipation</td> </tr> <tr> <td class="indent1">Gastroenteritis</td> </tr> <tr> <td class="indent1">Mesenteric lymphadenitis</td> </tr> <tr> <td class="indent1">Abdominopelvic adhesions</td> </tr> <tr> <td class="indent1">Perforated viscus</td> </tr> <tr> <td class="indent1">Bowel obstruction</td> </tr> <tr> <td class="indent1">Incarcerated or strangulated hernia</td> </tr> <tr> <td class="indent1">Ischemic bowel</td> </tr> <tr> <td class="indent1">Hirschsprung disease<sup>[1]</sup></td> </tr> <tr> <td class="indent1">Intussusception<sup>[2]</sup></td> </tr> <tr> <td class="indent1">Meckel's diverticulum<sup>[3]</sup></td> </tr> <tr> <td class="indent1">Volvulus<sup>[4]</sup></td> </tr> </tbody> </table> </td> <!-- Column Ends Here --><!-- Column Starts Here --> <td class="container"> <table cellspacing="0"> <tbody> <tr> <td class="subtitle1_single"><annotation-anchor data-content-id="XVc9GY0" amboss-annotation-variant="none">Urinary tract</annotation-anchor></td> </tr> <tr> <td class="indent1"><annotation-anchor data-content-id="-l0DzT" amboss-annotation-variant="none">Cystitis</annotation-anchor></td> </tr> <tr> <td class="indent1">Pyelonephritis</td> </tr> <tr> <td class="indent1">Painful bladder syndrome</td> </tr> <tr> <td class="indent1"><annotation-anchor data-content-id="T406iT" amboss-annotation-variant="none">Kidney stones</annotation-anchor></td> </tr> <tr> <td class="indent1">Urinary retention</td> </tr> <tr> <td class="indent1">Malignancy (bladder cancer)</td> </tr> <tr> <td class="subtitle1_single">Vascular</td> </tr> <tr> <td class="indent1">Abdominal aortic aneurysm and dissection</td> </tr> <tr> <td class="indent1">Sickle cell disease crisis</td> </tr> <tr> <td class="indent1">Septic pelvic thrombophlebitis</td> </tr> <tr> <td class="indent1">Ovarian vein thrombosis</td> </tr> <tr> <td class="indent1">Pelvic congestion syndrome</td> </tr> <tr> <td class="subtitle1_single">Musculoskeletal</td> </tr> <tr> <td class="indent1">Muscular strain or sprain</td> </tr> <tr> <td class="indent1">Abdominal wall hematoma or infection</td> </tr> <tr> <td class="indent1">Hernia (inguinal or femoral)</td> </tr> <tr> <td class="indent1">Pelvic fracture</td> </tr> <tr> <td class="indent1">Myofascial pain</td> </tr> <tr> <td class="subtitle1_single">Neurologic</td> </tr> <tr> <td class="indent1">Herpes zoster</td> </tr> <tr> <td class="indent1">Anterior cutaneous nerve entrapment syndrome</td> </tr> <tr> <td class="indent1">Abdominal epilepsy<sup>[5]</sup></td> </tr> <tr> <td class="indent1">Abdominal migraine<sup>[6]</sup></td> </tr> <tr> <td class="subtitle1_single">Psychiatric</td> </tr> <tr> <td class="indent1">Depression</td> </tr> <tr> <td class="indent1">Somatization disorder</td> </tr> <tr> <td class="indent1">Narcotic seeking</td> </tr> <tr> <td class="subtitle1_single">Sexual and interpersonal</td> </tr> <tr> <td class="indent1">Domestic violence</td> </tr> <tr> <td class="indent1">Sexual abuse</td> </tr> <tr> <td class="subtitle1_single">Other</td> </tr> <tr> <td class="indent1">Familial Mediterranean Fever</td> </tr> <tr> <td class="indent1">Porphyria<sup>[7]</sup></td> </tr> <tr> <td class="indent1">Lead poisoning</td> </tr> <tr> <td class="indent1">TNF receptor-associated periodic syndrome (ie, TRAPS)</td> </tr> </tbody> </table> </td> <!-- Column Ends Here --> </tr> </tbody></table>
+<table class="container" cellspacing="0"><colgroup span="2" width="50%"></colgroup> <tbody> 
+<tr> <!-- Column Starts Here --> <td class="container"> <table cellspacing="0"> <tbody> 
+<tr> <td class="subtitle1_single"> <span style= "color: #21918c; font-weight: bold;" >Reproductive tract</span> 
+
+</td> </tr> 
+<tr> <td class="indent1"> Gynecologic: Infectious <ul class="decimal_heading"> <li><annotation-anchor data-content-id="qyaCTM" amboss-annotation-variant="none">Pelvic inflammatory disease</annotation-anchor></li> <li><annotation-anchor data-content-id="IyaYgM" amboss-annotation-variant="none">Endometritis</annotation-anchor></li> <li><annotation-anchor data-content-id="ryafgM" amboss-annotation-variant="none">Salpingitis</annotation-anchor></li> <li><annotation-anchor data-content-id="26bT4u" amboss-annotation-variant="none">Tubo-ovarian abscess</annotation-anchor></li> </ul> </td> </tr> 
+<tr> <td class="indent1"> Gynecologic: Noninfectious <ul class="decimal_heading"> <li><annotation-anchor data-content-id="F2agjP" amboss-annotation-variant="none">Dysmenorrhea</annotation-anchor></li> <li><annotation-anchor data-content-id="kTamIP" amboss-annotation-variant="none">Ovarian cyst</annotation-anchor> (ruptured or intact)</li> <li>Endometriosis</li> <li>Uterine leiomyoma (fibroid): Degenerating or not</li> <li>Adenomyosis</li> <li>Mittelschmerz (midcycle ovulatory pain)</li> <li>Adnexal torsion (ovary and/or fallopian tube)</li> <li>Ovarian hyperstimulation syndrome</li> <li>Endosalpingiosis</li> <li>Uterine perforation (in women who have undergone a uterine procedure)</li> <li>Asherman's syndrome</li> <li>Neoplasm</li> </ul> </td> </tr> 
+<tr> <td class="subtitle1_single"><span style= "color: #21918c; font-weight: bold;" >Pregnancy-related</span>
+
+</td> </tr> 
+<tr> <td class="indent1"> First trimester <ul class="decimal_heading"> <li>Threatened abortion</li> <li>Ectopic pregnancy, including heterotopic pregnancy</li> <li>Corpus luteum hematoma</li> <li>Incomplete abortion</li> <li>Septic abortion</li> <li>Uterine impaction</li> </ul> </td> </tr> 
+<tr> <td class="indent1"> Second and third trimesters <ul class="decimal_heading"> <li>Preterm labor</li> <li>Chorioamnionitis</li> <li>Placental abruption</li> <li>Degenerating uterine leiomyoma (fibroid)</li> <li>Medical complications during pregnancy, such as appendicitis</li> <li>Round ligament stretch</li> </ul> </td> </tr> 
+<tr> <td class="indent1"> Postpartum <ul class="decimal_heading"> <li>Endometritis</li> <li>Wound infection (cesarean section, laceration, or episiotomy repair)</li> <li>Ovarian vein thrombosis or septic pelvic thrombophlebitis</li> </ul> </td> </tr> 
+<tr> <td class="subtitle1_single"> <span style= "color: #21918c; font-weight: bold;" >Gastrointestinal</span> 
+
+</td> </tr> 
+<tr> <td class="indent1">Appendicitis</td> </tr> 
+<tr> <td class="indent1">Irritable bowel syndrome</td> </tr> 
+<tr> <td class="indent1">Diverticulitis</td> </tr> 
+<tr> <td class="indent1">Inflammatory bowel disease</td> </tr> 
+<tr> <td class="indent1">Fecal impaction or constipation</td> </tr> 
+<tr> <td class="indent1">Gastroenteritis</td> </tr> 
+<tr> <td class="indent1">Mesenteric lymphadenitis</td> </tr> 
+<tr> <td class="indent1">Abdominopelvic adhesions</td> </tr> 
+<tr> <td class="indent1">Perforated viscus</td> </tr> 
+<tr> <td class="indent1">Bowel obstruction</td> </tr> 
+<tr> <td class="indent1">Incarcerated or strangulated hernia</td> </tr> 
+<tr> <td class="indent1">Ischemic bowel</td> </tr> 
+<tr> <td class="indent1">Hirschsprung disease<sup>[1]</sup></td> </tr> 
+<tr> <td class="indent1">Intussusception<sup>[2]</sup></td> </tr> 
+<tr> <td class="indent1">Meckel's diverticulum<sup>[3]</sup></td> </tr> 
+<tr> <td class="indent1">Volvulus<sup>[4]</sup></td> </tr> </tbody> </table> </td> <!-- Column Ends Here --><!-- Column Starts Here --> <td class="container"> <table cellspacing="0"> <tbody> 
+<tr> <td class="subtitle1_single"><annotation-anchor data-content-id="XVc9GY0" amboss-annotation-variant="none"> <span style= "color: #21918c; font-weight: bold;" >Urinary tract</span> 
+
+</annotation-anchor></td> </tr> 
+<tr> <td class="indent1"><annotation-anchor data-content-id="-l0DzT" amboss-annotation-variant="none">Cystitis</annotation-anchor></td> </tr> 
+<tr> <td class="indent1">Pyelonephritis</td> </tr> 
+<tr> <td class="indent1">Painful bladder syndrome</td> </tr> 
+<tr> <td class="indent1"><annotation-anchor data-content-id="T406iT" amboss-annotation-variant="none">Kidney stones</annotation-anchor></td> </tr> 
+<tr> <td class="indent1">Urinary retention</td> </tr> 
+<tr> <td class="indent1">Malignancy (bladder cancer)
+
+</td> </tr> 
+<tr> <td class="subtitle1_single"><span style= "color: #21918c; font-weight: bold;" >Vascular</span>
+
+</td> </tr> 
+<tr> <td class="indent1">Abdominal aortic aneurysm and dissection</td> </tr> 
+<tr> <td class="indent1">Sickle cell disease crisis</td> </tr> 
+<tr> <td class="indent1">Septic pelvic thrombophlebitis</td> </tr> 
+<tr> <td class="indent1">Ovarian vein thrombosis</td> </tr> 
+<tr> <td class="indent1">Pelvic congestion syndrome
+
+</td> </tr> 
+<tr> <td class="subtitle1_single"><span style= "color: #21918c; font-weight: bold;" >Musculoskeletal</span>
+
+</td> </tr> 
+<tr> <td class="indent1">Muscular strain or sprain</td> </tr> 
+<tr> <td class="indent1">Abdominal wall hematoma or infection</td> </tr> 
+<tr> <td class="indent1">Hernia (inguinal or femoral)</td> </tr> 
+<tr> <td class="indent1">Pelvic fracture</td> </tr> 
+<tr> <td class="indent1">Myofascial pain
+
+</td> </tr> 
+<tr> <td class="subtitle1_single"><span style= "color: #21918c; font-weight: bold;" >Neurologic</span>
+
+</td> </tr> 
+<tr> <td class="indent1">Herpes zoster</td> </tr> 
+<tr> <td class="indent1">Anterior cutaneous nerve entrapment syndrome</td> </tr> 
+<tr> <td class="indent1">Abdominal epilepsy</td> </tr> 
+<tr> <td class="indent1">Abdominal migraine
+
+</td> </tr> 
+<tr> <td class="subtitle1_single"><span style= "color: #21918c; font-weight: bold;" >Psychiatric</span>
+
+</td> </tr> 
+<tr> <td class="indent1">Depression</td> </tr> 
+<tr> <td class="indent1">Somatization disorder</td> </tr> 
+<tr> <td class="indent1">Narcotic seeking</td> </tr> 
+<tr> <td class="subtitle1_single">Sexual and interpersonal</td> </tr> 
+<tr> <td class="indent1">Domestic violence</td> </tr> 
+<tr> <td class="indent1">Sexual abuse
+
+</td> </tr> 
+<tr> <td class="subtitle1_single"><span style= "color: #21918c; font-weight: bold;" >Other</span>
+
+</td> </tr> 
+<tr> <td class="indent1">Familial Mediterranean Fever</td> </tr> 
+<tr> <td class="indent1">Porphyria<sup>[7]</sup></td> </tr> 
+<tr> <td class="indent1">Lead poisoning</td> </tr> 
+<tr> <td class="indent1">TNF receptor-associated periodic syndrome (ie, TRAPS)</td> </tr> </tbody> </table> </td> <!-- Column Ends Here --> </tr> </tbody></table>
 
 ## Orientación diagnóstica
 
-1° Descartar lo más emergente:
-- Embarazo ectópico
-- Torsión ovárica
-- Absceso tubo-ovárico roto
-- Apendicitis
+1° Descartar lo más <b><span style="color:#7707aa">emergente</span></b>:
+- <b><span style="color:#3b528b">Embarazo ectópico</span></b>
+- <b><span style="color:#3b528b">Torsión ovárica</span></b>
+- <b><span style="color:#3b528b">Absceso tubo-ovárico roto</span></b>
+- <b><span style="color:#3b528b">Apendicitis</span></b>
 
+Tb pensar en proceso diagnóstico en: PIP, Masa (quiste ovárico, torsión ovárica, dejeneración roja de mioma, endometriosis)
 
-<table cellspacing="0"><colgroup span="7" width="14%"></colgroup> <tbody> <tr> <td class="subtitle1">Causative disorder or condition</td> <td class="subtitle1">Pain history</td> <td class="subtitle1">Associated symptoms</td> <td class="subtitle1">Supporting history</td> <td class="subtitle1">Physical examination</td> <td class="subtitle1">Useful tests</td> <td class="subtitle1">Atypical or additional aspects</td> </tr> <tr class="divider_bottom"> <td><annotation-anchor data-content-id="KM0Upg" amboss-annotation-variant="none">Ectopic pregnancy</annotation-anchor> (critical if ruptured)</td> <td>Classically severe, sharp, lateral pelvic pain, but severity, location, and quality highly variable </td> <td>Vaginal bleeding (often spotting or light, but can be absent)</td> <td> <p>Missed period</p> History of previous <annotation-anchor data-content-id="KM0Upg" amboss-annotation-variant="none">ectopic pregnancy</annotation-anchor>, <annotation-anchor data-content-id="OmaIfO" amboss-annotation-variant="none">infertility</annotation-anchor>, <annotation-anchor data-content-id="ZyXZd00" amboss-annotation-variant="none">pelvic</annotation-anchor> surgery, <annotation-anchor data-content-id="qyaCTM" amboss-annotation-variant="none">PID</annotation-anchor>, or <annotation-anchor data-content-id="5yaifM" amboss-annotation-variant="none">IUD</annotation-anchor> use</td> <td>Classically, unilateral adnexal tenderness, adnexal mass, <annotation-anchor data-content-id="DHb1sE" amboss-annotation-variant="none">CMT</annotation-anchor></td> <td> <ul> <li><annotation-anchor data-content-id="ZyXZd00" amboss-annotation-variant="none">Pelvic</annotation-anchor> US </li> <li>Quantitative <annotation-anchor data-content-id="uybpSw" amboss-annotation-variant="none">beta-hCG</annotation-anchor> </li> <li>T&amp;C </li> <li>Laparoscopy </li> </ul> </td> <td> <p>Cannot reliably exclude diagnosis based on history and physical examination</p> Severe pain, hypotension, or peritonitis suggests rupture</td> </tr> <tr class="divider_bottom"> <td><annotation-anchor data-content-id="_ib58t" amboss-annotation-variant="none">Ruptured ovarian cyst</annotation-anchor> (critical with significant hemorrhage; otherwise, emergency)</td> <td>Abrupt moderate to severe lateral pain</td> <td> <p>Light-headedness if bleeding is severe</p> <p>Rectal pain arises from fluid in cul-de-sac</p> Nausea and vomiting may occur</td> <td> <p>Pain may begin spontaneously or with intercourse</p> Menstrual history may indicate LMP was two or more weeks ago</td> <td> <p><annotation-anchor data-content-id="nGb7-E" amboss-annotation-variant="none">Hypotension</annotation-anchor> and <annotation-anchor data-content-id="lNbvY8" amboss-annotation-variant="none">tachycardia</annotation-anchor> if blood loss is significant</p> Possible peritonitis</td> <td> <ul> <li><annotation-anchor data-content-id="ZyXZd00" amboss-annotation-variant="none">Pelvic</annotation-anchor> US </li> <li>CBC </li> <li>T&amp;C </li> </ul> </td> <td>Physical examination findings often do not correlate with volume of blood in pelvis at US</td> </tr> <tr class="divider_bottom"> <td>Ovarian torsion (emergency)</td> <td>Acute onset of moderate to severe lateral pain</td> <td>Nausea and vomiting</td> <td>History of ovarian mass or cyst</td> <td> <p>Adnexal mass and tenderness</p> Possible peritonitis</td> <td> <ul> <li>US with Doppler flow studies </li> <li>Laparoscopy </li> </ul> </td> <td>Torsion can be intermittent, which causes symptoms to come and go</td> </tr> <tr class="divider_bottom"> <td>Appendicitis (emergency)</td> <td>Duration often &lt;48 hours, generalized followed by localized RLQ pain</td> <td>Low-grade fever, nausea, vomiting, anorexia</td> <td> <p>Migration of pain to RLQ from center</p> Abdominal pain before vomiting</td> <td> <p>RLQ tenderness</p> Possible peritonitis</td> <td> <ul> <li>US </li> <li>CT </li> <li>MRI </li> </ul> </td> <td>Early in course, tenderness may be minimal or poorly localized</td> </tr> <tr class="divider_bottom"> <td>PID (urgent-emergency), TOA (emergency)</td> <td>Without TOA, pain is usually bilateral; may manifest acutely within 48 hours, but PID may also be chronic</td> <td>Fever, vaginal discharge</td> <td> <p>Vaginal discharge</p> <p>History of PID</p> History of a new sex partner, more than one partner, or a partner who has other sex partners or a sexually transmitted infection</td> <td> <p>Pus from cervical os, CMT, adnexal tenderness</p> Peritonitis suggests TOA or severe PID</td> <td> <ul> <li>CBC </li> <li>ESR </li> <li>CRP </li> <li>Pelvic US </li> <li>Cervical cultures </li> <li>Cervical smear for WBCs </li> </ul> </td> <td>History and physical examination may be inaccurate for diagnosis, particularly in patients with subacute presentation</td> </tr> <tr class="divider_bottom"> <td>Complicated UTI (urgent)</td> <td> <p>Pain with urination</p> Patient may have flank pain from associated pyelonephritis</td> <td> <p>Urinary urgency and frequency</p> Fever and vomiting if patient has associated pyelonephritis</td> <td> <p>Recent urologic procedure</p> Prior history of UTI</td> <td>Suprapubic tenderness, flank tenderness, and fever with pyelonephritis</td> <td> <ul> <li>Urinalysis </li> <li>Urine culture </li> </ul> </td> <td> <p>WBCs can be present in urine with PID and appendicitis</p> RBCs present in urine with hemorrhagic cystitis</td> </tr> <tr> <td>Ureteral obstruction (urgent)</td> <td> <p>Acute onset, manifests within hours</p> <p>Pain is lateral, usually moderate to severe</p> Often radiates into the groin or costovertebral angle or flank</td> <td>Nausea and vomiting</td> <td>History of surgery that could cause ureteral obstruction or prior history of kidney stones</td> <td>Patient often appears uncomfortable, but physical examination can be otherwise unremarkable</td> <td> <ul> <li>Urinalysis, hematuria present in approximately 80% of cases </li> <li>Renal ultrasound for hydronephrosis </li> <li>Abdominal CT </li> </ul> </td> <td>If obstruction or stone is at uretero-vesicle junction, patient can have localized pain that can mimic appendicitis or other acute pelvic pathology</td> </tr> </tbody></table>
+<table cellspacing="0"><colgroup span="7" width="14%"></colgroup> <tbody> <tr> <td class="subtitle1">Causative disorder or condition</td> <td class="subtitle1">Pain history</td> <td class="subtitle1">Associated symptoms</td> <td class="subtitle1">Supporting history</td> <td class="subtitle1">Physical examination</td> <td class="subtitle1">Useful tests</td> <td class="subtitle1">Atypical or additional aspects</td> </tr> <tr class="divider_bottom"> <td><annotation-anchor data-content-id="KM0Upg" amboss-annotation-variant="none">Ectopic pregnancy</annotation-anchor> (critical if ruptured)</td> <td>Classically severe, sharp, lateral pelvic pain, but severity, location, and quality highly variable </td> <td>Vaginal bleeding (often spotting or light, but can be absent)</td> <td> <p>Missed period</p> History of previous <annotation-anchor data-content-id="KM0Upg" amboss-annotation-variant="none">ectopic pregnancy</annotation-anchor>, <annotation-anchor data-content-id="OmaIfO" amboss-annotation-variant="none">infertility</annotation-anchor>, <annotation-anchor data-content-id="ZyXZd00" amboss-annotation-variant="none">pelvic</annotation-anchor> surgery, <annotation-anchor data-content-id="qyaCTM" amboss-annotation-variant="none">PID</annotation-anchor>, or <annotation-anchor data-content-id="5yaifM" amboss-annotation-variant="none">IUD</annotation-anchor> use</td> <td>Classically, unilateral adnexal tenderness, adnexal mass, <annotation-anchor data-content-id="DHb1sE" amboss-annotation-variant="none">CMT</annotation-anchor></td> <td> <ul> <li><annotation-anchor data-content-id="ZyXZd00" amboss-annotation-variant="none">Pelvic</annotation-anchor> US </li> <li>Quantitative <annotation-anchor data-content-id="uybpSw" amboss-annotation-variant="none">beta-hCG</annotation-anchor> </li> <li>TC </li> <li>Laparoscopy </li> </ul> </td> <td> <p>Cannot reliably exclude diagnosis based on history and physical examination</p> Severe pain, hypotension, or peritonitis suggests rupture</td> </tr> <tr class="divider_bottom"> <td><annotation-anchor data-content-id="_ib58t" amboss-annotation-variant="none">Ruptured ovarian cyst</annotation-anchor> (critical with significant hemorrhage; otherwise, emergency)</td> <td>Abrupt moderate to severe lateral pain</td> <td> <p>Light-headedness if bleeding is severe</p> <p>Rectal pain arises from fluid in cul-de-sac</p> Nausea and vomiting may occur</td> <td> <p>Pain may begin spontaneously or with intercourse</p> Menstrual history may indicate LMP was two or more weeks ago</td> <td> <p><annotation-anchor data-content-id="nGb7-E" amboss-annotation-variant="none">Hypotension</annotation-anchor> and <annotation-anchor data-content-id="lNbvY8" amboss-annotation-variant="none">tachycardia</annotation-anchor> if blood loss is significant</p> Possible peritonitis</td> <td> <ul> <li><annotation-anchor data-content-id="ZyXZd00" amboss-annotation-variant="none">Pelvic</annotation-anchor> US </li> <li>CBC </li> <li>TC </li> </ul> </td> <td>Physical examination findings often do not correlate with volume of blood in pelvis at US</td> </tr> <tr class="divider_bottom"> <td>Ovarian torsion (emergency)</td> <td>Acute onset of moderate to severe lateral pain</td> <td>Nausea and vomiting</td> <td>History of ovarian mass or cyst</td> <td> <p>Adnexal mass and tenderness</p> Possible peritonitis</td> <td> <ul> <li>US with Doppler flow studies </li> <li>Laparoscopy </li> </ul> </td> <td>Torsion can be intermittent, which causes symptoms to come and go</td> </tr> <tr class="divider_bottom"> <td>Appendicitis (emergency)</td> <td>Duration often &lt;48 hours, generalized followed by localized RLQ pain</td> <td>Low-grade fever, nausea, vomiting, anorexia</td> <td> <p>Migration of pain to RLQ from center</p> Abdominal pain before vomiting</td> <td> <p>RLQ tenderness</p> Possible peritonitis</td> <td> <ul> <li>US </li> <li>CT </li> <li>MRI </li> </ul> </td> <td>Early in course, tenderness may be minimal or poorly localized</td> </tr> <tr class="divider_bottom"> <td>PID (urgent-emergency), TOA (emergency)</td> <td>Without TOA, pain is usually bilateral; may manifest acutely within 48 hours, but PID may also be chronic</td> <td>Fever, vaginal discharge</td> <td> <p>Vaginal discharge</p> <p>History of PID</p> History of a new sex partner, more than one partner, or a partner who has other sex partners or a sexually transmitted infection</td> <td> <p>Pus from cervical os, CMT, adnexal tenderness</p> Peritonitis suggests TOA or severe PID</td> <td> <ul> <li>CBC </li> <li>ESR </li> <li>CRP </li> <li>Pelvic US </li> <li>Cervical cultures </li> <li>Cervical smear for WBCs </li> </ul> </td> <td>History and physical examination may be inaccurate for diagnosis, particularly in patients with subacute presentation</td> </tr> <tr class="divider_bottom"> <td>Complicated UTI (urgent)</td> <td> <p>Pain with urination</p> Patient may have flank pain from associated pyelonephritis</td> <td> <p>Urinary urgency and frequency</p> Fever and vomiting if patient has associated pyelonephritis</td> <td> <p>Recent urologic procedure</p> Prior history of UTI</td> <td>Suprapubic tenderness, flank tenderness, and fever with pyelonephritis</td> <td> <ul> <li>Urinalysis </li> <li>Urine culture </li> </ul> </td> <td> <p>WBCs can be present in urine with PID and appendicitis</p> RBCs present in urine with hemorrhagic cystitis</td> </tr> <tr> <td>Ureteral obstruction (urgent)</td> <td> <p>Acute onset, manifests within hours</p> <p>Pain is lateral, usually moderate to severe</p> Often radiates into the groin or costovertebral angle or flank</td> <td>Nausea and vomiting</td> <td>History of surgery that could cause ureteral obstruction or prior history of kidney stones</td> <td>Patient often appears uncomfortable, but physical examination can be otherwise unremarkable</td> <td> <ul> <li>Urinalysis, hematuria present in approximately 80% of cases </li> <li>Renal ultrasound for hydronephrosis </li> <li>Abdominal CT </li> </ul> </td> <td>If obstruction or stone is at uretero-vesicle junction, patient can have localized pain that can mimic appendicitis or other acute pelvic pathology</td> </tr> </tbody></table>
 
 
 | Historia Clínica | Diagnóstico Sugerido |
 |---|---|
 | Dolor pélvico bilateral | PIP |
+| Disuria | PIP, ITU |
+| Descarga vaginal | PIP |
+| Dolor de la mitad del ciclo menstrual | Mittelschmerz (dolor ovulatorio, Etiología --> Enlargement and rupture of the follicular cyst and contraction of Fallopian tubes during midcycle ovulation lead to transient peritoneal irritation from follicular fluid) |
 | Dismenorrea | Endometriosis, adenomiosis, mioma uterino |
 | Dispareunia | Endometriosis o quiste ovárico |
-| Disuria | PIP, ITU |
+| Sangrado vaginal | Embarazo ectópico, mioma uterino, síntomas de aborto |
+| Polaquiuria | ITU |
+| Dolor irradiado a la ingle | Cálculo renal/ureteral, torsión ovárica |
 | Hematuria franca | Cálculo renal/ureteral, ITU |
+| Dolor pélvico derecho | Apendicitis, cálculo renal, torsión ovárica, quiste ovárico roto |
 | Dolor pélvico izquierdo | Diverticulitis, cálculo renal/ureteral, torsión ovárica, quiste ovárico roto |
-| Dolor de la mitad del ciclo menstrual | Mittelschmerz |
 | Náuseas y vómitos | Apendicitis, cálculo renal/ureteral, torsión ovárica |
 | Dolor que migra de área periumbilical a cuadrante inferior derecho del abdomen | Apendicitis |
-| Dolor irradiado a la ingle | Cálculo renal/ureteral, torsión ovárica |
-| Dolor pélvico derecho | Apendicitis, cálculo renal, torsión ovárica, quiste ovárico roto |
-| Polaquiuria | ITU |
-| Sangrado vaginal | Embarazo ectópico, mioma uterino, síntomas de aborto |
-| Descarga vaginal | PIP |
 
 | Hallazgo | Diagnóstico Sugerido |
 |---|---|
 | Masa anexial | Cuerpo lúteo, divertículo del colon, embarazo ectópico, endometriosis, quiste folicular, PIP, mioma uterino |
 | Sensibilidad abdominal bilateral | PIP |
 | Sensibilidad a la movilización cervical, uterina o anexial | PIP |
+| Descarga vaginal mucopurulenta | PIP |
 | Fiebre | Apendicitis, PIP, Pielonefritis |
 | Hipotensión | Embarazo ectópico complicado, quiste ovárico hemorrágico roto |
 | Sensibilidad del cuadrante inferior izquierdo del abdomen | Diverticulitis |
 | Sensibilidad del cuadrante inferior derecho del abdomen | Apendicitis |
-| Descarga vaginal mucopurulenta | PIP |
 
 ![dol_pelv_agudo](dol_pelv_agudo.png)
+
+
+# Dolor pélvico crónico
+## Definición dolor pélvico crónico
+
+En pelvis, pared abdominal anterior (a nivel o bajo ombligo), zona lumbo-sacra o los glúteos. 
+
+Persistente, no cíclico (no relacionado con menstruación), de más de 6 meses de duración.
+
+Severidad causa incapacidad funcional, disminución de calidad de vida.
+
+Recurso útil para buscar cuestionarios: [pelvicpain.org](https://www.pelvicpain.org/)
+
+## Clasificación
+
+- Ginecológico
+    - Cíclico
+    - Acíclico
+- No ginecológico
+    - Urológico: cistitis intersticial, cálculos renales, infecciones urinarias
+    - Gastrointestinal: síndrome de intestino irritable, enfermedad inflamatoria intestinal
+    - Neurológico: neuralgia del pudendo, neuropatía periférica
+    - Musculoesquelético: disfunción de la articulación sacroilíaca, hernia discal
+    - Psicosocial: depresión, ansiedad, abuso sexual
+
+Importante definir si es **cíclico o acíclico**, si se asocia a **dispareunia** (de entrada/penetración, mantención/profunda, post-coital, mixta), **disquexia** (dolor al defecar), **vulvodinia** (disconfort vulvar crónico, de magnitud variable, en ausencia de causa infecciosa o dermatológica) u otros síntomas.
+
+Para la dispareunia, acotar en qué momento:
+- Dispareunia al inicio penetración: más de procesos inflamatorios "superficiales" (vaginitis, vulvovaginitis, vestibulitis)
+- Dispareunia profunda: más de procesos inflamatorios profundos (endometriosis, adenomiosis, miomas, adherencias).
+
+
+## Etiología
+
+Quick view:
+- ginecológicas  
+- gastrointestinales 
+- urológicas 
+- musculoesqueléticas y neurológicas 
+- psicológicas 
+
+1. **Visceral**
+- Gynecologic
+    - <span style= "color: #21918c; font-weight: bold;" >Endometriosis</span>: dolor, sangrado irregular y posiblemente infertilidad. Mayor sintomatología dolorosa cuando hay compromiso del tabique rectovaginal (dispareunia, disquexia)
+    - <span style= "color: #21918c; font-weight: bold;" >Pelvic adhesions</span>: FR: infecciones previas, endometriosis, radioterapia o antecedente de cirugía pelviana.
+    - <span style= "color: #21918c; font-weight: bold;" >Adenomyosis</span>
+    - Leiomyoma
+    - <span style= "color: #21918c; font-weight: bold;" >PIP</span> (Chronic pelvic inflammatory disease/chronic endometritis)
+    - Adnexalmass
+    - Pelvic congestion syndrome
+    - Ovarian remnant syndrome (cuando quedó tejido ovárico en ooforectomía)
+    - Residual ovary syndrome (cuando se deja intencionalmente tejido ovárico)
+    - Vestibulitis
+    - Vulvodynia
+- Gastrointestinal
+    - **Inflammatory bowel disease**
+    - **Irritable bowel syndrome**
+    - Celiac disease
+    - <b><span style="color:#7707aa">Colorectal cancer</span></b> and cancer therapy
+    - Diverticular colitis
+- Urologic
+    - <b><span style="color:#7707aa">Bladder cancer</span></b> and cancer therapy
+    - Chronic or complicated UTI
+    - Interstitial cystitis
+    - Painful bladder syndrome
+    - Urethral diverticulum
+2. **Neuromusculoskeletal**
+- Fibromyalgia
+- Myofascial syndromes
+    - Coccydynia
+    - Musculus levator ani syndrome
+- Postural syndrome
+- Abdominal wall syndromes
+    - Muscular injury
+    - Trigger point
+- Neurologic
+    - Abdominal epilepsy
+    - Abdominal migraine
+    - Neuralgia
+    - Neuropathic pain
+3. **Psychosocial**
+- Abuse
+    - Physical,emotional, sexual
+- Depressivedisorders
+    - Majordepressivedisorder
+    - Persistentdepressivedisorder(dysthymia)
+    - Substance-inducedormedication-induced depressivedisorder
+- Anxietydisorders
+    - Generalizedanxietydisorder
+    - Panicdisorder
+    - Socialanxietydisorder
+    - Substance-inducedormedication-induced anxietydisorder    
+- Somatic symptom disorders
+    - Somatic symptom disorder with pain features
+    - Somatic symptom disorder with somatic characteristics
+- Substance use disorder
+    - Substance abuse
+    - Substance dependenc
+
+## Evaluación clínica
+
+1. Revisión detallada de sistemas y obtención de antecedentes médicos y quirúrgicos
+    - Historia menstrual pasada
+    - Uso previo de anticonceptivos
+    - Historia obstétrica y ginecológica previa
+2. Evaluar antecedentes sugerentes de:
+    - <span style= "color: #21918c; font-weight: bold;" >Endometriosis</span>: Dismenorrea, dispareunia, disquexia, infertilidad, dolor cíclico o nódulos en otras ubicaciones
+    - <span style= "color: #21918c; font-weight: bold;" >Enfermedad inflamatoria pélvica</span>: antecedente de infecciones pélvicas, antecedente de cirugía pélvica, antecedente de ETS, <b><span style="color:#7707aa">dolor a la movilización cervical</span></b>, leucorrea, dispareunia, disuria
+    - Enfermedad **gastrointestinal**, especialmente **síndrome del intestino irritable** (tb enfermedad inflamatoria intestinal): dolor abdominal, cambios en el hábito intestinal, distensión abdominal, flatulencia, náuseas, vómitos
+    - Enfermedad urinaria, especialmente cistitis intersticial/síndrome de vejiga dolorosa
+    - Enfermedad musculoesquelética
+    - Enfermedad psiquiátrica, con enfoque en síntomas de depresión y ansiedad
+3. Evaluar características del dolor:
+    - Hallazgos asociados
+    - Factores provocativos y paliativos
+    - Calidad del dolor
+    - Irradiación del dolor
+    - Contexto en el que ocurre el dolor
+    - Temporalidad: Momento en que ocurre el dolor y eventos que lo preceden o desencadenan
+
+>Nota: dolor causado por SII y cistitis intersticial también puede presentar fluctuaciones en base a los niveles hormonales. 
+
+4. Obtener historia **psicosocial**, con especial enfoque en:
+    - Uso o abuso de sustancias, incluyendo alcohol, marihuana y medicamentos recetados
+    - Seguridad del paciente: ¿Tiene el paciente una historia actual o pasada de abuso físico, sexual o emocional?
+5. Preguntar sobre **pruebas diagnósticas previas** o tratamientos para el dolor
+6. Indagar sobre historia familiar de condiciones clínicas relevantes, como síndromes de dolor crónico
+
+Ojo: Signo de Carnett, luego de localizar el dolor con un dedo se le pide al paciente que eleve las piernas, si el dolor aumenta, se asocia a etiología miofascial del dolor o de pared abdominal. En caso contrario, corresponde a un dolor visceral. 
+
+Signos de alarma para sospechar patología aguda o **emergente**:
+
+En mujeres con dolor pélvico crónico (DPC), el dolor severo puede indicar un empeoramiento del síndrome de dolor crónico o resultar de un proceso abdominopélvico agudo. Mujeres con <b><span style="color:#7707aa">signos vitales inestables, signos peritoneales, o sospecha de patología potencialmente mortal</span></b> (como embarazo ectópico o perforación intestinal) deben ser referidas para evaluación y manejo de emergencia. Además, mujeres con <b><span style="color:#7707aa">presentaciones clínicas sospechosas de apendicitis aguda, enfermedad inflamatoria pélvica, cálculos renales obstructivos, o torsión ovárica</span></b> también deben ser evaluadas de manera expedita.
+
+Red Flags que deben hacer sospechar malignidad o enfermedad sistémica grave son: 
+- Pérdida de peso inexplicada 
+- Hematoquecia 
+- Metrorragia perimenopausia 
+- Metrorragia postmenopáusica 
+- Sinusorragia 
+
+## Laboratorio e imágenes
+
+Se puede solicitar: 
+- UC/OC
+- Cultivos/PCR cervicovaginales para ITS
+- β-hCG
+- Eco TV
+
+## Tratamiento
+
+De especialista y según la causa, perooo....
+
+![tto_dpc](tto_dpc.png)
+
+Como antiinflamatorio, sólo el Naproxeno ha sido apoyado por la evidencia, sin embargo, lo que más se utiliza 
+es el Ácido Mefenámico (creo que porque tb disminuye sangrado??). 
+
+![algoritmo_dpc_puc](algoritmo_dpc_puc.png)
 
 # Amenorrea
 
@@ -283,91 +534,6 @@ Amenorrea primaria: ausencia de menariquia a los 13 años sin desarrollo secunda
 Amenorrhea secundaria: ausencia de menstruación por 3 meses en mujeres con ciclos previamente regulares o por 9 meses en mujeres con ciclos previamente irregulares.
 
 ![dx_amenorrea_2](dx_amenorrea_2.png)
-
-# Dolor pélvico crónico
-
-Dismenorrea: 
-- primaria (más en adolescencia, pero igual estudiar porque no es normal que adolesecnte falte a clases 1 vez al mes)
-- Secundaria (a alguna patología)
-
-## Clasificación y etiología
-
-
-- Ginecológico
-    - Cíclico
-    - Acíclico
-- No ginecológico
-    - Urológico: cistitis intersticial, cálculos renales, infecciones urinarias
-    - Gastrointestinal: síndrome de intestino irritable, enfermedad inflamatoria intestinal
-    - Neurológico: neuralgia del pudendo, neuropatía periférica
-    - Musculoesquelético: disfunción de la articulación sacroilíaca, hernia discal
-    - Psicosocial: depresión, ansiedad, abuso sexual
-
-
-
-1. Visceral
-- Gynecologic
-  - Cíclico
-    - Adenomyosis
-    - Endometriosis: antecedente primer grado con endometriosis aumento cerca 20 a 40% P(endometriosis). Cuando se pide eco para endometriosis, pedir eco PARA endometriosis (Eco TV para endometriosis o TC para endometriosis).
-  - Aciclíco
-    - Adnexalmass
-    - Chronic pelvic inflammatory disease/chronic endometritis
-    - Leiomyoma
-    - Ovarian remnant syndrome
-    - Pelvic adhesions
-    - Vestibulitis
-    - Vulvodynia
-- Gastrointestinal
-    - Celiac disease
-    - Colorectal cancer and cancer therapy
-    - Diverticular colitis
-    - Inflammatory bowel disease
-    - Irritable bowel syndrome
-- Urologic
-    - Bladder cancer and cancer therapy
-    - Chronic or complicated UTI
-    - Interstitial cystitis: Usualmente cursan con ITU a repetición. Dolor a palpación de uretra. Es más frecuente de lo que uno creería. 
-    - Painful bladder syndrome
-    - Urethral diverticulum
-2. Neuromusculoskeletal
-- Fibromyalgia
-- Myofascial syndromes
-    - Coccydynia
-    - Musculus levator ani syndrome
-- Postural syndrome
-- Abdominal wall syndromes
-    - Muscular injury
-    - Trigger point
-- Neurologic
-    - Abdominal epilepsy
-    - Abdominal migraine
-    - Neuralgia (neuralgia del pudendo)
-    - Neuropathic pain
-3. Psychosocial
-- Abuse
-    - Physical,emotional, sexual
-- Depressive disorders
-    - Majordepressivedisorder
-    - Persistentdepressivedisorder(dysthymia)
-    - Substance-inducedormedication-induced depressivedisorder
-- Anxiety disorders
-    - Generalized anxiety disorder
-    - Panic disorder
-    - Social anxiety disorder
-    - Substance-inducedormedication-induced anxietydisorder    
-- Somatic symptom disorders
-    - Somatic symptom disorder with pain features
-    - Somatic symptom disorder with somatic characteristics
-- Substance use disorder
-    - Substance abuse
-    - Substancex  xx|
-Para la dispareunia, acotar en qué momento:
-
-- Dispareunia al inicio penetración: más de procesos inflamatorios "superficiales" (vaginitis, vulvovaginitis, vestibulitis)
-- Dispareunia profunda: más de procesos inflamatorios profundos (endometriosis, adenomiosis, miomas, adherencias).
-
-## Manejo 
 
 # Miomatosis
 
@@ -770,7 +936,6 @@ Cuando suspender? Rev...
 
 # Vaginitis y Cervicitis
 
-![vulvovaginitis_amboss](vulvovaginitis_amboss.png)
 
 
 
@@ -923,7 +1088,10 @@ Doxycycline
 </tbody>
 </table>
 
-### Vaginitis Bacteriana
+![vulvovaginitis_amboss](vulvovaginitis_amboss.png)
+
+
+## Vaginitis Bacteriana
 
  
 Criterios clínicos: AMSEL (tres de los siguientes) 
@@ -949,7 +1117,7 @@ Manual PUC recomienda:  pesquisar y tratar la Vaginosis de modo rutinario a las 
 - Metronidazol 500 mg/12 horas x 7 días vo. 
 - Clindamicina 300 mg/12 horas por 7 días vo.
 
-### Candidiasis Vulvovaginal
+## Candidiasis Vulvovaginal
 
 Tratamiento usual:
 - <span style= "color: #5ec962; font-weight: bold;" >Fluconazol (150 mg) v.o. 1 dosis</span>. Es el esquema más utilizado, por su buena respuesta y facilidad de uso. Se ha demostrado que este tratamiento oral reduce las recurrencias. 
@@ -975,9 +1143,16 @@ Candidiasis vulvovaginal **recurrente**: 4 o más episodios en un plazo de 12 me
 - Fluconazol oral (150 mg) diario por 10 días, 
 - y luego durante 6 meses un Fluconazol oral (150 mg) semanal
 
-### Tricomoniasis
+## Tricomoniasis
 
 Tratamiento de la Trichomona Vaginal 
 - Metronidazol 2 gr vo en dosis única (mala tolerancia oral, pero mejor adherencia) 
 - Tinidazol 2 gr vo en dosis única. Es equivalente o superior al Metronidazol 2 gr oral en dosis única, mostrando una tasa de cura de 90 a 95%. 
 - Metronidazol 500 mg vo cada 12 horas, por 7 días(Prevalencia de resistencia leve al Metronidazol en pacientes infectados con T. Vaginalis es 2-5%)
+
+## Cervicitis Gonococo o Chalmydia
+
+Libro PUC:
+
+>"La cervicitis por Gonococo o por Clamidia es una ITS que puede manifestarse por flujo cervical purulento oligosintomático. El diagnóstico se realiza frecuentemente con PCR, pero también puede realizarse inmunofluorescencia para Chlamydia y cultivos de Thayer- Martin para gonococo. El tratamiento debe incluir siempre a la pareja y entregar cobertura antibiótica para ambos gérmenes. Los esquemas más utilizados son de ceftriaxona 125 mg IM por una vez más Azitromicina 1 g vo en dosis única para todos los contactos sexuales. Tanto Neisseria gonorrhoeae como Chlamydia trachomatis son gérmenes de notificación obligatoria.  "
+

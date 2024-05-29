@@ -183,6 +183,15 @@ insulinoterapia en hospitalizados
 
 
 ## Tiroides
+
+### Hipotiroidismo
+
+Algoritmo minsal Guía GES 2013
+
+![hipotiroidismo_ges](hipotiroidismo_ges.png)
+
+
+
 Grupos tamizaje hipotiroidismo:
 
 - Antecedentes de cirugía tiroidea, terapia con radioyodo o radioterapia cervical.
@@ -206,6 +215,13 @@ Grupos tamizaje hipotiroidismo:
   - Enfermedad de Addison.
   - Enfermedad celíaca.
   - Vitiligo.
+
+#### En mujeres
+
+Explicación de amenorrea y androgenización:
+- Disminución de SHBG: Menor transporte de hormonas sexuales.
+- Disminución de aromatasa: Menor conversión de andrógenos en estrógenos.
+- Aumento de TRH: Incremento de prolactina, que reduce la pulsatilidad de GnRH y disminuye la producción de LH y FSH.
 
 ## Suprarrenal
 

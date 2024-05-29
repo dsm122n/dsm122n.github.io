@@ -8,6 +8,8 @@ Persistente, no cíclico (no relacionado con menstruación), de más de 6 meses 
 
 Severidad causa incapacidad funcional, disminución de calidad de vida.
 
+Recurso útil para buscar cuestionarios: [pelvicpain.org](https://www.pelvicpain.org/)
+
 ## Clasificación
 
 - Ginecológico
@@ -20,33 +22,43 @@ Severidad causa incapacidad funcional, disminución de calidad de vida.
     - Musculoesquelético: disfunción de la articulación sacroilíaca, hernia discal
     - Psicosocial: depresión, ansiedad, abuso sexual
 
+Importante definir si es **cíclico o acíclico**, si se asocia a **dispareunia** (de entrada/penetración, mantención/profunda, post-coital, mixta), **disquexia** (dolor al defecar), **vulvodinia** (disconfort vulvar crónico, de magnitud variable, en ausencia de causa infecciosa o dermatológica) u otros síntomas.
 
 ## Etiología
 
-1. Visceral
+Quick view:
+- ginecológicas  
+- gastrointestinales 
+- urológicas 
+- musculoesqueléticas y neurológicas 
+- psicológicas 
+
+1. **Visceral**
 - Gynecologic
-    - Adenomyosis
-    - Adnexalmass
-    - Chronic pelvic inflammatory disease/chronic endometritis
-    - Endometriosis
+    - <span style= "color: #21918c; font-weight: bold;" >Endometriosis</span>: dolor, sangrado irregular y posiblemente infertilidad. Mayor sintomatología dolorosa cuando hay compromiso del tabique rectovaginal (dispareunia, disquexia)
+    - <span style= "color: #21918c; font-weight: bold;" >Pelvic adhesions</span>: FR: infecciones previas, endometriosis, radioterapia o antecedente de cirugía pelviana.
+    - <span style= "color: #21918c; font-weight: bold;" >Adenomyosis</span>
     - Leiomyoma
-    - Ovarian remnant syndrome
-    - Pelvic adhesions
+    - <span style= "color: #21918c; font-weight: bold;" >PIP</span> (Chronic pelvic inflammatory disease/chronic endometritis)
+    - Adnexalmass
+    - Pelvic congestion syndrome
+    - Ovarian remnant syndrome (cuando quedó tejido ovárico en ooforectomía)
+    - Residual ovary syndrome (cuando se deja intencionalmente tejido ovárico)
     - Vestibulitis
     - Vulvodynia
 - Gastrointestinal
+    - **Inflammatory bowel disease**
+    - **Irritable bowel syndrome**
     - Celiac disease
-    - Colorectal cancer and cancer therapy
+    - <b><span style="color:#7707aa">Colorectal cancer</span></b> and cancer therapy
     - Diverticular colitis
-    - Inflammatory bowel disease
-    - Irritable bowel syndrome
 - Urologic
-    - Bladder cancer and cancer therapy
+    - <b><span style="color:#7707aa">Bladder cancer</span></b> and cancer therapy
     - Chronic or complicated UTI
     - Interstitial cystitis
     - Painful bladder syndrome
     - Urethral diverticulum
-2. Neuromusculoskeletal
+2. **Neuromusculoskeletal**
 - Fibromyalgia
 - Myofascial syndromes
     - Coccydynia
@@ -60,7 +72,7 @@ Severidad causa incapacidad funcional, disminución de calidad de vida.
     - Abdominal migraine
     - Neuralgia
     - Neuropathic pain
-3. Psychosocial
+3. **Psychosocial**
 - Abuse
     - Physical,emotional, sexual
 - Depressivedisorders
@@ -81,7 +93,49 @@ Severidad causa incapacidad funcional, disminución de calidad de vida.
 
 
 
-Ojo: Signo de Carnett, dolor abdominal que aumenta con la contracción de los músculos abdominales, al palparlos.
+Ojo: Signo de Carnett, luego de localizar el dolor con un dedo se le pide al paciente que eleve las piernas, si el dolor aumenta, se asocia a etiología miofascial del dolor o de pared 
+abdominal. En caso contrario, corresponde a un dolor visceral. 
+
+## Evaluación clínica
+
+1. Revisión detallada de sistemas y obtención de antecedentes médicos y quirúrgicos
+    - Historia menstrual pasada
+    - Uso previo de anticonceptivos
+    - Historia obstétrica y ginecológica previa
+2. Evaluar antecedentes sugerentes de:
+    - <span style= "color: #21918c; font-weight: bold;" >Endometriosis</span>: Dismenorrea, dispareunia, disquexia, infertilidad, dolor cíclico o nódulos en otras ubicaciones
+    - <span style= "color: #21918c; font-weight: bold;" >Enfermedad inflamatoria pélvica</span>: antecedente de infecciones pélvicas, antecedente de cirugía pélvica, antecedente de ETS, <b><span style="color:#7707aa">dolor a la movilización cervical</span></b>, leucorrea, dispareunia, disuria
+    - Enfermedad **gastrointestinal**, especialmente **síndrome del intestino irritable** (tb enfermedad inflamatoria intestinal): dolor abdominal, cambios en el hábito intestinal, distensión abdominal, flatulencia, náuseas, vómitos
+    - Enfermedad urinaria, especialmente cistitis intersticial/síndrome de vejiga dolorosa
+    - Enfermedad musculoesquelética
+    - Enfermedad psiquiátrica, con enfoque en síntomas de depresión y ansiedad
+3. Evaluar características del dolor:
+    - Hallazgos asociados
+    - Factores provocativos y paliativos
+    - Calidad del dolor
+    - Irradiación del dolor
+    - Contexto en el que ocurre el dolor
+    - Temporalidad: Momento en que ocurre el dolor y eventos que lo preceden o desencadenan
+4. Obtener historia **psicosocial**, con especial enfoque en:
+    - Uso o abuso de sustancias, incluyendo alcohol, marihuana y medicamentos recetados
+    - Seguridad del paciente: ¿Tiene el paciente una historia actual o pasada de abuso físico, sexual o emocional?
+5. Preguntar sobre **pruebas diagnósticas previas** o tratamientos para el dolor
+6. Indagar sobre historia familiar de condiciones clínicas relevantes, como síndromes de dolor crónico
+
+Banderas rojas principalmente para sospechar patología aguda o emergente:
+
+En mujeres con dolor pélvico crónico (DPC), el dolor severo puede indicar un empeoramiento del síndrome de dolor crónico o resultar de un proceso abdominopélvico agudo. Mujeres con signos vitales inestables, signos peritoneales, o sospecha de patología potencialmente mortal (como embarazo ectópico o perforación intestinal) deben ser referidas para evaluación y manejo de emergencia. Además, mujeres con presentaciones clínicas sospechosas de apendicitis aguda, enfermedad inflamatoria pélvica, cálculos renales obstructivos, o torsión ovárica también deben ser evaluadas de manera expedita.
+
+
+
+## Laboratorio e imágenes
+
+Se puede solicitar: 
+- UC/OC
+- Cultivos/PCR cervicovaginales para ITS
+- β-hCG
+- Eco TV
+
 
 # Casos Clínicos Dolor pélvico crónico
 
@@ -684,13 +738,13 @@ Explique por que la paciente presenta a) hiperpigmentación, b) letargo, c) el d
 
 Hiperpigmentación: en esta paciente la hiperpigmentación cutánea difusa se debe fundamentalmente a la deficiencia de cortisol. Esta deficiencia de cortisol generará un feedback negativo sobre la hipófisis anterior para que se secrete más ACTH en respuesta. Ahora, cuando se estimula la síntesis de ACTH, se libera su precursor: pro-opiomelanocortina, proteína que al clivarse libera dos hormonas: ACTH y beta-lipotropina. Estas dos hormonas al clivarse generan beta-MSH y gamma-MSH (hormona estimuladora de melanocitos), respectivamente. Esta MSH actúa directamente sobre los melanocitos, los cuales en respuesta generarán más melanina, lo que se traduce en zonas de hiperpigmentación.
 
-Letargo: en este caso, tenemos dos posibles mecanismo que pueden estar potenciándose entre ellos y generando el letargo. Por un lado, tenemos un cortisol normal/bajo y, como sabemos, el cortisol es un glucocorticoide importante para el mantenimiento de la vigilia y la energía, por lo que cantidades insuficientes de esta hormona pueden generar una disminución en la gluconeogénesis, así como otras rutas metabólicas energéticas de importancia, lo que se traduce en una hipoglicemia. En respuesta a esta hipoglicemia, distintos sistemas de nuestro organismo responden bajando su actividad metabólico, sobre todo el sistema nervioso y muscular, quienes son los principales sistemas que utilizan glucosa para su funcionamiento. Por otro lado, tenemos una baja en las hormonas tiroideas, lo cual generará que se disminuya el catabolismo neto del organismo, por lo que las células de nuestro organismo no podrán extraer energía de estos procesos, especialmente el cerebro y los músculos, por lo que nuevamente veríamos una disminución de la actividad metabólica. Estos dos mecanismos se estarían potenciando, disminuyendo bastante el metabolismo basal de los músculos y cerebro de la paciente, lo que genera el letargo.
+Letargo: en este caso, tenemos dos posibles mecanismo que pueden estar potenciándose entre ellos y generando el letargo. Por un lado, tenemos un cortisol normal/bajo y, como sabemos, el cortisol es un glucocorticoide importante para el mantenimiento de la vigilia y la energía, por lo que cantidades insuficientes de esta hormona pueden generar una disminución en la gluconeogénesis, así como otras rutas metabólicas energéticas de importancia, lo que se traduce en una hipoglicemia.En respuesta a esta hipoglicemia, distintos  sistemas de nuestro organismo responden bajando su actividad metabólico, sobre todo el sistema nervioso y muscular, quienes son los principales sistemas que utilizan glucosa para su funcionamiento. Por otro lado, tenemos una baja en las hormonas tiroideas, lo cual generará que se disminuya el catabolismo neto del organismo, por lo que las células de nuestro organismo no podrán extraer energía de estos procesos, especialmente el cerebro y los músculos, por lo que nuevamente veríamos una disminución de la actividad metabólica. Estos dos mecanismos se estarían potenciando, disminuyendo bastante el metabolismo basal de los músculos y cerebro de la paciente, lo que genera el letargo.
 
 Desarrollo puberal incompleto: en este caso, el desarrollo puberal incompleto se debe a una deficiencia de las gonadotropinas, hormonas responsables de la maduración sexual. Por otro lado, tenemos que existe una hiperprolactinemia producto de los desórdenes hormonales de la paciente. Esta hiperprolactinemia generará un feedback negativo sobre las gonadotropinas, disminuyendo aún más su liberación y, por tanto, de la liberación de las hormonas sexuales necesarias para la maduración. Por otro lado, los aumentos en la producción de prolactina también pueden interferir en la función ovárica, suprimiéndola, por lo que el ovario tampoco respondería bien a las hormonas sexuales.
 
 Cuáles son los diagnósticos de la paciente. Justifique su respuesta en base a lo encontrado en los estudios bioquímicos, la regulación del eje hipotálamo-hipófisis-glándula y los síntomas de la paciente.
 
- La paciente presenta tres diagnósticos de base:
+La paciente presenta tres diagnósticos de base:
 
 Tiroiditis de Hashimoto: queda en evidencia dado los aumentados niveles de TSH y los niveles normales/bajos de fT4. En este sentido, tenemos que ante una disminución de los niveles de hormonas tiroideas se generará un feedback negativo sobre la hipófisis para que secrete más TSH, razón por la cual se encuentra tan elevada; sin embargo, como es un hipotiroidismo primario, la glandula no responderá ante el estímul de TSH, manteniendo los valores de T4 bajos. Se distingue que es una tiroiditis de hashimoto dado la presencia de autoanticuerpos anti-TPO y anti-Tg, los cuales se encuentran presentes en estos casos con una prevalencia >85%. Estos anticuerpos generarán una destrucción glandular que nos llevará a un hipofuncionamiento de la tiroide.
 
@@ -712,7 +766,7 @@ Como se destruye esta enzima, lo que va a ocurrir es que exista una deficiencia 
 
 Describa como respondería la paciente ante un test de estimulación de ACTH. Fundamente su respuesta.
 
- Ante un test de estimulación con ACTH, dado que la paciente presenta enfermedad de Addison, no debiese haber respuesta alguna. Esto es así dado que en la enfermedad de Addison existe un daño glandular importante (>90%), por tanto, al estimular con ACTH, por más que se inyecte esta hormona, la glándula no será capaz de aumentar los niveles de cortisol, lo que quiere decir que no habría respuesta ante este test. Cabe mencionar que previo al test, los niveles de cortisol se encontrarán disminuidos, mietras que los niveles de ACTH estarán aumentados. Luego de la prueba se verá un cortisol aún disminuidos, mientras que los niveles de ACTH se mantienen constantemente aumentados fuera del rango normal.
+Ante un test de estimulación con ACTH, dado que la paciente presenta enfermedad de Addison, no debiese haber respuesta alguna. Esto es así dado que en la enfermedad de Addison existe un daño glandular importante (>90%), por tanto, al estimular con ACTH, por más que se inyecte esta hormona, la glándula no será capaz de aumentar los niveles de cortisol, lo que quiere decir que no habría respuesta ante este test. Cabe mencionar que previo al test, los niveles de cortisol se encontrarán disminuidos, mietras que los niveles de ACTH estarán aumentados. Luego de la prueba se verá un cortisol aún disminuidos, mientras que los niveles de ACTH se mantienen constantemente aumentados fuera del rango normal.
 
 Los médicos deciden realizar una prueba de inhibición con dexametasona a altas y bajas dosis. ¿Cuál sería el resultado de esta paciente? Fundamente.
 
