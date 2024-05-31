@@ -894,3 +894,29 @@ No dar horarios.
 
 Debería tomar 8 a 12 veces al día. Aprox cada 3 o 4 horas
 
+# Salud Mental Peri Natal
+
+"Tareas de la gestación:
+- Mujer debe lograr "construirse" como alguien capaz de cuidar, alimentar, acoger a su bebe
+- Crear una "madre para su hijo"
+- Revisión de su propia historia vincular (mamá, papá de madre) (no necesariamente "crítica", sino para **hacer conciencia**)
+- Tiene que apegarse a su bebé en gestación desarrollando sentimientos positivos hacia el
+- Desarrollo ambivalencia
+
+Representaciones maternas tienen impacto en el futuro apego (aumentan en "calidad" con el curso del embarazo, hacia el final vuelven a disminuir)
+
+Anemia, DG e hipotiroidismo tenerlos en consideración como diagnósticos diferenciales "tratables medicamente" de depresión 
+
+Ojo: en el parto, madre está "concentrada", la información de afuera la "creen" sin cuestionarla
+
+Puerperio:
+- **Disforia puerperal**
+- **Depresión post-parto** (10-15% durante el año del primer parto): Desanimo, culpa, ansiedad, anhedonia, desesperanza
+- **Psicosis postparto**: Agitación, delirio alusinaciones.
+
+
+Intervenciones tempranas para apego seguro. Objetivos: 
+- Promover sensibilidad materna
+- Cambiar las representaciones parentales
+- Proveer y aumentar el apoyo social
+- Mejorar la salud mental y el bienestar materno
