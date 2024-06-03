@@ -929,3 +929,16 @@ positional headache (worse when upright), nausea, and neck stiffness raise suspi
 Initial management (oral analgesics and bed rest)
 
 An epidural blood patch is indicated for severe or refractory post-lumbar puncture headaches resulting from cerebrospinal fluid (CSF) leak syndrome. Autologous blood injected at the site of the lumbar puncture seals the hole in the dura and resolves the CSF leak that is causing the postural headache. 
+
+
+# Síndrome antifosfolípidos
+
+Although APS is a hypercoagulable state, patients typically have a prolonged activated partial thromboplastin time (aPTT) due to the presence of antiphospholipid antibodies such as lupus anticoagulant (LA). Test reagents for aPTT contain phospholipids that bind LA in vitro, thereby prolonging aPTT. Confirming the presence of LA involves two steps: a mixing study with normal plasma to rule out a deficiency in clotting factors (e.g., factor VIII in hemophilia A) and the addition of phospholipids to the patient's plasma, which corrects aPTT to normal in a patient with APS. To establish the diagnosis of APS, serology for antiphospholipid antibodies (i.e., anticardiolipin antibodies, anti-β2-glycoprotein antibodies, and LA) should be performed.
+
+Pregnant women with APS should be treated with aspirin and, depending on whether they had previous thrombotic events or APS-related pregnancy complications, additional LMWH, to prevent thrombotic events and to reduce the risk of miscarriage.
+
+
+# Datos progestágenos
+
+Dienogest no aprovado como anticonceptivo. Útil para SUA
+Desogestrel no muy útil para SUA, pero podría darse en mujer con SUA edad fertil???
