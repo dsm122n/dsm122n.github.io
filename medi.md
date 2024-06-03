@@ -266,3 +266,237 @@ La producción extraadrenal de cortisol por acción de la 11β-HSD1 puede estar 
 - Secondary adrenal insufficiency Spares the skin. 
 - Tertiary adrenal insufficiency is due to Treatment (cortisol).
 
+# Otros
+
+<table class="table table-bordered table-striped">
+	<thead>
+		<tr>
+			<td class="td11"><strong>Name</strong></td>
+			<td class="td11"><strong>Duration of action</strong></td>
+			<td class="td11"><strong>Major trade name</strong></td>
+			<td class="td11"><strong>CAS No</strong></td>
+		</tr>
+	</thead>
+	<tbody>
+		<tr>
+			<td colspan="4" nowrap="nowrap">
+			<p><strong>Sedative/hypnotics</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td width="187" valign="bottom" nowrap="nowrap">Brotizolam</td>
+			<td width="193" valign="bottom" nowrap="nowrap">Short</td>
+			<td width="180" valign="bottom" nowrap="nowrap">Lendormin</td>
+			<td width="115" valign="bottom" nowrap="nowrap">57801-81-7</td>
+		</tr>
+		<tr>
+			<td width="187" valign="bottom" nowrap="nowrap">Estazolam</td>
+			<td width="193" valign="bottom" nowrap="nowrap">Intermediate</td>
+			<td width="180" valign="bottom" nowrap="nowrap">Pro-Som</td>
+			<td width="115" valign="bottom" nowrap="nowrap">29975-16-4</td>
+		</tr>
+		<tr>
+			<td width="187" valign="bottom" nowrap="nowrap">Flunitrazepam</td>
+			<td width="193" valign="bottom" nowrap="nowrap">Short/Intermediate</td>
+			<td width="180" valign="bottom" nowrap="nowrap">Rohypnol</td>
+			<td width="115" valign="bottom" nowrap="nowrap">1622-62-4</td>
+		</tr>
+		<tr>
+			<td width="187" valign="bottom" nowrap="nowrap">Flurazepam</td>
+			<td width="193" valign="bottom" nowrap="nowrap">Long</td>
+			<td width="180" valign="bottom" nowrap="nowrap">Dalmane</td>
+			<td width="115" valign="bottom" nowrap="nowrap">17617-23-1</td>
+		</tr>
+		<tr>
+			<td width="187" valign="bottom" nowrap="nowrap">Haloxazolam</td>
+			<td width="193" valign="bottom" nowrap="nowrap">Long</td>
+			<td width="180" valign="bottom" nowrap="nowrap">Somelin</td>
+			<td width="115" valign="bottom" nowrap="nowrap">59128-97-1</td>
+		</tr>
+		<tr>
+			<td width="187" valign="bottom" nowrap="nowrap">Loprazolam</td>
+			<td width="193" valign="bottom" nowrap="nowrap">Intermediate</td>
+			<td width="180" valign="bottom" nowrap="nowrap">Dormonoct</td>
+			<td width="115" valign="bottom" nowrap="nowrap">61197-73-7</td>
+		</tr>
+		<tr>
+			<td width="187" valign="bottom" nowrap="nowrap">Lormetazepam</td>
+			<td width="193" valign="bottom" nowrap="nowrap">Short</td>
+			<td width="180" valign="bottom" nowrap="nowrap">Noctamid</td>
+			<td width="115" valign="bottom" nowrap="nowrap">848-75-9</td>
+		</tr>
+		<tr>
+			<td width="187" valign="bottom" nowrap="nowrap">Midazolam</td>
+			<td width="193" valign="bottom" nowrap="nowrap">Short</td>
+			<td width="180" valign="bottom" nowrap="nowrap">Versed</td>
+			<td width="115" valign="bottom" nowrap="nowrap">59467-70-8</td>
+		</tr>
+		<tr>
+			<td width="187" valign="bottom" nowrap="nowrap">Nimetazepam</td>
+			<td width="193" valign="bottom" nowrap="nowrap">Long</td>
+			<td width="180" valign="bottom" nowrap="nowrap">Erinin</td>
+			<td width="115" valign="bottom" nowrap="nowrap">2011-67-8</td>
+		</tr>
+		<tr>
+			<td width="187" valign="bottom" nowrap="nowrap">Nitrazepam</td>
+			<td width="193" valign="bottom" nowrap="nowrap">Intermediate</td>
+			<td width="180" valign="bottom" nowrap="nowrap">Mogadon</td>
+			<td width="115" valign="bottom" nowrap="nowrap">146-22-5</td>
+		</tr>
+		<tr>
+			<td width="187" valign="bottom" nowrap="nowrap">Temazepam</td>
+			<td width="193" valign="bottom" nowrap="nowrap">Short</td>
+			<td width="180" valign="bottom" nowrap="nowrap">Normison</td>
+			<td width="115" valign="bottom" nowrap="nowrap">846-50-4</td>
+		</tr>
+		<tr>
+			<td width="187" valign="bottom" nowrap="nowrap">Triazolam</td>
+			<td width="193" valign="bottom" nowrap="nowrap">Short</td>
+			<td width="180" valign="bottom" nowrap="nowrap">Halcion</td>
+			<td width="115" valign="bottom" nowrap="nowrap">28911-01-5</td>
+		</tr>
+		<tr>
+			<td colspan="4" valign="bottom" nowrap="nowrap">
+			<p><strong>Anxiolytics</strong></p>
+			</td>
+		</tr>
+		<tr>
+			<td width="187" valign="bottom" nowrap="nowrap">Alprazolam</td>
+			<td width="193" valign="bottom" nowrap="nowrap">Short</td>
+			<td width="180" valign="bottom" nowrap="nowrap">Xanax</td>
+			<td width="115" valign="bottom" nowrap="nowrap">20981-97-7</td>
+		</tr>
+		<tr>
+			<td width="187" valign="bottom" nowrap="nowrap">Bromazepam</td>
+			<td width="193" valign="bottom" nowrap="nowrap">Long</td>
+			<td width="180" valign="bottom" nowrap="nowrap">Lexotan</td>
+			<td width="115" valign="bottom" nowrap="nowrap">1812-30-2</td>
+		</tr>
+		<tr>
+			<td width="187" valign="bottom" nowrap="nowrap">Camazepam</td>
+			<td width="193" valign="bottom" nowrap="nowrap">&nbsp;</td>
+			<td width="180" valign="bottom" nowrap="nowrap">Albego</td>
+			<td width="115" valign="bottom" nowrap="nowrap">36104-80-2</td>
+		</tr>
+		<tr>
+			<td width="187" valign="bottom" nowrap="nowrap">Chlordiazepoxide</td>
+			<td width="193" valign="bottom" nowrap="nowrap">Long</td>
+			<td width="180" valign="bottom" nowrap="nowrap">Librium</td>
+			<td width="115" valign="bottom" nowrap="nowrap">438-41-5</td>
+		</tr>
+		<tr>
+			<td width="187" valign="bottom" nowrap="nowrap">Clobazam</td>
+			<td width="193" valign="bottom" nowrap="nowrap">Long</td>
+			<td width="180" valign="bottom" nowrap="nowrap">Frisium</td>
+			<td width="115" valign="bottom" nowrap="nowrap">22316-47-8</td>
+		</tr>
+		<tr>
+			<td width="187" valign="bottom" nowrap="nowrap">Clonazepam</td>
+			<td width="193" valign="bottom" nowrap="nowrap">Intermediate</td>
+			<td width="180" valign="bottom" nowrap="nowrap">Rivotril</td>
+			<td width="115" valign="bottom" nowrap="nowrap">1622-61-3</td>
+		</tr>
+		<tr>
+			<td width="187" valign="bottom" nowrap="nowrap">Clorazepate</td>
+			<td width="193" valign="bottom" nowrap="nowrap">Long</td>
+			<td width="180" valign="bottom" nowrap="nowrap">Tranxene</td>
+			<td width="115" valign="bottom" nowrap="nowrap">57109-90-7</td>
+		</tr>
+		<tr>
+			<td width="187" valign="bottom" nowrap="nowrap">Clotiazepam</td>
+			<td width="193" valign="bottom" nowrap="nowrap">Short</td>
+			<td width="180" valign="bottom" nowrap="nowrap">Trecalmo</td>
+			<td width="115" valign="bottom" nowrap="nowrap">33671-46-7</td>
+		</tr>
+		<tr>
+			<td width="187" valign="bottom" nowrap="nowrap">Cloxazolam</td>
+			<td width="193" valign="bottom" nowrap="nowrap">Long</td>
+			<td width="180" valign="bottom" nowrap="nowrap">Sepazon</td>
+			<td width="115" valign="bottom" nowrap="nowrap">24166-13-0</td>
+		</tr>
+		<tr>
+			<td width="187" valign="bottom" nowrap="nowrap">Delorazepam</td>
+			<td width="193" valign="bottom" nowrap="nowrap">Long</td>
+			<td width="180" valign="bottom" nowrap="nowrap">En</td>
+			<td width="115" valign="bottom" nowrap="nowrap">2894-67-9</td>
+		</tr>
+		<tr>
+			<td width="187" valign="bottom" nowrap="nowrap">Diazepam</td>
+			<td width="193" valign="bottom" nowrap="nowrap">Long</td>
+			<td width="180" valign="bottom" nowrap="nowrap">Valium</td>
+			<td width="115" valign="bottom" nowrap="nowrap">439-14-5</td>
+		</tr>
+		<tr>
+			<td width="187" valign="bottom" nowrap="nowrap">Ethyl hoflazepate</td>
+			<td width="193" valign="bottom" nowrap="nowrap">Long</td>
+			<td width="180" valign="bottom" nowrap="nowrap">Meilax</td>
+			<td width="115" valign="bottom" nowrap="nowrap">29177-84-2</td>
+		</tr>
+		<tr>
+			<td width="187" valign="bottom" nowrap="nowrap">Fludiazepam</td>
+			<td width="193" valign="bottom" nowrap="nowrap">Short</td>
+			<td width="180" valign="bottom" nowrap="nowrap">Erispan</td>
+			<td width="115" valign="bottom" nowrap="nowrap">3900-31-00</td>
+		</tr>
+		<tr>
+			<td width="187" valign="bottom" nowrap="nowrap">Halazepam</td>
+			<td width="193" valign="bottom" nowrap="nowrap">Long</td>
+			<td width="180" valign="bottom" nowrap="nowrap">Pacinone</td>
+			<td width="115" valign="bottom" nowrap="nowrap">23092-17-3</td>
+		</tr>
+		<tr>
+			<td width="187" valign="bottom" nowrap="nowrap">Ketazolam</td>
+			<td width="193" valign="bottom" nowrap="nowrap">Long</td>
+			<td width="180" valign="bottom" nowrap="nowrap">Anseren</td>
+			<td width="115" valign="bottom" nowrap="nowrap">27223-49-1</td>
+		</tr>
+		<tr>
+			<td width="187" valign="bottom" nowrap="nowrap">Lorazepam</td>
+			<td width="193" valign="bottom" nowrap="nowrap">Short/Intermediate</td>
+			<td width="180" valign="bottom" nowrap="nowrap">Ativan</td>
+			<td width="115" valign="bottom" nowrap="nowrap">846-49-1</td>
+		</tr>
+		<tr>
+			<td width="187" valign="bottom" nowrap="nowrap">Medazepam</td>
+			<td width="193" valign="bottom" nowrap="nowrap">Long</td>
+			<td width="180" valign="bottom" nowrap="nowrap">Nobrium</td>
+			<td width="115" valign="bottom" nowrap="nowrap">2898-12-6</td>
+		</tr>
+		<tr>
+			<td width="187" valign="bottom" nowrap="nowrap">Nordazepam</td>
+			<td width="193" valign="bottom" nowrap="nowrap">Long</td>
+			<td width="180" valign="bottom" nowrap="nowrap">Stilny</td>
+			<td width="115" valign="bottom" nowrap="nowrap">1088-11-5</td>
+		</tr>
+		<tr>
+			<td width="187" valign="bottom" nowrap="nowrap">Oxazepam</td>
+			<td width="193" valign="bottom" nowrap="nowrap">Short</td>
+			<td width="180" valign="bottom" nowrap="nowrap">Serax</td>
+			<td width="115" valign="bottom" nowrap="nowrap">604-75-1</td>
+		</tr>
+		<tr>
+			<td width="187" valign="bottom" nowrap="nowrap">Oxazolam</td>
+			<td width="193" valign="bottom" nowrap="nowrap">Long</td>
+			<td width="180" valign="bottom" nowrap="nowrap">Tranquit</td>
+			<td width="115" valign="bottom" nowrap="nowrap">27167-30-2</td>
+		</tr>
+		<tr>
+			<td width="187" valign="bottom" nowrap="nowrap">Pinazepam</td>
+			<td width="193" valign="bottom" nowrap="nowrap">Long</td>
+			<td width="180" valign="bottom" nowrap="nowrap">Domar</td>
+			<td width="115" valign="bottom" nowrap="nowrap">52463-83-9</td>
+		</tr>
+		<tr>
+			<td width="187" valign="bottom" nowrap="nowrap">Prazepam</td>
+			<td width="193" valign="bottom" nowrap="nowrap">Long</td>
+			<td width="180" valign="bottom" nowrap="nowrap">Centrax</td>
+			<td width="115" valign="bottom" nowrap="nowrap">2955-38-6</td>
+		</tr>
+		<tr>
+			<td width="187" valign="bottom" nowrap="nowrap">Tetrazepam</td>
+			<td width="193" valign="bottom" nowrap="nowrap">Short</td>
+			<td width="180" valign="bottom" nowrap="nowrap">Clinoxan</td>
+			<td width="115" valign="bottom" nowrap="nowrap">10379-14-3</td>
+		</tr>
+	</tbody>
+</table>
