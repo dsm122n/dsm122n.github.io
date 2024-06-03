@@ -920,3 +920,12 @@ Intervenciones tempranas para apego seguro. Objetivos:
 - Cambiar las representaciones parentales
 - Proveer y aumentar el apoyo social
 - Mejorar la salud mental y el bienestar materno
+
+  
+# Punción lumbar
+
+positional headache (worse when upright), nausea, and neck stiffness raise suspicion for post-lumbar puncture headache caused by accidental dural puncture during epidural placement.
+
+Initial management (oral analgesics and bed rest)
+
+An epidural blood patch is indicated for severe or refractory post-lumbar puncture headaches resulting from cerebrospinal fluid (CSF) leak syndrome. Autologous blood injected at the site of the lumbar puncture seals the hole in the dura and resolves the CSF leak that is causing the postural headache. 
