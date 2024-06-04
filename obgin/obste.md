@@ -456,6 +456,18 @@ Según Doppler A Ut al segundo trimestre:
 | Enfermedad trofoblastica gestacional | - Sangrado vaginal <br> - Dolor pélvico | - Mola completa (sin cromosomas maternos, más sintomática) <br> - Mola parcial (con cromosomas maternos, usualmente menos sintomáticas, puede tener partes de feto) | - Expectante <br> - Quirúrgico |
 
 
+### Aborto
+
+- Pérdida periimplantacional o preimplantacional: aquella que se produce antes de las 5 semanas de gestación y que se detecta por una mala progresión de la b-HCG sin visualización de saco gestacional por ecografía.  
+- Pérdida preembrionària: aquella que se produce entre las 5.0-5.6 semanas, con evidencia de saco gestacional (con vesícula vitelina o no) pero sin embrión ecográficamente visible. 
+- Pérdida embrionaria: aquella que se produce entre las 6.0-9.6 semanas, con un embrión visible sin actividad cardíaca y con un CRL inferior a 30mm.  
+- Pérdida fetal precoz: la que se produce entre las 10-12 semanas, con un feto sin actividad cardíaca y con un CRL superior a 30mm.  
+- Pérdida gestacional de segundo trimestre: 12.0-21.6 semanas.  
+- Pérdida **incompleta**: persistencia de restos ovulares después de la expulsión del embarazo, definida por un grosor endometrial superior a 15 mm, hiperecoico y/o heterogéneo en el control ecográfico.  
+- Pérdida **completa**: <b><span style="color:#3b528b">endometrio <15mm </span></b> y homogéneo. La medida de ßHCG no es necesaria para el diagnóstico de pérdida gestacional completa puesto que los valores se negativizan a las dos semanas.  La positividad de la ßHCG a partir de las dos semanas  requiere estudio de la paciente para descartar retención de restos ovulares, embarazo ectópico no diagnosticado o enfermedad trofoblàstica gestacional. 
+- Gestación de **localización incierta** (PUL – pregnancy of unknown location): se define como aquella situación en la que el test de embarazo es positivo pero no hay signos de gestación intrauterina ni extrauterina por ecografía transvaginal. 
+
+
 
 ## Metrorragia segunda mitad del embarazo
 Tabla 2 pag 37 traspasar
