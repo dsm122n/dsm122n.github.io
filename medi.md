@@ -123,6 +123,13 @@ Ejemplo presentación y dosis media: budesonida-formoterol 200/6 mcg 2 puff inha
 # Geriatría
 ![criterios de beers](/Beers critera.jpeg)
 
+# Inmunología
+
+![urticaria_angioedema](inmuno/urticaria_angioedema.png)
+![anafilaxia_asma](inmuno/anafilaxia_asma.png)
+
+
+
 # Endocrinología
 
 ![hipotalamo_hipof_hormonas](hipotalamo_hipof_hormonas.png)

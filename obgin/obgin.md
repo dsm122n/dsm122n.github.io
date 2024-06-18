@@ -1434,3 +1434,154 @@ Preferir progestinas puras similares a la humana como la <span style= "color: #5
 Las progestinas pueden administrarse por vía oral, vaginal, a través de dispositivos intrauterinos y 
 depósito intramuscular. No existe evidencia que sugiera superioridad de una vía de administración por sobre 
 otra. 
+
+
+# OSCI
+## 2023
+1. Mastitis puerperal: 
+    - Examen físico y relatar hallazgos. Infección cambios cutáneos. Bilateral
+    - Diagnóstico
+    - Manejo en detalle
+        - hospitalización?(solo si absceso, drenar) suspensión lactancia
+        - analgesia, antibióticos (**Rev dosis**)
+2. Dpg 
+    - Riesgo malformación cardiaca
+    - Contener 
+    - Acido folio 5 mg
+    - Examen ingreso control prenatal
+    - E o doppler 11 14
+    - Daño órgano blanco
+    - **Ecocardio a 28 sem**
+    - Derivar a aro
+3. Crisis hipertensiva
+    - Hospitalizar 
+    - **Sulfato mg**
+    - Control sv 1 hora
+    - Monitorizar continua
+    - Beta porque es de 27 sem 
+    - **Labetalol**
+    - Examen de severidad especificar cuales
+    - Reposo absoluto
+    - Régimen 0
+4. Control prenatal 
+    - Confirmado emb normotopico,latido y biometria acorde 
+    - No suchi y ni carne cruda y lo que dije
+5. 15 años ACO
+    - Inicia actividad sexual
+    - Utilizo métodos
+    - Hace 2 meses
+    - Fur 20 días
+    - Alergia mórbidos,
+    - PA peso y talla 
+    - Realizar educación sexual usar métodos de barrera para ITS
+    - Preferir Larc porque es joven aquí Implanon
+    - Confidencialidad asegurar y respetar decisión de la paciente
+6. Ant de PP llega con 6 sem con latido con embrión
+    - Médico 
+    - Quirugico
+    - Alergia 
+    - Farmacos
+    - Emb previos parto o cesare y cuanto pesaron y si ACO, si se uso cerclaje 
+    - Ver como se encuentra ahora esta asustada
+    - Ingreso control prenatal
+    - Que va a tener que usar progrsterona
+    - Eco 11-14 a las 16 sem se ve el riesgo cervicometria
+    - Derivar Par
+    - Ges dental no hay IPD de PP es más que nada Par
+    - Cultivo CCV its y de orina, seguimiento más estrecho
+    - Y consultar urgencia, sangrado, mal olor, CU
+    - Progesterona desde 14-16 sem 
+    - En la 15-16 sem si tuvo pp y cerclaje ante,le pongo cerclaje profilaxtico
+    - Características de masa maligna líquido libre se escribia
+7. Incontinencia mixta
+    - Presentarse
+    - MC
+    - Explicar que es mixta 
+    - Derivar a piso pelvis
+    - Educación baja de peso
+    - Quiza ver el tema de orina y UC quizá ya la tenia
+8. Menopausia
+    - Como se hace el dg de menopausia
+    - Explicar porque bochorno
+    - Estilo de vida 
+    - 4 condiciones que no trh
+    - La estamos educado 
+    - Explicar cuales son las terapias
+    - Decir cuales son los síntomas
+    - Pasar MRS
+9. Indicaciones de cesaría urgencia
+    - Expulsivo detenido
+    - Mencionar al menos 5
+    - Profilaxis de SGB
+    - Eso de repetir las betas y localización incierta
+
+Estaciones:
+- **hemorragia de la  postmenopausia**, ecoTV endometrio 11 mm
+- **masa en mama**, historia examen fisico, mamografia y eco Birrads 4, fantoma con masa palpable
+- Mujer **DM pregestacional** y antecedente de hijo con problema de tubo neural, HbA1c 10%, eco 7 sem con embarazo.... todas las indicaciones
+- adolescente 18 años quiere metodo **anticonceptivo** (si hay que recomendar uno!, se deberia tomar presion)
+- mujer embarazo de 16 sem con **antecedente de parto prematuro** de 28 sem, progesterona y derivar para cervicometrías y posible cerclaje, dar signos de alarma,
+- **incontinencia** urinaria de esfuerzo, anamnesis, dg y recomendaciones
+- paciente **menopausica**, evaluar uso de **TRH**
+- **Pap** normal con VPH + 16,18, consulta por sinusorragia, hay fantoma y especulo
+- **embarazo inicial**, primigesta, consulta con eco precoz, explicar todo
+
+4 buzones:
+- indicaciones de parto vaginal en paciente vih
+- indicaciones de **cesarea de urgencia**
+- patologías **ges** (6): Analgesia del parto, Cancer de mama en personas de 15 años y más, Prevención de parto prematuro, cancer de ovario epitelial, Cancer cervicouterino en mujeres de 15 años y más, ....
+- Un MEFI tipo 2 con caso clinico de embarazo de 40 sem, membranas rotas de 18h, alergia penicilina
+
+**Rev TTC +**
+
+## 2024
+
+1. Control prenatal normal 
+2. Conteo prenatal en embarazada con dpg 
+3. Control en una mujer que tenía antecedente de ppt prematuro
+4. Mastitis abscedada 
+5. Climaterio 
+6. Sua menopausia
+7. . Mac con aura 
+8. Incontienncia de esfuerzo 
+9. Una espéculoscopia con test vph (+)
+10. Buzón: leucorreas 
+11. Buzón: rpm hospitalizar por 48 hrs
+12. Buzón: abdomen ginecológico ectopico 
+13. Buzón: embarazada con Pna
+14. buzón: SOP
+15. Descanso
+
+Control prenatal
+dpg
+anticonceptivos
+metrorragia post-menopausia 
+Fantoma examen mama ¿volemizar?
+Fantoma vph
+Incontinencia
+Menopausia-climaterio
+rpm 32 sem, 
+vulvovaginitis 
+ectopico  
+pna 
+sop
+
+Buzones:
+1. Caso clínico paciente 19 años, fur 7 semanas reglas irregulares, dolor de 48 hrs de evolucion, blumberg (+). En la consulta lipotimia hipotension y taquicardia
+    - Sospecha diagnostica
+    - Examenes (2)
+    - Manejo (2)
+    - Factores de riesgo (3)  
+
+2. Caso clinico de pac joven, amenorrea secundaria, reglas irregulares, resistencia a la insulina
+    - Sospecha diagnostica (2)
+    - Examenes (5)
+
+3. Imagenes de vulvovaginits (tricomona, candida, vaginosis bacteriana) 
+    - diagnostico y tratamiento
+
+4. Paciente con rpm 32 semanas, estas en chuchunco, no puedes trasladar en 48 hrs, que hacer 
+    - Todos lo que harias
+
+5. Paciente con molestias urinarias, oc y uc +, e. coli + ms sgb +
+    - que hacer (todo)
