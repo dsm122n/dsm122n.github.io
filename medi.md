@@ -129,7 +129,6 @@ Ejemplo presentación y dosis media: budesonida-formoterol 200/6 mcg 2 puff inha
 ![anafilaxia_asma](inmuno/anafilaxia_asma.png)
 
 
-
 # Endocrinología
 
 ![hipotalamo_hipof_hormonas](hipotalamo_hipof_hormonas.png)
@@ -188,6 +187,52 @@ insulinoterapia en hospitalizados
     - bolos de corrección: 1 U por cada 50 mg/dl sobre 150 mg/dl
     - **bolos preprandiales: 1 U por cada 10-15 g de HC**
 
+### Tamizaje y diagnóstico DM
+
+![tamizaje_sanos](tamizaje_sanos.png)
+
+Para diagnóstico de pre-diabetes o diabetes se necesitan 2 pruebas alteradas en caso de utilizar GA, PTGO o HbA1c. 
+
+Examen diagnóstico de elección en DM, desde 2024 ADA sugiere HbA1c como primera instancia. Se ve alterada principalmente en afecciones de GR; puede ser más costosa que PTGO
+
+PTGO: Mejor sensibilidad y especificidad, pero puede alterarse si no se siguen protocolos de estandarización
+
+### Prevención y Prediabetes
+
+Idealmente dirigido por un programa
+
+1. Reducción de 7-10% del peso corporal
+2. Nutri: dieta mediterránea, DASH, baja en grasas. Seguimiento por nutrición. NO dejar de recomendar endulzantes
+3. Cese de tabaquismo, Vaping y Marihuana
+4. <b><span style="color:#5ec962">Metformina</span></b> en población seleccionada:
+	- 25-59 años
+	- IMC >= 35 kg/m2
+	- GAA cercana a 125 mg/dL
+	- HbA1c cercana 6.5% (ej: >=6.0%)
+	- Diabetes pregestacional previa
+5. Ejercicio: 150 min de actividad moderada a intensa por semana (max 75 min de entrenamiento de fuerza). Dividirlos en varias sesiones.
+	- Ojo en insulinorequirientes por riesgo hipoG
+	- Ojo complicaciones en retinopatía (FR hemorragia vitrea) y neuropatía (FR lesiones, arritmias fatales, isquemia silente)
+	- Mantener higiene del sueño
+
+
+### Control
+
+Con HbA1c mínimo 2 veces al año, cada 3 meses si no está en rango.
+
+Objetivos de glicemias:
+- G preprandial: 80-130 mg/dL
+- postprandial: <180 mg/dL
+- <b><span style="color:#3b528b">HbA1c</span></b>: <7%
+- *tecnología en diabetes*
+
+Evaluación de riesgo de hipoglicemia para modificar meta HbA1c:
+
+![riesgo_hipoG](image.png)
+
+### Tto fcológico
+
+![fcos_diabetes](image-1.png)
 
 ## Tiroides
 
