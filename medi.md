@@ -210,7 +210,14 @@ En tratamiento por tuberculosis renal tendrán solo un control bacteriológico a
   - Radiografía de tórax
   - Evaluación con referente pediátrico del Servicio de Salud
 
+### Seguimiento
+- baciloscopía y cultivo líquido mensualmente, contando a partir de la fecha de inicio de tratamiento, y al término del tratamiento para documentar la curación del paciente. Las pruebas diagnósticas de biología molecular no deben ser utilizadas para control de tratamiento.
+- A todo cultivo positivo desde el tercer mes de control de tratamiento en adelante se le realizará Estudio de Susceptibilidad a rifampicina e isoniacida en el LRN. 
+- <span class= "sn" >cultivo positivo al tercer mes</span> son <span class= "dx" >sospechosos de fracaso</span> de tratamiento, pero no debe suspenderse ni cambiarse el tratamiento hasta obtener los resultados del nuevo estudio de susceptibilidad. También constituyen sospecha de fracaso de tratamiento los pacientes que presentan <span class= "sn" >baciloscopía positiva del cuarto mes</span> de tratamiento en adelante. En esta última situación, adicional al cultivo de la muestra, se recomienda hacer una prueba de diagnóstico molecular para evaluar si se mantiene la susceptibilidad inicial a rifampicina
 
+Constituyen <span class= "dx" >fracasos del tratamiento</span> las siguientes situaciones: 
+- Pacientes que presentan <span class= "sn" >cultivo</span> positivo al <span class= "sn" >término</span> del tratamiento.
+- Pacientes que tienen cultivo positivo <span class= "sn" >desde el cuarto mes</span> de tratamiento en adelante. 
 
 # Broncopulmonar
 ## Asma
@@ -299,6 +306,7 @@ General principles of stepping down asthma treatment
 Ajuste si empeoramiento de síntomas
 ![ajuste-si-empeora](broncopulmonar/ajuste-si-empeora.png)
 
+The recommended dose of prednisolone for adults is 1 mg/kg/day or equivalent up to a maximum of 50 mg/day, and 1–2 mg/kg/day for children 6–11 years
 ![exacerbacion-asma](broncopulmonar/exacerbacion-asma.png)
 
 ### Dosis corticoides
