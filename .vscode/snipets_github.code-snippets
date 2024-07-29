@@ -15,7 +15,7 @@
 	// 	],
 	// 	"description": "Log output to console"
 	// }
-	"span html para cosas buenas": {
+	/* "span html para cosas buenas": {
 		"prefix": "tto",
 		"body": [
 			"<span style= \"color: #5ec962; font-weight: bold;\" >$1</span>",
@@ -35,6 +35,31 @@
 		"prefix": "dx",
 		"body": [
 			"<span style= \"color: #21918c; font-weight: bold;\" >$1</span>",
+		],
+		"description": "span para estudios y diagnosticos diferenciales"
+
+	},
+	*/
+	"span clase para cosas buenas": {
+		"prefix": "tto",
+		"body": [
+			"<span class= \"tto\" >$1</span>",
+		],
+		"description": "span para cosas buenas"
+
+	}, 
+	"span clase para cosas malas": {
+		"prefix": "sn",
+		"body": [
+			"<span class= \"sn\" >$1</span>",
+		],
+		"description": "span para cosas malas, sintomas, signos, etc"
+
+	},
+	"span clase para estudios y diagnsoticos diferenciales": {
+		"prefix": "dx",
+		"body": [
+			"<span class= \"dx\" >$1</span>",
 		],
 		"description": "span para estudios y diagnosticos diferenciales"
 

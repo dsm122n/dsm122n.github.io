@@ -425,3 +425,27 @@ a.sidebar-link:hover {
         backdrop-filter: blur(0.7rem);
     }
 }
+/* sintomas y FR */
+.sn{
+    color: #bf00a2af;
+    background-color: #b5b5b5;
+    border-radius: .25em;
+    padding: 0em 0.25em;
+    font-weight: bold;
+}
+/* diagnósticos diferenciales y tratamiento*/
+.dx{
+    color: #4e829a;
+    background-color: #d8d8d8;
+    border-radius: .25em;
+    padding: 0em 0.25em;
+    font-weight: bold;
+}
+/* tratamiento */
+.tto{
+    color: #91eb94;
+    background-color: #b5b5b5;
+    border-radius: .25em;
+    padding: 0em 0.25em;
+    font-weight: bold;
+}

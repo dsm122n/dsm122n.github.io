@@ -91,8 +91,8 @@ Furosemida:
 - Diálisis
 La hemodiálisis puede eliminar de 25 a 50 mEq de K por hora, con variabilidad basada en el K sérico inicial.
 
-# Glomerulopatías
-## Síndrome nefrótico
+## Glomerulopatías
+### Síndrome nefrótico
 ![prevalencia sindrome nefrotico por edad](/nefrologia/sd_nefrotico_edad.jpeg)
 
 # Infectología
@@ -109,16 +109,207 @@ La hemodiálisis puede eliminar de 25 a 50 mEq de K por hora, con variabilidad b
 ![espectro gram positivo](/infectologia/espectro_gram_positivo.jpeg)
 ![espectro gram negativo](/infectologia/espectro_gram_negativo.jpeg)
 ![inicio atb criterios loebs](/infectologia/loebs_minimum_criteria.jpeg)
+## Tuberculosis
+
+Fuente: [norma técnica minsal 2022](https://diprece.minsal.cl/wp-content/uploads/2022/07/2022.06.30_NORMA-TECNICA-TUBERCULOSIS-v4.pdf)
+
+### Definiciones y clasificaciones
+- Caso confirmado: muestra biológica positiva para Complejo M. tuberculosis, ya sea por baciloscopía, cultivo o pruebas de biología molecular
+- Caso Nuevo (CN): Nunca tratado por tuberculosis.
+
+- Caso Previamente Tratado (PT): Ha recibido tratamiento antituberculoso antes.
+	- Recaída: Nuevo episodio después de curado (CC) o tratamiento terminado (TT).
+	- Fracaso de Tratamiento: Último tratamiento fracasó (cultivo positivo).
+	- Pérdida de Seguimiento: Declarado perdido en el último ciclo de tratamiento.
+### Prevención
+- Contraindicaciones BCG: 
+	- Recién Nacido de menos de 2.000 gramos.  
+	- Recién Nacidos de madre VIH (+), según indicación médica. 
+	- Niños con enfermedades cutáneas extensas sobreinfectadas o que comprometan el área de vacunación.
+	- Hijo de madre con TB pulmonar activa (hasta completar estudio o quimioprofilaxis).
+	- Enfermedades y tratamientos de la embarazada o el recién nacido que determinen inmunosupresión del recién nacido
+- Quimioprofilaxis primaria:
+	- Los recién nacidos de madre con tuberculosis pulmonar con bacteriología positiva periparto, sin evidencia clínica ni radiológica de enfermedad tuberculosa. Una vez completada la quimioprofilaxis indicada en un recién nacido, éste deberá recibir la vacuna BCG.
+	- Los contactos intradomiciliarios y extradomiciliarios menores de 5 años de casos índices de tuberculosis pulmonar con bacteriología positiva. 
+
+### Tuberculosis latente
+- Infección Tuberculosa Latente (ITL): Estado de respuesta inmune persistente a antígenos de M. tuberculosis sin síntomas clínicos de enfermedad activa. Prueba cutánea de tuberculina (**PPD**) o un ensayo de liberación de interferón gamma (**IGRA**). PPD es reactivo cuando la induración es de 10 mm o más. En el caso de pacientes con VIH y otros pacientes inmunodeprimidos un PPD de 5mm o más 
+- Los PPD reactivos o los IGRAs positivos no deben repetirse, pues el resultado persistirá en el tiempo aún habiendo realizado tratamiento de la ITL. Su repetición mal indicada puede llevar a tratamientos innecesarios. El tamaño de la reacción de PPD más allá de los 10 mm no se relaciona con diagnóstico de enfermedad. Estos test no permiten diferenciar la infección de la enfermedad tuberculosa.
+**Sujetos de Tratamiento de la ITL:**
+
+1. **Contactos intradomiciliarios** de casos confirmados de tuberculosis pulmonar o laríngea por bacteriología, sin evidencia clínica o radiológica de tuberculosis activa y con ITL.
+2. **Contactos extradomiciliarios menores de 15 años** de casos confirmados de tuberculosis pulmonar o laríngea por bacteriología, sin evidencia clínica o radiológica de tuberculosis activa y con ITL.
+3. **Contactos extradomiciliarios** de casos confirmados de tuberculosis pulmonar o laríngea por bacteriología, que trabajen expuestos a sílice, sin tuberculosis activa y con ITL.
+4. **Personas con VIH** con ITL, después de descartar tuberculosis activa.
+5. **Personas privadas de libertad** con ITL al ingresar a una unidad penal, después de descartar tuberculosis activa, según el Manual de Procedimientos del Programa de Tuberculosis para Poblaciones Privadas de Libertad en Gendarmería de Chile.
+6. **Personas inmunosuprimidas** por enfermedad o tratamiento, con ITL, después de descartar tuberculosis activa.
+7. **Pacientes con silicosis** sin evidencia de tuberculosis activa y con ITL.
+8. **Grupos especiales** con evidencia de infección reciente (viraje tuberculínico o conversión de IGRA en los últimos 2 años).
+
+Con el objetivo de prevenir la neuropatía periférica por isoniacida, se debe administrar piridoxina (vitamina B6) por vía oral a todos los pacientes en tratamiento de la ITL que presenten alguna de las siguientes condiciones: 
+- Embarazo, puerperio y lactancia: madres y lactantes alimentados con leche materna exclusiva.
+- Coinfección VIH.
+- Diabetes.
+- Dietas carenciales o desnutrición.
+- Enfermedad renal crónica. 
+
+
+### Diagnóstico de Tuberculosis
+
+| **Grupos Vulnerables a la Tuberculosis**                 | **Grupos Vulnerables a la Tuberculosis**                              |
+|----------------------------------------------------------|----------------------------------------------------------------------|
+| - Adultos mayores                                        | - Personas con dependencia al alcohol o drogas                       |
+| - Personas provenientes de países de alta incidencia     | - Personas en situación de calle                                     |
+| - Contactos de casos de tuberculosis                     | - Personas privadas de libertad                                      |
+| - Pacientes con VIH                                      | - Pueblos indígenas                                                  |
+| - Personas con diabetes mellitus                         | - Trabajadores expuestos a sílice o con silicosis                    |
+| - Personal de salud                                      | - Pacientes con otras inmunosupresiones                              |
+| - Poblaciones cerradas (hospederías, hogares de personas mayores, establecimientos psiquiátricos) | - Grupos con marginalidad socioeconómica |
+| - Territorios con alta incidencia de tuberculosis (tasas de incidencia sobre 50 por 100.000 habitantes) |                               |
+
+**Caso Presuntivo TB**: <span class= "dx" >PCR</span><span class= "sn" >Tos >= 15 días</span> y 1 o más de:
+- Pertenencia a uno de los grupos vulnerables para tuberculosis.
+- Fiebre.
+- Baja de peso.
+- Sudoración nocturna. 
+- Hemoptisis
+
+Si PCR (-) en CPT + persistencia síntomas, solicitar PCR + cultivo 
+
+**Sospecha Clínica de Tuberculosis Pulmonar (<span class= "dx" >PCR</span>):**
+- Presencia de síntomas de tuberculosis en pacientes con menos días de tos, con tos seca o sin tos (fiebre, baja de peso, sudoración nocturna, dificultad respiratoria)
+- Radiografía de tórax alterada con imágenes sospechosas de tuberculosis
+- Cuadros respiratorios agudos graves
+- Neumonías que no responden a antimicrobianos habituales
+
+<span class= "dx" >PCR + cultivo</span>:
+- contactos.
+- muestras extrapulmonares.
+- menores de 15 años.
+- personas con VIH.
+
+Sospecha micobacteria no tuberculosa: cultivo. TB extrapulmonar resorte de especialista, tomar muestras y **PCR + cultivo**.
+
+Tiempos máximos de entrega de resultados:
+- Prueba molecular: Máximo 48 horas hábiles.
+- Baciloscopía: Máximo 48 horas hábiles.
+- Cultivo líquido: Máximo 45 días.
+
+<span class= "dx" >Control de tratamiento con baciloscoía + cultivo mensual</span>
+
+En tratamiento por tuberculosis renal tendrán solo un control bacteriológico al cuarto mes para evaluación del tratamiento, con un cultivo líquido de una muestra de orina. En tuberculosis extrapulmonar de otros sitios no se realiza control bacteriológico.
+
+**Investigación de Contactos de Tuberculosis:**
+
+- **Contactos de 5 y más años:**
+  - Radiografía de tórax
+  - Muestra de esputo (si tiene tos con expectoración de cualquier duración)
+  - Prueba diagnóstica para ITL (PPD o IGRA)
+
+- **Contactos menores de 5 años:**
+  - Radiografía de tórax
+  - Evaluación con referente pediátrico del Servicio de Salud
+
+
 
 # Broncopulmonar
 ## Asma
+
+![criterios-asma](broncopulmonar/criterios-asma.png)
+
+### Control asma
+
+Evaluar síntomas y riesgo de exacerbación 
+![control-asma](broncopulmonar/control-asma.png)
+
+### Derivación a especialista
+
+Difficulty confirming the diagnosis of asthma 
+- Patient has symptoms of chronic infection, or features suggesting a cardiac or other non-pulmonary cause (Box 1-3, p.27) (immediate referral recommended).
+- Diagnosis is unclear, even after a trial of therapy with ICS or systemic corticosteroids.
+- Patient has features of both asthma and COPD, and there is doubt about priorities for treatment.
+
+Suspected occupational asthma 
+- Refer for confirmatory testing and identification of sensitizing or irritant agent, and specific advice about eliminating exposure and pharmacological treatment. See specific guidelines62 for details.
+ 
+Persistent or severely uncontrolled asthma or frequent exacerbations 
+- Symptoms remain uncontrolled, or patient has ongoing exacerbations or low lung function despite correct inhaler technique and good adherence with Step 4 treatment (medium-dose ICS-LABA, Box 4-6, p.77). Before referral, depending on the clinical context, identify and treat modifiable risk factors (Box 2-2, p.37; Box 3-5, p.55) and comorbidities (Section 6, p.117).
+- Patient frequently uses asthma-related health care, e.g., multiple ED visits or urgent primary care visits.
+- For more information, see Section 8 (p.139) on difficult-to-treat and severe asthma, including a decision tree
+
+Any risk factors for asthma-related death (see Box 9-1, p.160) 
+- Near-fatal asthma attack (ICU admission, or mechanical ventilation for asthma) at any time in the past
+- Suspected or confirmed anaphylaxis or food allergy in a patient with asthma
+
+Evidence of, or risk of, significant treatment side-effects 
+- Significant side-effects from treatment
+- Need for long-term oral corticosteroid use
+- Frequent courses of oral corticosteroids (e.g., two or more courses a year)
+
+Symptoms suggesting complications or sub-types of asthma 
+- e.g., aspirin-exacerbated respiratory disease (p.128); allergic bronchopulmonary aspergillosis (ABPA) (p.129)Additional reasons for referral in children 6–11 years 
+- Doubts about diagnosis of asthma e.g., respiratory symptoms are not responding well to treatment in a child who was born prematurely
+- Symptoms or exacerbations that remain uncontrolled despite medium-dose ICS (Box 4-2B, p.71) with correct inhaler technique and good adherence
+- Suspected side-effects of treatment (e.g., growth delay)
+- Concerns about the child’s welfare or well-being
+
+### Inhaladores
+
+| Age | Inhalers: mcg/inhalation metered dose [delivered dose] and maximum in any day | Dosing frequency by age group and treatment step |
+|---|---|---|
+| 6-11 years | Budesonide-formoterol 100/6 DPI [80/4.5] (maximum total 8 inhalations in any day) | Step 1-2 AIR-only: no evidence to date<br>Step 3 MART: 1 inhalation once daily plus 1 as needed<br>Step 4 MART: 1 inhalation twice daily, plus 1 as needed<br>Step 5 MART: not recommended |
+| 12-17 years | Budesonide-formoterol 200/6 [160/4.5] mcg DPI or PMDI (maximum total 12 inhalations in any day) | Step 1-2 (AIR-only): 1 inhalation as needed<br>Step 3 MART: 1 inhalation twice (or once) daily plus 1 as needed<br>Step 4 MART: 2 inhalations twice daily plus 1 as needed<br>Step 5 MART: 2 inhalations twice daily plus 1 as needed |
+| ≥18 years | Budesonide-formoterol 200/6 [160/4.5] or BDP-formoterol 100/6 mcg, PMDI or DPI (maximum total 12 inhalations in any day†) | Step 1-2 (AIR-only): 1 inhalation as needed†<br>Step 3 MART: 1 inhalation twice (or once) daily plus 1 as needed<br>Step 4 MART: 2 inhalations twice daily plus 1 as needed<br>Step 5 MART: 2 inhalations twice daily plus 1 as needed |
+
+
+| Inhalado corticosteroide (solo o en combinación con LABA) | Dosis diaria total de ICS (mcg) |
+|---|---|
+| Adultos y adolescentes (12 años y mayores) |  |
+| Beclometasona dipropionato (pMDI, partícula estándar, HFA) | 200-500, >500-1000, >1000 |
+| Beclometasona dipropionate (DPI o PMDI, extrafina partícula, HFA) | 100-200, >200-400, >400 |
+| Budesonida (DPI o PMDI, partícula estándar, HFA) | 200-400, >400-800, >800 |
+| Ciclesonida (PMDI, partícula extrafina, HFA) | 80-160, >160-320, >320 |
+| Fluticasona furoato (DPI) | 100, 200 |
+| Fluticasona propionato (DPI) | 100-250, >250-500, >500 |
+| Fluticasona propionato (PMDI, partícula estándar, HFA) | 100-250, >250-500, >500 |
+| Mometasona furoato (DPI) | Depende del dispositivo DPI - ver información del producto |
+| Mometasona furoato (PMDI, partícula estándar, HFA) | 200-400, >400 |
+| Niños 6-11 años - ver notas arriba (para niños de 5 años y menores, ver Box 11-3, p.191) |  |
+| Beclometasona dipropionato (PMDI, partícula estándar, HFA) | 100-200, >200-400, >400 |
+| Beclometasona dipropionato (PMDI, partícula extrafina, HFA) | 50-100, >100-200, >200 |
+| Budesonida (DPI o PMDI, partícula estándar, HFA) | 100-200, >200-400, >400 |
+| Budesonida (nebúlos) | 250-500, >500-1000, >1000 |
+| Ciclesonida (PMDI, partícula extrafina*, HFA) | 80, >80-160, >160 |
+| Fluticasona furoato (DPI) | 50, n.a. |
+| Fluticasona propionato (DPI) | 50-100, >100-200, >200 |
+| Fluticasona propionato (PMDI, partícula estándar, HFA) | 50-100, >100-200, >200 |
+| Mometasona furoato (PMDI, partícula estándar, HFA) | 100, 200 |
+
+General principles of stepping down asthma treatment 
+
+- Consider stepping down when asthma symptoms have been well controlled and lung function has been stable for at least 3 months (Evidence D). If the patient has risk factors for exacerbations (Box 2-2, p.37), for example a history of exacerbations in the past year,421 or persistent airflow limitation, step down only with close supervision.
+- Choose an appropriate time (no respiratory infection, patient not travelling, not pregnant).
+- Approach each step as a therapeutic trial: engage the patient in the process, document their asthma status (symptom control, lung function and risk factors, Box 2-2, p.37), provide clear instructions, provide a written asthma action plan (Box 9-2, p.162) and ensure the patient has sufficient medication to resume their previous dose if necessary, monitor symptoms and/or PEF, and schedule a follow-up visit (Evidence D).
+- Stepping down ICS doses by 25–50% at 3-month intervals is feasible and safe for most patients (Evidence A)
 ![gina asma inicio](/broncopulmonar/gina_starting_treatment.png)
 ![gina asma mantenimiento](/broncopulmonar/gina_tto_asma.png)
-## Dosis corticoides
+
+### Exacerbaciones o empeoramiento
+
+Ajuste si empeoramiento de síntomas
+![ajuste-si-empeora](broncopulmonar/ajuste-si-empeora.png)
+
+![exacerbacion-asma](broncopulmonar/exacerbacion-asma.png)
+
+### Dosis corticoides
 Ejemplo presentación y dosis media: budesonida-formoterol 200/6 mcg 2 puff inhalada 2 veces al día
 ![gina dosis corticoides](/broncopulmonar/gina_dosis.JPG)
 ## Insuficiencia respiratoria aguda
 ![formulas ira](/broncopulmonar/formulas_insuficiencia_respiratoria.jpg)
+
+## IRA baja
+
+## IRA alta
 
 # Geriatría
 ![criterios de beers](/Beers critera.jpeg)
