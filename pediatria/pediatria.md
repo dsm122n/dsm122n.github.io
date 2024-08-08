@@ -742,6 +742,12 @@ Dx clínico de alteraciones hemostasia primaria vs secundaria
 
 ![dx_alt_hemostasia](dx_alt_hemostasia.png)
 
+## Anemia
+
+Beta talasemia: 
+- Anemia microcítica hipocrómica (con índice de Mentzer VCM/recuento eritrocitario <13 )
+- Hiperbili inderecta
+- Hematopoiesis extramedular (Extramedullary hematopoiesis often occurs as a compensatory mechanism in patients with chronic anemia and commonly involves the liver, spleen, and lymph nodes and can also affect the bones (e.g., skull) and paravertebral areas, causing spinal cord compression, which can lead to lower extremity weakness, hyperreflexia, and decreased sensation below the level of compression. Extramedullary hematopoiesis in the spleen and liver is physiological during fetal development but is always pathological after birth.)
 
 # Epilepsia
 

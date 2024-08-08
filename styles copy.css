@@ -449,3 +449,16 @@ a.sidebar-link:hover {
     padding: 0em 0.25em;
     font-weight: bold;
 }
+
+div.sn{
+    background-color: #ffa4f1;
+    color: #565656;
+    border-radius: .25em;
+    padding: 0em 0.25em;
+}
+div.dx{
+    background-color: #a4f1ff;
+    color: #565656;
+    border-radius: .25em;
+    padding: 0em 0.25em;
+}
