@@ -396,8 +396,10 @@ a.sidebar-link:hover {
         padding: 0;
         overflow-x:scroll;
         scrollbar-width:thin;
+        
     
     }
+
     #dismiss {
         width: 35px;
         height: 35px;
@@ -443,7 +445,7 @@ a.sidebar-link:hover {
 }
 /* tratamiento */
 .tto{
-    color: #91eb94;
+    color: #446823;
     background-color: #b5b5b5;
     border-radius: .25em;
     padding: 0em 0.25em;
@@ -462,3 +464,15 @@ div.dx{
     border-radius: .25em;
     padding: 0em 0.25em;
 }
+div.tto{
+    background-color: #a4ffcc;
+    color: #565656;
+    border-radius: .25em;
+    padding: 0em 0.25em;
+}
+
+.heatmap-0 { background-color: #440154; color: white; }
+.heatmap-1 { background-color: #3b528b; color: white; }
+.heatmap-2 { background-color: #21908c; color: black; }
+.heatmap-3 { background-color: #5ec962; color: black; }
+.heatmap-4 { background-color: #fde725; color: black; }
