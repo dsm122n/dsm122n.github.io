@@ -1059,39 +1059,33 @@ Dx diferencial:
 - Torsión de hidátides (más en prepuberales)
 - Orquiepididimitis (por lo general más virales)
 
-- Torsión testicular:
+
+Torsión testicular:
   - Presentación bimodal: neonatal y pospuberal (Tanner III)
-  - Clínica: <b><span style="color:#7707aa">dolor testicular</span></b>, náuseas, vómitos, dolor abdominal, signo de Prehn negativo
+  - Clínica: <span class="sn">dolor testicular</span>, náuseas, vómitos, dolor abdominal, signo de Prehn negativo
   - Otros EF: testículo ascendido, horizontalizado, dolor a la palpación del cordón espermático, signo de prehn negativo (sin alivio dolor a la elevación), 
   - Dx: Eco doppler
   - Tto: quirúrgico
 
 
-- Torsión de hidátides:
+Torsión de hidátides:
   - Presentación: prepuberal
-  - Clínica: <b><span style="color:#7707aa">dolor testicular más leve (molestia)</span></b>, más localizado
-  - Otros EF: <b><span style="color:#7707aa">Hidrocele reactivo</span></b>
+  - Clínica: <span class="sn">dolor testicular más leve (molestia)</span>, más localizado
+  - Otros EF: <span class="sn">Hidrocele reactivo</span>
   - Dx: Eco doppler
   - Tto: quirúrgico
 
-- Orquiepididimitis:
-  - Presentación: <b><span style="color:#7707aa">más en prepuberales</span></b>
+Orquiepididimitis:
+  - Presentación: <span class="sn">más en prepuberales</span>
   - FR: Malformación vías urinarias, ITU, ...
-  - Clínica: <b><span style="color:#7707aa">dolor testicular más leve (molestia)</span></b>, fiebre, dolor abdominal, disuria, polaquiuria, náuseas, vómitos
-  - Otros EF: <b><span style="color:#7707aa">Hidrocele reactivo</span></b>
+  - Clínica: <span class="sn">dolor testicular más leve (molestia)</span>, fiebre, dolor abdominal, disuria, polaquiuria, náuseas, vómitos
+  - Otros EF: <span class="sn">Hidrocele reactivo</span>
   - Dx: Eco doppler
   - Tto: antibióticos
 
-  ### Testículo no descendido
 
-  Signos tróficos boslillo escrotal: 
-  Ecografía es sub
 
-  ### Testículo retractil
-  - Que suba sin tensión
-  - simétrico
 
-  Cx: Conversión a criptorquidea (criptorquidea adquirida), 
 ### Disfunción vesical y enuresis
 
 Capacidad vesical = volumen miccional + residuo postmiccional
@@ -1099,11 +1093,92 @@ Capacidad vesical estimada (CVE) fórmulas:
 - CVE = 30 + (30 x edad en años) en ml entre 1 y 12 años. Luego aprox 390
 - (hay más fórmulas)
 
-Volumen miccional pequeño: <b><span style="color:#7707aa">menor a 65% de la CVE</span></b>
+Volumen miccional pequeño: <span class="sn">menor a 65% de la CVE</span>
 
-Vol miccional grande: <b><span style="color:#7707aa">mayor a 150% de la CVE</span></b>
+Vol miccional grande: <span class="sn">mayor a 150% de la CVE</span>
 
-Residuo postmiccional elevado: <b><span style="color:#7707aa">mayor a 20  ml</span></b>
+Residuo postmiccional elevado: <span class="sn">mayor a 20  ml</span>
+
+### Tiempos derivación cosas comunes
+
+<table>
+  <tr>
+	<th>Patología</th>
+	<th>Momento de derivación</th>
+	<th>Observaciones</th>
+  </tr>
+  <tr>
+	<td>Hernia inguinal indirecta y femoral</td>
+	<td>derivar <span class= "dx" >al diagnóstico</span></td>
+	<td>Atascamiento <span class= "tto" >Cx en 48 horas </span> <br><br> Estrangulamiento <span class= "tto" >Cx urgente</span></td>
+  </tr>
+  <tr>
+	<td>Hernia umbilical para tto qx</td>
+	<td colspan="2">
+		<li> >5 años
+		<li> > 2 cm de diametro
+		<li> Sintomática (dolor)
+	</td>
+  </tr>
+  <tr>
+  	<td>Hidrocele Comunicante</td>
+	<td>Dg es clínico, apoyo img. <span class= "tto" >tto expectante</span></td>
+	<td>Derivar por indicación qx: 
+		<li> Gigante
+		<li> Sintomático
+		<li> <span class= "dx" >> 18 meses</span>
+	</td>
+	  </tr>
+  <tr>
+  	<td>Hidrocele no comunicante <br> quiste del cordón(dx hernia atascada)</td>
+	<td> Para todos.
+		<li> <span class= "dx" >Eco testicular para diagnóstico diferencial</span>
+		<li> Cirugía
+		<li> Ojo en (pre)puberal
+	</td>
+	<td>
+		Etiologías:
+		<li> idiopático	
+		<li> inflamatoria
+		<li> traumática
+		<li> neoplásica
+	</td>
+	  </tr>
+  <tr>
+  	<td>Varicocele</td>
+	<td colspan="2"> Cx si:
+		<li> <span class= "tto" >Dolor</span>
+		<li> <span class= "tto" >Asimetría</span> testicular(Δ ↓ 20% vs contralateral)
+	</td>
+  </tr>
+  <tr>
+  	<td> Testiculo no descendido (debería descender < 4 meses)</td>
+	<td> Si palpable, cirugía si:
+		<li> Compromiso <span class= "sn" >volumen</span> crecimiento testicular en 2 o más controles ecográficos o se vuelve criptorquídico 
+		<li> Para obtener el volumen, se puede utilizar la Fórmula de Lambert: (Largo x Ancho X Alto) x 0,71, que expresa el valor en ml. Al ser un proceso dinámico, se hará <span class= "dx" >seguimiento ecográfico 6 meses después</span> idealmente mismo ecografista.
+		<br>
+		Si no palpable, <span class= "dx" >eco inguinal</span> y derivar si persiste > 4 meses
+	</td>
+	<td>
+		En primeros 3 meses de vida se carece de reflejo cremastérico, puede ser más fácil el examen <br>
+		El testículo no descendido (TND) puede bajar a su ubicación normal hasta los 4 meses de edad (explicado por la alza hormonal de los primeros meses de vida o “mini pubertad”); dado que el <span class= "sn" >daño a nivel histológico puede comenzar desde los 6 meses</span>, éste es plazo para mantener una conducta expectante. Luego de este tiempo, es necesario realizar <span class= "tto" >tratamiento, idealmente antes de los 12-18 meses</span>, para minimizar las complicaciones mencionadas. 
+	</td>
+  </tr>
+  <tr>
+	<td> Fimosis</td>
+	<td> Circuncisión si si:
+		<li> <span class= "dx" >> 4 años</span>
+		<li> <span class= "dx" >Balanitis</span> a repetición
+		<li> <span class= "sn" >Parafimosis</span>
+		<li> ITU en menores de 1 año
+	</td>
+	<td> Corticoides tópicos (<span class= "tto" >betametasona 0.05%</span> 2 veces al día por 4 a 8 semanas [un cx infantil la dejaba mes por medio y le resultaba]) puede ser útil en adherencias balanoprepuciales
+	</td>
+  </tr>
+</table>
+
+
+
 
 # Politrauma
 

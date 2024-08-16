@@ -43,7 +43,12 @@
 
                 <ul class="nav nav-pills navbar-dark bg-dark" >
                     <li class="nav-item"><a class="nav-link" data-bs-toggle="pill" href="#inicio" onclick="loadMD('medi.md')" id="medi-especialidades">Medicina interna 💊🩺</a></li>
-                    <li class="nav-item"><a class="nav-link" data-bs-toggle="pill" href="#" onclick="loadMD('otras_especialidades/oftalmo.md')" id="oftalmo">Oftalmo 👓</a></li>
+                    <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" id="emq">EMQ</a>
+                        <ul class="dropdown-menu" data-bs-theme="dark">
+                            <li class="nav-item"><a class="nav-link" data-bs-toggle="pill" href="#" onclick="loadMD('otras_especialidades/oftalmo.md')" id="oftalmo">Oftalmo 👓</a></li>
+                            <li class="nav-item"><a class="nav-link" data-bs-toggle="pill" href="#" onclick="loadMD('otras_especialidades/urologia.md')" id="Urologia">Urología</a></li>
+                        </ul> 
+                    </li>
                     <li class="nav-item"><a class="nav-link" data-bs-toggle="pill" href="#" onclick="loadMD('cardiologia/criterios_ecg/README.md')" id="ecg">ECG criterios 🫶</a></li>
                     <li class="nav-item"><a class="nav-link" data-bs-toggle="pill" href="#" onclick="loadMD('cirugia/cirugia.md')" id="cirugia">Cirugía 🔪</a></li>
                     <li class="nav-item"><a class="nav-link" data-bs-toggle="pill" href="#" onclick="loadMD('urgencias/urgencias.md')" id="urgencias">Urgencias 🏥</a></li>
@@ -64,7 +69,7 @@
                                 <!-- <li class="nav-item"><a class="dropdown-item" data-bs-toggle="pill" href="#formatos_ingresos" onclick="loadMD('formatos.md')" id="medi-especialidades">Plant</a></li> -->
                             </ul>
                     </li>
-                    <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" id="psiq">psiq</a>
+                    <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" id="psiq">Psiquiatría</a>
                         <ul class="dropdown-menu" data-bs-theme="dark">
                             <li class="nav-item"><a class="dropdown-item" data-bs-toggle="pill" href="#inicio" onclick="loadMD('psiquiatria/ps_adulto.md')">Adulto </a>
                             <li class="nav-item"><a class="dropdown-item" data-bs-toggle="pill" href="#inicio" onclick="loadMD('psiquiatria/ps_infanto_juvenil.md')">Infanto juvenil</a></li>

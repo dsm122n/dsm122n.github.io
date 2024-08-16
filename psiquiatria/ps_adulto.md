@@ -1015,3 +1015,83 @@ La siguiente debería ser la misma tabla, la transcribió chat gpt y le puse col
 </table>
 
 
+## Antipsicóticos
+
+Bloqueo receptores D2
+
+Típicos (o neurolépticos) --> "planchan" al paciente 
+    - reducción de afecto, interes del entorno, etc
+    - neuroléptico != antipsicótico
+
+Atípicos (no son neurolépticos)
+
+Vías dopaminérgicas:
+ - Mesolímbica (hiperactivada en psicosis): síntomas positivos
+ - Mesocortical (hipoactivada en psicosis): síntomas negativos
+ - Nigroestriatal (alterada en parkinson, no psicosis). Enf de parkinson va a ser asimétrico usualmente. Parkinsonismo farmacológico va a ser simétrico
+ - Infundibular: inhibe secreción de prolactina. No alterada en psicosis
+
+### Efectos colaterales
+
+Encasillarlos en 4 categorías:
+
+Bloqueo D2: 
+Antagonismo muscarínico: 
+Antagonismo alfa-1:
+Antagonismo H1:
+
+### Clasificación en base a potencia para antipsicóticos típicos
+
+- Mayor potencia D2 con menor bloqueo de otros receptores (logran mejor control de psicosis como tal), ej Haloperidol, Flufenazina, Pimozida
+- Menor potencia D2 con mayor bloqueo de otros receptores (p ej más sedación), ej: Clorpromazina
+
+### Atípicos
+
+Se puede cambiar afinidad por D2
+
+Se puede añadir efecto de bloqueo 5-HT2A: estas neuronas están conectadas a vías dopaminérgicas mesocorticale, nigroestriatal e infundibular, pero no a la mesolímbica.
+- Bloqueo 5-HT2A: se desinhibe la liberación de dopamina en esas vías
+
+#### Quetiapina
+
+#### Olanzapina
+
+#### Clozapina
+
+Ojo: agranulocitosis (hemograma semanal primeras 12 semanas, luego mensual)
+Esquizofrenia resistente o diskinesia tardía
+
+#### Aripiprazol
+
+Agonisita parcial D2, antagonista 5-HT2A
+
+## Estabilizador del ánimo
+
+Tratan episodios anímicos sin que se conviertan en manía o depresión
+
+### Litio
+
+Tiene mucha evidencia en eficacia 
+
+Eliminación renal, por lo que hay que tener cuidado en ERC
+
+RAM:
+- Puede ser nefrotóxico (nefritis intersticial)
+
+Controlar cada 3 a 4 meses niveles de:
+- Litemia y Creatinina
+- Medir litemia 7 días después de alcanzar dosis terapéutica
+
+Sobre todo eficaz en manía eufórica
+
+### Algunos anticonvulsivantes: Acido valproico, Carbamazepina, Lamotrigina
+
+Acido valpróico, no mucha evidencia para fase depresiva. Más para <span class= "tto" >fases maníacas</span> (disfóricas, y otras manías raras)
+
+Carbamazepina: más para <span class= "tto" >fases depresivas</span> ojo, indicación de estudio farmacocinético (un alelo de HLA, pero no es frecuente en nuestra población. Muy frecuente en Chinos ¿Han?), puede causar Sd de Stevens-Johnson. No dar como si nada en chinos
+
+Lamotrigina: útil en <span class= "sn" >depresión</span> bipolar. Más para mantenimiento. Puede dar rash pero más benigno que el de carbamazepina. <span class= "tto" >Debe iniciarse lento</span>con aumento de 25mg / día cada semana. Dosis de mantenimiento 200 mg/día, por lo tanto, tarda 8 semanas en llegar a dosis de mantenimiento.
+
+Oxcarbazepina tb se puede usar
+
+### Antipsicóticos atípicos
