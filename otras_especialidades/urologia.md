@@ -395,3 +395,114 @@ Change urinary pH: depends on stone composition
     - Used to prevent recurrence of calcium phosphate and struvite stones
 
 <span class= "sn" >Low calcium diets</span> increase the risk of calcium-containing stone formation because they increase oxalate reabsorption.
+
+# Ca próstata
+
+APE producido por c neoplásicas está ligado a proteínas. APE benigno se encuentra libre en el plasma. 
+- Si prostata grande (>50cc), Elevación discreta APE 4-10 ng/mL si APE libre/APE total < 0.18, sugiere cáncer de próstata, indicación de Bp
+
+<div class= "dx" >
+Frente a elevación APE, ya no se recomienda utilizar APE libre/APE total para diferenciar entre cáncer de próstata y HPB (y definir Bp), sino que se recomienda realizar <span class= "dx" >RM multiparamétrica de próstata</span>. Se determina PIRADS:
+<li> PIRADS 3, 4 o 5 se biopsian
+
+</div>
+
+# Hiperplasia prostática benigna
+
+## Síntomas 
+Obstructivos:
+- Frequencia urinaria aumentada
+- Urgencia
+- Nicturia
+- Disuria ocasional
+
+Irritativos (hiperactividad del detrusor durante el llenado):
+- Chorro débil (Weak stream)
+- Esfuerzo para iniciar micción
+- Chorro intermitente
+- Goteo postmiccional
+- Tenesmo vesical
+- RAO
+
+<div class= "sn" >
+To remember the symptoms of BPH, think “FUNWISE”: Frequency, Urgency, Nocturia, Weak stream /hesitancy, Intermittent stream, Straining to urinate, and Emptying (not emptying completely, terminal dribbling).
+
+</div>
+
+## Evaluación severidad
+
+Con escalas usualmente autoaplicables:
+- IPSS (International Prostate Symptom Score), tb evalúa impacto en calidad de vida: 
+    - 0-7: leve, 
+    - 8-19: moderado, 
+    - 20-35: severo
+- American Urological Association Symptom Index for BPH (AUA-SI)
+
+## APE
+
+- > 1.5 ng/mL: sugiere prostata grande > 40 cc
+- > 4 ng/mL: más P(Ca próstata)
+
+<span class= "sn" >Any elevation in serum PSA levels in patients receiving 5-ARI therapy should increase suspicion for prostate cancer.</span>
+
+## Tratamiento
+
+RAO: instalar S foley permanente, observar que no haga complicaciones (ej poliuria post-obstructiva, hematuria exvacuo), alta con derivación a urología por indicación prostatectomía
+
+En la práctica solo existen otro 2 escenarios posibles:
+- Sintomáticos sin marcadores de progresión --> <span class= "tto" >antagonistas alfa adrenérgicos</span>
+- Sintomáticos + marcadores de progresión (próstata > 35 cc o APE > 1.5 ng/mL) --> terapia dual <span class= "tto" >inhibidores de 5-alfa reductasa + antagonistas alfa adrenérgicos</span>
+
+Respuesta tamsulosina (antagonista alfa adrenérgico) inmediata, 5-ARI (inhibidores de 5-alfa reductasa) tarda 6 meses en ver efecto
+
+![tto_fco_hpb](tto_fco_hpb.png)
+
+- BOO: síntomas de Blader outlet obstruction (FUN)
+- OAB: síntomas de Overactive bladder (WISE)
+
+
+<div class= "sn" >
+Antimuscarinics should be used with caution in patients with a PVR volume > 250 mL as they can decrease bladder strength and potentially lead to urinary retention.
+</div>
+
+Cirugía solo si persiste sintomático o existe complicación 
+
+## Complicaciones de la HBP
+Las más frecuentes
+
+<div class= "sn" >
+<ol>
+
+<li> ITU recurrente
+<li> Retención urinaria aguda
+<li> Cálculos
+<li> Hidronefrosis
+<li> ERC
+<li> Macro hematuria
+</ol>
+</div>
+
+# Uretritis 
+
+Tto empírico con clínica para uretritis gonocócica y no gonocócica:
+- Estudio con PCR ITS
+- Ceftriaxona 250 mg IM dosis única (o 500 mg)
+- Azitromicina 1 g dosis única
+- Tratar pareja sexual idem
+
+# Tratamiento condilomas acuminados
+
+![tto_condilomas](tto_condilomas.png)
+
+# Disfunción eréctil
+
+1° descartar funcionalidad de la disfunción (Erecciones nocturnas, con otras parejas, durante masturbación)
+
+Confirmada organicidad, y sin contraindicación actividad sexual (Capacidad funcional I, sin comorbilidad cardiovascular **descompensada**, sin uso de nitratos):
+1. IFD5: fracaso luego de intentar almenos 2 veces con 2 IFD5 diferentes, con uso adecuado. Ojo son vasodilatadores, cardiopatía isquémica son 
+    - Sildenafil (50 y 100 mg, vida media 3 a 5 horas). Uso a demanda. Partir con 100 mg, si buena respuesta se puede intentar disminuir dosis
+    - Tadalafil (5 y 20 mg, vida media 36 horas). 20 mg se usa a demanda, 5 mg diario. Profe usa más tadalafil 5 mg diario para que pueda en cualquier momento. 
+    - Vardenafil
+2. Bombas de vacío
+3. Alprostadil intracavernoso (o intrauretral)
+4. Protesis penianas (maleables o hidráulicas)

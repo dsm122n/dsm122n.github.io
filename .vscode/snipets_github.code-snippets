@@ -63,7 +63,32 @@
 		],
 		"description": "span para estudios y diagnosticos diferenciales"
 
-	}
+	},
+	"div clase para estudios y diagnsoticos diferenciales": {
+		"prefix": "div_dx",
+		"body": [
+			"<div class= \"dx\" >\n$1\n</div>",
+		],
+		"description": "div para estudios y diagnosticos diferenciales"
+
+	},
+	"div clase para cosas malas": {
+		"prefix": "div_sn",
+		"body": [
+			"<div class= \"sn\" >\n$1\n</div>",
+		],
+		"description": "div para cosas malas, sintomas, signos, etc"
+
+	},
+	"div clase para cosas buenas": {
+		"prefix": "div_tto",
+		"body": [
+			"<div class= \"tto\" >\n$1\n</div>",
+		],
+		"description": "div para cosas buenas"
+
+	},
+
 	// viridis 5 colors
 	
 	//yellow

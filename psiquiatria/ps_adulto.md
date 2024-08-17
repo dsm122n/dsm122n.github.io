@@ -102,17 +102,19 @@ Velocidad: Taquipspsiquia/bradipsiquia
 Alteraciones: 
 ### Esturctura o forma: 
 <span class= "dx" >Cómo se cuenta</span>
+
 Observar si logra meta comunicativa y evaluar cómo están enlazadas las asociaciones
-    - detallista - circunstancial
-    - Perseverativo
-    - Tangencial
-    - Pararrespuesta
-    - Escamoteador
-    - Contreto
-    - Poble
-    - Laxo 
-    - Disgegado
-    - Incoherente
+- detallista 
+- circunstancial
+- Perseverativo
+- Tangencial
+- Pararrespuesta
+- Escamoteador
+- Contreto
+- Poble
+- Laxo 
+- Disgegado
+- Incoherente
 
 ### Contenido
 
@@ -606,6 +608,158 @@ Trastornos mentales
 ## Toxindromes
 ![toxindromes](toxindromes.png)
 
+# Esquizofrenia
+
+Alteración del pensamiento sin alteración del estado de conciencia
+
+- Síntomas positivos: alucinaciones, delirios, pensamiento desorganizado, comportamiento desorganizado
+- Síntomas negativos: aplanamiento afectivo, abulia, anhedonia, alogia, avolición
+- neurológicos blandos
+- Cognitivos 
+- Afectivos
+
+Patología GES por altos costos. Por lo general inicio a temprana edad (adolescencia o adulto joven). AVISA alto. En Chile más prevalencia en mujeres (!= resto del mundo). Pronóstico peor en hombres, mujeres más prevalencia síntomas negativos.
+
+## Fisiopatología
+
+3 hipótesis:
+- Dopaminérgica: exceso de dopamina en vías mesolímbica y deficit en vías mesocorticales
+- Glutamatérgica: río arriba de dopaminérgica
+- Gabaergica: no muy descrita
+
+## Diagnóstico
+
+Clínico CIE-10 o DSM-V. No hay biomarcadores
+
+![dg_esquizo](dg_esquizo.png)
+
+<span class= "dx" >Ojo con paciente que previo a TUS inicia con retraimiento social (funcionamiento social previo)</span>. Tb indagar en motivos de consumo
+
+Dónde hospitalizar, importante <span class= "sn" >evaluar NIVEL DE ATENCIÓN</span> y estado de conciencia (cuali o cuantitativo). Si atención alterada, pensar en causas orgánicas/neurológicas, hospitalizar y estudiar primero lo **neurológico**. 
+
+Por lo general lo van a llevar los familiares por la <span class= "sn" >agresión</span>. Pero tb considerar EQZ por otros síntomas como pensamiento desorganizado, alucinaciones, etc. Tienden a agitarse cuando se sienten amenazados, cuidado que uno como personal de salud puede ser percibido como amenaza. 
+
+Tener ojo también con pacientes que se empiezan a retraer, aislarse de amistades, dejan de alimentarse, se cambian de carreras universitarias o no la terminan.
+
+Ojo diferencia entre síntomas afectivos y negativos
+
+<table border="1" cellspacing="0" cellpadding="5">
+  <thead>
+    <tr>
+      <th>Categoría de Síntomas</th>
+      <th>Síntomas</th>
+      <th>Explicación</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Síntomas Positivos</td>
+      <td>
+        <ul>
+          <li>Ideas delirantes</li>
+          <li>Alucinaciones</li>
+          <li>Síntomas catatónicos</li>
+          <li>Agitación</li>
+        </ul>
+      </td>
+      <td>
+        Incluyen distorsiones de la realidad, pensamientos y conductas desorganizadas. Estos síntomas añaden algo nuevo al comportamiento y la experiencia del individuo.
+      </td>
+    </tr>
+    <tr>
+      <td>Síntomas Negativos</td>
+      <td>
+        <ul>
+          <li>Afecto embotado o aplanamiento afectivo</li>
+          <li>Retraimiento emocional</li>
+          <li>Retraimiento social</li>
+          <li>Apatía</li>
+          <li>Pasividad</li>
+          <li>Falta de espontaneidad</li>
+          <li>Pensamiento estereotipado</li>
+          <li>Alogia (limitación en la fluidez y la productividad del discurso y pensamiento)</li>
+          <li>Avolición (restricción en la iniciación de la conducta frente a un objeto)</li>
+          <li>Anhedonia</li>
+          <li>Deterioro atencional</li>
+        </ul>
+      </td>
+      <td>
+        Representan una disminución o ausencia de funciones normales, a menudo llamados síntomas deficitarios. Se caracterizan por una reducción en la expresión emocional, la motivación y la interacción social.
+      </td>
+    </tr>
+    <tr>
+      <td>Síntomas Cognitivos</td>
+      <td>
+        <ul>
+          <li>Déficit de atención</li>
+          <li>Déficit en la memoria</li>
+          <li>Déficit en el procesamiento de la información</li>
+          <li>Pobreza ideativa (dificultad en elaborar nuevas ideas)</li>
+          <li>Déficit en funciones ejecutivas (problemas para estructurar una meta, concentrarse, priorizar, ordenar, evaluar, adaptarse)</li>
+        </ul>
+      </td>
+      <td>
+        Afectan las capacidades cognitivas como la atención, la memoria y las funciones ejecutivas. Estos síntomas suelen preceder a los síntomas positivos y afectan múltiples áreas de la cognición.
+      </td>
+    </tr>
+    <tr>
+      <td>Síntomas Afectivos y Ansiosos</td>
+      <td>
+        <ul>
+          <li>Disforia (irritabilidad, preocupación, tensión, etc.)</li>
+          <li>Humor depresivo</li>
+          <li>Desesperanza</li>
+          <li>Ideas e intentos suicidas</li>
+          <li>Hostilidad</li>
+          <li>Impulsividad</li>
+        </ul>
+      </td>
+      <td>
+        Incluyen alteraciones del estado de ánimo y ansiedad. Son comunes en la esquizofrenia y necesitan un tratamiento específico.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+## Diagnóstico diferencial
+
+Otros trastornos que pueden cursar con psicosis 
+
+En un primer episodio psicótico es fundamental descartar especialmente:
+- el riesgo suicida, 
+- la presencia de un trastorno del ánimo y 
+- el abuso de sustancias psicoactivas
+
+![dx_sqz](dx_sqz.png)
+
+## Exámenes complementarios
+
+![lab_sqz](lab_sqz.png)
+
+## Tratamiento
+- Pesquiza precoz
+- Diagnóstico correcto
+- Inicio temprano de un tratamiento que integre factores psicosociales y farmacológicos
+
+Ojo, después de cada brote psicótico hay un deterioro cognitivo.
+
+<span class= "tto" >Agitación activa aguda: Haloperidol IM + Lorazepam</span>. No Haloperidol EV por riesgo alargar QT. Puede demorar como 30 minutos en hacer efecto. Después de 30 minutos si persiste la agitación, se puede repetir la dosis de Haloperidol.
+
+Alternativas: Olanzapina IM si servicio es cuico, Clorpromazina (cuidado con hipotensión, dejarlo en decúbito con piernas elevadas).
+
+# Psicosis
+
+Ambivalencia: "quiero dejar de fumar, pero no puedo"
+Ambivalencia psicótica: Sostiene dos posturas contradictorias, pero no logra decidirse por ninguna de las dos.
+    - "Tal vez es un problema psicológico" "fue un despertar de mi intuición"
+
+To remember the different types of delusions (Grandiosity, Erotomanic, Ideas of reference, Paranoid, Persecutory, Somatic, Jealousy), think: “Grand, Erotic Ideas can cause Paranoia, Persecution and So much (so-ma-tic) Jealousy.”
+
+Cuando un paciente con psicosis se le trata, interpretación de los pensamientos delirantes va perdiendo fuerza, pero al preguntarle sobre lo que pasó y lo que cree de eso, se mantiene firme en su creencia. Se puede en
+
+Para definir delirio, la certeza apodíptica no es lo central. Lo central es la afectividad sobre las ideas delirantes. 
+
 # Psicofármacos
 
 ![antidepresivos_perfiles](antidepresivos_perfiles.png)
@@ -1095,3 +1249,5 @@ Lamotrigina: útil en <span class= "sn" >depresión</span> bipolar. Más para ma
 Oxcarbazepina tb se puede usar
 
 ### Antipsicóticos atípicos
+
+Aripiprazol menor riesgo de hiperprolactinemia

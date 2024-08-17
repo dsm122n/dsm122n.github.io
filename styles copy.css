@@ -23,6 +23,28 @@
     --width-content: 1080px;
 }
 
+h1 {
+    font-size: 2em;
+    font-weight: bold;
+    margin: 0.67em 0;
+    border-bottom: 1px solid #fff36c;
+}
+h2 {
+    font-size: 1.5em;
+    font-weight: bold;
+    margin: 0.83em 0;
+    padding: 0 0.5em;
+    border-left: 5px solid #fff36c;
+}
+
+h3 {
+    font-size: 1.17em;
+    font-weight: bold;
+    margin: 1em 0;
+    padding: 0 1em;
+    
+}
+
 body {
     background: var(--color-bg);
     color: var(--color-text);
@@ -429,44 +451,50 @@ a.sidebar-link:hover {
 }
 /* sintomas y FR */
 .sn{
-    color: #bf00a2af;
-    background-color: #b5b5b5;
+    /* color: #bf00a2af;
+    background-color: #b5b5b5; */
+    background-color: #3b003390;
+    color: #f8c0f0;
     border-radius: .25em;
     padding: 0em 0.25em;
     font-weight: bold;
 }
 /* diagnósticos diferenciales y tratamiento*/
 .dx{
-    color: #4e829a;
-    background-color: #d8d8d8;
+    /* color: #4e829a;
+    background-color: #d8d8d8; */
+    background-color: #00303896;
+    color: #a4f1ff;
     border-radius: .25em;
     padding: 0em 0.25em;
     font-weight: bold;
 }
 /* tratamiento */
 .tto{
-    color: #446823;
-    background-color: #b5b5b5;
+    /* color: #446823;
+    background-color: #b5b5b5; */
+    background-color: #0052238c;
+    color: #a4ffcc;
     border-radius: .25em;
     padding: 0em 0.25em;
     font-weight: bold;
 }
 
 div.sn{
-    background-color: #ffa4f1;
-    color: #565656;
+    background-color: #3b003390;
+    color: #f8c0f0;
     border-radius: .25em;
     padding: 0em 0.25em;
 }
 div.dx{
-    background-color: #a4f1ff;
-    color: #565656;
+    background-color: #00303896;
+    color: #a4f1ff;
     border-radius: .25em;
     padding: 0em 0.25em;
 }
 div.tto{
-    background-color: #a4ffcc;
-    color: #565656;
+    background-color: #0052238c;
+    color: #a4ffcc;
     border-radius: .25em;
     padding: 0em 0.25em;
 }
