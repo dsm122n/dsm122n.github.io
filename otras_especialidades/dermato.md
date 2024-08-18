@@ -87,3 +87,7 @@ Ojo con histiocitosis de células de Langerhans, que puede presentarse como derm
 </td> </tr>
 </tbody>
 </table>
+
+# Liquen Plano
+
+The 6 P's of lichen Planus are: Pruritic, Polygonal, Planar (flat-topped), Purple Papules, and Plaques.
