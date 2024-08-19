@@ -28,6 +28,8 @@ h1 {
     font-weight: bold;
     margin: 0.67em 0;
     border-bottom: 1px solid #fff36c;
+
+    
 }
 h2 {
     font-size: 1.5em;
@@ -343,7 +345,7 @@ a.sidebar-link:hover {
         width: 100%;
     }
     #content{
-        width: 100%;
+        width: 90%;
         margin: 0;
         position: absolute;
         top: auto;
@@ -409,7 +411,8 @@ a.sidebar-link:hover {
         background-color: #00000089;
     }
     .table{
-        width: 100vw !important;
+        width: max-content;
+        table-layout: auto;
         position: relative;
         border-collapse: collapse;
         border-spacing: 0;
@@ -485,18 +488,38 @@ div.sn{
     color: #f8c0f0;
     border-radius: .25em;
     padding: 0em 0.25em;
+
+    max-width: 900px;
+    align-content: center;
+    text-align: justify;
+    align-self: center;
+    text-justify: inter-word;
+    margin: 1em auto;
 }
 div.dx{
     background-color: #00303896;
     color: #a4f1ff;
     border-radius: .25em;
     padding: 0em 0.25em;
+
+    max-width: 900px;
+    align-content: center;
+    text-align: justify;
+    align-self: center;
+    text-justify: inter-word;
+    margin: 1em auto;
 }
 div.tto{
     background-color: #0052238c;
     color: #a4ffcc;
     border-radius: .25em;
     padding: 0em 0.25em;
+    max-width: 900px;
+    align-content: center;
+    align-self: center;
+    text-align: justify;
+    margin: 1em auto;
+    text-justify: inter-word;
 }
 
 .heatmap-0 { background-color: #440154; color: white; }
@@ -504,3 +527,30 @@ div.tto{
 .heatmap-2 { background-color: #21908c; color: black; }
 .heatmap-3 { background-color: #5ec962; color: black; }
 .heatmap-4 { background-color: #fde725; color: black; }
+main p {
+    margin: 1em auto;
+    padding: auto;
+    max-width: 800px;
+    align-content: center;
+    text-align: justify;
+    text-justify: inter-word;
+
+
+}
+main h1,h2,h3,h4,h5,h6 {
+    margin: 2em auto 0em auto;
+    padding: auto;
+    max-width: 1000px;
+    align-content: center;
+    text-align: justify;
+    text-justify: inter-word;
+
+
+}
+
+main ul, ol {
+    margin: auto;
+    padding: auto;
+    max-width: 800px;
+    align-content: center;
+}
