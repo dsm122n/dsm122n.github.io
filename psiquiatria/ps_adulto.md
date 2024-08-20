@@ -224,7 +224,7 @@ Noción de enfermedad: Existencia del concepto nítido de que lo que le sucede c
 Plantilla para descripción en ficha clínica
 
 # Trastornos depresivos
-<table class="api table-wrapper-wide" data-table="dGQlM0UlMjAlM0MvdHIlM0UlMEElM0MvdGJvZHklM0UlMEElM0MvdGFibGUlM0U=39725">
+<table class="api table-wrapper-wide">
 <thead>
 <tr>
 <th colspan="3" scope="row"> <span class="leitwort">Visión general de</span> los <span class="leitwort"> <span class="api" data-type="anker" id="Z4c55cc422cab2389c9f1d88eda34da57">trastornos depresivos</span></span> 
@@ -321,16 +321,53 @@ Gravedad:
 - Moderada: 10-19
 - Moderadamente grave: >= 20
 
-## Tratamiento
+## Tratamiento Depresión
+
+Objetivos:
+- Control de síntomas
+
+
+Fases y objetivos:
+
+| Fase | duración | Objetivo | 
+|----|----|----|
+|<span class= "tto" >Aguda</span> | (4-8 semanas desde que se llegó a respuesta) | Lograr <span class= "tto" >remisión</span> |
+|<span class= "tto" >Continuación</span> | (6 meses a 1 año): prevenir recaída. Si primer episodio, dejar 6 meses, si no, puede durar más. | Evitar <span class= "tto" >recaída</span> |
+|<span class= "tto" >Mantención</span> | (1-2 años o más) | Evitar <span class= "tto" >Recurrencia</span> |
+
+5 R:
+- Respuesta (disminución 50% síntomas)
+- Remisión: por lo general siempre quedan síntomas residuales
+- Recuperación: Ausencia de síntomas luego de completar fase continuación
+- Recaída (reaparecen o se intensifican síntomas antes del año de remisión de síntomas)
+- Recurrencia (si >1 año después de respuesta)
+
+### Terapia de mantención:
+
+Indicada en. 
+- 3 o más episodios de EDM
+- Depresión doble
+- EDM inicio tardío
+- Antecedente de EDM prolongados
+- Antecedente de EDM severos
+- Patrón estacional
+- Historia familiar de enfermedades del ánimo
+- Mala respuesta a terapia AD inicial
+- Comorbilidad psiquiátrica y/o médica
+
 
 ### Psicoterapia
+
+
 ### Antidepresivos
+
 ![antidepresivos_1a](antidepresivos_1a.png)
+
 ![psicofarmacos_2a](psicofarmacos_2a.png)
 
 Razones para elejir otros antidepresivos no ISRS:
 
-<table cellspacing="0"><colgroup span="2" width="300ch"></colgroup> <tbody> 
+<table cellspacing="0"><colgroup span="2" ></colgroup> <tbody> 
 <tr> <th class="subtitle1">Clinical characteristic</th> <th class="subtitle1">Potential antidepressant choice</th> </tr> 
 <tr> <td>Severe <span class= "tto" >insomnia</span> or other need for a sedating agent</td> <td>Mirtazapine</td> </tr> 
 <tr> <td>Severe <span class= "tto" >hypersomnia/lack of energy</span> or other need for less sedating agent</td> <td> <p>Bupropion<sup>*¶</sup></p> <p>Reboxetine</p> Vilazodone</td> </tr> 
@@ -1152,7 +1189,7 @@ Tto lo dejan los pacientes por:
 - Porque no pueden tomar
 - Miedo a hacerse dependiente, quedar embarazada, ... indagar y preguntar a paciente qué es lo que le preocupa del fármaco
     - Se puede beber, pero con moderación, que OH no llegue a la cabeza. Ideal fermentado, no destilado, estómago lleno, para que se metabolicen bien los fármacos. 
-    
+
 Es una enfermedad que se apaga, pero puede ser recurrente. 
 
 Embarazo: ojo, 
