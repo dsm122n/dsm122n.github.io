@@ -791,6 +791,375 @@ Cuando un paciente con psicosis se le trata, interpretación de los pensamientos
 Para definir delirio, la certeza apodíptica no es lo central. Lo central es la afectividad sobre las ideas delirantes. 
 
 
+# Trastorno afectivo bipolar
+
+Nota: La prevalencia es difícil de estimar, porque los criterios podrían flexibilizarse, porque es todo un espectro. Incluso podrían ser tan altas como el 90% de las depresiones. 
+
+- 5-10% si parientes de 1er grado 
+- 0.5-1% si no tiene familiares con TAB
+- Mayor riesgo de TAB en familiares de 1er grado de pacientes con EQZ
+- Existen distintos factores gatillantes en individuos suceptibles
+
+## Sospecha TAB en contexto de episodio depresivo
+
+Inicio precoz de episodios depresivos (antes de los 25 años).
+- Episodios con conductas agresivas inusuales para el paciente o irritabilidad.
+- Elementos psicóticos.
+- Episodios de exaltación o con remisión sintomática extremadamente rápida (menos de una semana) coincidentes con el inicio de antidepresivos.
+- Antecedentes familiares de trastorno bipolar
+
+Cuestuonario MDQ para tamizaje en >18 años, solo validador 3. Pero poca especificidad para diferenciar de pacientes limítrofes
+
+![MDQ](mdq_1.png)
+![mdq_2](mdq_2.png)
+
+## Validadores diagnósticos
+
+
+<div class= "sn" >
+
+<li> Antecedentes familiares
+<li> Criterios de curso 
+<li> Historia clínica actual
+<li> Respuesta a tratamiento
+
+</div>
+
+Con los 4 validadores, VPP es super elevado
+
+Profe recomienda utilizar The Bipolarity Index
+
+### The Bipolarity Index
+
+[The bipolaruty index](https://www.moodtreatmentcenter.com/wp-content/uploads/2021/01/bipolarityindex.pdf)
+
+**Directions**: Circle the bulleted items that are positive in the patient's history. Score each of the five sections by circling the highest number (0-20) for which there is at least one positive item. The final score is the sum of all five sections.
+
+**Total score** (0-100). Add the highest number in each section. A score ≥50 indicates a high probability of bipolar disorder.
+
+#### I. Episode Characteristics
+
+<table>
+  <tr>
+    <td><strong>Score</strong></td>
+    <td><strong>Characteristic</strong></td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td>Acute manic or mixed episode with prominent euphoria, grandiosity or expansiveness and no significant medical or other secondary etiology.</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>Acute mixed episode or dysphoric or irritable mania with no significant medical or other secondary etiology.</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>
+      Hypomanic episode with no significant medical or other secondary etiology; or<br/>
+      Cyclothymia with no significant medical or other secondary etiology; or<br/>
+      A manic episode within 12 weeks of starting an antidepressant.
+    </td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>
+      A hypomanic episode within 12 weeks of starting an antidepressant; or<br/>
+      Episodes with characteristic symptoms of hypomania, but symptoms, duration, or intensity are subthreshold for hypomania; or<br/>
+      A single MDE with psychotic or atypical features (atypical is ≥2 of the following: hypersomnia, hyperphagia or leaden paralysis of limbs); or<br/>
+      Any postpartum depression.
+    </td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>
+      Recurrent unipolar major depressive disorder (≥3 episodes); or<br/>
+      History of any kind of psychotic disorder (i.e., presence of delusions, hallucinations, ideas of reference or magical thinking).
+    </td>
+  </tr>
+  <tr>
+    <td>0</td>
+    <td>No history of significant mood elevation, recurrent depression or psychosis.</td>
+  </tr>
+</table>
+
+#### II. Age of Onset (first affective episode or syndrome)
+
+<table>
+  <tr>
+    <td><strong>Score</strong></td>
+    <td><strong>Age Range</strong></td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td>15 to 19 years.</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>Before age 15 or between age 20 and 30.</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>30 to 45 years.</td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>After age 45.</td>
+  </tr>
+  <tr>
+    <td>0</td>
+    <td>No history of affective illness (no episodes, cyclothymia, dysthymia or bipolar-NOS).</td>
+  </tr>
+</table>
+
+#### III. Course of Illness & Associated Features
+
+<table>
+  <tr>
+    <td><strong>Score</strong></td>
+    <td><strong>Course or Feature</strong></td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td>Recurrent, distinct manic episodes separated by at least 2 months of full recovery.</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>Recurrent, distinct manic episodes with incomplete inter-episode recovery; or Recurrent, distinct hypomanic episodes with full inter-episode recovery.</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>
+      Any substance use disorder (excluding nicotine/caffeine); or<br/>
+      Psychotic features only during acute mood episodes; or<br/>
+      Incarceration or repeated legal offenses related to manic behavior (e.g. shoplifting, reckless driving or bankruptcy).
+    </td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>
+      Recurrent unipolar MDD with ≥3 or more major depressive episodes; or<br/>
+      Recurrent, distinct hypomanic episodes without full inter-episode recovery; or<br/>
+      Borderline personality disorder (including PTSD and OCD), eating disorder; or history of ADHD with onset before puberty; or<br/>
+      Engagement in gambling or other risky behaviors with the potential to pose a problem for patient, family or friends; or<br/>
+      Behavioral evidence of premenstrual exacerbation of mood symptoms.
+    </td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>
+      Baseline hyperthymic personality when not manic or depressed; or<br/>
+      Marriage 3 or more times (including remarriage to the same individual); or<br/>
+      In two or more years, has started a new job and changed jobs after less than a year; or<br/>
+      Has more than two advanced degrees.
+    </td>
+  </tr>
+  <tr>
+    <td>0</td>
+    <td>None of the above.</td>
+  </tr>
+</table>
+
+#### IV. Response to Treatment
+
+<table>
+  <tr>
+    <td><strong>Score</strong></td>
+    <td><strong>Response</strong></td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td>Full recovery within 4 weeks of therapeutic treatment with a mood stabilizer.</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>
+      Full recovery within 12 weeks of therapeutic treatment with a mood stabilizer or relapse within 12 weeks of discontinuing treatment; or<br/>
+      Affective switch to mania (pure or mixed) within 12 weeks of starting a new antidepressant or increasing dose.
+    </td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>
+      Worsening dysphoria or mixed symptoms during antidepressant treatment subthreshold for mania (exclude worsening that is limited to known antidepressant side effects such as akathisia, anxiety or sedation); or<br/>
+      Partial response to one or two mood stabilizers within 12 weeks of therapeutic treatment; or<br/>
+      Antidepressant-induced new or worsening rapid-cycling course.
+    </td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>
+      Treatment resistance: lack of response to complete trials of 3 or more antidepressants; or<br/>
+      Affective switch to mania or hypomania with antidepressant withdrawal.
+    </td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Immediate, near-complete response to antidepressant withdrawal within 1 week or less.</td>
+  </tr>
+  <tr>
+    <td>0</td>
+    <td>None of the above, or no treatment.</td>
+  </tr>
+</table>
+
+#### V. Family History
+
+<table>
+  <tr>
+    <td><strong>Score</strong></td>
+    <td><strong>Family History</strong></td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td>At least one first-degree relative with clear bipolar disorder.</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>
+      At least one second-degree relative with clear bipolar disorder; or<br/>
+      At least one first-degree relative with recurrent unipolar MDD and behavioral evidence suggesting bipolar disorder.
+    </td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>
+      First-degree relative with recurrent unipolar MDD or schizoaffective disorder; or<br/>
+      Any relative with clear bipolar disorder or recurrent unipolar MDD and behavioral evidence suggesting bipolar disorder.
+    </td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>
+      First-degree relative with clear substance use disorder (excluding nicotine/caffeine); or<br/>
+      Any relative with possible bipolar disorder.
+    </td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>
+      First-degree relative with possible recurrent unipolar MDD; or<br/>
+      First-degree relative with anxiety disorder (including PTSD and OCD), eating disorder or ADD/ADHD.
+    </td>
+  </tr>
+  <tr>
+    <td>0</td>
+    <td>None of the above or no family history of psychiatric disorders.</td>
+  </tr>
+</table>
+
+
+
+## Clasificación
+
+- TAB I: Presencia de al menos un episodio maníaco o mixto, con o sin historia previa de un episodio depresivo mayor
+- TAB II: Presencia de al menos un episodio hipomaníaco, con al menos un episodio depresivo mayor previo. No debe haber historia de episodios maníacos o mixtos (sería tipo I)
+- Ciclotimia: Trastorno del ánimo fluctuante → numerosos períodos de síntomas hipomaníacos y depresivos leves. No son suficientes en intensidad, persistencia o duración para diagnosticar un TAB.
+
+Manía vs hipomanía, diferencia en tiempo y deterioro/compromiso en funcionalidad
+
+Sospechar tb en caso de consumo de sustancia si persiste mucho tiempo posterior a consumo
+
+Ojo con criterios de tiempo, si no se consideran criterios estrictos de DSM, prevalencia aumenta
+
+### Manía
+
+Un período diferenciado de un estado de ánimo anormal y persistentemente elevado, expansivo o irritable (al menos 1 semana u hospitalización). Asociado a 3 (o más) de los siguientes síntomas (4 si el estado de ánimo es sólo irritable):
+1. Autoestima exagerada o grandiosidad
+2. Disminución de la necesidad de dormir
+3. Más hablador de lo habitual o verborreico
+4. Fuga de ideas o experiencia subjetiva de que el pensamiento está acelerado
+5. Distraibilidad 
+6. Aumento de la actividad intencionada o agitación psicomotora
+7. Implicación excesiva en actividades placenteras que tienen un alto potencial para producir consecuencias graves.
+
+Provoca deterioro laboral o de las actividades sociales habituales o de las relaciones con los demás, o para necesitar hospitalización
+
+### Hipomanía
+
+Un período diferenciado durante el que el estado de ánimo es persistentemente elevado, expansivo o irritable durante al menos 4 días, diferente del estado de ánimo habitual. Durante este han resistido 3 (o más) de los siguientes síntomas (4 si el estado de ánimo es sólo irritable):
+1. Autoestima exagerada o grandiosidad
+2. Disminución de la necesidad de dormir 
+3. Más hablador de lo habitual o verborreico
+4. Fuga de ideas o experiencia subjetiva de que el pensamiento está acelerado
+5. Distraibilidad 
+6. Aumento de la actividad intencionada o agitación psicomotora
+7. Implicación excesiva en actividades placenteras que tienen un alto potencial para producir consecuencias graves. 
+
+La alteración del estado de ánimo y el cambio de la actividad son observables por los demás. El episodio no es suficientemente grave como para provocar un deterioro laboral o social importante
+
+### Episodio depresivo
+
+5 (o más) de los siguientes síntomas han estado presentes durante el mismo período de dos semanas y representan un cambio respecto del funcionamiento anterior:
+1. Estado de ánimo deprimido la mayor parte del día, casi todos los días, como lo indican los informes subjetivos  o las observaciones hechas por otros 
+2. Interés o placer marcadamente disminuido en todas o casi todas las actividades durante la mayor parte del día, casi todos los días
+3. Pérdida de peso significativa sin hacer dieta o aumento de peso , o disminución o aumento del apetito casi todos los días. 
+4. Insomnio o hipersomnia casi todos los días.
+5. Agitación o retraso psicomotor casi todos los días
+6. Fatiga o pérdida de energía casi todos los días.
+7. Sentimientos de inutilidad o de culpa excesiva o inapropiada casi todos los días. 
+8. Disminución de la capacidad para pensar o concentrarse, o indecisión, casi todos los días.
+9. Pensamientos recurrentes sobre la muerte, ideación suicida recurrente sin un plan específico, o un intento de suicidio o un plan específico para cometer suicidio.
+
+El episodio no es atribuible a los efectos fisiológicos directos de una sustancia ni a otra condición médica.
+
+<span class= "dx" >1/3 de las depresiones bipolares son idénticas a las depresiones unipolares</span>
+
+Por lo tanto, USAR VALIDADORES PARA NO PERDERSE
+
+## Tratamiento TAB
+
+No guiarnos por la FDA :) sino por las guías clínicas
+
+[Una guía por aquí](https://www.healthquality.va.gov/guidelines/MH/bd/VA-DoD-CPG-BD-Full-CPGFinal508.pdf)
+
+Ojo: fármacos que pueden generar ciclaciones anímicas: 
+- Estimulantes
+- Glucocorticoides
+- Quinolonas
+- Terapias autoinmunes
+- Fcos para bajar de peso.
+- aGLP-1
+
+### Casos que nos podemos topar
+
+Maníacos, psicóticos
+- Utilizar <span class= "tto" >Olanzapina 10 mg</span> (manejo agitación, insomnio, agresividad y psicosis), mientras se gestiona derivación
+    - Si no, <span class= "tto" >Risperidona c/8h + BZP</span> en la noche (clona 2 mg noche). 
+    - Si no, Haloperidol ambulatorio --> <span class= "tto" >Haloperidol 2.5 mg c/8h</span> y ver al día siguiente para evaluar tolerancia
+        - Agitación aguda: 1/2 ampolla haloperidol, o 1/2 ampolla lorazepam. 
+
+En contexto de episodio depresivo con duda de TAB:
+- <span class= "tto" >Aripiprazol</span>
+
+### Psicoeducación!!!
+
+Ayudar a ordenar la vida: las 4 patas de la mesa
+<div class= "tto" >
+
+<ol>
+    <li><span class= "sn" >Adherencia</span> a tto y controles
+    <li><span class= "sn" >Ritmo circadiano</span>: sueño (7 a 9 h, siesta antes de las 4pm, menos de 30 minutos), alimentación (balanceada, no dietas) y ejercicio físico moderado y regular (ojo, adrenalina no le hace bien a la manía pero sí a la depresión.)
+    <li>Evitar <span class= "sn" >desestabilizadores</span>: Drogas, Alcohol, drogas estimulantes, anorexígenos, cafeína, energéticas, Luz (sobre todo cambios de luz: primavera usar lentes de sol, black out en la noche; en otoño sacarse lentes de sol)
+    <li>Carga alostática: carga de <span class= "sn" >estrés</span> somático (no emocional), evitarlo
+</ol>
+
+
+</div>
+
+Tto lo dejan los pacientes por:
+- Efectos adversos
+- Porque se sienten bien
+- Porque no pueden tomar
+- Miedo a hacerse dependiente, quedar embarazada, ... indagar y preguntar a paciente qué es lo que le preocupa del fármaco
+    - Se puede beber, pero con moderación, que OH no llegue a la cabeza. Ideal fermentado, no destilado, estómago lleno, para que se metabolicen bien los fármacos. 
+    
+Es una enfermedad que se apaga, pero puede ser recurrente. 
+
+Embarazo: ojo, 
+- Litio puede producir malformación de Ebstein con baja prevalencia
+- <span class= "sn" >Valproato</span> produce malformaciones previo a dg de embarazo. No usar en mujeres fértiles
+- <span class= "sn" >Lamotrigina</span>
+
 
 # Psicofármacos
 

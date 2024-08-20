@@ -138,6 +138,8 @@ img{
 #tabla_farmacos{
     margin:0;
     padding: 0;
+    width: 100vw;
+
 }
 main{
     position: relative;
@@ -359,7 +361,7 @@ a.sidebar-link:hover {
         width: 100%;
     }
     #content{
-        width: 100%;
+        width: 100vw;
         margin: 0;
         position: absolute;
         top: auto;
@@ -368,7 +370,7 @@ a.sidebar-link:hover {
     #toggle-sidebar{
         position: fixed;
         display: block;
-        bottom: calc(0vh + 25px);
+        bottom: calc(0vh );
         bottom: calc(0svh + 25px);
         right: calc(0vw + 25px);
         right: calc(0svw + 25px);
@@ -425,8 +427,7 @@ a.sidebar-link:hover {
         background-color: #00000089;
     }
     .table{
-        width: max-content;
-        table-layout: auto;
+        width: 100%;
         position: relative;
         border-collapse: collapse;
         border-spacing: 0;
@@ -552,7 +553,7 @@ main p {
 
 }
 main h1,h2,h3,h4,h5,h6 {
-    margin: 2em auto 0em auto;
+    margin: 2em auto 1em auto;
     padding: auto;
     max-width: 1000px;
     align-content: center;
