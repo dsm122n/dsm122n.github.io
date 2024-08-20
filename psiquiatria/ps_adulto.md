@@ -316,12 +316,42 @@ Trastornos<a data-phrasegroup-id="6SXj0B" class="api tooltip__link" data-type="l
 
 ![PHQ-9](phq_9.png)
 
+Gravedad: 
+- Leve: 5-9
+- Moderada: 10-19
+- Moderadamente grave: >= 20
+
 ## Tratamiento
 
 ### Psicoterapia
 ### Antidepresivos
 ![antidepresivos_1a](antidepresivos_1a.png)
 ![psicofarmacos_2a](psicofarmacos_2a.png)
+
+Razones para elejir otros antidepresivos no ISRS:
+
+<table cellspacing="0"><colgroup span="2" width="300ch"></colgroup> <tbody> 
+<tr> <th class="subtitle1">Clinical characteristic</th> <th class="subtitle1">Potential antidepressant choice</th> </tr> 
+<tr> <td>Severe <span class= "tto" >insomnia</span> or other need for a sedating agent</td> <td>Mirtazapine</td> </tr> 
+<tr> <td>Severe <span class= "tto" >hypersomnia/lack of energy</span> or other need for less sedating agent</td> <td> <p>Bupropion<sup>*¶</sup></p> <p>Reboxetine</p> Vilazodone</td> </tr> 
+<tr> <td>Depression-related <span class= "tto" >weight loss</span> or other need for agent that can cause weight gain</td> <td>Mirtazapine<sup>Δ</sup></td> </tr> 
+<tr> <td>Desire for agent that is <span class= "tto" >weight neutral</span> or causes weight loss</td> <td>Bupropion<sup>*¶</sup></td> </tr> 
+<tr> <td>Desire for agent that concurrently aids in <span class= "tto" >smoking cessation</span></td> <td>Bupropion<sup>¶</sup></td> </tr> 
+<tr> <td>Desire to treat concomitant <span class= "tto" >chronic neuropathic pain</span></td> <td> <p>SNRI (eg, duloxetine, milnacipran)</p> Tricyclic antidepressants<sup>◊</sup></td> </tr> 
+<tr> <td>Prior remission with agent from a different class</td> <td>Previously used antidepressant</td> </tr> 
+<tr> <td>Prior or expected inability to tolerate SSRI-related <span class= "tto" >sexual dysfunction</span></td> <td> <p>Bupropion<sup>¶</sup></p> <p>Mirtazapine</p> <p>Vortioxetine</p> Vilazodone</td> </tr> 
+<tr> <td><span class= "tto" >Severe depression</span></td> <td> <p>SNRI (or SSRI)<sup>§</sup></p> Tricyclic antidepressants or mirtazapine</td> </tr> </tbody></table>
+
+* Some SSRIs can be used in this clinical situation; fluoxetine is the least sedating.
+
+¶ Bupropion is contraindicated in individuals with seizure disorder or increased risk of seizure, including anorexia nervosa and bulimia.
+
+Δ Paroxetine is an SSRI that can be used in this clinical situation.
+
+◊ Tricyclic antidepressants are effective for chronic neuropathic pain, but adverse effects and safety concerns limit their use in initial management.
+
+§ Both SNRIs and SSRIs are reasonable first-line options for treating severe major depression.
+
 
 ### Consejería breve
 
