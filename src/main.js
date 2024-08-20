@@ -248,7 +248,7 @@ function loadMD(filepath) {
         image.setAttribute('src', fileFolder + currentSrc);
       }     
       generateTitleObject();
-      document.getElementsByTagName('main')[0].style.maxWidth = '90%'
+      document.getElementsByTagName('main')[0].style.maxWidth = '100%'
       document.getElementById('inicio').setAttribute('class',"tab-pane container active");
       document.getElementById('tabla_farmacos').setAttribute('class',"tab-pane container");
       if(document.getElementById('edit') != null){
@@ -391,7 +391,7 @@ function loadGoogleSheet(){
       // set cursor on search bar
 
       document.getElementById('search').focus();
-      document.getElementsByTagName('main')[0].style.maxWidth = '90%';
+      document.getElementsByTagName('main')[0].style.maxWidth = '100vw';
       // make sidebar disappear
       if (document.getElementById('sidebar').classList.contains('active')) {
         document.getElementById('sidebar').classList.remove('active');

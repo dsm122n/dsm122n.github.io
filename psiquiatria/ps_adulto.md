@@ -790,6 +790,8 @@ Cuando un paciente con psicosis se le trata, interpretación de los pensamientos
 
 Para definir delirio, la certeza apodíptica no es lo central. Lo central es la afectividad sobre las ideas delirantes. 
 
+
+
 # Psicofármacos
 
 ![antidepresivos_perfiles](antidepresivos_perfiles.png)
