@@ -1200,6 +1200,95 @@ Embarazo: ojo,
 
 # Psicofármacos
 
+
+
+## Antipsicóticos
+
+Bloqueo receptores D2
+
+Típicos (o neurolépticos) --> "planchan" al paciente 
+    - reducción de afecto, interes del entorno, etc
+    - neuroléptico != antipsicótico
+
+Atípicos (no son neurolépticos)
+
+Vías dopaminérgicas:
+ - Mesolímbica (hiperactivada en psicosis): síntomas positivos
+ - Mesocortical (hipoactivada en psicosis): síntomas negativos
+ - Nigroestriatal (alterada en parkinson, no psicosis). Enf de parkinson va a ser asimétrico usualmente. Parkinsonismo farmacológico va a ser simétrico
+ - Infundibular: inhibe secreción de prolactina. No alterada en psicosis
+
+### Efectos colaterales
+
+Encasillarlos en 4 categorías:
+
+Bloqueo D2: 
+Antagonismo muscarínico: 
+Antagonismo alfa-1:
+Antagonismo H1:
+
+### Clasificación en base a potencia para antipsicóticos típicos
+
+- Mayor potencia D2 con menor bloqueo de otros receptores (logran mejor control de psicosis como tal), ej Haloperidol, Flufenazina, Pimozida
+- Menor potencia D2 con mayor bloqueo de otros receptores (p ej más sedación), ej: Clorpromazina
+
+### Atípicos
+
+Se puede cambiar afinidad por D2
+
+Se puede añadir efecto de bloqueo 5-HT2A: estas neuronas están conectadas a vías dopaminérgicas mesocorticale, nigroestriatal e infundibular, pero no a la mesolímbica.
+- Bloqueo 5-HT2A: se desinhibe la liberación de dopamina en esas vías
+
+#### Quetiapina
+
+#### Olanzapina
+
+#### Clozapina
+
+Ojo: agranulocitosis (hemograma semanal primeras 12 semanas, luego mensual)
+Esquizofrenia resistente o diskinesia tardía
+
+#### Aripiprazol
+
+Agonisita parcial D2, antagonista 5-HT2A
+
+## Estabilizador del ánimo
+
+Tratan episodios anímicos sin que se conviertan en manía o depresión
+
+### Litio
+
+Tiene mucha evidencia en eficacia 
+
+Eliminación renal, por lo que hay que tener cuidado en ERC
+
+RAM:
+- Puede ser nefrotóxico (nefritis intersticial)
+
+Controlar cada 3 a 4 meses niveles de:
+- Litemia y Creatinina
+- Medir litemia 7 días después de alcanzar dosis terapéutica
+
+Sobre todo eficaz en manía eufórica
+
+### Algunos anticonvulsivantes: Acido valproico, Carbamazepina, Lamotrigina
+
+Acido valpróico, no mucha evidencia para fase depresiva. Más para <span class= "tto" >fases maníacas</span> (disfóricas, y otras manías raras)
+
+Carbamazepina: más para <span class= "tto" >fases depresivas</span> ojo, indicación de estudio farmacocinético (un alelo de HLA, pero no es frecuente en nuestra población. Muy frecuente en Chinos ¿Han?), puede causar Sd de Stevens-Johnson. No dar como si nada en chinos
+
+Lamotrigina: útil en <span class= "sn" >depresión</span> bipolar. Más para mantenimiento. Puede dar rash pero más benigno que el de carbamazepina. <span class= "tto" >Debe iniciarse lento</span>con aumento de 25mg / día cada semana. Dosis de mantenimiento 200 mg/día, por lo tanto, tarda 8 semanas en llegar a dosis de mantenimiento.
+
+Oxcarbazepina tb se puede usar
+
+### Antipsicóticos atípicos
+
+Aripiprazol menor riesgo de hiperprolactinemia
+
+## Antidepresivos
+
+Familias: IMAO, Inhibidores de recaptura, bloqueo de autoreceptores
+
 ![antidepresivos_perfiles](antidepresivos_perfiles.png)
 
 
@@ -1606,86 +1695,232 @@ La siguiente debería ser la misma tabla, la transcribió chat gpt y le puse col
     </tbody>
 </table>
 
+### Tricíclicos
 
-## Antipsicóticos
+Mecanismo: inhiben recaptación 5HT, NA, y en menor grado DA
 
-Bloqueo receptores D2
+Aparte: bloquean receptores muscarínicos, alfa-1, H1 (somnolencia, aumento de peso)
 
-Típicos (o neurolépticos) --> "planchan" al paciente 
-    - reducción de afecto, interes del entorno, etc
-    - neuroléptico != antipsicótico
+Problemas
+- Mala tolerabilidad por efectos adversos
+- Alta letalidad por sobredosis: ojo riesgo suicida
+- Contraindicaciones absolutas: 
+  - IAM reciente
+  - Trastorno grave de conducción cardiaca
+  - Glaucoma 
+  - Hipersensibilidad a ATC
+  - Epilepsia
+  - HTA
+  - Cuadros confusionales
+  - Íleo paralítico
+  - HPB
+  - Dificultad respiratoria
+  - Precaución en ancianos 
 
-Atípicos (no son neurolépticos)
 
-Vías dopaminérgicas:
- - Mesolímbica (hiperactivada en psicosis): síntomas positivos
- - Mesocortical (hipoactivada en psicosis): síntomas negativos
- - Nigroestriatal (alterada en parkinson, no psicosis). Enf de parkinson va a ser asimétrico usualmente. Parkinsonismo farmacológico va a ser simétrico
- - Infundibular: inhibe secreción de prolactina. No alterada en psicosis
+Por eso, no es mucho para médico general, evitarlos.
 
-### Efectos colaterales
+### ISRS
 
-Encasillarlos en 4 categorías:
+Deberían llamarse antidepresivos y ansiolíticos de largo plazo jeje
 
-Bloqueo D2: 
-Antagonismo muscarínico: 
-Antagonismo alfa-1:
-Antagonismo H1:
+Fármacos mejor tolerados e igual de eficaces
 
-### Clasificación en base a potencia para antipsicóticos típicos
+RAM en general leves y transitorias:
+- Cefalea
+- Insomnio
+- Temblores
+- Sedación (Paroxetina)
 
-- Mayor potencia D2 con menor bloqueo de otros receptores (logran mejor control de psicosis como tal), ej Haloperidol, Flufenazina, Pimozida
-- Menor potencia D2 con mayor bloqueo de otros receptores (p ej más sedación), ej: Clorpromazina
+Menos frecuente si se parte baja dosis y se aumenta lentamente
 
-### Atípicos
+#### Diferencias entre ISRS
 
-Se puede cambiar afinidad por D2
+<table>
+<tr>
+  <th>Fármaco</th>
+  <th>Mecanismos</th>
+  <th>Comentarios</th>
+  <th>Dosis</th>
+  <th>Contraindicaciones</th>
+</tr>
+<tr>
+  <td> Fluoxetina</td>
+  <td></td>
+  <td>
+      <li> Vida media prolongada (menos sd de descontinuación)
+      <li> Inhibición enzimas hepáticas 
+      <li> Se puede en embarazo. Pero puede pasar a LM
+  </td>
+  <td>
+      <li> 20 – 60 mg/día
+  </td>
+  <td>
+  </td>
+</tr>
+<tr>
+  <td> Paroxetina</td>
+  <td></td>
+  <td>
+      <li><span class= "sn" >Vida media más corta</span>: sindrome de descontinuación 
+      <li>Inhibición enzimas hepáticas
+      <li>Mayor sedación y aumento de peso
+  </td>
+  <td>
+      20 – 60 mg/día
+  </td>
+  <td>
+      Jamás en Embarazo
+  </td>
+</tr>
+<tr>
+  <td> Sertralina</td>
+  <td>
+      <li>Inhibición de recaptura de <span class= "tto" >5-HT</span> 
+      <li>Alta afinidad por receptor serotoninérgico
+      <li>Leve inhibición de recaptura de <span class= "tto" >DA</span> 
+  </td>
+  <td>
+      <li>Poca inhibición de <span class= "tto" >enzimas hepáticas </span>
+      <li>50 – 200 mg/día 
 
-Se puede añadir efecto de bloqueo 5-HT2A: estas neuronas están conectadas a vías dopaminérgicas mesocorticale, nigroestriatal e infundibular, pero no a la mesolímbica.
-- Bloqueo 5-HT2A: se desinhibe la liberación de dopamina en esas vías
+  </td>
+  <td>
+      <li>50-200 mg/día
+  </td>
+  <td></td>
+</tr>
+<tr>
+  <td> Citalopram</td>
+  <td>
+    <li>  Alta afinidad y selectividad por receptor serotoninérgico
+    <li>  Leve efecto <span class= "tto" >anti-H1</span>
+  </td>
+  <td>
+    <li>  No produce inhibición importante de <span class= "tto" >enzimas hepáticas</span>
+  </td>
+  <td>
+      20 – 60 mg/día
+  </td>
+  <td></td>
+</tr>
+<tr>
+  <td> Escitalopram </td>
+  <td>
+    <li>  Alta afinidad y selectividad por receptor serotoninérgico
+  </td>
+  <td>
+      <li>S-enantiómero de citalopram, más potente
+      <li>Mayor activación, mayor rapidez 
+      <li>Depresión, TAG, Pánico y Fobia social
 
-#### Quetiapina
+  </td>
+  <td>
+      
+  </td>
+  <td></td>
+</tr>
+</table>
+  
 
-#### Olanzapina
+Intentar estrujar fármaco antes de cambiar o derivar (aumentar dosis hasta lo que se pueda). Debería responder en 3 a 4 semanas
 
-#### Clozapina
 
-Ojo: agranulocitosis (hemograma semanal primeras 12 semanas, luego mensual)
-Esquizofrenia resistente o diskinesia tardía
+### Antidepresivos duales
 
-#### Aripiprazol
+Inhiben la recaptura de 5HT y NA
+- <span class= "tto" >Venlafaxina, desvenlafaxina</span>
+- <span class= "tto" >Duloxetina</span>
+- <span class= "tto" >Milnacipram</span>
 
-Agonisita parcial D2, antagonista 5-HT2A
+Inhiben la recaptura de NA y DA: <span class= "tto" >Bupropion</span>
 
-## Estabilizador del ánimo
 
-Tratan episodios anímicos sin que se conviertan en manía o depresión
+Aumentan disponibilidad 5HT y NA (otro mecanismo): <span class= "tto" >Mirtazapina</span>
 
-### Litio
+#### Venlafaxina
 
-Tiene mucha evidencia en eficacia 
+Mecanismos:
+- Dosis Bajas (75 mg/día): 5HT
+- Dosis Habituales (> 150 mg/día): 5HT, NA
+- Dosis Mayores (300 mg/día): 5HT, NA y DA
 
-Eliminación renal, por lo que hay que tener cuidado en ERC
+
+<div class= "tto" >
+  Útil en escenario si ISRS no responde en dosis óptimas, y síntomas no solo mantienen, sino que han <span class= "sn" >empeorado</span>
+  <br>
+  <br>
+  Mejor antidepresivo para <span class= "dx" >cuadros severos y/o resistentes a tratamiento</span>
+  
+  
+</div>
+
+Principal efecto colateral: HTA
+
+#### Bupropión
+
+<div class= "tto" >
+  Útil si dosis óptimas por tiempo suficiente de ISRS logran remisión parcial, pero <span class= "sn" >persiste cierta sintomatología DA</span>. AÑADIR Bupropión. Tb útil si TBQ
+
+</div>
+
+#### Mirtazapina
+
+Antidepresivo dual
+  - Aumenta la dispobibilidad de 5HT y NA por bloqueo de autoreceptores
+  - Bloqueo selectivo de algunos receptores 5HT postsinápticos
+
+
+Efectos colaterales por bloqueo histaminérgico:
+  - Aumento de apetito y peso
+  - Sedación (puede ser bueno o malo según el caso jeje)
+
+
+<div class= "tto" >
+  Útil si mejoría de sintomatología con ISRS, pero persiste <span class= "sn" >insomnio</span>
+</div>
+
+## Ansiolíticos
+
+- Agonistas GABAa: Benzodiazepinas
+- Agonistas 5-HT1A: Buspirona
+- Antagonistas B adrenérgicos: Propanolol
+- Antagonistas Histamina H1: Clorfeniramina
+- Barbituratos: Fenobarbital
+
+### Benzodiacepinas
+
+No son tratamiento de nada, sino solo 
+
+Entre ellas, solo diferencias farmacocinéticas, pero mismo mecanismo
+
+Actúan aleostéricamente aumentando la afinidad de GABA por el receptor GABAa
+Aumentan la frecuencia de apertura de canales de Cl
+
+"benzodiacepinas = alcohol"
+
+<span class= "dx" >
+Ojo, agitación por intoxicación alcohol no dar BZP. Pero si agitación en contexto de abstintencia, BZP apaña
+</span>
+
+
+| Vida media | tiempo | BZP |
+|----|----|----|
+| Ultra corta |        t ½ 2 – 4 hrs.   | Midazolam   |
+| Corta |       t ½ 6 hrs.              | Lorazepam / Oxazepam  |
+| Intermedia |      t ½ 6 - 24 hrs.     | Alprazolam / Nitrazepam   |
+| Prolongada |    t ½ > 24 hrs.         | Diazepam / Clonazepam   |
+
+Lorazepam menor metabolismo hepático, se puede usar en DHC
 
 RAM:
-- Puede ser nefrotóxico (nefritis intersticial)
-
-Controlar cada 3 a 4 meses niveles de:
-- Litemia y Creatinina
-- Medir litemia 7 días después de alcanzar dosis terapéutica
-
-Sobre todo eficaz en manía eufórica
-
-### Algunos anticonvulsivantes: Acido valproico, Carbamazepina, Lamotrigina
-
-Acido valpróico, no mucha evidencia para fase depresiva. Más para <span class= "tto" >fases maníacas</span> (disfóricas, y otras manías raras)
-
-Carbamazepina: más para <span class= "tto" >fases depresivas</span> ojo, indicación de estudio farmacocinético (un alelo de HLA, pero no es frecuente en nuestra población. Muy frecuente en Chinos ¿Han?), puede causar Sd de Stevens-Johnson. No dar como si nada en chinos
-
-Lamotrigina: útil en <span class= "sn" >depresión</span> bipolar. Más para mantenimiento. Puede dar rash pero más benigno que el de carbamazepina. <span class= "tto" >Debe iniciarse lento</span>con aumento de 25mg / día cada semana. Dosis de mantenimiento 200 mg/día, por lo tanto, tarda 8 semanas en llegar a dosis de mantenimiento.
-
-Oxcarbazepina tb se puede usar
-
-### Antipsicóticos atípicos
-
-Aripiprazol menor riesgo de hiperprolactinemia
+- Conducta agresiva u hostil
+- Hipotensión y depresión respiratoria
+- Interacción con otros depresores SNC
+- Interacción con metabolismo oxidativo
+- Astenia
+- Aumento tiempo de reacción
+- Cefalea
+- Visión borrosa
+- Vértigo / náuseas
+- Tolerancia / Dependencia

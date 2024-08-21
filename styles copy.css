@@ -47,6 +47,18 @@ h3 {
     border-left: 1px solid #fff36c;
     
 }
+h4 {
+    font-size: 1em;
+    font-weight: bold;
+    font-style: italic;
+    padding: 0 0.5em;
+}
+h5 {
+    font-size: 0.83em;
+    font-weight: bold;
+    font-style: italic;
+    padding: 0 0.5em;
+}
 
 body {
     background: var(--color-bg);
