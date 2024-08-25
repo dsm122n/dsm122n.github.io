@@ -90,4 +90,37 @@ Ojo con histiocitosis de células de Langerhans, que puede presentarse como derm
 
 # Liquen Plano
 
+Enfermedad inflamatoria de piel y mucosas de causa desconocida. Mediado por linfocitos T contra los queratinocitos basales que expresan autoantígenos alterados en la superficie
+
+<div class= "sn" >
+Pápulas aplanadas, pruriginosas, violáceas de 2-10 mm, principalmente de extremidades, acompañada frecuentemente de lesiones orales. 
+<br>
+<br>
 The 6 P's of lichen Planus are: Pruritic, Polygonal, Planar (flat-topped), Purple Papules, and Plaques.
+</div>
+
+Asociado a activación del sistema inmune secundario a:
+- infecciones por virus (especialmente virus hepatitis C)
+- bacterias, 
+- alérgenos de contacto, 
+- fármacos (estreptomicina, metildopa, clorpropamina, IECA, analgésicos, antimaláricos), 
+- químicos de los dentistas y patología tiroidea (existiendo en el 30% de los pacientes)
+
+| Liquen plano cutaneo | Liquen plano oral reticular | Liquen plano oral erosivo | Liquen plano pilaris | Liquen plano ungueal |
+|----------------------|-----------------------------|---------------------------|----|-----|
+| ![liquen_plano](liquen_plano.png)| ![lp_oral_reticular](lp_oral_reticular.png) | ![lp_oral_erosivo](lp_oral_erosivo.png) | ![lp_pilaris](lp_pilaris.png) | ![lp_ungueal](lp_ungueal.png) |
+|  en zonas flexoras de extremidades, es sumamente pruriginosa y <span class= "sn" >deja como secuela una zona hiperpigmentada</span> (psoriasis revierte sin secuelas). También se describe fenómeno de Köbner |lesiones reticuladas blanquecinas, es asintomático, no se trata | lesiones erosivas e incluso úlceras. Asemejan eritroplaquias y su manejo es como tal. Se trata, si no se cura, se debe tomar <span class= "dx" >biopsia</span>, pues la <span class= "sn" >probabilidad de carcinoma espinocelular</span> es bien alta.| ojo asociación con patol tiroidea (35%). Más frecuente en mujeres. El cuero cabelludo se ve enrojecido, con descamación perifolicular asociado a importante prurito. | adelgazamiento de la lámina, presencia de estrías longitudinales y pterigion. Lo importante es que puede llevar a una pérdida permanente de la uña. Es muy difícil de tratar. |
+
+Mayoría de los casos (80-90%) remite espontáneamente a los dos años. En cambio, el <span class= "sn" >liquen plano muy hipertrófico, el compromiso ungueal y el liquen plano oral</span>, tiende a la cronicidad; mientras que el liquen plano pilaris lleva a alopecia permanente si no se trata. De los que remiten, entre 12-20% recurren.
+
+## Tratamiento líquen plano
+
+General:
+- Educación al paciente de su enfermedad 
+- Evitar desencadenantes y evaluar con pruebas tiroideas y serología para HCV.  
+- <span class= "tto" >Antihistamínicos</span>: Levocetirizina 5mg al día. 
+
+Específico  
+- GC tópicos de muy alta potencia (<span class= "tto" >CLOBETASOL 0,05%</span>) con oclusión. 
+- o <span class= "tto" >Budesonida 0,025%</span> alivia bastante el prurito con menos riesgo de atrofia cutánea.  
+- Inmunomoduladores tópicos: tacrolimus 0,1%.  

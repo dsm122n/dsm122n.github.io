@@ -127,3 +127,9 @@ The 5 S’s of adrenal crisis treatment are:
 - Steroids (100 mg hydrocortisone IV once, then 200 mg over 24 hours), 
 - Support (normal saline to correct hypotension and electrolyte abnormalities), and
 - Search (for the underlying disorder).
+
+# Examen paciente con compromiso de conciencia
+
+# Pupilas
+
+![pupilas_nivel_lesion](pupilas_nivel_lesion.png)

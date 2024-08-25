@@ -88,6 +88,21 @@
 		"description": "div para cosas buenas"
 
 	},
+	"div flexbox horizontal": {
+		"prefix": "div_flex_h",
+		"body": [
+			"<div style=\"display: flex; flex-direction: row; justify-content: space-around; align-items: center; max-width: 500px; height: auto;\">\n$1\n</div>",
+		],
+		"description": "div flexbox horizontal"
+
+	},
+	"img": {
+		"prefix": "img",
+		"body": [
+			"<img src=\"$1\" width=\"auto\" height=\"auto\">",
+		],
+		"description": "img tag"
+	},
 
 	// viridis 5 colors
 	
