@@ -62,3 +62,82 @@ Glaucoma =/=> aumento presión intraocular
 |<li>ojo rojo profundo (con edema corneal)</li><li>duro</li><li>disminución agudeza visual</li><li>semimidriasis arrefléctica</li> | <li>Acetazolamida 2x250mg de carga, luego 250 mg c/6h</li><li>los colirios que se dispongan para disminuir P</li><li>d/dx urgente</li><li>Manitol 15% ->10 a 13 cc/kg. 20% ->7.5 a 10 cc/kg EV funciona mientras se infunde, se puede dar, pero ojo con contraindicaciones</li> |
 
 ![clasificación glaucoma](clasificacion_glaucoma.jpeg)
+
+# Blefaritis 
+
+Causas: 
+- Seborréica
+- Alérgica (por lo general más blefaroconjuntivitis)
+- Infecciosa
+- Rosácea (más en adultos)
+
+Chalazion: doloroso. Causas: blefaritis crónica no tratada. Manejo calor local y masaje.
+
+Dacriocistitis: inflamación de saco lagrimal. Causas: obstrucción vía lagrimal. Manejo: ATB tópico y oral, masaje saco lagrimal, derivar a oftalmólogo.
+
+
+
+# Otros datos Eunacom
+
+Sensación de arenilla --> patología de superficie ocular
+
+Secresión ocular !=> conjuntivitis
+
+Para agudeza visual, siempre llevar a decimal. Cartilla de snellen siempre es 20/n, donde n es la distancia en pies a la que se alcanza a leer la letra de ese tamaño. 
+
+En enunciados a veces aparece 10/20, pero se refiere a 20/40. Al calcular el decimal no nos equivocaremos
+
+En campimetría Mancha ciega siempre al lado temporal, indica el ojo que se está evaluando
+
+## vía lagrimal
+
+Adultos: 
+- Obstrucción subsacular: lagrimeo constante, reflujo de lagrimas por puntos lagrimales
+    - Manejo: si signos inflamatorios: antibióticos orales
+    - Eritema fluctuante, como absceso: drenar
+    - inactivo, sin signos inflamatorios --> programar cirugía
+
+Niños:
+- Atresia != obstrucción congenita. Atresia  es poco frecuente y se asocia a otras malformaciones    
+- Obstrucción es muy frecuente, 90% resuelve espontaneamente
+- Complicaciones: <span class= "dx" >dacriocele</span> (quistesito sin inflamación) o <span class= "dx" >dacriocistitis</span>.
+    - Dacriocele puede ser tratado con masaje
+    - Dacriocistitis: ATB oral, masaje saco lagrimal, derivar a oftalmólogo.
+- Manejo: masaje región cantal interna, observación, ATB tópico (cloranfenicol) si signos inflamatorios, derivar a oftalmólogo si dacriocistitis.
+
+Frente a lagrimeo constante
+- Adulto: <span class= "dx" >derivar</span> para Cx, si signos inflamatorios ATB oral
+- Niño <1 año: sin sg inflamatorios, puede tener dacriocele, masaje y observación. Con signos inflamatorios, ATB oral, <span class= "dx" >derivar a oftalmólogo</span>.
+    - Medico general manejar hasta 6 meses, si no resuelve, <span class= "dx" >derivar a oftalmólogo</span>.
+
+## Celulitis preseptal y orbitaria
+
+Celulitis preseptal tb puede ser por sinusitis
+
+<span class= "dx" >Diferencial</span> entre ambos:
+- orbitaria aparte tendrá compromiso del ojo y sus anexos: 
+    - Disminución agudeza visual
+    - propotosis
+    - Limitación de movimientos
+    - Compromiso de nervio óptico (alteración RFM, visión de colores)
+    - complicaciones: absceso subperióstico, trobosis senocavernoso, meningitis, septicemia
+
+## Disminución agudeza visual
+
+En adultos: 1° diferenciar si <span class= "sn" >aguda o crónica</span>
+
+Luego evaluar <span class= "sn" >rojo pupilar</span>
+
+- En diabétes: 
+    - Crónica: Lo más frecuente es edema macular diabético
+    - Aguda: hemorragia vítrea
+- Adulto mayor, progresiva: primero pensar en <span class= "dx" >catarata</span>. 
+    - Respaldan: Disminución visión de contraste, visión de halos con luces, rojo pupilar (-)
+    - FR: DM, corticoides, edad
+- PIO normal <span class= "dx" >2' mmHg</span>
+- En <span class= "dx" >glaucoma crónico</span>
+    - Perdida de campo visual sin orden específico. Pero por lo general comienza cuadrantes sup, luego lat, mediales y finalmente termina con buena agudeza pero campo puntiforme
+    - Aumento PIO
+    - aumento <span class= "dx" >excavación papilar (normal es 30%</span>)
+    - Disminución campo visual, pero agudeza se conserva
+    - FR: Edad, ant fam, miopía

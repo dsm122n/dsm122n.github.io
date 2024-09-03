@@ -365,10 +365,12 @@ Mayor complejidad:
 
 ## Lenguaje
 
+![afasias](afasias.png)
+
 ### Lenguaje espontaneo
 
 <span class= "dx" >Dejar hablar</span> al paciente un tiempo prudente (un minuto aprox). Ejemplo. ¿Por qué viene? 
-
+    
 Poner atención a:
 - Fluidez
 - Gramática y sintaxis
@@ -395,7 +397,64 @@ Ejemplos:
     - Tome el papel, pero no el lápiz
     - Toque el papel, después de pasarme el lápiz
 
-### Memoria
+## Memoria
+
+![tipos_memoria](tipos_memoria.png)
+
+| memoria episodica | semántica, procedural y de trabajo |
+|-------------------|------------------------------------|
+| ![memoria_episodica](memoria_episodica.png) | ![otras_memorias](otras_memorias.png) |
+
+1. Episodic memory
+    - Alzheimer’s disease
+    - Mild cognitive impairment, amnestic type
+    - Dementia with Lewy bodies
+    - Encephalitis (most commonly, herpes simplex encephalitis)
+    - Frontal variant of frontotemporal dementia
+    - Korsakoff’s syndrome
+    - Transient global amnesia
+    - Concussion
+    - Traumatic brain injury
+    - Seizure
+    - Hypoxic–ischemic injury
+    - Cardiopulmonary bypass
+    - Side effects of medication
+    - Deficiency of vitamin B12
+    - Hypoglycemia
+    - Anxiety
+    - Temporal-lobe surgery
+    - Vascular dementia
+    - Multiple sclerosis
+2. Semantic memory
+    - Alzheimer’s disease
+    - Semantic dementia (temporal variant of frontotemporal dementia)
+    - Traumatic brain injury
+    - Encephalitis (most commonly, herpes simplex encephalitis)
+3. Procedural memory
+    - Parkinsons’s disease
+    - Huntington’s disease
+    - Progressive supranuclear palsy
+    - Olivopontocerebellar degeneration
+    - Depression
+    - Obsessive–compulsive disorder
+4. Working memory
+    - Normal aging
+    - Vascular dementia
+    - Frontal variant of frontotemporal dementia
+    - Alzheimer’s disease
+    - Dementia with Lewy bodies
+    - Multiple sclerosis
+    - Traumatic brain injury
+    - Side effects of medication
+    - Attention deficit–hyperactivity disorder
+    - Obsessive–compulsive disorder
+    - Schizophrenia
+    - Parkinson’s disease
+    - Huntington’s disease
+    - Progressive supranuclear palsy
+    - Cardiopulmonary bypass
+    - Deficiency of vitamin B12
+
 #### Memoria remota
 
 - Indagar respecto a <span class= "sn" >escolaridad y/o bagaje cultural brevemente</span>.
@@ -411,6 +470,9 @@ Si se pregunta por hechos autobiográficos pasados, se debe cotejar con acompañ
 #### Memoria a corto plazo
 
 Repetir palabras dichas anteriormente en la evaluación de atención
+
+## Tarjeta de boston
+![boston](boston.png)
 
 ## Pares craneales
 
@@ -548,6 +610,366 @@ Lengua:
 </td> </tr>
 </tbody>
 </table>
+
+## Plantilla EF neurológico
+
+Punteo:
+- En vigilia espontánea, orientado en tiempo, espacio y persona
+- Lenguaje espontáneo fluente, nomina 7/7, repite 7/7, comprende órdenes de 3 comandos, sin parafasias, sin disartria
+- Memoria de trabajo, semántica, episódica y procedimental conservadas
+- Sin alteraciones de las funciones ejecutivas
+- Pares craneanos: 
+    - Agudeza visual por cuenta dedos conservada, campos visuales conservados, reflejo fotomotor directo y consensuado conservado
+    - Oculomotilidad conservada, sin nistagmus, sin diplopía
+    - Reflejo corneal conservado
+    - Sensibilidad facial conservada, sin paresia de músculos masticatorios
+    - Mímica facial simétrica, sin desviación de la comisura labial
+    - Audición conservada
+    - Velo del paladar simétrico, sin desviación de la úvula, reflejo nauseoso conservado
+    - Lengua en reposo sin fasciculaciones, sin desviación, sin atrofias, ni movimientos involuntarios. Protruye sin desviación, sin disminución de la fuerza. 
+    - Elevación de hombros y rotación de cabeza conservados
+- Mínima paresia (-) en miembros superiores e inferiores
+- EESS y EEII trofismo y tono conservado, sin alteraciones de la fuerza ni sensibilidad en miembros superiores e inferiores
+- Reflejos osteotendíneos simétricos y conservados
+- Reflejos superficiales (-), sin signos de liberación frontal
+- Sin alteraciones de la sensibilidad superficial ni profunda
+- Sin alteraciones de la marcha
+- Romberg (-) Unterberger (-)
+- Sin dismetrías ni disdiadococinesias
+- Kerning y Brudzinski (-)
+
+Una línea resumido:
+- Paciente en vigilia espontanea, orientado en tiempo, espacio y persona. Lenguaje fluente, sin alteraciones de la memoria, funciones ejecutivas conservadas. Pares craneales sin alteraciones, sin paresias ni alteraciones de la sensibilidad en miembros superiores e inferiores. Reflejos osteotendíneos simétricos y conservados, reflejos superficiales (-), sin signos de liberación frontal. Sensibilidad superficial y profunda conservadas. Sin alteraciones del equilibrio o la marcha. Sin dismetrías ni disdiadococinesias. Signos meníngeos (-)
+
+
+# Deterioro cognitivo mayor
+
+Definición:
+1. Al menos 2 déficits cognitivos:
+    - Afasia
+    - Apraxia
+    - Agnosia
+    - Trastornos ejecutivos
+2. Pérdida de calidad de vida y/o autovalencia
+3. No aparece durante síndrome confusional
+4. No se explica por otro cuadro psiquiátrico
+5. No se explica por fármaco
+
+Deterioro cognitivo leve: disminución en rendimiento cognitivo sin afectar la autovalencia y calidad de vida.
+
+Entrevista, indagar en funcionalidad, qué cosas puede hacer. Corroborar con cuidador/familiar
+
+Fcos a descartar:
+- Antihistamínicos primera gen
+- Opioides
+- Anticolinérgicos
+- Bloqueadores canales de calcio (verapamilo, cinarizina)
+- Neurolépticos
+- Benzodiacepinas
+
+Trastornos de la atención (más prefrontal) != alteración memoria por alzheimer (hipocampo, memoria episódica)
+
+## Clasificación Demencias
+
+Neurodegenerativas:
+- Enfermedad de Alzheimer
+- Demencia por cuerpos de Lewy
+- Demencia asociada a Parkinson
+- Degeneración lobar frontotemporal
+- Parálisis supranuclear progresiva
+- Degeneración corticobasal
+- Enfermedad de Huntington
+
+No neurodegenerativas:
+- Demencia Vascular
+- Infecciosas (SIDA, sífilis, enf por priones)
+- Post-traumáticas
+- Desmielinizantes
+
+Potencialmente reversibles:
+- Nutricionales (déficit B12, tiamina, folatos, niacina)
+Hidrocefalia normotensiva
+- Hematoma subdural
+- Tumores (primarios o metastásicos)
+- Tóxico-metabólicas y/o endocrinológicas (hipo/hipertiroidismo, insuficiencia hepática/renal, intoxicación con metales pesados)
+
+## Test
+
+Varios, de tamizaje se podría usar test de reloj o tarjeta de boston
+
+Importante evaluar memoria, lenguaje, praxia, gnosias
+
+# Epilepsia y crisis convulsiva
+
+
+Tratar o no tratar con FAE:
+- Crisis unica, <span class= "sn" >no tratar</span>, salvo:
+    - Lesión orgánica cerebral (si ha pasado >1 semana)
+    - Síndrome epiléptico definido
+    - Criterio en contra paciente
+- Crisis repetidas, <span class= "tto" >tratar</span>, salvo:
+    - Factores desencadenantes identificados y evitables
+    - Intervalo intercrisis largo (más de 4-5 años)
+    - Epilepsia benigna infancia
+
+Frente a lesión estructural 
+- No profilaxis, salvo excepciones (<span class= "tto" >TEC, HSA, TVC</span>)
+- < 7 días, 1 crisis, no requiere tto
+- <span class= "tto" >> 7 días</span>, 1 crisis no provocada, tto (según lesión)
+- <span class= "tto" >> 2 crisis</span>, no provocadas, se deja tratamiento
+- Crisis remota, años después de la lesión, evaluar caso a caso
+
+Primera crisis <span class= "dx" >no provocada</span> (no sintomática, no secundaria):
+- Esperar <span class= "tto" >2a crisis</span>, con 2 crisis, riesgo de recurrencia > 60%
+- Excepciones para tratar con FAE en primera crisis:
+    - Crisis nocturnas
+    - EEG alterado sugerente de epilepsia
+    - EF alterado
+    - Img con lesión <span class= "tto" >cortical</span>
+    - Sd epiléptico
+
+Ojo: fenitoína, carbamazepina y fenobarbital son de misma familia, y pueden existir reacciones cruzadas en caso de alergia.
+
+## Clasificación epilepsias
+
+- Idiopáticas
+- Criptogénicas
+- Sindromes epilépticos
+
+## FAEs
+
+Preferencias de FAEs:
+
+<div class= "tto" >
+<ol>
+    <li>Ausencias
+        <ul>
+            <li>Valproato
+            <li>Lamotrigina/levetiracetam
+            <li><span class= "sn" >no fenitoína ni carbamazepina</span>
+        </ul>
+    <li>Mioclonías
+        <ul>
+            <li>Valproato
+            <li>Lamotrigina/levetiracetam
+            <li>No fenitoína
+        </ul>
+    <li>Crisis focales
+        <ul>
+            <li> Cabramacepina
+            <li> fenitoína/LMT/LVT
+        </ul>
+    <li>Crisis generalizadas
+        <ul>
+            <li> Valproato (cuidado en embarazadas y mujeres edad fértil)
+        </ul>
+</ol>
+</div>
+
+Fenitoína:
+- 1 ampolla (250mg) + 500 cc SF. (ojo vehículo es cardiotóxico, el poliglicol)
+- 15 mg/kg. Ej: 70 kg, 1050 mg, 4 ampollas, pasar en 500 cc SF en 30-45 min bajo <span class= "dx" >monitorización cardíaca</span> (taquiarritmia o hipotensión, suspender)
+
+## Dosis fcos utilizados en crisis
+
+Para status
+
+<table>
+<tr>
+<th>Fármaco</th>
+<th>Dosis</th>
+<th>Dosis máxima</th>
+<th>Presentación</th>
+<th>Comentarios</th>
+</tr>
+<tr>
+<td>Lorazepam</td>
+<td>0.1 mg/kg IV/IO o <span class= "tto" >4mg (1 ampolla) dosis fija</span></td>
+<td> max 2mg/min </td>
+<td> Ampolla 4mg/2ml </td>
+<td> Ampolla 4mg/2ml </td>
+</tr>
+<tr>
+<td>Diazepam</td>
+<td>
+    <ul>
+        <li> IV/IO 0.15 mg/kg  <span class= "tto" >. 10 mg para persona 70 kg = 1 ampolla</span>
+        <li> Gel rectal 0.2 mg/kg, max 20 mg
+        <li> Intranasal 0.2 mg/kg, max 20 mg
+    </ul> 
+</td>
+<td> max 5 mg/min, max 10 mg por dosis </td>
+<td> <span class= "tto" >Ampolla 10mg/2ml</span> </td>
+<td>  </td>
+</tr>
+<tr>
+<td>Clonazepam</td>
+<td>0.015 mg/kg IV/IO <span class= "tto" >bolo rápido 30 segundos. Ej, 1mg (1 ampolla) para persona 70 kg</td>
+<td>  </td>
+<td> Ampolla 1mg/ml </td>
+<td>  </td>
+</tr>
+<tr>
+<td><span class= "tto" >Midazolam</span></td>
+<td> 
+    <ul>
+        <li> IV/IO <span class= "dx" >10mg (2 amp</span> 1 ml) o 0.2 mg/kg 
+        <li> bucal 10mg 
+        <li> Intranasal: 10mg (5mg/ml dar <span class= "dx" >1 ml en cada narina</span>)
+    </ul>
+</td>
+<td> 
+Ampollas de 5mg/ml, presentaciones 1ml, 3ml y 10 ml. Existen unos "aplicadores" nasales que se conectan a jeringas de 1ml.    
+
+</td>
+<td> <span class= "tto" >útil si no se consigue vía IV o IO</span> </td>
+</tr>
+</table>
+
+<table>
+<tr>
+<th>FAEs</th>
+<th>dosis</th>
+<th>Presentación</th>
+</tr>
+<tr>
+<td>Levetiracetam</td>
+<td>60 mg/kg IV<b>/IO</b>, max 4500mg en 5 a 15 min</td>
+<td>100mg/ml</td>
+</tr>
+<tr>
+<td>Fenitoína</td>
+<td> </td>
+<td></td>
+</tr>
+<tr>
+<td>Valproato</td>
+<td>40 mg/kg IV/IO, max 3000mg a 10mg/kg/min </td>
+<td></td>
+</tr>
+</table>
+
+
+Lorazepam: 
+- Adults: lorazepam 4 mg IV once; 
+- children: lorazepam 0.1 mg/kg IV once (max. dose 4 mg). 
+- Repeat once after 5 minutes if needed.
+Diazepam: 
+- Adults: diazepam 10 mg IV once; 
+- children: diazepam 0.15–0.2 mg/kg IV once (max. dose 10 mg). Repeat once after 5 minutes if needed.
+
+## Status
+
+Definicion conceptual: crisis >=30 minutos
+
+Definición operacional:
+- Crisis <span class= "dx" > > 5 minutos </span>(prepararse desde los 3 minutos). La mayoría de las crisis para antes de los 5 minutos
+- <span class= "dx" >2 crisis sin recuperación</span> de conciencia(termina una crisis y le sigue otra que inicia en el post-ictal) 
+- <span class= "dx" >Inicio desconocido</span>
+
+Clasificación: 
+1. <span class= "dx" >Status epilétptico convulsivo</span>
+    - Generalizado desde el inicio
+    - Focal con generalización secundaria
+2. Crisis focal continua
+3. Status epiléptico no convulsivo
+    - Confusional con crisis de ausencia
+    - Confusional con crisis focal con compromiso de conciencia
+    - Comatoso con crisis mioclónicas generalizadas sub-clínicas
+
+En urgencias lo que más se ve es status epiléptico convulsivo.
+
+Los otros se pueden ver en UCI, en pacientes con antecedentes de epilepsia, o en pacientes con antecedentes de lesión cerebral.
+
+En el trascurso del status, GABAs se van endocitando, por lo que se hace más compleja la respuesta a BZP. Actuar rápidamente
+
+### Causas de status
+
+Generales más comunes:
+- <span class= "dx" >Niveles plasmáticos bajos </span> (lo más frecuente, que no se tomen bine los FAEs)
+- ACV
+- OH y drogas
+- Daño hipóxico isquémico
+- Metabólico
+- Séptico
+
+Si refractario:
+- Pensar en encefalitis herpética o autoinmune
+
+### Manejo status
+
+1. ABCDE
+    - O2 100%
+    - Monitoreo continuo
+    - 2 accesos IV o IO
+    - Ojo posibilidad intubación orotraqueal
+2. Ex complementarios
+    - Glucemia
+    - ELP
+    - Calcio, Mg, Fosfato
+    - P. Hepáticos
+    - Hemograma
+    - Niveles plasmáticos de Antiepilépticos si es posible
+    - Tóxicos
+    - Gasometría
+3. Identificar y tratar causa probable
+    - Hipoglicemia
+    - Anormalidades metabólicas
+    - Fiebre/infección
+    - TEC
+    - hipertensión intracraneana
+4. En simultaneo dar tratamiento
+<div class= "tto" >
+En paralelo:
+<ol>
+    <li> <span class= "dx" >BZP</span>: Si se logra acceso IV o IO BZP por esa vía, si no, <span class= "dx" >midazolam</span>
+    <li>Primera dosis FAE
+<ol>
+</div>
+
+
+
+# LCR
+
+|           | Aspecto     | Presión     | Células    | Proteínas   | Glucorraquia |
+|-----------|-------------|-------------|------------|-------------|--------------|
+| Normal    | Agua de roca| Normal      | 0-5        | 15-45       | 50-75 (2/3 o 60% glicemia)       |
+| MBA       | Turbio      | Aumentada   | > 1000     | Aumentadas  | Baja         |
+| MCr       | Opalescente | Leve aument | 200-500    | Aumentadas  | Leve baja    |
+| MVA       | Claro       | Normal      | 100-500    | Leve aument | N o Leve baja|
+| HSA       | Hemático    | Leve aument | G. rojos   | Aumentadas  | Normal       |
+| Tumores   | Claro       | Aumentada   | Normal o A | Aumentadas  | Normal       |
+| Abscesos | Claro        | Aumentada   | PMN N o A | Aumentadas  | Normal       |
+| HSD | Claro o xanto | por lo gral. Aumentada | Normal | normal o leve aumento | Normal |
+| P. traumática | Hemático | normal | G. rojos | Aumentadas | Normal |
+
+Pandy (+) --> proteínas. 
+
+# Vértigo
+| Síndrome | Descripción | Causa Benigna | Causa Grave |
+|----------|-------------|---------------|-------------|
+| **vertigo agudo**  | - Instalación rápida, dura días<br>- Náuseas, vómitos, intolerancia a los movimientos de cabeza | Neuritis vestibular<br>Labirintitis | ACV<br>TIA<br>25% |
+| **vertigo episódico con gatillante** | - Eventos episódicos, duración corta (<1’)<br>- Gatillo obligado: movimiento de cabeza o incorporación | VPPB | Causas graves de ortostatismo y CPPV |
+| **vertigo episódico esporádico** | - Eventos episódicos de aparición espontánea<br>- No gatillados (aunque pueden exacerbarse)<br>- Dura de minutos a horas | Migraña vestibular<br>Meniere | TIA |
+
+
+
+# Datitos random eunacom
+
+Síndrome de hipertensión endocraneana: diplopía (por probable compromiso del VI par) + náuseas + vómitos. 
+- ¿tb cefalea de predominio matinal???
+
+<span class= "dx" >Trombosis venosa central</span>:
+- Cefalea que no responde a analgesia habitual
+- Convulsiones
+- Ojo en mujeres usuarias de ACO
+
+Pensar en esclerosis múltiple en paciente joven, sin factores de riesgo cardiovascular, con déficit neurológicos recurrentes agudos o subagudos y con recuperación posterior.
+
+En miastenia gravis, ojo, descartar timoma
+
+HSV en encefalitis, tiene más trofismo por lobulos Temporal o frontal
+
 
 # Un poquito de anatomía
 

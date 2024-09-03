@@ -103,6 +103,12 @@
 		],
 		"description": "img tag"
 	},
+	"tabla": {
+		"prefix": "tabla",
+		"body": ["<table>\n<tr>\n<th>$1</th>\n</tr>\n<tr>\n<td>$2</td>\n</tr>\n</table>"],
+		"description": "img tag"
+	}
+	
 
 	// viridis 5 colors
 	
