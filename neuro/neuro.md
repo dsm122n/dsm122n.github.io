@@ -642,6 +642,157 @@ Una línea resumido:
 - Paciente en vigilia espontanea, orientado en tiempo, espacio y persona. Lenguaje fluente, sin alteraciones de la memoria, funciones ejecutivas conservadas. Pares craneales sin alteraciones, sin paresias ni alteraciones de la sensibilidad en miembros superiores e inferiores. Reflejos osteotendíneos simétricos y conservados, reflejos superficiales (-), sin signos de liberación frontal. Sensibilidad superficial y profunda conservadas. Sin alteraciones del equilibrio o la marcha. Sin dismetrías ni disdiadococinesias. Signos meníngeos (-)
 
 
+# Enfermedad cerebro vascular
+
+Screening prehospitalario:
+
+| Cincinnati Stroke Scale | BE-FAST |
+|-------------------------|---------|
+| Facial droop | Balance |
+| Arm drift | Eyes |
+| Speech | Face |
+| | Arms |
+| | Speech |
+
+BE-FAST incluye balance y ojos, siendo más sensible por fosa posterior
+
+NIHSS tiene subestima hemisferio derecho y síntomas fosa posterior
+
+Rankin: evaluar actual y considerar rankin previo, para determinar si va a reperfusión.
+- 0: asintomático
+- 1: Discapacidad leve, no requiere ayuda
+- 2: Se basta a sí mismo pero ya no puede llevar a cabo las actividades habituales
+- 3: Necesita ayuda para algunas actividades pero puede caminar sin ayuda
+- 4: Discapacidad severa, requiere ayuda para sus necesidades corporales
+- 5: Confinación en cama
+
+## Manejo inicial de ACV
+- HGT
+- TAC sin contraste + angioTAC
+- Examenes seguridad
+    - <span class= "dx" >INR</span> (>1.7 contraindica trombolisis)
+    - Hemograma
+    - (...)
+- Estabilización paciente
+    - ABCDE (satO2 92%)
+    - <span class= "tto" >SF, nunca glucosado</span>
+    - normotermia y normoglicemia
+    - tratar<span class= "sn" >PAM > 150</span> salvo IAM, disección Ao, o EPA
+<table>
+<tr>
+<td>PAS</td>
+<td>PAD</td>
+<td>PAM</td>
+</tr>
+<tr>
+<td>185</td>
+<td>110</td>
+<td>130</td>
+</tr>
+</table>
+
+## TAC
+
+Evaluar ASPECTS. 10 es normal.
+- caudado
+- putamen
+- cápsula interna
+- corteza insular
+- M1: corteza anterior de la ACM, opérculo frontal
+- M2: corteza de ACM lateral a borde insular, correspondiente a lobo temporal anterior
+- M3: corteza posterior ACM, lobo temporal posterior
+- M4: corteza ACM anterior inmediatamente superior a M1
+- M5: territorio ACM lateral inmediatamente superior a M2
+- M6: territorio ACM posterior inmediatamente superior a M3
+
+ASPECTS <= 7 pensar en no reperfundir. 
+
+<span class= "dx" >signo de la cuerda</span> y <span class= "dx" >signo del punto</span>
+
+RNM protocolo stroke:
+- No es fundamental, solo si se tiene dudas
+- Dura peri 5 minutos
+- Indicación: <span class= "dx" >signo del puntostroke del despertar, stroke sin hora de inicio clara, dudas en fosa posterior</span>
+
+## Ventana
+
+4.5 horas para trombolisis, 6 horas para trombectomía (según minsal)
+
+considerar 3 horas y no 4.5 en:
+- > 80 años
+- Stroke previo 3 meses
+- Stroke previo + DM2
+- NIHSS > 25
+
+Más que edad, funcionalidad previa es lo más importante a considerar
+
+Mientras antes, mejor
+
+Trombectomía:
+- Casos: 
+    - Trombo en vaso grande: ACM proximal (M1), Basilar, carótida
+    - Ventana 6 horas
+    - Imagenología ASPECTS > 7
+
+
+En troncoencefálico por su relevancia, se puede considerar trombectomía hasta 12-24 horas
+
+Estudios han visto que se podría extender ventana hasta 24 horas pero con imágenes más avanzadas con RNM. 
+- Demostrar stop vaso grande
+- Imagen avanzada con territorio salvable (penumbra mayor a core de infarto). RNM protocolo stroke, TAC con perfusión
+- Basal autovalencia previa adecuado
+
+![administracion alteplase](image.png)
+![flujograma](image-1.png)
+
+## TIA
+
+Por definición en teoría son los que regresan en 24 horas, pero igual pueden existir hallazgos img. La realidad, deberían ser deficits focales < 15 - 20 minutos
+
+Score para evaluación TIA: ABCD2
+| ítem | puntaje |
+|------|---------|
+| Edad | 1 punto si >= 60 años |
+| Presión arterial | 1 punto si PAS > 140 o PAD > 90 |
+| Síntomas | <li> 2 pts si hemiparesia y/o afectación habla <li> 1 pt si afectación del habla sola |
+| Duración | <li> 2 pts si >= 60 minutos <li> 1 pt si 10-59 minutos |
+| Diabetes | 1 pt si tiene |
+
+>= 4 puntos, riesgo de ACV en 2 días > 4.1%, se debe estudiar
+
+Problema: no considera FA ni estenosis carotídea
+
+Complementar con ECG para detectar arritmias y AngioTC de cuello si disponible para deterctar estenosis carotídea/a basilar. Tb descartar <span class= "dx" >disección en px jóvenes</span> 
+
+![abcd3-i](image-2.png)
+
+## Sd y territorios
+
+![sd y territorios](image-3.png)
+
+![sd lacunares](image-4.png)
+
+## Hemorragia cerebral 
+
+ICH Score para gravedad
+
+Manejo PA:
+- <span class= "tto" >PAS < 150, PAM < 130 (110 en jóvenes)</span>
+
+Labetalol
+
+![labetalol HIC](image-5.png)
+
+Hemorragias sitios atípicos que requieren más estudio:
+- Corticales
+- Intraventricular espontánea
+- En relación a sitios venosos
+- Múltiples/bilaterales
+- Con HSA asociado
+- Asociado a HSD o epidural
+
+Img, primero AngioTC, si neg RNM, si neg repetir en 10 días
+
 # Deterioro cognitivo mayor
 
 Definición:
@@ -849,6 +1000,10 @@ Ampollas de 5mg/ml, presentaciones 1ml, 3ml y 10 ml. Existen unos "aplicadores" 
 </tr>
 </table>
 
+
+(aquí tabla de medicación para SE refractaria, infusiones)
+
+![infusion_status_refract](infusion_status_refract.png)
 
 Lorazepam: 
 - Adults: lorazepam 4 mg IV once; 
