@@ -384,6 +384,57 @@ Secundaria:
 
 ![alt_hemostasia_primaria](alt_hemostasia_primaria.png)
 
+<span class= "dx" >EvW</span> sospechar en clínica alteración hemostasia primaria, con plaquetas normales en función y número. <span class= "dx" >Puede haber prolongación leve de TTPK</span>
+
+### Púrpura trombocitopénico inmune
+
+- Siempre estudiar causas secundarias:
+	- VIH
+	- v hepatitis
+	- Autoinmune (ANA, ENA, complemento)
+- si >60 pensar en mielodisplasia
+- Hemograma: <span class= "dx" >trombocitopenia aislada, pueden haber macroplaquetas</span>
+- tto: <span class= "tto" >corticoides</span> prednisona 1 mg/kg o dexamentasona IV
+	- Requiere especialidad 
+	- Iniciar tto corticoidal si plaquetas <30.000
+- Si <span class= "sn" >hemorragia activa grave</span>: <span class= "tto" >inmunoglobulina IV</span>
+- Transfusión de plaquetas si <10.000 y alto riesgo sangrado
+- Si recurre post retiro GC, pensar en otros ttos
+
+### Microangiopatías trombóticas
+
+Ojo, sospecha en contexto de <span class= "sn" >disociación de clínica alteración hemostasia con número de plaquetas (no tan bajas)</span>
+
+<div class= "sn" >
+	<ul>
+		<li> Trombocitopenia
+		<li> Anemia hemolítica microangiopática: macrocítica regenerativa, elevación LDH con hiperbili indirecta, coombs directo (-), esquistocitos
+	</ul>
+
+</div>
+
+Diferencias según causa
+
+<div class= "dx" >
+	<ul>
+		<li> Púrpura trombocitopénico trombótico: puede haber <span class= "sn" >fiebre, compromiso neurológico, AKI</span>. <span class= "tto" >Plasmaféresis</span>
+		<li> SHU: más en <span class= "sn" >ped</span>, <span class= "sn" >diarrea disentérica, AKI </span>. Puede haber antecedente de uso ATB. <span class= "tto" >Soporte</span>
+		<li> CID: <span class= "sn" >prolongación tiempos de coagulación y consumo de fibrinógeno</span>. <span class= "tto" >Soporte y tratamiento de causa</span>
+	</ul>
+</div>
+
+## Trombofilias
+
+Sospecha:
+- Evento trombótico recuerrente
+- Trombosis en sitio atípico
+- Si los factores pesquizados no explican que haya tenido trombosis
+- Hereditarias o adquiridas
+
+Posibles causas:
+- Paciente mayor: <span class= "dx" >paraneo</span>
+- Trombosis arterial: <span class= "dx" >SAF, hiperhomocisteinemia, déficit AT III, <span class= "sn" >mieloproliferativos crónicos</span></span>.
+
 # Geriatría
 ![criterios de beers](/Beers critera.jpeg)
 
