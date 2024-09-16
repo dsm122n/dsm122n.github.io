@@ -850,6 +850,10 @@ Varios, de tamizaje se podría usar test de reloj o tarjeta de boston
 
 Importante evaluar memoria, lenguaje, praxia, gnosias
 
+# Sd parkinsoniano
+
+![parkinson plus](image-6.png)
+
 # Epilepsia y crisis convulsiva
 
 

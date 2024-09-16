@@ -315,9 +315,74 @@ Ejemplo presentación y dosis media: budesonida-formoterol 200/6 mcg 2 puff inha
 ## Insuficiencia respiratoria aguda
 ![formulas ira](/broncopulmonar/formulas_insuficiencia_respiratoria.jpg)
 
-## IRA baja
 
-## IRA alta
+# Hemato
+## Anemias
+Cinetica de hierro valores:
+
+| Parámetro | Valor | utilidad diagnóstica y compartimento evaluado |
+|---|---|---|
+| Hierro sérico | 50-160 mcg/dL | indicador de Fe disponible para transporte |
+| TIBC | 250-400 mcg/dL | indicador indirecto del nivel de transferrina |
+| Sat de transferrina | 20-55% | indicador indirecto de Fe transportado y nivel de transferrina |
+| Ferritina sérica | 40-400 ng/mL | indicador de Fe almacenado |
+
+TIBC: se satura plasma con Fe, se deja precipitar Fe, luego se mide Fe no precipitado. Por eso forma indirecta de medir transferrina. Es medida de la capacidad de la transferrina para unirse al Fe (que depende de la cantidad de transferrina).
+
+Sat de transferrina: Fe sérico/TIBC. Indica la cantidad de Fe que se transporta en la transferrina.
+
+### Anemia ferropénica vs anemia de enfermedad crónica
+
+- Fe sérico baja en ambas, pero enf crónica por aumento de la utilización. En ferropénica puede disminuir la ferremia aún más
+- TIBC (o transferrina) aumenta en anemia ferropénica (para transportar lo poco de Fe que hay) y disminuye en enf crónica (se está utilizando, no se necesita transportar el Fe).
+- Por lo tanto <span class= "dx" >Sat de transferrina</span> (Fe/TIBC) disminuye en ferropénica y aumenta en enf crónica
+- Ferritina elevada en enf crónica (almacén de Fe lleno) y disminuida en ferropénica (almacén de Fe vacío).
+
+Derivar anemia ferropénica para Fe IV ssi:
+- causa malabsortiva (no se puede por vía oral)
+- no responde a Fe oral
+
+### Anemia megaloblástica
+
+Sd anémico +
+- Icetiricia (con hiperbilirrubinemia indirecta y LDH alta), son muy grandes y pueden reventar
+- Compromiso neuro es más frecuente en deficit de B12
+- Frotis: hipersegmentación de PMN y anillos de cabot
+
+Buscar causa del déficit
+
+### Síndrome mielodisplásico
+
+<div class= "sn" >
+<ul>
+	<li>Insuficiencia medular, anemia (<span class= "dx" >macrocítica</span> lo más frecuente
+	<li>Astenia, anorexia (1/3 pacientes)
+	<li><span class= "dx" >infrecuente visceromegalias</span> (dx con sd mieloproliferativos)
+</ul>
+
+</div>
+
+Sospechar tb si anemia clásica no responde a tratamiento
+
+## Alteraciones de la hemostasia
+
+<div class= "dx" >
+Primaria:
+	<ul>
+		<li> Sangrados superficiales (Sangrado mucoso, gingivorragia, epistaxis) 
+		<li> Sd purpúrico
+		<li> Menos frecuentes hematomas
+	</ul>
+<br>
+Secundaria:
+	<ul>
+		<li> Sangrados profundos (hematomas, hemartrosis)
+		<li> Sangrados en diferido respecto a la noxa
+	</ul>
+
+</div>
+
+![alt_hemostasia_primaria](alt_hemostasia_primaria.png)
 
 # Geriatría
 ![criterios de beers](/Beers critera.jpeg)
