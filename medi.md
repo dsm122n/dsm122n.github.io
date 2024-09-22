@@ -474,6 +474,28 @@ Médico general podría aportar con manejo inicial en caso que corresponda:
 
 Tratamiento específico: ATRA (ácido transretinóico)
 
+## Neoplasias mieloproliferativas crónicas
+
+- LEucemia mieloide crónica: mutación gen BCR-ABL, t(9;22), cromosoma philadelphia corresponden a 95% de las LMC. Resto por JAK2, CALR o PDGFR (t)
+	- Clínica incidental, síntomas inespecíficos, dol abdominal por esplenomegalia. No Sd por otras citopenias
+	- Hemograma: leucocitosis variable, formas intermedias presentes (+/-), eosinofilia y basofilia, nunca hiato leucémico. 
+	- Derivación no urgente
+- Policitemia vera
+- Mielofibrosis primaria: aborto intramedular precoz --> mediadores intramedulares --> fibroblastos y fibrosis medular --> <span class= "dx" >eritropoyesis extramedular</span> 
+	- Sd anémico, <span class= "sn" >hepatoesplenomegalia</span>, citopenias, fibrosis medular
+	- Hemograma anemia con reacción leucoeritroblática (eritroblastos y desviación izquierda, puede LDH aumentada, traduce ocupación medular). <span class= "dx" >Dacriocitos</span>
+	- Mieloptisis tb reacción leucoeritroblástica, pero usualmente antecedentes de neo primario que produzca la infiltración
+- Trombocitemia esencial
+- Leucemia eosinofílica crónica
+
+
+## Linfomas
+
+- Hodgkin: Masas menos numerosas, ordenados, más en cervical, más síntomas B, más síndrome de vena cava superior
+
+Leucemia linfática crónica: linfoma (tipo específico de linfoma de hodgkin) + linfocitocis absoluta
+- Puede asociarse a Anemia hemolítica autoinmune o trombocitopenia inmune (por linfocitos B)
+
 # Geriatría
 ![criterios de beers](/Beers critera.jpeg)
 
