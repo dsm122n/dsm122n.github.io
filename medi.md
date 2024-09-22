@@ -435,6 +435,45 @@ Posibles causas:
 - Paciente mayor: <span class= "dx" >paraneo</span>
 - Trombosis arterial: <span class= "dx" >SAF, hiperhomocisteinemia, déficit AT III, <span class= "sn" >mieloproliferativos crónicos</span></span>.
 
+## Neoplasias hematológicas
+
+Agudo < 4 semanas
+
+Mutaciones en neoplasias hematológicas puede implicar:
+1. <span class= "dx" >ventaja proliferativa</span> con maduració normal: aumento células maduras, recordar que plaquetas, eritrocitos y leucocitos vienen de c madre mieloide
+	- Policitemia vera
+	- Trombocitosis esencial
+	- Leucemia mieloide crónica
+1. <span class= "dx" >Ventaja proliferativa</span> y <span class= "dx" >maduración anormal</span> (stop madurativo): acumulacion blastos en MO --> citopenias + sd tumoral, podría
+	- Leucemia aguda
+1. <span class= "dx" >maduración anormal </span>, con grado variable de ventaja proliferativa:
+	- Displasia --> aborto intramedular --> síndrome mielodisplásico --> puede ser FR para desarrollar leucemia
+
+<div class= "sn" >
+	Ante sospecha de leucemia aguda, buscar:
+		<li> Sd lisis tumoral
+		<li> Coagulopatía
+		<li> Si fiebre, pensar en <span class= "dx" >neutropenia febril</span>, solicitar cultivos
+</div>
+
+Médico general podría aportar con manejo inicial en caso que corresponda:
+- <span class= "tto" >soporte transfusional</span>
+- <span class= "tto" >Hemocultivos</span> (en caso sospecha neutropenia febril)
+- <span class= "tto" >ATB</span> (en caso sospecha neutropenia febril)
+
+### Leucemia promielocítica:
+- <span class= "dx" >coagulopatía</span> (por liberación de gránulos de los promielocitos, que consumen factores de coagulación, fibrinolisis). Aumento de Dímero D, disminución de fibrinógeno, prolongación de TTPK. 
+- Trombosis y sangrados
+
+<div class= "dx" >
+- Sospecha de leucemia aguda
+- Sd hemorragíparo desproporcionado a trombocitopenia
+	- Suele presentarse con CID
+- Hemograma con bastones de Auer
+</div>
+
+Tratamiento específico: ATRA (ácido transretinóico)
+
 # Geriatría
 ![criterios de beers](/Beers critera.jpeg)
 
