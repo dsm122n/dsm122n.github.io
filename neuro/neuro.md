@@ -1163,3 +1163,4 @@ Nervios aislados
 ![motor_eeii](motor_eeii.png)
 
 ![sensitivo_nervios](sensitivo_nervios.png)
+
