@@ -44,8 +44,19 @@ Probabilidad pretest
 
 # Nefrología
 ## ácido-base
+
+| trastorno primario | formula para compensasión | 
+|---|---|
+| acidosis metabólica | pCO2 final = 1.5 x [HCO3] + 8 ± 2  (fórmula de Winter, <span class= "dx" >sumarle la mitad + 8</span>)|
+| alcalosis metabólica | pCO2 final = [0.7 x (HCO3 - 24) + 40 ± 2 (ΔPCO2 = <span class= "dx" > **ΔHCO3 x 0.7**)</span> |
+| acidosis respiratoria | <li> aguda: ΔHCO3 = <span class= "dx" >1 mEq/L</span> x ΔPCO2/10 <li> crónica: ΔHCO3 = 3-4 mEq/L x ΔPCO2/10 |
+| alcalosis respiratoria (es **más fácil bajar el bicarb** que subirlo) | <li> aguda: ΔHCO3 = <span class= "dx" >2 mEq/L</span> x ΔPCO2/10 <li> crónica: ΔHCO3 = 5 mEq/L x ΔPCO2/10 |
+
 ![compensaciones acido base](/nefrologia/acid_base_compensation_rules.jpeg)
 ![mapa acido base](/nefrologia/acid_base_map.jpeg)
+
+
+
 
 ## Alteraciones electrolíticas
 
@@ -205,6 +216,62 @@ Test de stress con Furosemida:
 - Si se logra diuresis, aún es prerrenal
 - Si no se logra diuresis, es renal (NTA)
 
+## ERC
+
+Dato: Disminución de tamaño demostrada por ecografía renal es bien específica para ERC, pero no va a estar presente en todas las ERC (p ej DM2 porque hay depósito de productos de glicosilación avanzada)
+
+Medidas terapéuticas generales para prevención progresión:
+- Disminuir proteinuria: 
+	- IECA/ARA II, iSGLT2 (segunda linea, se pueden usar con VFG >20), antagonistas receptor de mineralocorticoides
+	- Otros antihipertensivos para lograr meta
+- Control glicémico: 
+	- HbA1c <7%, individualizar según riesgos
+	- iSGLT2 son gucci :)
+- Nutrición
+	- Restricción protéica (0.8g/kg/día)
+	- Más prote vegetal, lacteas, huevo, pescado. Ingerir menos pescado y carnes rojas
+	- Normopeso
+	- Restricción de sodio. <2 g de Na, <5 g de sal
+- Otros
+	- tto acidosis metabólica (suplemento con HCO3 < 18 mEq/L)
+	- Estatinas independiente de dislipidemia
+	- Cese TBQ
+	- activ física
+	- Evitar nefrotóxicos, suspender o ajustar fcos según VFG
+- Tratamiento alteración metabolismo calcio-fósforo (solo si existe).
+	- Reponer Vit D si hay déficit
+	- Resto esperar a inicio de dialisis
+
+Si ERC avanzada
+- Anemia:
+	- Eritropoyetina
+	- Suplementación Fe, ac fólico y B12 según corresponda
+- Acidosis
+	- Antes de iniciar dialisis: suplementar HCO3 oral
+	- Cuando se dializa, en el líquido de diálisis ya viene bicarbonato
+- Alt metab calcio-fósforo
+	- Mec: en ERC ↓ excreción de Pi ⇒ hiperfosfatemia ⇒ ↑FGF23 ⇒ ↓1,25(OH)2D ⇒ menor absorción intestinal Ca y P
+		- Hipocalcemia ⇒ ↑PTH ⇒ resorción osea ⇒ ↑Pi
+			- Hiperparatiroidismo secundario
+	- Dialisis no es efectiva en remoción fósforo
+	- Tratamiento:
+		- Dieta hipofosfémica
+		- Quelantes fosforo (carbonato de calcio, acetato de calcio)
+		- Inhibir paratiroides: calcimiméticos (cinacalcet), calcitriol
+
+Indicación de diálisis:
+- Aparición síntomas uremia que no se pueden controlar
+	- Nauseas y vómitos, baja de peso
+- Urgente si las siguientes no responden a tto médico
+	- Hiperkalemia
+	- Acidosis metabólica
+	- Anemia
+	- Auemnto VEC
+	- Congestión pulmonar
+	- Malnutrición sin respuesta a tto médico	
+	- Encefalopatía
+	- Pericarditis
+- Trasplante renal puede realizarse con VFG < 30.
 
 # Infectología
 ## Espectro antibiótico
