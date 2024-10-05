@@ -46,7 +46,7 @@ document.addEventListener('DOMContentLoaded', function() {
       }
       const edit = document.createElement('p');
       edit.id = 'edit';
-      edit.innerHTML = 'Siéntase libre de editar la tabla de fármacos en el siguiente link: <a href="https://docs.google.com/spreadsheets/d/1SMU1ltLrMVifOb2T8sN5gu5Yd3tKmQ6eid6QnjSDlQo/edit?usp=sharing">google sheets dosis fármacos</a>';
+      edit.innerHTML = 'Siéntase libre de editar la tabla de fármacos en el siguiente link: <a href="https://docs.google.com/spreadsheets/d/1SMU1ltLrMVifOb2T8sN5gu5Yd3tKmQ6eid6QnjSDlQo/edit?usp=sharing" target="_blank">google sheets dosis fármacos</a>';
       document.getElementById('inicio').insertAdjacentElement('afterend',edit);
       // set cursor on search bar
 
@@ -395,7 +395,7 @@ function loadGoogleSheet(){
       }
       const edit = document.createElement('p');
       edit.id = 'edit';
-      edit.innerHTML = 'Siéntase libre de editar la tabla de fármacos en el siguiente link: <a href="https://docs.google.com/spreadsheets/d/1SMU1ltLrMVifOb2T8sN5gu5Yd3tKmQ6eid6QnjSDlQo/edit?usp=sharing">google sheets dosis fármacos</a>';
+      edit.innerHTML = 'Siéntase libre de editar la tabla de fármacos en el siguiente link: <a href="https://docs.google.com/spreadsheets/d/1SMU1ltLrMVifOb2T8sN5gu5Yd3tKmQ6eid6QnjSDlQo/edit?usp=sharing" target="_blank">google sheets dosis fármacos</a>';
       document.getElementById('inicio').insertAdjacentElement('afterend',edit);
       // set cursor on search bar
 

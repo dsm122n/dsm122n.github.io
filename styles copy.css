@@ -499,6 +499,11 @@ a.sidebar-link:hover {
         position: relative !important;
         top: 0;
         left: 0;
+        display: flexbox;
+
+        button{
+            position: relative !important;
+        }
     }
 
     
