@@ -493,6 +493,12 @@ a.sidebar-link:hover {
     .shrink-mobile{
         height: 5vh !important;
     }
+    .image-container{
+        height: 7.5vh;
+        position: relative !important;
+        top: 0;
+        left: 0;
+    }
 
     
 }
