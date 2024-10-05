@@ -73,6 +73,10 @@ a:hover {
     text-decoration: underline;
 }
 
+.not-hover:hover{
+    background-color: #00000000;
+}
+
 body {
     background: var(--color-bg);
     color: var(--color-text);
@@ -618,3 +622,47 @@ main ul, ol {
 }
 
 
+
+@media screen and (min-width: 801px) {
+    .image-container {
+        position: fixed;
+        width: 100%;
+        height: 250px;
+        overflow: hidden; 
+        z-index: 10000;
+ 
+        /* move */
+        animation: moveImage 3s linear forwards;
+
+    }
+    
+    #san-martin {
+        position: absolute;
+        height: 100%;
+    }
+    
+    @keyframes moveImage {
+        0% {
+            top: 10%; /* Posición inicial */
+            left: 10%;
+            height: 100%;
+            width: 100%;
+        }
+        20% {
+            top: 10%; /* Nueva posición al final de la animación */
+            left: 10%;
+            height: 100%;
+            width: 100%;
+        }
+
+        100% {
+            top: 10%; /* Nueva posición al final de la animación */
+            left: 90%;
+            height: 10%;
+            width: 10%;
+            
+        }
+    }
+    
+    
+}

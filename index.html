@@ -44,6 +44,7 @@
     
                 <ul class="nav nav-pills navbar-dark bg-dark" >
                     <li class="nav-item"><a class="nav-link" data-bs-toggle="pill" href="#inicio" onclick="loadMD('medi.md')" id="medi-especialidades">Medicina interna 💊🩺</a></li>
+                    <li class="nav-item"><a class="nav-link" data-bs-toggle="pill" href="#" onclick="loadMD('cardiologia/criterios_ecg/README.md')" id="ecg">ECG valores 🫶</a></li>
                     <li class="nav-item"><a class="nav-link" data-bs-toggle="pill" href="#" onclick="loadMD('cirugia/cirugia.md')" id="cirugia">Cirugía 🔪</a></li>
                     <li class="nav-item"><a class="nav-link" data-bs-toggle="pill" href="#" onclick="loadMD('neuro/neuro.md')" id="neuro">Neuro 🧠</a></li>
                     <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" id="emq">EMQ</a>
@@ -54,7 +55,6 @@
                             <li class="nav-item"><a class="nav-link" data-bs-toggle="pill" href="#" onclick="loadMD('otras_especialidades/tmt.md')" id="traumatologia">🍖 Traumato 🩻</a></li>
                         </ul> 
                     </li>
-                    <li class="nav-item"><a class="nav-link" data-bs-toggle="pill" href="#" onclick="loadMD('cardiologia/criterios_ecg/README.md')" id="ecg">ECG criterios 🫶</a></li>
                     <li class="nav-item"><a class="nav-link" data-bs-toggle="pill" href="#" onclick="loadMD('urgencias/urgencias.md')" id="urgencias">Urgencias 🏥</a></li>
                     <li class="nav-item dropdown"><a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" id="obgin">Obste y Gine 🐣</a>
                         <ul class="dropdown-menu" data-bs-theme="dark">
@@ -91,6 +91,11 @@
                 <i class="fas fa-align-left" style="width: 25px; height: 25px;"></i>
             </button>
     </nav>
+    <div class="image-container">
+        
+        <img src="abrazo_maipu.png" id="san-martin">
+        <button id="close-btn-2" style="position: absolute; top: 5px; left: 5px; background: #ffffff; border: none; border-radius: 20%; font-size: 16px; cursor: pointer;">&times;</button>
+    </div>
     <div id="below_navbar">
 
             <!-- Sidebar -->
@@ -109,10 +114,24 @@
             <div id="content">
 
                 <main>
-                    <br>
                     
+                    <!-- aviso de errores y sugerencias centrado -->
+
+                    <div class="alert alert-warning alert-dismissible fade show" role="alert" style=" width:fit-content; position: relative; align-self: center; margin: 1rem auto; top: 0; right: 0;">
+                        <p>
+                            🚧 Esta página está en constante desarrollo, si encuentras errores o tienes sugerencias, por favor escríbeme a <a href="mailto: sanmartin.danny@gmail.com">mi correo</a> sanmartin.danny@gmail.com
+                        </p>
+                    </div>
                     <div class="tab-content">
-                    <div class="tab-pane container" id ="inicio"></div>
+                        
+                        <a href="https://github.com/dsm122n/dsm122n.github.io" target="_blank" style="height: auto; width: auto; position: relative; top: 0; right: 0;" class="not-hover">
+                            <p> 
+                                <img src="github-mark-white.svg" style="height: 2rem; width: 2rem;">
+                                ← Repo de GitHub (descargas y contribución) 
+                            </p>
+                        </a>
+                        
+                        <div class="tab-pane container" id ="inicio"></div>
                     <div class="tab-pane container active" id="tabla_farmacos">
                         <input type="text" id="search" placeholder="Type to search">
                         <div style="overflow: scroll; height: 400px;">  
@@ -143,20 +162,26 @@
 
     <a  href="https://www.buymeacoffee.com/sanmartindx" target="_blank"><img class="shrink-mobile" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px;
     bottom: 0; left: 0;" ></a>
-    <a href="#">
-        <img src="icon-1.png" width="auto" height="60px" style="z-index: 10002;">
-    </a>
     </div>
-    <!-- image qr in bottom right -->
-    <div style="display: flex; position: fixed; bottom: 0; right: 0; padding: 0px; height: 150px; background: #1cff86; border-radius: 5px;" class="only-desktop">
-        <p style="width: 175px; padding: 5px 5px 0px 5px; margin: 0px; color: rgb(0, 0, 0); font-size: 12pt; align-self: center;
-        "><b>Apóyame</b> con un cafecito en el siguiente código QR 🙂 </p>
-        <p style="width: 30px; padding: 0px; margin: 0px; color: rgb(0, 0, 0); font-size: 20pt; 
-        align-self: center;  "
-        >→</p>
-        <img src="qr.png" style="height: 150px !important;width: 150px !important;">
 
+    <!-- image qr advertise in bottom right with close button -->
+
+     
+    <div id="advertise" style="display: flex; position: fixed; bottom: 0; right: 0; padding: 0px; height: 150px; background: #1cff86; border-radius: 5px;" class="only-desktop">
+        <button id="close-btn" style="position: absolute; top: 5px; left: 5px; background: #ffffff; border: none; border-radius: 20%; font-size: 16px; cursor: pointer;">&times;</button>
+        <p style="width: 175px; padding: 5px 5px 0px 5px; margin: 0px; color: rgb(0, 0, 0); font-size: 12pt; align-self: center;">
+            <b>Apóyame</b> con un cafecito en el siguiente código QR 🙂 
+        </p>
+        <p style="width: 30px; padding: 0px; margin: 0px; color: rgb(0, 0, 0); font-size: 20pt; align-self: center;">→
+            </p>
+
+
+        <img src="qr.png" style="height: 150px !important; width: 150px !important;">
     </div>
+    
+
+    <!-- link icon to github -->
+
     <div class="overlay" ></div>
 
  

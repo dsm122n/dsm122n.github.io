@@ -646,13 +646,17 @@ Una línea resumido:
 
 Screening prehospitalario:
 
-| Cincinnati Stroke Scale | BE-FAST |
+| Cincinnati Stroke Scale (basta 1 +) | BE-FAST |
 |-------------------------|---------|
-| Facial droop | Balance |
-| Arm drift | Eyes |
+| Facial droop | **Balance** |
+| Arm drift | **Eyes** |
 | Speech | Face |
 | | Arms |
 | | Speech |
+
+Importante registrar inicio de síntomas
+
+
 
 BE-FAST incluye balance y ojos, siendo más sensible por fosa posterior
 
@@ -666,8 +670,14 @@ Rankin: evaluar actual y considerar rankin previo, para determinar si va a reper
 - 4: Discapacidad severa, requiere ayuda para sus necesidades corporales
 - 5: Confinación en cama
 
+Escala de Race ![RACE](image-7.png)
+
+>5
+
 ## Manejo inicial de ACV
+
 - HGT
+- LAs vías venosas en el brazo no parético
 - TAC sin contraste + angioTAC
 - Examenes seguridad
     - <span class= "dx" >INR</span> (>1.7 contraindica trombolisis)
@@ -714,6 +724,21 @@ RNM protocolo stroke:
 - Dura peri 5 minutos
 - Indicación: <span class= "dx" >signo del puntostroke del despertar, stroke sin hora de inicio clara, dudas en fosa posterior</span>
 
+### signos precoces
+
+- Oscurecimiento lenticular
+- Signos de la corteza insular
+- Signo de la cuerda
+- Perdida de diferenciación corticosubcortical
+
+![sg precoces](image-8.png)
+
+- RNM:
+    - Difusión alterada pero FLAIR normal, mismatch positivo --> se tromboliza
+    - Si ambos alterados, no se tromboliza 
+- TC perfusión: Infarto/penumbra. Mismatch ratio > 1.8, mismatch volumn >15 ml, CBF<30% <70 ml serían criterios para reperfusión. Implican core pequeño vs penumbra.
+    - Con TC tb se pueden evaluar las colaterales
+
 ## Ventana
 
 4.5 horas para trombolisis, 6 horas para trombectomía (según minsal)
@@ -745,6 +770,35 @@ Estudios han visto que se podría extender ventana hasta 24 horas pero con imág
 ![administracion alteplase](image.png)
 ![flujograma](image-1.png)
 
+Ideal trombolisis antes de los 30 minutos
+
+## Trombolisis
+
+Alteplase (rTPA)
+
+Tenecteplase
+
+### Complicaciones
+
+Hemorrágica:
+
+Alergicas (Anguioedema, laringoespasmo, hipotensión)
+
+## Trombectomía
+
+## Manejo de PA
+
+Metas:
+- Pre-trombolisis < 185/110
+- Durante
+
+Fcos:
+- Labetalol IV
+- Urapidilo IV
+- Nimodipino IV
+
+## Usuario ACO
+
 ## TIA
 
 Por definición en teoría son los que regresan en 24 horas, pero igual pueden existir hallazgos img. La realidad, deberían ser deficits focales < 15 - 20 minutos
@@ -765,6 +819,33 @@ Problema: no considera FA ni estenosis carotídea
 Complementar con ECG para detectar arritmias y AngioTC de cuello si disponible para deterctar estenosis carotídea/a basilar. Tb descartar <span class= "dx" >disección en px jóvenes</span> 
 
 ![abcd3-i](image-2.png)
+
+## Estudio de etiología
+
+![alg estudio causa prevención recurrencia](image-9.png)
+
+5 principales grupos:
+- Ateroesclerótica/aterotrombótica de vaso grande
+- cardioembólica
+- Infartos lacunares (por lo general por lipohialinosis, asoc a HTA), subcorticales, < 1.5 cm
+- Otras causas "no clásicas" (más frecuentes en px jóvenes, <55 años)
+    - Disección arterial
+    - Trombofilias
+    - otros
+- Causas indeterminadas
+    - 2 o más causas identificadas
+    - Evaluación negativa (criptogénico)
+    - Evaluación incompleta
+
+Tasa de recurrencia de menor a mayor:
+- Lacunares
+- Indeterminadas
+- Cardioembólicas
+- Aterotrombóticas
+
+
+Datos:
+- Carotida sintomática (ej, ACV), estenosis > 70% se considera para endarterectomía (asintomáticas y de men)
 
 ## Sd y territorios
 

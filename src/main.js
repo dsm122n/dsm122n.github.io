@@ -64,6 +64,15 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 
   })
+  document.getElementById('close-btn').addEventListener('click', function() {
+    document.getElementById('advertise').style.display = 'none';
+    document.getElementsByClassName('image-container')[0].style.display = 'none';
+  });
+  document.getElementById('close-btn-2').addEventListener('click', function() {
+    document.getElementById('advertise').style.display = 'none';
+    document.getElementsByClassName('image-container')[0].style.display = 'none';
+  });
+
 });
 
 
