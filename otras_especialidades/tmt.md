@@ -75,7 +75,19 @@ S-H I y II pueden tratarse con reducción cerrada
 
 Las lesiones de S-H tipo III y tipo IV son fracturas intraarticulares. Se pueden observar alteraciones del crecimiento, rigidez articular y no-unión. Con frecuencia se prefiere la reducción abierta y fijación interna para restaurar la anatomía de la articulación y de la placa de crecimiento, y evitar dichas complicaciones
 
-## Dolor oseo
+
+## Alteraciones rotacionales y angulares del miembro inferior
+
+
+DOI:10.1097/MOP.0000000000000977:
+
+- El pie plano flexible, la torsión tibial y femoral, la posición en "W" y caminar de puntillas son típicamente variaciones normales del crecimiento y desarrollo, y se resuelven durante la primera década de vida. La derivación a ortopedia pediátrica está justificada para un diagnóstico y manejo definitivo, en particular si hay deformidad moderada a severa, falta de resolución o empeoramiento con el tiempo, dolor, problemas funcionales y/o necesidad de más tranquilidad para los padres.
+- El <span class= "dx" >pie plano flexible</span> pediátrico generalmente se <span class= "dx" >resuelve antes de los 10 años</span>, pero pueden ocurrir mejoras adicionales hasta la madurez esquelética. Los zapatos/plantillas con soporte de arco no modifican el curso natural del desarrollo del pie y no se recomiendan rutinariamente para el pie plano flexible asintomático.
+- La <span class= "dx" >torsión femoral y tibial</span> típicamente mejora durante los <span class= "dx" >primeros 10 a 14 años de vida. </span>. No se recomienda el uso de aparatos ortopédicos ya que no han mostrado beneficios sobre el curso natural.
+- Sentarse en "W" es una posición cómoda para los niños con anteversión femoral e incremento de la rotación interna de la cadera. Sentarse en "W" no causa displasia de cadera, ni hay evidencia que respalde la preocupación de que pueda causar déficits funcionales futuros.
+- Caminar de puntillas requiere un examen físico cuidadoso para descartar posibles causas subyacentes. El caminar de puntillas idiopático típicamente se resuelve a los 5,5 años, pero cuando no lo hace, el yeso seriado o el alargamiento del gastrocnemio/soleo/Aquiles es frecuentemente exitoso.
+
+
 
 ## Datos tmt infantil
 
@@ -84,3 +96,4 @@ Las lesiones de S-H tipo III y tipo IV son fracturas intraarticulares. Se pueden
 - Los cartílagos de crecimiento con mayor aporte en longitud son los ubicados alrededor de la rodilla (fémur distal y tibia proximal), y en el húmero proximal.
 
 ![fisis_aportes](fisis_aportes.png)
+

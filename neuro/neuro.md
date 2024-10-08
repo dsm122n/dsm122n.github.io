@@ -670,9 +670,15 @@ Rankin: evaluar actual y considerar rankin previo, para determinar si va a reper
 - 4: Discapacidad severa, requiere ayuda para sus necesidades corporales
 - 5: Confinación en cama
 
-Escala de Race ![RACE](image-7.png)
+Escala de Race
 
->5
+ ![RACE](image-7.png)
+
+\> 5!!!
+
+Deficits armónicos vs disarmónicos:
+- Orientan en nivel de oclusión de vaso.
+- Si disarmónico, puede ser más proximal
 
 ## Manejo inicial de ACV
 
@@ -700,6 +706,28 @@ Escala de Race ![RACE](image-7.png)
 <td>130</td>
 </tr>
 </table>
+
+### Medidas generales - Neuroprotección
+
+<div class= "tto" >
+<ol>
+
+<li> <span class= "dx" >Suero fisiológico</span> IV( No usar soluciones glucosadas)
+<li> Manejo de <span class= "dx" >presión arterial</span>
+    <ul>
+        <li> Trombolisis: PAS < 185 mmHg / PAD < 110 mmHg
+        <li> HIC : PAS < 130-140
+    </ul>
+<li> Manejo de <span class= "dx" >glicemia</span>: Mantener entre 140-200 mg/dL
+<li> Manejo de <span class= "dx" >temperatura</span>: Mantener menor a 37.5°C
+<li> <span class= "dx" >No alimentar</span> ni dar medicamentos VO antes de evaluación de disfagia.
+<li> Si presenta vómitos administrar <span class= "dx" >antieméticos</span> intravenosos.
+<li> Si paciente está agitado o comprometido de conciencia debe llamarse al anestesista o urgenciólogo de turno para <span class= "dx" >evaluar sedación y/o intubación</span>.
+<li> Revisar si paciente presenta <span class= "sn" >globo vesical</span> o desea orinar.
+<li> ACV isquémico NO trombolisis NO trombectomía: Iniciar ASA o DAP + estatinas
+
+</ol>
+</div>
 
 ## TAC
 
@@ -730,6 +758,7 @@ RNM protocolo stroke:
 - Signos de la corteza insular
 - Signo de la cuerda
 - Perdida de diferenciación corticosubcortical
+
 
 ![sg precoces](image-8.png)
 
@@ -852,6 +881,12 @@ Datos:
 ![sd y territorios](image-3.png)
 
 ![sd lacunares](image-4.png)
+
+![ACM](image-14.png)
+
+![ACA](image-15.png)
+
+![ACP](image-16.png)
 
 ## Hemorragia cerebral 
 
@@ -1231,6 +1266,14 @@ HSV en encefalitis, tiene más trofismo por lobulos Temporal o frontal
 
 </div>
 
+## Homúnculo sensitivo
+
+![homunculo_sensitiv](image-12.png)
+
+## Homúnculo motor
+
+![homunculo_motor](image-13.png)
+
 # Lesión medular
 
 Score de ASIA
@@ -1245,3 +1288,66 @@ Nervios aislados
 
 ![sensitivo_nervios](sensitivo_nervios.png)
 
+
+# TEC neuroimágenes
+
+Readiografía no sirve :) RNM tampoco tiene mucha utilidad. Es más util para temporalidad 
+
+**Pedir TC** en GCS <=13 (moderado a severo)
+
+14 o 15 --> ev new orleans criteria y canadian head CT Rule in minor head injury
+
+![TEC_leve](image-10.png)
+
+Angio TC de cuello y Cerebro: Criterios de Denver
+
+## Lesiones Primaria
+
+Extra e intraaxiales
+
+Recordar mecanismos lesionales:
+- Golpe: Contacto directo
+- Contragolpe: En el lado opuesto al golpe
+
+Lesiones de craneo y cuero cabelludo
+
+![anato](image-11.png)
+
+Hematoma epidural:
+- Capaz de cruzar la hoz del cerebro y tentorio. 
+- No cruza sutura. 
+- Se asocia a fractura
+- Que sea biconvexa no es lo más importante
+
+Hematoma subdural:
+- Trauma: daño de venas corticales comunicantes al atravesar el espacio subdural (no envueltas en aracnoides)
+- Sí puede cruzar suturas
+- No cruza hoz del cerebro.
+- Pueden generar tabiques si se cronifican
+- Dx: entre otros, higroma subdural (es Liquido cefalorraquídeo, no sangre)
+
+Hemorragia subaracnoídea traumática:
+- La HSA más común
+- Dx: HSA no traumática, Pesudo HSA (edema cerebral)
+
+Lesiones intraaxiales
+- Ojo: edema alrededor de colección hemática. Puede ser por contusión
+- Lo más frecuente es adyacente a protuberancias oseas
+
+TEC es evolutivo, sobre todo en primeras 24 a 48 horas
+
+Daño axonal difuso:
+- Cuadro clínico:
+    - Pérdida de conciencia al momento del impácto
+    - Coma
+    - Es común discordancia clínico-radiológica (puede no tener hallazgos en img)
+- Clasificación de adams y gennarelli. Pero no es muy útil en la clínica
+
+Injuria subcortical:
+- lesiones traumáticas de estructuras profundas. Mientras más profundas, más graves
+- Dx: hemorragia de duret (en herniación transtentorial).
+
+Daño vascular difuso:
+- Lesiones hemorrágicas en sustancia blanca
+
+## Lesiones Secundarias
