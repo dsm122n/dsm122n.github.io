@@ -1227,6 +1227,134 @@ Pandy (+) --> proteínas.
 | **vertigo episódico con gatillante** | - Eventos episódicos, duración corta (<1’)<br>- Gatillo obligado: movimiento de cabeza o incorporación | VPPB | Causas graves de ortostatismo y CPPV |
 | **vertigo episódico esporádico** | - Eventos episódicos de aparición espontánea<br>- No gatillados (aunque pueden exacerbarse)<br>- Dura de minutos a horas | Migraña vestibular<br>Meniere | TIA |
 
+Nistagmo huye del calor y ¿el lado de la lesión?
+
+# Cefalea
+
+Banderas rojas:
+| Hemorrag intracraneaneas | Infecciones | Metabólicas | otros |
+|---------------------------|-------------|-------------|-------|
+| <li> Sub aracnoidea <li> Epidural <li> intracerebral | <li> Meningitis <li> encefalitis <li> abscesos <li> empiema subdural | <li> Intox CO <li> Hipoglicemia | <li> Emergencia hipertensiva <li> Disección a. vertebral <li> ACV isq <li> Apoplexia pituitaria <li> trombosis venosa central <li> (Pre)eclampsia <li> Arteritis células gigantes <li> Glaucoma agudo angulo cerrado |
+
+
+SNNOOP10
+- Síntomas sistémicos (fiebre et al.): infecto, Ca carcinoide, feocromocitoma, (no vascular)
+- Neo (antecedente): Neo primaria / Meta
+- Neuro (déficit neurológico, incluido alteración estado de conciencia): vascular, abscesos, otros infecto
+- Onset abrupto: HSA u otra vascular
+- Older (edad > 50 años): arteritis células gigantes, vascular, neo
+- Patrón (alteración o inicio reciente): Neo, vascular, no vascular intracraneal
+- Posicional: Alteración presión intracraneana
+- Precipitada por tos , valsalva: Malformación fosa posterior, Chiari
+- Papiledema: Neo o no vascular, HIC
+- Progresiva/presentación atípica: Neo o no vascular intracraneano
+- Puerperio/pregnancy: Vascular, post-punción, HTA, trombosis, hipotiroidismo, anemia, DM
+- Painful eye con síntomas autonómicos: Fosa posterior, r. pituitaria, cavernoma, tolosa hunt, oftalmo (glaucoma)
+- Post-trauma: agudo o cron, hematoma subdural, vascular
+- Patología inmune: oportunista
+- Painkiller overuse o new drug: sobre uso, incomptibilidad, efecto adverso
+
+Alternativa de mnemotecnia: I(2)-P(3)IENSE(2)N(2)
+- Inicio: Súbito, reciente
+- Patrón: patrón con cambio reciente, patrón posicional, patrón valsalva
+- Inmunodeprimido
+- Edad > 50 años
+- Neoplasia
+- Síntomas sistémicos
+- Embarazada y puérpera
+- Edema de papila
+- Neurológicos: Síntomas y signos específicos // no focales, focales
+
+
+## Migraña
+
+Manejo agudo:
+- SF 250 cc + ketoprofeno 300 mg + metamizol 2 g + metoclopramida 10 mg (Ondansetrón si nauseas) en dos horas
+    - Si no mejora --> Clorpromazina 12.5 mg
+- Dexametasona para prevenir recurrencia
+
+Alternativas triptanes:
+- Naratriptan 2.5 mg
+- Eletriptan 20 mg /40 mg
+
+Alternativas profilaxis:
+
+No farmacológico: 
+- Modificaciones estilo de vida: ejercicio moderado, dieta balanceada, identificar e intentar evitar desencadenantes, sueño regular.
+- Otros: acupuntura, neuromodulación no invasiva, terapia cognitivo-conductual, técnicas de relajación, biofeedback, 
+
+
+Fármacos: todos se dan en la noche de preferencia. Se pueden cambiar o combinar si fallan
+
+<table>
+<tr>
+<th>Fármaco</th>
+<th>Dosis</th>
+<th>Preferir en</th>
+<th>Otros comentarios</th>
+<th>Presentaciones</th>
+</tr>
+<tr>
+<td>Topiramato</td>
+<td>12.5 mg por 1 semana -> 25 mg -> hasta 50 mg </td>
+<td> 
+<li> Casi todo porque poca RAM y rápido en actuar (aprox 2 semanas) 
+<li> Sobrepeso (disminuye apetito)
+</td>
+<td>
+<li> Produce anorexia
+<li> Bradipsiquia (evitar en px con alto nivel académico, no decirle al px), evaluar tolerancia
+</td>
+<td> 25 mg, 50 mg, 100 mg </td>
+</tr>
+<tr>
+<td>Propranolol</td>
+<td>20-40 mg</td>
+<td> Mujeres jóvenes, hipertensión</td>
+<td> 
+<li>Disfunción sexual en hombres</li>
+<li>No dar en Asma</li>
+<li>No dar en adulto mayor</li>
+</td>
+<td> 40 mg, 80 mg </td>
+</tr>
+<tr>
+<td>Flunarizina</td>
+<td>5 mg - 10 mg</td>
+<td> Jóvenes (H y M) </td>
+<td></td>
+<td> 10 mg </td>
+</tr>
+<tr>
+<td> Verapamilo </td>
+</tr>
+<tr>
+<td> Amitriptilina </td>
+<td> 12.5 mg por 1 semana - luego 25 mg noche </td>
+<td> Mujer, comorbilidad con cefalea tensional, alteraciones sueño, depresión, fibromialgia </td>
+<td>
+<li> sueño
+<li> sequedad bucal
+<li> aumento de peso por hiperfagia
+<li> hipotensión ortostática
+</td>
+<td> 25 mg, 50 mg </td>
+</tr>
+</table>
+
+
+| Fármaco | Dosis | Comentarios |
+|---------|-------|-------------|
+| Topiramato | 12.5 (1 semana) - 25 - (hasta) 50 mg | <li> más rápido en actuar (2 sem aprox) <li> Preferir en sobrepeso (disminuye apetito) <li> Poco RAM <li> <span class= "sn" >bradipsiquia</span> (evitar en px con alto nivel académico, no decirle al px) |
+| Propranolol | 20-40mg | <li> <span class= "tto" >mujeres jóvenes</span> <li> hiper
+
+## Tensional
+Alternativas:
+- Naproxeno 550mg
+- Ibuprofeno 600mg
+
+Max 3 días si no SU
+
 
 
 # Datitos random eunacom
