@@ -1333,24 +1333,41 @@ Fármacos: todos se dan en la noche de preferencia. Se pueden cambiar o combinar
 <td></td>
 </tr>
 <tr>
-<td> Amitriptilina </td>
-<td> 12.5 mg por 1 semana - luego 25 mg noche </td>
-<td> Mujer, comorbilidad con cefalea tensional, alteraciones sueño, depresión, fibromialgia </td>
-<td>
-<li> sueño
-<li> sequedad bucal
-<li> aumento de peso por hiperfagia
-<li> hipotensión ortostática
-</td>
-<td> 25 mg, 50 mg </td>
+    <td> Amitriptilina </td>
+    <td> 12.5 mg por 1 semana - luego 25 mg noche </td>
+    <td> Mujer, comorbilidad con cefalea tensional, alteraciones sueño, depresión, fibromialgia </td>
+    <td>
+    <li> sueño
+    <li> sequedad bucal
+    <li> aumento de peso por hiperfagia
+    <li> hipotensión ortostática
+    </td>
+    <td> 25 mg, 50 mg </td>
 </tr>
+<tr>
+    <td> Valproato </td>
+    <td> 250 mg c/12h </td>
+    <td> 
+        Ya no se usa tanto como profilaxis por otras alternativas, pero buena evidencia
+        <li> Hombres
+        <li> Mujeres mayores (ojo riesgo teratogénico)
+        <li> ojo en TEA y TDAH en jóvenes
+     </td>
+    <td> </td>
+    <td> </td>
+</tr>
+<tr>
+    <td> Botox </td>
+    <td> </td>
+    <td> dura 2 a 3 meses, cada ampolla peri $200.000 </td>
+    <td> </td>
+    <td> </td>
+</tr>
+
 </table>
 
 
-| Fármaco | Dosis | Comentarios |
-|---------|-------|-------------|
-| Topiramato | 12.5 (1 semana) - 25 - (hasta) 50 mg | <li> más rápido en actuar (2 sem aprox) <li> Preferir en sobrepeso (disminuye apetito) <li> Poco RAM <li> <span class= "sn" >bradipsiquia</span> (evitar en px con alto nivel académico, no decirle al px) |
-| Propranolol | 20-40mg | <li> <span class= "tto" >mujeres jóvenes</span> <li> hiper
+
 
 ## Tensional
 Alternativas:
