@@ -1288,35 +1288,35 @@ Fármacos: todos se dan en la noche de preferencia. Se pueden cambiar o combinar
 
 <table>
 <tr>
-<th>Fármaco</th>
-<th>Dosis</th>
-<th>Preferir en</th>
-<th>Otros comentarios</th>
-<th>Presentaciones</th>
+    <th>Fármaco</th>
+    <th>Dosis</th>
+    <th>Preferir en</th>
+    <th>Otros comentarios</th>
+    <th>Presentaciones</th>
 </tr>
 <tr>
-<td>Topiramato</td>
-<td>12.5 mg por 1 semana -> 25 mg -> hasta 50 mg </td>
-<td> 
-<li> Casi todo porque poca RAM y rápido en actuar (aprox 2 semanas) 
-<li> Sobrepeso (disminuye apetito)
-</td>
-<td>
-<li> Produce anorexia
-<li> Bradipsiquia (evitar en px con alto nivel académico, no decirle al px), evaluar tolerancia
-</td>
-<td> 25 mg, 50 mg, 100 mg </td>
+    <td>Topiramato</td>
+    <td>12.5 mg por 1 semana -> 25 mg -> hasta 50 mg </td>
+    <td> 
+        <li> Casi todo porque poca RAM y rápido en actuar (aprox 2 semanas) 
+        <li> Sobrepeso (disminuye apetito)
+    </td>
+    <td>
+        <li> Produce anorexia
+        <li> Bradipsiquia (evitar en px con alto nivel académico, no decirle al px), evaluar tolerancia
+    </td>
+    <td> 25 mg, 50 mg, 100 mg </td>
 </tr>
 <tr>
-<td>Propranolol</td>
-<td>20-40 mg</td>
-<td> Mujeres jóvenes, hipertensión</td>
-<td> 
-<li>Disfunción sexual en hombres</li>
-<li>No dar en Asma</li>
-<li>No dar en adulto mayor</li>
-</td>
-<td> 40 mg, 80 mg </td>
+    <td>Propranolol</td>
+    <td>20-40 mg</td>
+    <td> Mujeres jóvenes, hipertensión</td>
+    <td> 
+        <li>Disfunción sexual en hombres</li>
+        <li>No dar en Asma</li>
+        <li>No dar en adulto mayor</li>
+    </td>
+    <td> 40 mg, 80 mg </td>
 </tr>
 <tr>
 <td>Flunarizina</td>
@@ -1327,6 +1327,10 @@ Fármacos: todos se dan en la noche de preferencia. Se pueden cambiar o combinar
 </tr>
 <tr>
 <td> Verapamilo </td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr>
 <td> Amitriptilina </td>
