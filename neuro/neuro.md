@@ -1202,7 +1202,9 @@ En paralelo:
 <ol>
 </div>
 
+## Fármacos anti crisis RAMs
 
+<table cellspacing="0"><colgroup width="20%"></colgroup><colgroup width="40%" span="2"></colgroup> <tbody> <tr> <td class="subtitle1">Antiseizure medication</td> <td class="subtitle1">Systemic side effects</td> <td class="subtitle1">Neurologic side effects</td> </tr> <tr> <td>Brivaracetam*</td> <td>Nausea, vomiting, constipation, fatigue</td> <td>Headache, somnolence, dizziness, ataxia, abnormal coordination, nystagmus</td> </tr> <tr> <td>Cannabidiol</td> <td>Anemia, decreased appetite, diarrhea, infection, dose-related elevations of liver transaminases (ALT and/or AST), rash, fatigue</td> <td>CNS depression (eg, drowsiness, lethargy, sedation), malaise, insomnia, sleep disturbance</td> </tr> <tr> <td>Carbamazepine</td> <td>Nausea, vomiting, diarrhea, hyponatremia, rash, pruritus</td> <td>Drowsiness, dizziness, blurred or double vision, lethargy, headache</td> </tr> <tr> <td>Cenobamate</td> <td>Fatigue</td> <td>Somnolence, dizziness, headache, diplopia</td> </tr> <tr> <td>Clobazam</td> <td>Increased salivation, nausea, vomiting, constipation</td> <td>Somnolence, aggression, irritability, ataxia, insomnia</td> </tr> <tr> <td>Eslicarbazepine</td> <td>Nausea, vomiting, diarrhea, fatigue, hyponatremia, rash</td> <td> <p>Dizziness, drowsiness, headache, diplopia, vertigo, ataxia, attention disturbance, blurred vision, tremor</p> (NOTE: Dizziness, diplopia, and ataxia reported more frequently in combination with carbamazepine) </td> </tr> <tr> <td>Ethosuximide</td> <td>Nausea, vomiting</td> <td>Sleep disturbance, drowsiness, hyperactivity</td> </tr> <tr> <td>Felbamate</td> <td>Nausea, vomiting, anorexia, weight loss</td> <td>Insomnia, dizziness, headache, ataxia</td> </tr> <tr> <td>Gabapentin</td> <td>Infrequent</td> <td>Somnolence, dizziness, ataxia</td> </tr> <tr> <td>Lacosamide</td> <td>Nausea, vomiting, fatigue</td> <td>Ataxia, dizziness, headache, diplopia</td> </tr> <tr> <td>Lamotrigine</td> <td>Rash, nausea</td> <td>Dizziness, tremor, diplopia</td> </tr> <tr> <td>Levetiracetam</td> <td>Fatigue, infection</td> <td>Somnolence, dizziness, agitation, anxiety, irritability, depression</td> </tr> <tr> <td>Oxcarbazepine</td> <td>Nausea, rash, hyponatremia</td> <td>Sedation, headache, dizziness, vertigo, ataxia, diplopia</td> </tr> <tr> <td>Perampanel</td> <td>Weight gain, fatigue, nausea</td> <td>Dizziness, somnolence, irritability, gait disturbance, falls, aggression, mood alteration</td> </tr> <tr> <td>Phenobarbital</td> <td>Nausea, rash</td> <td>Alteration of sleep cycles, sedation, lethargy, behavioral changes, hyperactivity, ataxia, tolerance, dependence</td> </tr> <tr> <td>Phenytoin</td> <td>Gingival hypertrophy, rash</td> <td>Confusion, slurred speech, double vision, ataxia</td> </tr> <tr> <td>Pregabalin</td> <td>Weight gain, peripheral edema, dry mouth</td> <td>Dizziness, somnolence, ataxia, tremor</td> </tr> <tr> <td>Primidone</td> <td>Nausea, rash</td> <td>Alteration of sleep cycles, sedation, lethargy, behavioral changes, hyperactivity, ataxia, tolerance, dependence</td> </tr> <tr> <td>Rufinamide</td> <td>Nausea, vomiting, fatigue</td> <td>Dizziness, somnolence, headache</td> </tr> <tr> <td>Stiripentol</td> <td>Nausea, decreased appetite, weight loss</td> <td>Somnolence, agitation, ataxia, hypotonia, tremor, dysarthria, insomnia</td> </tr> <tr> <td>Tiagabine</td> <td>Abdominal pain, nausea, lack of energy</td> <td>Dizziness, somnolence, nervousness, tremor, difficulty concentrating</td> </tr> <tr> <td>Topiramate</td> <td>Weight loss, paresthesia, fatigue</td> <td>Nervousness, difficulty concentrating, confusion, depression, anorexia, language problems, anxiety, mood problems, tremor</td> </tr> <tr> <td>Valproate</td> <td>Weight gain, nausea, vomiting, hair loss, easy bruising</td> <td>Tremor, dizziness</td> </tr> <tr> <td>Vigabatrin</td> <td>Vision loss, fatigue</td> <td>Drowsiness, dizziness</td> </tr> <tr> <td>Zonisamide</td> <td>Nausea, anorexia</td> <td>Somnolence, dizziness, ataxia, confusion, difficulty concentrating, depression</td> </tr> </tbody></table>
 
 # LCR
 
@@ -1268,16 +1270,33 @@ Alternativa de mnemotecnia: I(2)-P(3)IENSE(2)N(2)
 
 ## Migraña
 
-Manejo agudo:
+### Manejo agudo:
 - SF 250 cc + ketoprofeno 300 mg + metamizol 2 g + metoclopramida 10 mg (Ondansetrón si nauseas) en dos horas
     - Si no mejora --> Clorpromazina 12.5 mg
-- Dexametasona para prevenir recurrencia
+- Dexametasona para prevenir recurrencia, 8-12 mg IV 1 vez
 
 Alternativas triptanes:
 - Naratriptan 2.5 mg
 - Eletriptan 20 mg /40 mg
 
-Alternativas profilaxis:
+### Status migrañoso
+
+- Crisis de migraña debilitante en un paciente con diagnóstico conocido de migraña (con o sin aura) .
+- Excepcional en duración(≥ 72 horas) y gravedad
+- A menudo relacionada con el uso excesivo de medicación
+
+Tratamiento: 
+- Terapia escalonada con reevaluación entre la administración de fármacos 
+    - Fluidos IV
+    - Antieméticos (por ejemplo, metoclopramida)
+    - AINE (por ejemplo, ketorolaco)
+    - Dihidroergotamina
+    - Dexametasona
+    - Valproato
+- Considere el sulfato de magnesio IV como terapia complementaria bajo la orientación de un especialista.
+- Considere el tratamiento hospitalario por un especialista si no hay mejoría.
+
+### Profilaxis:
 
 No farmacológico: 
 - Modificaciones estilo de vida: ejercicio moderado, dieta balanceada, identificar e intentar evitar desencadenantes, sueño regular.
@@ -1368,7 +1387,6 @@ Fármacos: todos se dan en la noche de preferencia. Se pueden cambiar o combinar
 
 
 
-
 ## Tensional
 Alternativas:
 - Naproxeno 550mg
@@ -1376,7 +1394,9 @@ Alternativas:
 
 Max 3 días si no SU
 
+## Cefalea en racimos
 
+Recordar, responde a O2
 
 # Datitos random eunacom
 
