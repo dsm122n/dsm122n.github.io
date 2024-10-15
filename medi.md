@@ -103,8 +103,338 @@ Furosemida:
 La hemodiálisis puede eliminar de 25 a 50 mEq de K por hora, con variabilidad basada en el K sérico inicial.
 
 ## Glomerulopatías
+
+Terminología:
+- Primaria: una enfermedad renal que afecta específicamente a los glomérulos (por ejemplo, glomerulonefritis por cambios mínimos)
+- Secundaria: una enfermedad que afecta a los glomérulos en el contexto de una enfermedad sistémica (por ejemplo, nefritis lúpica en el LES) o una enfermedad que afecta a otro órgano (por ejemplo, nefropatía diabética)
+- Difusa: > 50% de los glomérulos afectados (por ejemplo, glomerulonefritis proliferativa difusa)
+- Focal :< 50% de los glomérulos afectados (por ejemplo, glomeruloesclerosis segmentaria focal)
+- Global: todo el glomérulo está afectado
+- Segmentaria: sólo está afectada una parte del glomérulo
+- Proliferativa: aumento del número de células en el glomérulo
+- Membranosa: engrosamiento de la membrana basal glomerular (por ejemplo, nefropatía membranosa)
+- Esclerosante: cicatrización del glomérulo
+- Necrotizante: muerte celular dentro del glomérulo
+- Crescéntica: acumulación de células como macrófagos, fibroblastos y células epiteliales en el espacio de Bowman
+
 ### Síndrome nefrótico
+
+Mecanismo: alteración permeabilidad glomerular (alt podocitaria, barrera de filtración glomerular)
+- por disminución VAE --> activación SRAA --> retención Na y H2O (aumento de edema)
+- Hipoalbuminemia --> 
+	- déficit hepático para síntesis proteínas --> menor producción de prot antitrombóticas --> <span class= "sn" >estado protrombótico</span> 
+	- Disminución de inmunoglobulinas --> <span class= "sn" >inmunodeficiencia</span>
+
+Definición: 
+- Proteinuria > 3.5 g/día (o equivalente en IPC)
+- Hipoalbuminemia < 3.0 g/dL
+- Edema
+- hiperlipidemia (hipercolesterolemia LDL e hipertrigliceridemia)
+- Lipiduria: cilindros grasos, cuerpos ovales grasos, cruces de malta, grasa libre
+
+Enf cambios mínimos = Nefrosis lipídea 
+
+#### Vista general
+<table>
+<thead>
+<tr>
+<th colspan="5" scope="row"> Differential diagnoses of nephrotic syndrome
+</th> </tr>
+<tr>
+<th scope="row">Disease</th> <th scope="col">Epidemiology</th> <th scope="col"> <div>Associations</div> </th> <th scope="col">Findings</th> <th scope="col"> <div>Treatment</div> </th> </tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row"> <div>Minimal change disease (lipoid nephrosis)</div> </th> <td> <ul>
+<li>Most common cause of <span class= "dx" >nephrotic syndrome in children</span></li> </ul>
+</td> <td> <ul>
+<li>Often idiopathic</li> <li>
+Secondary causes (rare) <ul>
+<li>Immune stimulus (e.g., infection, immunization)</li> <li>Tumors (e.g., Hodgkin lymphoma)</li> <li>Certain drugs (e.g., NSAIDs)</li> </ul>
+</li> </ul>
+</td> <td> <ul>
+<li>
+LM: no changes (possibly fat bodies in some proximal tubular cells) 
+</li> <li>IM: negative</li> <li>
+EM: effacement of podocyte foot processes 
+</li> <li>
+Selective glomerular proteinuria <sup   >[7]</sup>
+</li> </ul>
+</td> <td> <ul>
+<li>Responds well to prednisone</li> <li>Good prognosis</li> </ul>
+</td> </tr>
+<tr>
+
+<th scope="row">Focal segmental glomerulosclerosis</th> <td> <ul>
+<li>Most common cause of nephrotic syndrome in <span class= "dx" >adults</span>, especially in <span class= "dx" >African American </span> and Hispanic populations</li> </ul>
+</td> <td> <ul>
+<li>Can be idiopathic</li> <li>Heroin use</li> <li><span class= "dx" >HIV infection</span> </li> <li>Sickle cell disease</li> <li>Massive obesity</li> <li>Interferon treatment</li> <li>
+Congenital malformations (e.g., Charcot-Marie-Tooth syndrome) <sup  >[8]</sup><sup  >[9]</sup>
+</li> <li>NPHS1 and NHPS2 mutations</li> </ul>
+</td> <td> <ul>
+<li>
+LM: segmental sclerosis and hyalinosis 
+</li> <li>
+IM <ul>
+<li>Most commonly negative</li> <li>
+Possibly IgM, C1, and C3 deposits inside the sclerotic regions</li> </ul>
+</li> <li>
+EM: effacement of podocyte foot processes (similar to minimal change disease) 
+</li> </ul>
+</td> <td> <ul>
+<li>Prednisone (often shows poor response)</li> <li>
+If necessary, PLUS other immunosuppressants (e.g., cyclosporine, tacrolimus)</li> <li>RAAS inhibitors</li> <li>Usually leads to ESRD if left untreated</li> </ul>
+</td> </tr>
+
+<tr>
+<th scope="row">Membranous nephropathy</th> <td> <ul>
+<li>Most common cause of nephrotic syndrome in <span class= "dx" >adults</span> of European, Middle Eastern, or North African descent</li> </ul>
+</td> <td> <ul>
+<li>Primary: <span class= "dx" >anti-PLA2R</span> antibodies</li> <li>
+Secondary:  <ul>
+<li>Infections (HBV, HCV, malaria, syphilis)</li> <li>
+Autoimmune diseases (e.g., SLE)
+</li> <li>
+<span class= "dx" >Tumors</span> (e.g., lung cancer, prostate cancer)
+</li> <li>
+Medications (e.g., NSAIDs, penicillamine, gold) <sup  >[10]</sup>
+</li> </ul>
+</li> </ul>
+</td> <td> <ul>
+<li>
+LM <ul>
+<li>
+Diffuse thickened glomerular capillary loops and basement membrane  
+</li> <li>
+Granular subepithelial deposits   of IgG and C3 (dense deposits) → spike and dome appearance   </li> </ul>
+</li> </ul>
+</td> <td> <ul>
+<li>RAAS inhibitors</li> <li>Prednisone (often shows poor response)</li> <li>PLUS other immunosuppressants (e.g., cyclophosphamide) in severe disease</li> <li>Usually leads to ESRD if left untreated</li> </ul>
+</td> </tr>
+
+<tr>
+<th scope="row">Diabetic nephropathy</th> <td> <ul>
+<li>Leading cause of ESRD in high-income countries</li> </ul>
+</td> <td> <ul>
+<li>Usually additional signs of other organ system complications (e.g., retinopathy, neuropathy)</li> </ul>
+</td> <td> <ul>
+<li>
+LM <ul>
+<li>
+Thickening of the glomerular basement membrane (increased permeability) </li> <li>
+Eosinophilic nodular glomerulosclerosis (Kimmelstiel-Wilson nodules) 
+</li> </ul>
+</li> <li>
+EM <ul>
+<li>Thickening of the glomerular basement membrane</li> <li>Mesangial matrix expansion</li> <li>Segmental effacement of podocyte foot processes</li> </ul>
+</li> </ul>
+</td> <td> <ul>
+<li>Stringent glycemic control</li> <li>RAAS inhibitors</li> </ul>
+</td> </tr>
+<tr>
+<th scope="row">Amyloid nephropathy</th> <td> <ul>
+<li>More commonly seen in elderly patients <sup  >[11]</sup>
+</li> </ul>
+</td> <td> <ul>
+<li>The kidney is the most commonly affected organ in systemic amyloidosis.</li> <li>Other organs might be involved simultaneously (e.g., the heart).</li> <li>Multiple myeloma(AL amyloidosis)</li> <li>Chronic inflammatory disease, e.g., tuberculosis, rheumatoid arthritis (AA amyloidosis)</li> </ul>
+Ojo: equimosis periorbitaria, lengua macroglosia, hepatomegalia, neuropatía periférica, cardiomiopatía restrictiva
+</td> <td> <ul>
+<li>
+LM <ul>
+<li>Mesangial proliferation</li> <li>Subendothelial and/or subepithelial immune complex deposition</li> <li>Thickening of the capillary walls (appear as wire loops)  </li> <li>
+Congo red stain: amyloid deposition in the mesangium showing apple-green birefringence under polarized light 
+</li> <li>Nodular glomerulosclerosis</li> </ul>
+</li> <li>
+IM: positive for AA protein (AA amyloidosis), positive for kappa and lambda light chains (AL amyloidosis) </li> <li>EM: amyloid fibrils</li> </ul>
+</td> <td> <ul>
+<li>Melphalan, corticosteroids</li> <li>
+Treatment of underlying disease (e.g., bone marrow transplantation may be used for multiple myeloma)</li> </ul>
+</td> </tr>
+<tr>
+<th scope="row">Membranoproliferative glomerulonephritis</th> <td colspan="4" rowspan="1"> <ul>
+<li>
+Usually manifests with nephritic sediment, which can indicate: <ul>
+<li>Nephritic-nephrotic syndrome: if there is concomitant nephrotic-range proteinuria (&gt; 3.5 g/24 hours)</li> <li>Pure nephritic syndrome: if there is no proteinuria or proteinuria is below nephrotic range (&lt; 3.5 g/24 hours)</li> </ul>
+</li> <li>See “Nephritic syndrome.”</li> </ul>
+</td> </tr>
+<tr>
+<th colspan="5" scope="row">LM = light microscopy, IM = immunofluorescent microscopy, EM = electron microscopy
+</th> </tr>
+</tbody>
+</table>
+
+#### Tratamiento general
+
+- <span class= "sn" >Edema</span>: 
+	- <span class= "tto" >Diuréticos</span> asa +- tiazidas, iSRAA. Diuréticos endosis elevadas (Los diuréticos más comunes están muy ligados a las proteínas y actúan sobre la membrana tubular renal luminal. Entre los mecanismos de resistencia a los diuréticos en el síndrome nefrótico se incluyen la escasa biodisponibilidad oral por edema intestinal, el elevado volumen de distribución en la hipoalbuminemia (que conduce a una disminución de la administración del fármaco a los riñones), la unión del fármaco en la luz tubular por proteínas filtradas, la retención compensatoria de sodio y otros mecanismos adaptativos)
+		- Furosemida 40 mg 2 veces al día
+		- 2a línea, agregar tiazidas
+		- Considerar alúmina adyuvante EV 0.5 g/kg 1 vez 30-60 minutos antes dediurético de asa
+	- <span class= "tto" >restricción Na</span>
+	- <span class= "tto" >Restricción de líquidos</span> < 1.5 L/día
+- <span class= "sn" >Proteinuria</span>: principal objetivo del tto por implicancia en resto de manifestaciones
+	- Terapia antiproteinúrica: <span class= "tto" >iSRAA</span>. Evitar en AKI, hiperK, instalación abrupta de nefrótico
+	- Evitar dieta alta en proteínas pero mantener ingesta adecuada (0.8-1 g/kg/día)
+- <span class= "sn" >Dislipidemia</span>:
+	- <span class= "tto" >Estatinas</span> (atorvastatina 10-20 mg/día). Indicaciones similares a paciente con alto RCV
+- <span class= "sn" >Hipercoagulabilidad</span>: Profilaxis o tto antitrombótico
+	- Considerar caso a caso con <span class= "tto" >HNF, HBPM, TACO</span>. Poca evidencia en DOAC. Hasta albúmina > 3g/dL
+		- Albúmina < 2-2.5 g/dL
+		- Nefropatía membranosa primaria
+		- Coexistencia de otros FR para trombosis (inmovilización, antecedente de trombosis, IMC >35 kg/m2, ICC NYHA III-IV, etc)
+		- Evaluar HAS-BLED >=3
+		- Tto antitrombótico si trombosis arterial, venosa o TEP.
+- <span class= "sn" >Riesgo infecto</span>
+	- Screening de infecciones latentes (TB, VHB, VHC, VIH, sifilis, strongiloidiasis, otros según FR)
+	- Prevención:
+		- Vacuna antineumocócica, influenza
+		- Considerar IgIV si infecciones bacterianas repetidas e IgG < 600 mg/dL
+		- Considerar profilaxis PCP con TMP-SMX en pacientes con corticoides altas dosis u otras terapias inmunosupresoras
+
+
 ![prevalencia sindrome nefrotico por edad](/nefrologia/sd_nefrotico_edad.jpeg)
+
+### Síndrome urinario
+
+Inventado por un profe para hacer referencia a:
+- proteinuria y/o hematuria glomerular
+- Puede acompañarse de:
+	- HTA
+	- Edema
+	- Deterioro de función renal
+
+Nefropatía por IgA (enf de Berger) suele presentarse así. Defecto en galactosidación de IgA1, se acumula en mesangio, se expande la matriz y proliferan las c mesangiales
+
+Complemento Normal
+
+Caso típico:
+- Hombre joven 
+- cuadro infeccioso mucoso (respiratorio o gastrointestinal) que inicio hace pocos días y se presenta con <span class= "sn" >hematuria macroscópica reccurrente</span>
+- Hematuria microscópica persistente, se va agregando proteinuria e HTA
+- 30-50% IgA elevada en plasma
+
+Forma sistémica --> vasculitis  Henoch-Schönlein. Asociación con enf hepáticas y autoinmunes (celiaca, hepatitis autoinmune, DM1)
+
+Tto: Controversial
+- Antiproteinúricos (iECA, ARAII)
+- Algún rol la inmunosupresión en ciertos casos
+- Control PA
+- iSGLT-2 (mejoran feedback tubuloglomerular)
+
+### Síndrome nefrítico 
+
+Alteración capilar glomerular
+
+- Hematuria
+- HTA (por activación endotelial)
+- Edema
+- Proteinuria no nefrótica
+- Puede haber deterioro función renal
+
+Clasif según con o sin hipocomplementemia
+
+Con hipocomplementemia:
+- Glomerulonefritis postestreptocócica
+- Glomerulonefritis post-infecciosa
+- Glomerulonefritis lúpica
+- Glomerulopatía C3
+- Crioglobulinemia
+- Enfermedad renal ateroembólica
+
+<table>
+<thead>
+<tr>
+<th colspan="5" scope="row"> <span  class="js-relevance-term step-1-imppact0 step-2-imppact0 imppact0 usmle-gs-imppact0" >Overview of <span  class="js-relevance-term step-1-imppact0 step-2-imppact0 imppact0 usmle-gs-imppact0" >immune complex-mediated glomerulonephritis</span></span> <sup  >[1]</sup><sup   >[4]</sup>
+</th> </tr>
+<tr>
+<th colspan="2" rowspan="1" scope="row"></th> <th scope="col"><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed -a18d838954f85-strongImpactHighlight"><span class="linksuggest"><span class="leitwort">Poststreptococcal glomerulonephritis</span></span></span></th> <th scope="col"> <span class="linksuggest"><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed -a18d838954f85-strongImpactHighlight"><span class="leitwort">IgA nephropathy </span></span></span><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed -a18d838954f85-strongImpactHighlight">(Berger disease)</span> </th> <th scope="col"><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed -a18d838954f85-strongImpactHighlight"><span class="step-2-imppact2 imppact2 usmle-gs-imppact2 step-2-condensed -a18d838954f85-strongImpactHighlight"><span class="linksuggest">Lupus nephritis</span></span></span></th> </tr>
+</thead>
+<tbody>
+<tr>
+<th colspan="2" rowspan="1" scope="row">Epidemiology</th> <td> <ul>
+<li>
+<span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed -a18d838954f85-strongImpactHighlight">Usually affects <span class="wichtig">children</span></span> 3–12 years of age and individuals &gt; 60 years of age <sup  >[14]</sup><sup   >[15]</sup>
+</li> </ul>
+</td> <td> <ul>
+<li>Most common type of primary glomerulonephritis worldwide</li> <li>
+<span   class="api dictionary"  id="Lbf321e8f67b22efff770cc8d7400e56c" >♂ &gt; ♀</span> <sup  >[16]</sup>
+</li> <li>Peak incidence: 2<sup>nd</sup> to 3<sup>rd</sup> decade of life <sup  >[17]</sup>
+</li> </ul>
+</td> <td> <ul>
+<li>Common: found in up to 50% of individuals with SLE at presentation <sup   >[18]</sup>
+</li> </ul>
+</td> </tr>
+<tr>
+<th colspan="2" scope="row">Pathophysiology</th> <td> <ul>
+<li><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed -a18d838954f85-strongImpactHighlight">Type III hypersensitivity reaction</span></li> <li>
+<span class= "dx" >weeks after</span> group A beta-hemolytic streptococcal infections</span></span></span> <ul>
+<li><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed -a18d838954f85-strongImpactHighlight">Pharyngitis and/or tonsillitis (most common): <span class="nowrap"><span class="-a18d838954f85-userHighlightArticle" >1–3 we<span class="-a18d838954f85-userHighlightArticle" >eks</span></span> </span><span class="-a18d838954f85-userHighlightArticle" >after infection</span></span></li> <li><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed -a18d838954f85-strongImpactHighlight">Skin infections: <span class="nowrap">1–6 weeks after infection</span></span></li> </ul>
+</li> </ul>
+</td> <td> <ul>
+<li>Type III hypersensitivity reaction</li> <li>
+IgA antibodies form immune complexes that deposit in the renal mesangium. <sup   >[19]</sup>
+</li> <li>Mesangial cell and complement system activation</li> </ul>
+</td> <td> <ul>
+<li><span class="step-2-imppact2 imppact2 usmle-gs-imppact2 step-2-condensed -a18d838954f85-strongImpactHighlight">Connective tissue disease</span></li> </ul>
+</td> </tr>
+<tr>
+<th colspan="2" rowspan="1" scope="row">Distinguishing features</th> <td> <ul>
+<li><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed -a18d838954f85-strongImpactHighlight">Periorbital and peripheral edema</span></li> <li><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed -a18d838954f85-strongImpactHighlight"><span class="-a18d838954f85-userHighlightArticle" > <span class= "dx" >Hypertension</span> </span></span></li> <li><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed -a18d838954f85-strongImpactHighlight"><span class="nowrap"> <span class= "dx" >Tea- or cola-colored urine</span> </span></span></li> <li><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed -a18d838954f85-strongImpactHighlight">Usually <span class="wichtig"><span   class="api dictionary"  id="L68036fcc82725ca52048204251cbabf4" >self-limiting</span></span> in children</span></li> <li><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed -a18d838954f85-strongImpactHighlight">May lead to rapidly progressive glomerulonephritis <span class="-a18d838954f85-userHighlightArticle" >(RPGN), which can cause renal insufficiency </span> in adults</span></li> </ul>
+</td> <td> <ul>
+<li>
+<span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed -a18d838954f85-strongImpactHighlight"> <span class= "sn" >Asymptomatic microhematuria with intermittent gross hematuria <span class= "dx" >during or directly after</span> one or more of the following: </span></span> <ul>
+<li><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed -a18d838954f85-strongImpactHighlight">Upper respiratory tract infections</span></li> <li><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed -a18d838954f85-strongImpactHighlight">Gastrointestinal infections </span></li> <li><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed -a18d838954f85-strongImpactHighlight">Strenuous exercise</span></li> </ul>
+</li> <li>
+20–40% progress to ESRD within 20 years. <sup   >[20]</sup>
+</li> </ul>
+</td> <td> <ul>
+<li><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed -a18d838954f85-strongImpactHighlight">Pleuritis</span></li> <li><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed -a18d838954f85-strongImpactHighlight">Malar rash</span></li> <li><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed -a18d838954f85-strongImpactHighlight">Joint pain</span></li> <li><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed -a18d838954f85-strongImpactHighlight">Anemia</span></li> </ul>
+</td> </tr>
+<tr>
+<th colspan="2" rowspan="1" scope="row">Laboratory studies</th> <td> <ul>
+<li><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed -a18d838954f85-strongImpactHighlight"><span class="wichtig">Positive antistreptococcal antibodies (ASO, <span   class="api dictionary"  id="Lcb9165c8b422f9cabbadee4a68ae15a9" >ADB</span>)</span></span></li> <li>
+<span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed -a18d838954f85-strongImpactHighlight"><span class="wichtig"><span class="nowrap"> <span class= "dx" >↓ Serum </span><span class="wichtig">C3 complement</span> levels</span> </span></span> (due to consumption) </li> </ul>
+</td> <td> <ul>
+<li><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed -a18d838954f85-strongImpactHighlight"><span class="nowrap">↑ Serum IgA</span></span></li> <li> <span class= "dx" >Normal C3 complement levels</span> </li> </ul>
+</td> <td> <ul>
+<li><span class="step-2-imppact2 imppact2 usmle-gs-imppact2 step-2-condensed -a18d838954f85-strongImpactHighlight">Positive anti-dsDNA antibodies</span></li> <li><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed -a18d838954f85-strongImpactHighlight"><span class="wichtig"><span class="nowrap"><span class= "dx" >↓ Serum </span><span class="wichtig">C3 complement</span> </span> levels</span></span></li> </ul>
+</td> </tr>
+<tr>
+<th colspan="1" rowspan="3" scope="row">Renal biopsy</th> <th scope="row"><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed -a18d838954f85-strongImpactHighlight">LM</span></th> <td colspan="3" rowspan="1"> <ul>
+<li>
+Glomeruli appear enlarged and hypercellular.  <span class="api extraExplanation"   id="Ee5bf5e59ba06b71c912a6b5ba6d7423b"><span class="inline-icon"></span></span>
+</li> </ul>
+</td> </tr>
+<tr>
+<th scope="row"><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed -a18d838954f85-strongImpactHighlight"><span class="step-2-imppact2 imppact2 usmle-gs-imppact2 step-2-condensed -a18d838954f85-strongImpactHighlight">IM</span></span></th> <td colspan="3"> <ul>
+<li>
+<span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed -a18d838954f85-strongImpactHighlight"><span class="wichtig">Granular subepithelial immune complex deposits (IgG, IgM, C3)</span></span> along the GBM and the mesangium  <span class="api extraExplanation"   id="E7b9627fe956d6afc75c9928147a7462f"><span class="inline-icon"></span></span>
+</li> <li><span class="step-2-imppact2 imppact2 usmle-gs-imppact2 step-2-condensed -a18d838954f85-strongImpactHighlight">So-called “lumpy bumpy” or “starry sky” appearance</span></li> <li>
+Diffuse proliferative glomerulonephritis<span class="step-2-imppact2 imppact2 usmle-gs-imppact2 step-2-condensed -a18d838954f85-strongImpactHighlight"> (most common with SLE)</span>; see “Classification of lupus nephritis.” <span class="api extraExplanation"   id="E3862206211cfd5bd47395c559b1d6e30"><span class="inline-icon"></span></span> </li> </ul>
+</td> </tr>
+<tr>
+<th scope="row"><span class="step-2-imppact2 imppact2 usmle-gs-imppact2 step-2-condensed -a18d838954f85-strongImpactHighlight"><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed -a18d838954f85-strongImpactHighlight">EM</span></span></th> <td colspan="3" rowspan="1"> <ul>
+<li><span class="step-1-imppact2 usmle-gs-imppact2 step-1-condensed -a18d838954f85-strongImpactHighlight">PSGN shows <span class="wichtig">dome-shaped, subepithelial immune complex deposits (humps)</span></span></li> </ul>
+</td> </tr>
+<tr>
+<th colspan="2" rowspan="1" scope="row">Management</th> <td colspan="3" rowspan="1"> <ul>
+<li>Glucocorticoids ± immunosuppressive therapy</li> <li>PSGN: antibiotic therapy</li> </ul>
+</td> </tr>
+<tr>
+<th colspan="5" scope="row">LM = light microscopy, IM = immunofluorescent microscopy, EM = electron microscopy
+</th> </tr>
+</tbody>
+</table>
+
+### Datos 
+
+- Proteinuria: > 150 mg/día, o IPC > 0.15 
+- Albuminuria (-) con proteinuria + o mucho mayor, sospechar para-proteína (GMSR o MM)
+- Proteinuria funcional: < 1 g/día, en estados hiperdinámicos, Ejercicio intenso, embarazo, fiebre, ICC hipervolémica, estados de deshidratación, etc
+- Sedimento de orina:
+	- Hematuria glomerular: dismorfia, acantocitos, cilindros hemáticos
+	- G. Bláncos: en glomerulopatías inflamatorias, o con compromiso intesticial
+	- Lipiduria: cuerpos ovales grasos, cilindros grasos, cruces de malta, grasa libre
 
 ## AKI
 
@@ -199,7 +529,7 @@ Hematuria
 </tbody>
 </table>
 
-## Pre-renal
+### Pre-renal
 
 - Hipovolemia verdadera
 - Hipovolemia efectiva
