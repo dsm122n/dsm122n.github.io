@@ -664,7 +664,35 @@ Lo ideal es consumir **4 comidas** establecidas en el día: desayuno, almuerzo, 
 
 ![tto_profilaxis_ped_vih](tto_profilaxis_ped_vih.png)
 
-# Neumología
+# Broncopulmonar
+
+Score de Tal modificado
+
+| Puntaje | Frecuencia respiratoria (< 6 meses) | Frecuencia respiratoria (≥ 6 meses) | Sibilancias                                          | Cianosis                          | Retracción         |
+|---------|-------------------------------------|--------------------------------------|-----------------------------------------------------|-----------------------------------|--------------------|
+| 0       | ≤ 40                                | ≤ 30                                 | NO                                                  | NO                                | NO                 |
+| 1       | 41 – 55                             | 31 – 45                              | Fin de espiración c/ fonendoscopio                   | Peri-oral al llorar               | Subcostal (+)      |
+| 2       | 56 – 70                             | 46 – 60                              | Inspir. y espir. c/ fonendoscopio                    | Peri-oral en reposo               | Intercostal (++)   |
+| 3       | > 70                                | > 60                                 | Audibles a distancia                                 | Generalizada en reposo            | Supraclavicular (+++) |
+
+![Algoritmo_score_tal](image-2.png)
+
+Asthma Prediction index
+
+| Criterios mayores | Criterios menores |
+| -| -| 
+| Asma en Padre | Rinitis alérgica |
+| Eczema | Sibilancias sin resfrio | 
+| Alergia alimentaria | Eosinofilia (>4%) |
+
+
+- Pacientes con SBO frecuentes y un criterio mayor o dos menores tiene un 76% de probabilidad de asma
+- Pacientes con algún SBO y un criterio mayor o dos menores tiene un 59% de probabilidad de desarrollar asma
+- Paciente con SBO pero sin criterios tiene sólo un 5% de desarrollar asma
+
+Si bien los distintos índices clínicos y fenotipos epidemiológicos permiten predecir con cierto grado de seguridad, no es suficiente para orientar tratamiento, ni para predecir respuesta a la terapia.
+
+
 Infiltrado perihiliar + Banda presidencial en ADV RxTx
 
 
