@@ -1552,6 +1552,2012 @@ La producción extraadrenal de cortisol por acción de la 11β-HSD1 puede estar 
 - Secondary adrenal insufficiency Spares the skin. 
 - Tertiary adrenal insufficiency is due to Treatment (cortisol).
 
+# Reumatología
+
+## Vasculitis diagnóstico diferencial
+
+
+<div class=WordSection1>
+
+<table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0 width=766
+ style='width:574.35pt;margin-left:14.2pt;border-collapse:collapse;border:none;
+ mso-border-alt:solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:
+ 0cm 5.4pt 0cm 5.4pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=132 valign=top style='width:99.2pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;background:#FF9696;mso-background-themecolor:
+  accent1;mso-background-themetint:153;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Vasculitis de vasos
+  grandes</span></p>
+  </td>
+  <td width=321 valign=top style='width:241.0pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;background:#FFB9B9;mso-background-themecolor:accent1;
+  mso-background-themetint:102;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Arteritis de células
+  gigantes (ACG) (arteritis de la temporal)</span></p>
+  </td>
+  <td width=312 valign=top style='width:234.15pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;background:#FFB9B9;mso-background-themecolor:accent1;
+  mso-background-themetint:102;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Arteritis de <span
+  class=SpellE>Takayasu</span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1'>
+  <td width=132 valign=top style='width:99.2pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#FFDCDC;mso-background-themecolor:accent1;mso-background-themetint:
+  51;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Etiopatogenia </span></p>
+  </td>
+  <td width=321 valign=top style='width:241.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Afecta grandes vasos (ramas aorta), frecuentemente la arteria
+  temporal (AT). Tb puede afectar MMII</span></p>
+  </td>
+  <td width=312 valign=top style='width:234.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Puede afectar arco aórtico y sus ramas. Tb:</span></p>
+  <p class=MsoListParagraphCxSpFirst style='mso-list:l22 level1 lfo26'><![if !supportLists]><span
+  lang=ES-CL style='font-family:Symbol;mso-fareast-font-family:Symbol;
+  mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span lang=ES-CL>Aorta torácica y abdominal</span></p>
+  <p class=MsoListParagraphCxSpMiddle style='mso-list:l22 level1 lfo26'><![if !supportLists]><span
+  lang=ES-CL style='font-family:Symbol;mso-fareast-font-family:Symbol;
+  mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span lang=ES-CL>Arterias renales</span></p>
+  <p class=MsoListParagraphCxSpLast style='mso-list:l22 level1 lfo26'><![if !supportLists]><span
+  lang=ES-CL style='font-family:Symbol;mso-fareast-font-family:Symbol;
+  mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span lang=ES-CL>Arteria pulmonar</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2'>
+  <td width=132 valign=top style='width:99.2pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#FFDCDC;mso-background-themecolor:accent1;mso-background-themetint:
+  51;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Mayor incidencia en</span></p>
+  </td>
+  <td width=321 valign=top style='width:241.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Mayores de 50 años</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Mujeres (2:1)</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Población blanca</span></p>
+  </td>
+  <td width=312 valign=top style='width:234.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Adulto joven</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Mujeres (9:1)</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Raza oriental</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3'>
+  <td width=132 valign=top style='width:99.2pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#FFDCDC;mso-background-themecolor:accent1;mso-background-themetint:
+  51;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Manifestaciones
+  clínicas</span></p>
+  </td>
+  <td width=321 valign=top style='width:241.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  class="sn"><span lang=ES-CL>CEG</span></span><span lang=ES-CL> marcado</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  class="sn"><span lang=ES-CL>Fiebre</span></span><span lang=ES-CL> de
+  grado variable</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  class="sn"><span lang=ES-CL>Cefalea</span></span><span lang=ES-CL>
+  (temporal, frontal, occipital, generalizada)</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Sensibilidad de <span class="sn">cuero cabelludo</span> </span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Claudicación mandibular (2/3 pacientes). Parestesias lengua,
+  pérdida gusto, y dolor.</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Oftálmicas: desde visión borrosa y disminución agudeza visual,
+  hasta a <span class="sn">amaurosis fugaz</span> </span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  class="dx"><span lang=ES-CL>Arterias temporales</span></span><span
+  lang=ES-CL> engrosadas, con nódulos y sensibles</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Áreas de necrosis o infarto en cuero cabelludo</span></p>
+  </td>
+  <td width=312 valign=top style='width:234.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>CEG, fiebre, artralgias, mialgias</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  class="sn"><span lang=ES-CL><o:p>&nbsp;</o:p></span></span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  class="sn"><span lang=ES-CL><o:p>&nbsp;</o:p></span></span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  class="sn"><span lang=ES-CL>Según vaso</span></span><span lang=ES-CL>
+  afectado: </span></p>
+  <p class=MsoListParagraphCxSpFirst style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l11 level1 lfo3'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span lang=ES-CL>Claudicación MMSS,
+  reducción/ausencia pulsos</span></p>
+  <p class=MsoListParagraphCxSpMiddle style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l11 level1 lfo3'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span lang=ES-CL>Mareos, síncopes,
+  alteraciones visuales. </span></p>
+  <p class=MsoListParagraphCxSpLast style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l11 level1 lfo3'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span lang=ES-CL>Estenosis a. Renales: <span
+  class="sn">IC, HTA</span> de difícil manejo</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4'>
+  <td width=132 valign=top style='width:99.2pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#FFDCDC;mso-background-themecolor:accent1;mso-background-themetint:
+  51;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  class=SpellE><span lang=ES-CL style='color:black;mso-color-alt:windowtext'>Lab</span></span></p>
+  </td>
+  <td width=321 valign=top style='width:241.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>VHS y PCR elevadas en 90% <span class=SpellE>pctes</span>. </span></p>
+  </td>
+  <td width=312 valign=top style='width:234.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>VHS y PCR elevadas</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  class=SpellE><span lang=ES-CL>Rx</span></span><span lang=ES-CL> con <span
+  class="dx">mediastino</span> ensanchado (arco <span class=SpellE>Ao</span>)</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Angiografía: <span class="dx">lumen</span> arterial “<span
+  class=SpellE>arrosariado</span>” o irregular</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5'>
+  <td width=132 valign=top style='width:99.2pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#FFDCDC;mso-background-themecolor:accent1;mso-background-themetint:
+  51;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Patologías asociadas </span></p>
+  </td>
+  <td width=321 valign=top style='width:241.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Polimialgia reumática (PMR). 50% <span class=SpellE>pctes</span>
+  tienen síntomas compatibles con esto. Puede estar aislada o acompañando a la
+  ACG.</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL style='font-family:Wingdings;mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-char-type:symbol;mso-symbol-font-family:Wingdings'><span
+  style='mso-char-type:symbol;mso-symbol-font-family:Wingdings'>à</span></span><span
+  lang=ES-CL>Dolor en <span class="dx">cinturas</span> pélvica (<span
+  class=SpellE>ej</span>: pararse) y escapular (<span class=SpellE>ej</span>:
+  levantar brazos). <span class="sn">Dolor simétrico, bilateral</span> y
+  frecuentemente asociado a <span class="sn">rigidez</span> posterior a
+  reposo. Ex neuro normal.</span></p>
+  </td>
+  <td width=312 valign=top style='width:234.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6'>
+  <td width=132 valign=top style='width:99.2pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#FFDCDC;mso-background-themecolor:accent1;mso-background-themetint:
+  51;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Histopatología</span></p>
+  </td>
+  <td width=321 valign=top style='width:241.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>En AT, infiltrado inflamatorio granulomatoso que compromete las 3
+  capas de arterias grandes y medianas. Puede ser focal </span><span
+  lang=ES-CL style='font-family:Wingdings;mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-char-type:symbol;mso-symbol-font-family:Wingdings'><span
+  style='mso-char-type:symbol;mso-symbol-font-family:Wingdings'>à</span></span><span
+  lang=ES-CL> se requieren varios cortes </span></p>
+  </td>
+  <td width=312 valign=top style='width:234.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>No se suele realizar biopsia.</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Panarteritis con c gigantes multinucleadas. </span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Si grave </span><span lang=ES-CL style='font-family:Wingdings;
+  mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin;mso-char-type:symbol;mso-symbol-font-family:
+  Wingdings'><span style='mso-char-type:symbol;mso-symbol-font-family:Wingdings'>à</span></span><span
+  lang=ES-CL> focos de fibrosis y aneurismas</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7;mso-yfti-lastrow:yes'>
+  <td width=132 valign=top style='width:99.2pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#FFDCDC;mso-background-themecolor:accent1;mso-background-themetint:
+  51;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Tratamiento (<span
+  class=SpellE>Tto</span>)</span></p>
+  </td>
+  <td width=321 valign=top style='width:241.0pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Dosis altas de <span class="tto">corticoides</span> (1mg/kg/día
+  de prednisona), con posterior disminución gradual según respuesta clínica.
+  Habitualmente por 12 a 18 meses. En caso de PMR, menores dosis de corticoides
+  :)</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  class=SpellE><span lang=ES-CL>Tto</span></span><span lang=ES-CL> de <span
+  class="tto">mantención</span>: <span class="tto">corticoides</span>
+  dosis bajas, otros <span class="tto">inmunosupresores, aspirina</span>
+  (para prevención eventos CV). </span></p>
+  </td>
+  <td width=312 valign=top style='width:234.15pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Si precoz </span><span lang=ES-CL style='font-family:Wingdings;
+  mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin;mso-char-type:symbol;mso-symbol-font-family:
+  Wingdings'><span style='mso-char-type:symbol;mso-symbol-font-family:Wingdings'>à</span></span><span
+  lang=ES-CL> <span class="tto">corticoides</span> (1mg/kg/día de
+  prednisona)</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Etapas tardías: podría ser necesaria cirugía</span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal align=left style='margin-left:7.1pt;text-align:left'><span
+lang=ES-CL><o:p>&nbsp;</o:p></span></p>
+
+</div>
+
+<span lang=ES-CL style='font-size:11.0pt;mso-bidi-font-size:10.0pt;line-height:
+115%;font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:
+minor-latin;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi;
+mso-ansi-language:ES-CL;mso-fareast-language:EN-US;mso-bidi-language:AR-SA'><br
+clear=all style='page-break-before:always;mso-break-type:section-break'>
+</span>
+
+<div class=WordSection2>
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width=948
+ style='width:711.05pt;border-collapse:collapse;border:none;mso-border-alt:
+ solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+ mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=123 valign=top style='width:92.05pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;background:#FF9696;mso-background-themecolor:
+  accent1;mso-background-themetint:153;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Vasculitis de vasos pequeños
+  asociadas a ANCA</span></p>
+  </td>
+  <td width=246 valign=top style='width:184.4pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;background:#FFB9B9;mso-background-themecolor:accent1;
+  mso-background-themetint:102;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  class=SpellE><span lang=ES-CL style='color:black;mso-color-alt:windowtext'>Poliangeítis</span></span><span
+  lang=ES-CL style='color:black;mso-color-alt:windowtext'> microscópica (PAM)</span></p>
+  </td>
+  <td width=326 valign=top style='width:244.55pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;background:#FFB9B9;mso-background-themecolor:accent1;
+  mso-background-themetint:102;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  class=SpellE><span lang=ES-CL style='color:black;mso-color-alt:windowtext'>Granulomatosis</span></span><span
+  lang=ES-CL style='color:black;mso-color-alt:windowtext'> con <span
+  class=SpellE>poliangeítis</span> (GPA) (Wegener)</span></p>
+  </td>
+  <td width=253 valign=top style='width:190.05pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;background:#FFB9B9;mso-background-themecolor:accent1;
+  mso-background-themetint:102;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Eosinofilia y <span
+  class=SpellE>granulomatosis</span> con <span class=SpellE>poliangeítis</span>
+  (EGPA) (<span class=SpellE>ChurgStrauss</span>)</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1'>
+  <td width=123 valign=top style='width:92.05pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#FFDCDC;mso-background-themecolor:accent1;mso-background-themetint:
+  51;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Mayor incidencia en</span></p>
+  </td>
+  <td width=246 valign=top style='width:184.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>1:1 (H:M)</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=326 valign=top style='width:244.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>1:1 (H:M)</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>40-55 años inicio promedio</span></p>
+  </td>
+  <td width=253 valign=top style='width:190.05pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>3:1 (M:H)</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2'>
+  <td width=123 valign=top style='width:92.05pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#FFDCDC;mso-background-themecolor:accent1;mso-background-themetint:
+  51;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Manifestaciones
+  clínicas</span></p>
+  </td>
+  <td width=246 valign=top style='width:184.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>CEG, fiebre</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Artralgias</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Renal: <span class="sn">glomerulonefritis</span> (90% <span
+  class=SpellE>pctes</span>.) </span><span lang=ES-CL style='font-family:Wingdings;
+  mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin;mso-char-type:symbol;mso-symbol-font-family:
+  Wingdings'><span style='mso-char-type:symbol;mso-symbol-font-family:Wingdings'>à</span></span><span
+  lang=ES-CL> puede determinar <span class=SpellE><span class="sn">Insuf</span></span><span
+  class="sn">. Renal<o:p></o:p></span></span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Pulmonar: <span class="sn">Hemorragia alveolar</span></span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  class="sn"><span lang=ES-CL>Cutáneo</span></span><span lang=ES-CL>:
+  púrpura, petequias, necrosis distal, úlceras</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL><br>
+  Causa más frecuente del <span class=SpellE><span class="dx">Sd</span></span><span
+  class="dx"> Riñón-Pulmón</span></span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  class=SpellE><span lang=ES-CL>Dx</span></span><span lang=ES-CL> con PGA: en
+  PAM no hay</span></p>
+  <p class=MsoListParagraphCxSpFirst style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l8 level1 lfo8'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span lang=ES-CL>Nódulos ¿cutáneos?</span></p>
+  <p class=MsoListParagraphCxSpLast style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l8 level1 lfo8'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span lang=ES-CL>Compromiso vía aérea superior</span></p>
+  </td>
+  <td width=326 valign=top style='width:244.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Puede comprometer cualquier órgano. </span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Frecuentes…</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>CEG </span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  class="dx"><span lang=ES-CL>Vía aérea superior</span></span><span
+  lang=ES-CL> (VAS):</span></p>
+  <p class=MsoListParagraphCxSpFirst style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l3 level1 lfo4'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span class=SpellE><span lang=ES-CL>Rinosinusitits</span></span><span
+  lang=ES-CL> crónica </span></p>
+  <p class=MsoListParagraphCxSpMiddle style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l3 level1 lfo4'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span lang=ES-CL>Epistaxis </span></p>
+  <p class=MsoListParagraphCxSpMiddle style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l3 level1 lfo4'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span lang=ES-CL>Úlceras mucosas</span></p>
+  <p class=MsoListParagraphCxSpMiddle style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l3 level1 lfo4'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span lang=ES-CL>Perforación septo nasal</span></p>
+  <p class=MsoListParagraphCxSpMiddle style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l3 level1 lfo4'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span lang=ES-CL>Nariz en silla de montar </span></p>
+  <p class=MsoListParagraphCxSpMiddle style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l3 level1 lfo4'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span lang=ES-CL>Otitis media</span></p>
+  <p class=MsoListParagraphCxSpLast style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l3 level1 lfo4'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span lang=ES-CL>Estridor por estenosis
+  subglótica</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Pulmonar:</span></p>
+  <p class=MsoListParagraphCxSpFirst style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l6 level1 lfo5'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span lang=ES-CL>Nódulos</span></p>
+  <p class=MsoListParagraphCxSpMiddle style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l6 level1 lfo5'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span lang=ES-CL>¿Infiltrados?</span></p>
+  <p class=MsoListParagraphCxSpLast style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l6 level1 lfo5'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span lang=ES-CL>Hemorragia alveolar</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Renal:</span></p>
+  <p class=MsoListParagraphCxSpFirst style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l2 level1 lfo6'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span class=SpellE><span lang=ES-CL>Sd</span></span><span
+  lang=ES-CL> <span class="sn">nefrítico</span></span></p>
+  <p class=MsoListParagraphCxSpLast style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l2 level1 lfo6'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span class="sn"><span lang=ES-CL>Insuficiencia
+  renal</span></span><span lang=ES-CL> grado variable</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Menos frecuentes (NOC)…</span></p>
+  <p class=MsoListParagraphCxSpFirst style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l18 level1 lfo7'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span class="sn"><span lang=ES-CL>Neuro</span></span><span
+  lang=ES-CL>: <span class=SpellE>mononeuritis</span> múltiple</span></p>
+  <p class=MsoListParagraphCxSpMiddle style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l18 level1 lfo7'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span class="sn"><span lang=ES-CL>Ocular</span></span><span
+  lang=ES-CL>: proptosis, diplopía, alteraciones de la mirada conjugada y
+  pérdida visual</span></p>
+  <p class=MsoListParagraphCxSpLast style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l18 level1 lfo7'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span class="sn"><span lang=ES-CL>Cutáneo</span></span><span
+  lang=ES-CL>: nódulos subcutáneos, púrpura palpable, úlceras, vesículas,
+  pápulas)</span></p>
+  </td>
+  <td width=253 valign=top style='width:190.05pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>3 fases consecutivas</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Etapa inicial o <span class="dx">pródromos</span> (puede </span><span
+  lang=EL style='mso-ansi-language:EL'>&#916;</span><span lang=ES-CL>t &gt; 30
+  años): </span></p>
+  <p class=MsoListParagraphCxSpFirst style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l19 level1 lfo9'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span lang=ES-CL>Rinitis alérgica</span></p>
+  <p class=MsoListParagraphCxSpMiddle style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l19 level1 lfo9'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span lang=ES-CL>Poliposis nasal</span></p>
+  <p class=MsoListParagraphCxSpLast style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l19 level1 lfo9'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span lang=ES-CL>Asma (más tarde): asma de
+  inicio tardío o asma refractaria a <span class=SpellE>tto</span> habitual</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Segunda Fase: <span class="dx">Eosinofilia periférica</span> e
+  infiltración <span class=SpellE>Eos</span> en tejidos</span></p>
+  <p class=MsoListParagraphCxSpFirst style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l4 level1 lfo10'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span lang=ES-CL>­<span class=SpellE>Sd</span>
+  Löffler</span></p>
+  <p class=MsoListParagraphCxSpMiddle style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l4 level1 lfo10'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span lang=ES-CL>neumonías eosinofílicas</span></p>
+  <p class=MsoListParagraphCxSpLast style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l4 level1 lfo10'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span lang=ES-CL>gastroenteritis eosinofílica</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Tercera fase: Vasculitis <span class="sn">sistémica</span> con
+  compromiso: </span></p>
+  <p class=MsoListParagraphCxSpFirst style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l15 level1 lfo12'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span class="sn"><span lang=ES-CL>cutáneo</span></span><span
+  lang=ES-CL> (púrpura p, nódulos subcutáneos, <span class=SpellE><i>lívedo</i></span><i>
+  <span class=SpellE>reticularis</span></i>)</span></p>
+  <p class=MsoListParagraphCxSpMiddle style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l1 level1 lfo11'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span class="sn"><span lang=ES-CL>neuro</span></span><span
+  lang=ES-CL> (<span class=SpellE>mononeuritis</span> múltiple)</span></p>
+  <p class=MsoListParagraphCxSpLast style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l1 level1 lfo11'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span class="sn"><span lang=ES-CL>cardíaco</span></span><span
+  lang=ES-CL> (IC, derrame pericárdico)</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3'>
+  <td width=123 valign=top style='width:92.05pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#FFDCDC;mso-background-themecolor:accent1;mso-background-themetint:
+  51;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  class=SpellE><span lang=ES-CL style='color:black;mso-color-alt:windowtext'>Lab</span></span></p>
+  </td>
+  <td width=246 valign=top style='width:184.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Marcadores inflamación</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  class=SpellE><span class="dx"><span lang=ES-CL>ANCAp</span></span></span><span
+  class="dx"><span lang=ES-CL>, MPO</span></span><span lang=ES-CL> (+) con
+  ELISA</span></p>
+  </td>
+  <td width=326 valign=top style='width:244.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Marcadores inflamación: VHS, PCR, Trombocitosis</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>(95%)</span><span lang=ES-CL style='font-family:Wingdings;
+  mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin;mso-char-type:symbol;mso-symbol-font-family:
+  Wingdings'><span style='mso-char-type:symbol;mso-symbol-font-family:Wingdings'>à</span></span><span
+  lang=ES-CL> <span class=SpellE><span class="dx">ANCAc</span></span><span
+  class="dx">, PR3</span> (+) con ELISA </span></p>
+  </td>
+  <td width=253 valign=top style='width:190.05pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Marcadores <span class=SpellE>inflam</span>. Importante
+  eosinofilia</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  class=SpellE><span lang=ES-CL>Rx</span></span><span lang=ES-CL> tórax:
+  nódulos, <span class=SpellE>infitrados</span>, derrame pleural </span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>2/3 <span class=SpellE>pctes</span> con <span class=SpellE>ANCAp</span>
+  y MPO (+). Me parece que <span class=SpellE>Erlij</span> dijo que <span
+  class=SpellE>tb</span> podían tener <span class=SpellE>ANCAc</span>.</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4'>
+  <td width=123 valign=top style='width:92.05pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#FFDCDC;mso-background-themecolor:accent1;mso-background-themetint:
+  51;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Histopatología</span></p>
+  </td>
+  <td width=246 valign=top style='width:184.4pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Vasculitis necrotizante SIN formación de <span class="sn">granulomas</span></span></p>
+  </td>
+  <td width=326 valign=top style='width:244.55pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Vasculitis necrotizante con formación de <span class="tto">granulomas</span></span></p>
+  </td>
+  <td width=253 valign=top style='width:190.05pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Granulomas necrotizantes extravasculares, con infiltración de
+  eosinófilos</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5;mso-yfti-lastrow:yes'>
+  <td width=123 valign=top style='width:92.05pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#FFDCDC;mso-background-themecolor:accent1;mso-background-themetint:
+  51;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Tratamiento (<span
+  class=SpellE>Tto</span>)</span></p>
+  </td>
+  <td width=825 colspan=3 valign=top style='width:619.0pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Se clasifica según: Gravedad, inducción-mantenimiento y
+  seguimiento regular.</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Para enfermedad generalizada: </span></p>
+  <p class=MsoListParagraphCxSpFirst style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l9 level1 lfo13'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span class="tto"><span lang=ES-CL>Corticoides</span></span><span
+  lang=ES-CL> en dosis altas (prednisona 1 mg Kg<sup>-1</sup> día<sup>-1</sup>
+  o pulsos metilprednisolona) + <span class="tto">Ciclofosfamida</span> oral
+  o <span class=SpellE>ev</span>.</span></p>
+  <p class=MsoListParagraphCxSpLast style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l9 level1 lfo13'><![if !supportLists]><span class="tto"><span
+  lang=ES-CL style='font-family:Symbol;mso-fareast-font-family:Symbol;
+  mso-bidi-font-family:Symbol;color:windowtext;font-weight:normal'><span
+  style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span></span><![endif]><span lang=ES-CL>Refractarios: <span
+  class=SpellE><span class="tto">Rituximab</span></span><span
+  class="tto"><span style='color:windowtext;font-weight:normal'><o:p></o:p></span></span></span></p>
+  <p class=MsoNormal align=left style='margin-top:5.0pt;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left'><span lang=ES-CL>Si
+  compromiso <span class="sn">renal</span> severo o rápidamente progresivo,
+  o bien, <span class="sn">hemorragia pulmonar</span>:</span></p>
+  <p class=MsoListParagraph style='margin-left:36.0pt;mso-add-space:auto;
+  mso-list:l14 level1 lfo14'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span class="tto"><span lang=ES-CL>Plasmaféresis</span></span><span
+  lang=ES-CL> se ha visto que ayuda :)</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:10.0pt;margin-left:7.1pt;text-align:left'><span lang=ES-CL>GPA
+  con compromiso VAS localizado: <span class="tto">metotrexato</span>
+  semanal + <span class="tto">corticoides</span> en dosis menores</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:10.0pt;margin-left:7.1pt;text-align:left'><span lang=ES-CL>EGPA
+  por lo general buena <span class=SpellE>resp</span> a corticoides</span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal style='margin-left:7.1pt'><span lang=ES-CL><o:p>&nbsp;</o:p></span></p>
+
+<span lang=ES-CL style='font-size:11.0pt;mso-bidi-font-size:10.0pt;line-height:
+115%;font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:
+minor-latin;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi;
+mso-ansi-language:ES-CL;mso-fareast-language:EN-US;mso-bidi-language:AR-SA'><br
+clear=all style='mso-special-character:line-break;page-break-before:always'>
+</span>
+
+<p class=MsoNormal align=left style='margin-left:7.1pt;text-align:left'><span
+lang=ES-CL><o:p>&nbsp;</o:p></span></p>
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width=964
+ style='width:723.0pt;border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
+ mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;mso-border-insideh:
+ .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=115 valign=top style='width:86.35pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;background:#FF9696;mso-background-themecolor:
+  accent1;mso-background-themetint:153;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Vasculitis de vasos pequeños
+  “no ANCA”</span></p>
+  </td>
+  <td width=291 valign=top style='width:218.45pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;background:#FFB9B9;mso-background-themecolor:accent1;
+  mso-background-themetint:102;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Vasculitis <span
+  class=SpellE>Crioglobulinémica</span> (VC)</span></p>
+  </td>
+  <td width=265 valign=top style='width:7.0cm;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;background:#FFB9B9;mso-background-themecolor:accent1;
+  mso-background-themetint:102;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Vasculitis por IgA
+  (púrpura Henoch-<span class=SpellE>Schonlein</span>)</span></p>
+  </td>
+  <td width=293 valign=top style='width:219.75pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;background:#FFB9B9;mso-background-themecolor:accent1;
+  mso-background-themetint:102;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Vasculitis <span
+  class=SpellE>leucocitoclástica</span></span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL style='color:black;mso-color-alt:windowtext'>(limitada a piel)</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1'>
+  <td width=115 valign=top style='width:86.35pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#FFDCDC;mso-background-themecolor:accent1;mso-background-themetint:
+  51;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Etiopatogenia </span></p>
+  </td>
+  <td width=291 valign=top style='width:218.45pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;mso-add-space:auto;text-align:left;
+  line-height:normal'><span class=SpellE><span lang=ES-CL>Crioglobulinas</span></span><span
+  lang=ES-CL>: <span class=SpellE>cmplx</span> inmunes de <span class="dx">IgG</span>
+  (como antígeno) + <span class="dx">IgM</span> (mono o policlonal) con
+  actividad de FR como anticuerpo. Precipitan en frío.</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;mso-add-space:auto;text-align:left;
+  line-height:normal'><span class=SpellE><span lang=ES-CL>Crioglobulinas</span></span><span
+  lang=ES-CL> se depositan en paredes de vasos =&gt; inflamación </span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;mso-add-space:auto;text-align:left;
+  line-height:normal'><span lang=ES-CL><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=265 valign=top style='width:7.0cm;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;mso-add-space:auto;text-align:left;
+  line-height:normal'><span lang=ES-CL><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=293 valign=top style='width:219.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2'>
+  <td width=115 valign=top style='width:86.35pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#FFDCDC;mso-background-themecolor:accent1;mso-background-themetint:
+  51;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Mayor incidencia en</span></p>
+  </td>
+  <td width=291 valign=top style='width:218.45pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=265 valign=top style='width:7.0cm;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Vasculitis más frecuente en <span class="sn">NIÑOS</span></span></p>
+  </td>
+  <td width=293 valign=top style='width:219.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Niños y adultos por igual </span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3'>
+  <td width=115 valign=top style='width:86.35pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#FFDCDC;mso-background-themecolor:accent1;mso-background-themetint:
+  51;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Manifestaciones
+  clínicas</span></p>
+  </td>
+  <td width=291 valign=top style='width:218.45pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=Clnica align=left style='margin-left:7.1pt;text-align:left'><span
+  lang=ES-CL>Artralgias, mialgias, fatiga y púrpura</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Compromisos por sistema</span></p>
+  <p class=MsoListParagraphCxSpFirst style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l14 level1 lfo14'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span class="sn"><span lang=ES-CL>renal</span></span><span
+  lang=ES-CL> en 70%: glomerulonefritis <span class=SpellE>membrano</span>-proliferativa</span></p>
+  <p class=MsoListParagraphCxSpMiddle style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l14 level1 lfo14'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span class="sn"><span lang=ES-CL>hepático</span></span><span
+  lang=ES-CL> en 60%. Ojo existe harta asociación entre crioglobulinemia y VHC
+  (¿90%?)</span></p>
+  <p class=MsoListParagraphCxSpLast style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l14 level1 lfo14'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span lang=ES-CL>¿Neuro?</span></p>
+  </td>
+  <td width=265 valign=top style='width:7.0cm;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Habitualmente autolimitada. Infección respiratoria previa en 50%
+  de los niños.</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>En adultos </span><span lang=ES-CL style='font-family:Wingdings;
+  mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin;mso-char-type:symbol;mso-symbol-font-family:
+  Wingdings'><span style='mso-char-type:symbol;mso-symbol-font-family:Wingdings'>à</span></span><span
+  lang=ES-CL> más crónica.</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Triada clásica: </span></p>
+  <p class=MsoListParagraphCxSpFirst style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l5 level1 lfo17'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span class="sn"><span lang=ES-CL>Púrpura</span></span><span
+  lang=ES-CL> palpable, en glúteos y EEII</span></p>
+  <p class=MsoListParagraphCxSpMiddle style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l5 level1 lfo17'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span class=SpellE><span class="sn"><span
+  lang=ES-CL>Dol</span></span></span><span class="sn"><span lang=ES-CL> <span
+  class=SpellE>abdom</span></span></span><span lang=ES-CL> tipo cólico</span></p>
+  <p class=MsoListParagraphCxSpLast style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l5 level1 lfo17'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span class="sn"><span lang=ES-CL>Artritis</span></span><span
+  lang=ES-CL> no erosiva</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Por sistemas:</span></p>
+  <p class=MsoListParagraphCxSpFirst style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l17 level1 lfo18'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span lang=ES-CL>GI: <span class=SpellE>Nauseas</span>,
+  vómitos hemorragia digestiva</span></p>
+  <p class=MsoListParagraphCxSpMiddle style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l17 level1 lfo18'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span lang=ES-CL>Renal: Glomerulonefritis
+  (10-50%). &#8593;edad</span><span lang=ES-CL style='font-family:Wingdings;
+  mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin;mso-char-type:symbol;mso-symbol-font-family:
+  Wingdings'><span style='mso-char-type:symbol;mso-symbol-font-family:Wingdings'>à</span></span><span
+  lang=ES-CL>&#8593;Riesgo.</span></p>
+  <p class=MsoListParagraphCxSpLast style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l17 level1 lfo18'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span lang=ES-CL><span
+  style='mso-spacerun:yes'> </span></span></p>
+  </td>
+  <td width=293 valign=top style='width:219.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Vasculitis de vaso pequeño <span class="dx">limitada a la piel</span>.</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  class="sn"><span lang=ES-CL>Púrpura</span></span><span lang=ES-CL> <span
+  class="sn">palpable</span> (lo más <span class=SpellE>frec</span>)</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Desde lesiones tipo urticaria hasta necrosis de extensas</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>zonas de la piel</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Artralgias, mialgias</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4'>
+  <td width=115 valign=top style='width:86.35pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#FFDCDC;mso-background-themecolor:accent1;mso-background-themetint:
+  51;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  class=SpellE><span lang=ES-CL style='color:black;mso-color-alt:windowtext'>Lab</span></span></p>
+  </td>
+  <td width=291 valign=top style='width:218.45pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoListParagraphCxSpFirst style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l21 level1 lfo15'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span class=SpellE><span lang=ES-CL>Crioglobulinas</span></span></p>
+  <p class=MsoListParagraphCxSpMiddle style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l21 level1 lfo15'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span lang=ES-CL>FR</span></p>
+  <p class=MsoListParagraphCxSpMiddle style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l21 level1 lfo15'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span lang=ES-CL>marcadores de VHC</span></p>
+  <p class=MsoListParagraphCxSpLast style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l21 level1 lfo15'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span class=SpellE><span lang=ES-CL>hipocomplementemia</span></span><span
+  lang=ES-CL> (C4 <span class=SpellE>ppal</span>%) </span></p>
+  </td>
+  <td width=265 valign=top style='width:7.0cm;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Reactantes de fase aguda</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Creatinina</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Hematuria con GR dismórficos.</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Si <span class=SpellE>sangr</span> <span class=SpellE>digest</span>
+  </span><span lang=ES-CL style='font-family:Wingdings;mso-ascii-font-family:
+  Calibri;mso-ascii-theme-font:minor-latin;mso-hansi-font-family:Calibri;
+  mso-hansi-theme-font:minor-latin;mso-char-type:symbol;mso-symbol-font-family:
+  Wingdings'><span style='mso-char-type:symbol;mso-symbol-font-family:Wingdings'>à</span></span><span
+  lang=ES-CL> endoscopia: Duodenitis erosiva. Menos <span class=SpellE>frec</span>
+  erosiones</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>gástricas, colónicas o rectales.</span></p>
+  </td>
+  <td width=293 valign=top style='width:219.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5'>
+  <td width=115 valign=top style='width:86.35pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#FFDCDC;mso-background-themecolor:accent1;mso-background-themetint:
+  51;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Asociada a</span></p>
+  </td>
+  <td width=291 valign=top style='width:218.45pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>VHC, ¿</span><span lang=EL style='mso-ansi-language:EL'>&#947;</span><span
+  lang=ES-CL>-<span class=SpellE>pat</span></span><span lang=ES
+  style='mso-ansi-language:ES'>í</span><span lang=ES-CL>a monoclonal, <span
+  class=SpellE>enf</span> del t. conectivo?</span></p>
+  </td>
+  <td width=265 valign=top style='width:7.0cm;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=293 valign=top style='width:219.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  class=SpellE><span lang=ES-CL>Inf</span></span><span lang=ES-CL> sistémicas</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Paraproteinemias</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  class=SpellE><span lang=ES-CL>Fcos</span></span><span lang=ES-CL>: </span></p>
+  <p class=MsoListParagraphCxSpFirst style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l16 level1 lfo20'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span lang=ES-CL>penicilinas</span></p>
+  <p class=MsoListParagraphCxSpMiddle style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l16 level1 lfo20'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span lang=ES-CL>sulfonamidas (ojo: <span
+  class=SpellE>sulfas</span>)</span></p>
+  <p class=MsoListParagraphCxSpMiddle style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l16 level1 lfo20'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span lang=ES-CL>tiazidas</span></p>
+  <p class=MsoListParagraphCxSpMiddle style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l16 level1 lfo20'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span lang=ES-CL>alopurinol</span></p>
+  <p class=MsoListParagraphCxSpMiddle style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l16 level1 lfo20'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span lang=ES-CL>quinolonas</span></p>
+  <p class=MsoListParagraphCxSpMiddle style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l16 level1 lfo20'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span class=SpellE><span lang=ES-CL>propiltiouracilo</span></span></p>
+  <p class=MsoListParagraphCxSpLast style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l16 level1 lfo20'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span lang=ES-CL>etc.</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6'>
+  <td width=115 valign=top style='width:86.35pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#FFDCDC;mso-background-themecolor:accent1;mso-background-themetint:
+  51;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Histopatología</span></p>
+  </td>
+  <td width=291 valign=top style='width:218.45pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=265 valign=top style='width:7.0cm;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Vasculitis de vaso pequeño</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  class=SpellE><span lang=ES-CL>leucocitoclástica</span></span><span
+  lang=ES-CL> con depósito de</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>IgA en las paredes de los vasos y riñón por</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>inmunofluorescencia.</span></p>
+  </td>
+  <td width=293 valign=top style='width:219.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Necrosis</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>fibrinoide de las paredes de los vasos. Infiltración PMN.</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Algunos PMN destruidos</span><span lang=ES-CL style='font-family:
+  Wingdings;mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-char-type:
+  symbol;mso-symbol-font-family:Wingdings'><span style='mso-char-type:symbol;
+  mso-symbol-font-family:Wingdings'>à</span></span><span lang=ES-CL> detritus
+  nucleares en los tejidos,</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>fenómeno llamado <span class=SpellE>leucocitoclasia</span>.</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7;mso-yfti-lastrow:yes'>
+  <td width=115 valign=top style='width:86.35pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#FFDCDC;mso-background-themecolor:accent1;mso-background-themetint:
+  51;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Tratamiento (<span
+  class=SpellE>Tto</span>)</span></p>
+  </td>
+  <td width=291 valign=top style='width:218.45pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  class=SpellE><span lang=ES-CL>Tto</span></span><span lang=ES-CL> Sn </span><span
+  lang=ES-CL style='font-family:Wingdings;mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-char-type:symbol;mso-symbol-font-family:Wingdings'><span
+  style='mso-char-type:symbol;mso-symbol-font-family:Wingdings'>à</span></span><span
+  lang=ES-CL> <span class=SpellE>AINEs</span></span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Artralgias y púrpura puede <span class=SpellE>need</span></span><span
+  lang=ES-CL style='font-family:Wingdings;mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-char-type:symbol;mso-symbol-font-family:Wingdings'><span
+  style='mso-char-type:symbol;mso-symbol-font-family:Wingdings'>à</span></span><span
+  lang=ES-CL> <span class="tto">corticoides</span> dosis bajas (prednisona
+  0.1 a 0.2 mg Kg<sup>-1</sup> día<sup>-1<o:p></o:p></sup></span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Si renal, <span class=SpellE>neuropat</span> o vasculitis <span
+  class=SpellE>sistem</span></span><span lang=ES-CL style='font-family:Wingdings;
+  mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin;mso-char-type:symbol;mso-symbol-font-family:
+  Wingdings'><span style='mso-char-type:symbol;mso-symbol-font-family:Wingdings'>à</span></span><span
+  lang=ES-CL> </span></p>
+  <p class=MsoListParagraphCxSpFirst style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l20 level1 lfo16'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span lang=ES-CL>corticoides dosis altas </span></p>
+  <p class=MsoListParagraphCxSpMiddle style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l20 level1 lfo16'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span lang=ES-CL>plasmaféresis </span></p>
+  <p class=MsoListParagraphCxSpLast style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l20 level1 lfo16'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span lang=ES-CL>ciclofosfamida</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Si VHC confirmado</span><span lang=ES-CL style='font-family:Wingdings;
+  mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin;mso-char-type:symbol;mso-symbol-font-family:
+  Wingdings'><span style='mso-char-type:symbol;mso-symbol-font-family:Wingdings'>à</span></span><span
+  lang=ES-CL> antivirales :)</span></p>
+  </td>
+  <td width=265 valign=top style='width:7.0cm;border-top:none;border-left:none;
+  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Niños: puede bastar analgésicos-antiinflamatorios para artralgia. </span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Si persistencia Sn o <span class=SpellE>compr</span> renal: </span></p>
+  <p class=MsoListParagraphCxSpFirst style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l24 level1 lfo19'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span lang=ES-CL>corticoides </span></p>
+  <p class=MsoListParagraphCxSpLast style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l24 level1 lfo19'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span lang=ES-CL>citotóxicos (eventualmente)</span></p>
+  </td>
+  <td width=293 valign=top style='width:219.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>40% se encuentra agente etiológico (v. “asociada a”)</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Suele ser cuadro autolimitado. </span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Analgésicos o <span class=SpellE>antiinflam</span> para mialgias o
+  artralgias</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Reposo, corticoides tópicos. </span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  class="tto"><span lang=ES-CL>Corticoides orales</span></span><span
+  lang=ES-CL> si: compromiso cutáneo extenso o persistencia <span class=SpellE>sn</span>.
+  (prednisona 0.5 mg Kg<sup>-1</sup> día<sup>-1­</sup>)</span></p>
+  </td>
+ </tr>
+</table>
+
+</div>
+
+<span lang=ES-CL style='font-size:11.0pt;mso-bidi-font-size:10.0pt;line-height:
+115%;font-family:"Calibri",sans-serif;mso-ascii-theme-font:minor-latin;
+mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin;mso-hansi-theme-font:
+minor-latin;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi;
+mso-ansi-language:ES-CL;mso-fareast-language:EN-US;mso-bidi-language:AR-SA'><br
+clear=all style='page-break-before:always;mso-break-type:section-break'>
+</span>
+
+<div class=WordSection3>
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0 width=699
+ style='width:524.55pt;border-collapse:collapse;border:none;mso-border-alt:
+ solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+ mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td width=115 valign=top style='width:86.35pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;background:#FF9696;mso-background-themecolor:
+  accent1;mso-background-themetint:153;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Vasculitis de vasos medianos
+  </span></p>
+  </td>
+  <td width=291 valign=top style='width:218.45pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;background:#FFB9B9;mso-background-themecolor:accent1;
+  mso-background-themetint:102;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  class=SpellE><span lang=ES-CL style='color:black;mso-color-alt:windowtext'>Poliarteritis</span></span><span
+  lang=ES-CL style='color:black;mso-color-alt:windowtext'> nodosa</span></p>
+  </td>
+  <td width=293 valign=top style='width:219.75pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
+  solid windowtext .5pt;background:#FFB9B9;mso-background-themecolor:accent1;
+  mso-background-themetint:102;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Enfermedad de
+  Kawasaki</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1'>
+  <td width=115 valign=top style='width:86.35pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#FFDCDC;mso-background-themecolor:accent1;mso-background-themetint:
+  51;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Etiopatogenia </span></p>
+  </td>
+  <td width=291 valign=top style='width:218.45pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;mso-add-space:auto;text-align:left;
+  line-height:normal'><span lang=ES-CL><o:p>&nbsp;</o:p></span></p>
+  </td>
+  <td width=293 valign=top style='width:219.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Afecta de preferencia a las <span class="sn">a. coronarias</span></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2'>
+  <td width=115 valign=top style='width:86.35pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#FFDCDC;mso-background-themecolor:accent1;mso-background-themetint:
+  51;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Mayor incidencia en</span></p>
+  </td>
+  <td width=291 valign=top style='width:218.45pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Poco frecuente, con igual distribución en hombres y mujeres y de cualquier
+  raza</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Cualquier edad, con promedio de inicio a los 50 años</span></p>
+  </td>
+  <td width=293 valign=top style='width:219.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Niños &lt; 2 años</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>3:2 (M:H)</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3'>
+  <td width=115 valign=top style='width:86.35pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#FFDCDC;mso-background-themecolor:accent1;mso-background-themetint:
+  51;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Manifestaciones
+  clínicas</span></p>
+  </td>
+  <td width=291 valign=top style='width:218.45pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:7.1pt;mso-add-space:auto;text-indent:-14.15pt;mso-list:l7 level1 lfo21'><![if !supportLists]><span
+  lang=ES-CL style='font-family:Symbol;mso-fareast-font-family:Symbol;
+  mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+  lang=ES-CL>CEG, artralgias </span></p>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:7.1pt;mso-add-space:auto;text-indent:-14.15pt;mso-list:l7 level1 lfo21'><![if !supportLists]><span
+  lang=ES-CL style='font-family:Symbol;mso-fareast-font-family:Symbol;
+  mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+  lang=ES-CL>Lesiones <span class="sn">cutáneas</span>: Púrpura, infartos,
+  úlcera, <span class=SpellE><i>lívedo</i></span><i> <span class=SpellE>reticularis</span></i>
+  y cambios isquémicos en dedos, manos y pies</span></p>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:7.1pt;mso-add-space:auto;text-indent:-14.15pt;mso-list:l7 level1 lfo21'><![if !supportLists]><span
+  lang=ES-CL style='font-family:Symbol;mso-fareast-font-family:Symbol;
+  mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+  class="sn"><span lang=ES-CL>Neuropatía</span></span><span lang=ES-CL>
+  sensitiva y/o motora de predominio en EEII. Puede ser manifestación inicial</span></p>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:7.1pt;mso-add-space:auto;text-indent:-14.15pt;mso-list:l7 level1 lfo21'><![if !supportLists]><span
+  lang=ES-CL style='font-family:Symbol;mso-fareast-font-family:Symbol;
+  mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+  class="sn"><span lang=ES-CL>Renal</span></span><span lang=ES-CL>: por
+  compromiso <span class="sn">renovascular</span>. Sin elementos
+  inflamación glomerular en <span class=SpellE>sedim</span> urinario</span></p>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:7.1pt;mso-add-space:auto;text-indent:-18.0pt;mso-list:l7 level2 lfo21'><![if !supportLists]><span
+  lang=ES-CL style='font-family:"Courier New";mso-fareast-font-family:"Courier New"'><span
+  style='mso-list:Ignore'>o<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
+  </span></span></span><![endif]><span lang=ES-CL>HTA</span></p>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:7.1pt;mso-add-space:auto;text-indent:-18.0pt;mso-list:l7 level2 lfo21'><![if !supportLists]><span
+  lang=ES-CL style='font-family:"Courier New";mso-fareast-font-family:"Courier New"'><span
+  style='mso-list:Ignore'>o<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
+  </span></span></span><![endif]><span class=SpellE><span lang=ES-CL>Insuf</span></span><span
+  lang=ES-CL> Renal</span></p>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:7.1pt;mso-add-space:auto;text-indent:-14.15pt;mso-list:l7 level1 lfo21'><![if !supportLists]><span
+  lang=ES-CL style='font-family:Symbol;mso-fareast-font-family:Symbol;
+  mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+  class="sn"><span lang=ES-CL>Digestivo</span></span><span lang=ES-CL>: <span
+  class=SpellE>Dol</span> <span class=SpellE>abdom</span>, </span><span
+  lang=EL style='mso-ansi-language:EL'>&#916;</span><span lang=ES-CL> Pruebas
+  hepáticas, <span class=SpellE>hemorrag</span> <span class=SpellE>digest</span>,
+  diarrea</span></p>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:7.1pt;mso-add-space:auto;text-indent:-14.15pt;mso-list:l7 level1 lfo21'><![if !supportLists]><span
+  lang=ES-CL style='font-family:Symbol;mso-fareast-font-family:Symbol;
+  mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+  lang=ES-CL>Testicular: dolor u orquitis</span></p>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:7.1pt;mso-add-space:auto;text-indent:-14.15pt;mso-list:l7 level1 lfo21'><![if !supportLists]><span
+  lang=ES-CL style='font-family:Symbol;mso-fareast-font-family:Symbol;
+  mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+  lang=ES-CL>Corazón: cardiomegalia (20%), IC. No afecta v. pulmonares </span></p>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:7.1pt;mso-add-space:auto;text-indent:-14.15pt;mso-list:l7 level1 lfo21'><![if !supportLists]><span
+  lang=ES-CL style='font-family:Symbol;mso-fareast-font-family:Symbol;
+  mso-bidi-font-family:Symbol'><span style='mso-list:Ignore'>·<span
+  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><![endif]><span
+  lang=ES-CL><span style='mso-spacerun:yes'> </span></span></p>
+  </td>
+  <td width=293 valign=top style='width:219.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  class="sn"><span lang=ES-CL>Fiebre</span></span><span lang=ES-CL> (&gt;5
+  días duración)</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  class="sn"><span lang=ES-CL>Conjuntivitis</span></span><span lang=ES-CL>
+  bulbar, no supurativa, bilateral</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  class="sn"><span lang=ES-CL>Cardiaco</span></span><span lang=ES-CL>:
+  pericarditis, miocarditis, <span class=SpellE>disf</span> <span class=SpellE>valv</span>
+  e IC</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  class="sn"><span lang=ES-CL>Exantema</span></span><span lang=ES-CL>
+  cutáneo polimorfo</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=EL style='mso-ansi-language:EL'>&#916;</span><span lang=ES
+  style='mso-ansi-language:ES'>Palmas de las manos y planta de los pies:
+  eritema y edema indurado</span><span lang=ES> </span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=EL style='mso-ansi-language:EL'>&#916;</span><span lang=EL> </span><span
+  class="sn"><span lang=ES-CL>mucosa oral</span></span><span lang=ES
+  style='mso-ansi-language:ES'>: <o:p></o:p></span></p>
+  <p class=MsoListParagraphCxSpFirst style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l13 level1 lfo22'><![if !supportLists]><span lang=ES
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol;mso-ansi-language:ES'><span style='mso-list:Ignore'>·<span
+  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span lang=ES style='mso-ansi-language:ES'>Labios:
+  secos, rojos y fisurados. <o:p></o:p></span></p>
+  <p class=MsoListParagraphCxSpLast style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l13 level1 lfo22'><![if !supportLists]><span lang=ES
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol;mso-ansi-language:ES'><span style='mso-list:Ignore'>·<span
+  style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span lang=ES style='mso-ansi-language:ES'>“Lengua
+  frambuesa”. <o:p></o:p></span></p>
+  <p class=Clnica style='margin-left:7.1pt'><span lang=ES style='mso-ansi-language:
+  ES'>Eritema orofaríngeo<o:p></o:p></span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  class="sn"><span lang=ES-CL>Adenopatías cervicales</span></span><span
+  lang=ES style='mso-ansi-language:ES'> no supurativas, &gt;1.5 cm de diámetro<o:p></o:p></span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES style='mso-ansi-language:ES'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Post día 10:</span></p>
+  <p class=MsoListParagraphCxSpFirst style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l25 level1 lfo23'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span class="sn"><span lang=ES-CL>Descamación</span></span><span
+  lang=ES-CL> punta de los dedos</span></p>
+  <p class=MsoListParagraphCxSpMiddle style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l25 level1 lfo23'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span class="sn"><span lang=ES-CL>Artralgias,</span></span><span
+  lang=ES-CL> <span class="sn">artritis</span></span></p>
+  <p class=MsoListParagraphCxSpLast style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l25 level1 lfo23'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span class="sn"><span lang=ES-CL>Disuria</span></span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  class="sn"><span lang=ES-CL>Neuro</span></span><span lang=ES-CL>:
+  irritabilidad, convulsiones y <span class=SpellE>meningítis</span> aséptica.</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  class="sn"><span lang=ES-CL>GI</span></span><span lang=ES-CL>: </span></p>
+  <p class=MsoListParagraphCxSpFirst style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l23 level1 lfo24'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span class=SpellE><span lang=ES-CL>Dol</span></span><span
+  lang=ES-CL> <span class=SpellE>Abdom</span>, vómitos, diarrea. </span></p>
+  <p class=MsoListParagraphCxSpMiddle style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l23 level1 lfo24'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span lang=ES-CL>Ictericia secundaria a <span
+  class=SpellE><i>hidrops</i></span> vesicular</span></p>
+  <p class=MsoListParagraphCxSpLast style='margin-left:36.0pt;mso-add-space:
+  auto;mso-list:l23 level1 lfo24'><![if !supportLists]><span lang=ES-CL
+  style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
+  Symbol'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  </span></span></span><![endif]><span lang=ES-CL>Íleo paralítico y </span><span
+  lang=EL style='mso-ansi-language:EL'>&#916;</span><span lang=ES
+  style='mso-ansi-language:ES'>pruebas hepáticas</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4'>
+  <td width=115 valign=top style='width:86.35pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#FFDCDC;mso-background-themecolor:accent1;mso-background-themetint:
+  51;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  class=SpellE><span lang=ES-CL style='color:black;mso-color-alt:windowtext'>Lab</span></span></p>
+  </td>
+  <td width=291 valign=top style='width:218.45pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;mso-add-space:auto;text-align:left;
+  line-height:normal'><span lang=ES-CL>Marcadores inflamación (VHS, PCR, anemia
+  normo-normo, trombocitosis)</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;mso-add-space:auto;text-align:left;
+  line-height:normal'><span lang=ES-CL>50% con VHB<span
+  style='mso-spacerun:yes'>  </span></span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;mso-add-space:auto;text-align:left;
+  line-height:normal'><span lang=ES-CL>Puede haber crioglobulinemia</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;mso-add-space:auto;text-align:left;
+  line-height:normal'><span class="dx"><span lang=ES-CL>Angiografía</span></span><span
+  lang=ES-CL> apaña para confirmar dg: compromiso de arterias de mediano
+  tamaño, alternando sitios de <span class="dx">estenosis</span> con
+  dilataciones <span class="dx">aneurismáticas</span> y <span class="dx">trombosis</span>.</span></p>
+  </td>
+  <td width=293 valign=top style='width:219.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;mso-add-space:auto;text-align:left;
+  line-height:normal'><span lang=ES-CL>Marcadores inflamación (VHS, PCR, anemia
+  normo-normo, trombocitosis)</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>ECG con PR y QT prolongado. </span><span lang=EL style='mso-ansi-language:
+  EL'>&#916;</span><span lang=ES-CL>segmento ST y arritmias.</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  class=SpellE><span lang=ES style='mso-ansi-language:ES'>Rx</span></span><span
+  lang=ES style='mso-ansi-language:ES'> <span class=SpellE>Tx</span>:
+  cardiomegalia (por la miocarditis o pericarditis).<o:p></o:p></span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES style='mso-ansi-language:ES'><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  class=SpellE><span lang=ES style='mso-ansi-language:ES'>Ecocardio</span></span><span
+  lang=ES style='mso-ansi-language:ES'>: a. coronarias </span><span lang=ES
+  style='font-family:Wingdings;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+  minor-latin;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
+  mso-ansi-language:ES;mso-char-type:symbol;mso-symbol-font-family:Wingdings'><span
+  style='mso-char-type:symbol;mso-symbol-font-family:Wingdings'>à</span></span><span
+  lang=ES style='mso-ansi-language:ES'> dilatación o aneurismas. <o:p></o:p></span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES style='mso-ansi-language:ES'>Coronariografía para <span class=SpellE>pctes</span>
+  con angina o IAM<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5'>
+  <td width=115 valign=top style='width:86.35pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#FFDCDC;mso-background-themecolor:accent1;mso-background-themetint:
+  51;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Asociada a</span></p>
+  </td>
+  <td width=291 valign=top style='width:218.45pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>VHB</span></p>
+  </td>
+  <td width=293 valign=top style='width:219.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6'>
+  <td width=115 valign=top style='width:86.35pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#FFDCDC;mso-background-themecolor:accent1;mso-background-themetint:
+  51;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Histopatología</span></p>
+  </td>
+  <td width=291 valign=top style='width:218.45pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Etapas agudas: edema de la íntima y necrosis</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>fibrinoide de las arterias musculares con infiltrado de PMN y
+  ocasionalmente <span class=SpellE>eos</span> y polvo nuclear. </span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Etapa crónica: hay infiltrado mononuclear,</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>engrosamiento de la íntima por fibrosis,</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>destrucción de la lámina elástica, cicatrices</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>fibrosis de la túnica media, estrechamiento del lumen, trombosis y
+  disección.</span></p>
+  </td>
+  <td width=293 valign=top style='width:219.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Etapa inicial: edema e infiltración de leucocitos y linfocitos.</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL><o:p>&nbsp;</o:p></span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>Posteriormente: hay necrosis fibrinoide de</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>arterias de mediano tamaño. Aneurismas con</span></p>
+  <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
+  margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
+  lang=ES-CL>trombosis en vasos coronarios.</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7;mso-yfti-lastrow:yes'>
+  <td width=115 valign=top style='width:86.35pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#FFDCDC;mso-background-themecolor:accent1;mso-background-themetint:
+  51;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:7.1pt;line-height:normal'><span lang=ES-CL style='color:black;
+  mso-color-alt:windowtext'>Tratamiento (<span class=SpellE>Tto</span>)</span></p>
+  </td>
+  <td width=291 valign=top style='width:218.45pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:7.1pt;line-height:normal'><span lang=ES-CL>Si VHB: IFN</span><span
+  lang=ES style='mso-ansi-language:ES'>-</span><span lang=EL style='mso-ansi-language:
+  EL'>&#945;</span></p>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:7.1pt;line-height:normal'><span class="tto"><span lang=ES-CL>Corticoides</span></span><span
+  lang=ES style='mso-ansi-language:ES'> (<span class=SpellE>predisona</span> 1
+  mg Kg<sup>-1</sup> día<sup>-1</sup>), asociado a <span class=SpellE>citotox</span>
+  orales o <span class=SpellE>ev</span> (</span><span class="tto"><span
+  lang=ES-CL>ciclofosfamida</span></span><span lang=ES style='mso-ansi-language:
+  ES'>)<o:p></o:p></span></p>
+  </td>
+  <td width=293 valign=top style='width:219.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:7.1pt;line-height:normal'><span class="tto"><span lang=ES-CL>&#947;-globulina</span></span><span
+  lang=ES-CL style='mso-ansi-language:ES'> </span><span class=SpellE><span
+  lang=ES style='mso-ansi-language:ES'>ev</span></span><span lang=ES
+  style='mso-ansi-language:ES'> en forma precoz </span><span lang=ES
+  style='font-family:Wingdings;mso-ascii-font-family:Calibri;mso-ascii-theme-font:
+  minor-latin;mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;
+  mso-ansi-language:ES;mso-char-type:symbol;mso-symbol-font-family:Wingdings'><span
+  style='mso-char-type:symbol;mso-symbol-font-family:Wingdings'>à</span></span><span
+  lang=ES style='mso-ansi-language:ES'> &#8595;<span class=SpellE>frec</span> <span
+  class=SpellE>deliats</span> o aneurismas coronarios<o:p></o:p></span></p>
+  <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
+  margin-left:7.1pt;line-height:normal'><span lang=ES style='mso-ansi-language:
+  ES'>Puede agregarse </span><span class="tto"><span lang=ES-CL>AAS </span></span><span
+  lang=ES style='mso-ansi-language:ES'>(3 a 5 mg Kg<sup>-1</sup> día<sup>-1</sup>)
+  como antiagregante <span class=SpellE>plaq</span><o:p></o:p></span></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal align=left style='margin-top:5.0pt;margin-right:-32.9pt;
+margin-bottom:10.0pt;margin-left:-1.0cm;text-align:left'><span lang=ES-CL><o:p>&nbsp;</o:p></span></p>
+
+</div>
+
+
 # Cuidados Paliativos
 
 Signos de muerte inminente
