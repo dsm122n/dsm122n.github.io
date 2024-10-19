@@ -102,6 +102,222 @@ Furosemida:
 - Diálisis
 La hemodiálisis puede eliminar de 25 a 50 mEq de K por hora, con variabilidad basada en el K sérico inicial.
 
+## Vista general causas hematuria
+<table>
+<thead>
+<tr>
+<th colspan="4" scope="row">Common causes of hematuria in adults</th> </tr>
+<tr>
+<th scope="row">Condition</th> <th>Characteristic clinical features</th> <th>Diagnostic findings</th> <th class="additional">Management</th> </tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row">Glomerulonephritis</th> <td> <ul>
+<li>Edema</li> <li>Hypertension</li> </ul>
+</td> <td> <ul>
+<li>UA: nephritic sediment
+</li> <li>Blood: ↑ Creatinine, ↓ GFR, ↑ BUN </li> <li>
+Biopsy confirms the diagnosis.</li> </ul>
+</td> <td class="additional"> <ul>
+<li>Management is determined by underlying etiology.</li> <li>See “Management of nephritic syndrome.”</li> </ul>
+</td> </tr>
+<tr>
+<th scope="row"> Nephrolithiasis <sup   >[14]</sup>
+</th> <td> <ul>
+<li>
+Dysuria, ↑ frequency, ↑ urgency </li> <li>Inability to sit still</li> <li>Severe unilateral and colicky flank pain <sup  >[15]</sup>
+</li> <li>CVA tenderness</li> <li>
+Nausea, vomiting, and reduced bowel sounds</li> </ul>
+</td> <td> <ul>
+<li>CT abdomen and pelvis without contrast  <sup  >[16]</sup> <ul>
+<li>Calculi ≥ 1 mm
+</li> <li>Location and density of calculi</li> <li>
+Hydronephrosis and/or hydroureter
+</li> <li>
+Perinephric fat stranding</li> </ul>
+</li> <li>See “Diagnostics for nephrolithiasis.”</li> </ul>
+</td> <td class="additional"> <ul>
+<li>
+Pain management, e.g., ketorolac DOSAGE  <sup   >[17]</sup>
+</li> <li>Hydration</li> <li>
+Medical expulsive therapy, e.g., tamsulosin (off-label) DOSAGE  <sup  >[18]</sup>
+</li> <li>See “Treatment of nephrolithiasis.”</li> </ul>
+</td> </tr>
+<tr>
+<th scope="row">Urinary tract infection</th> <td> <ul>
+<li>
+Dysuria, ↑ frequency, ↑ urgency </li> <li>Suprapubic tenderness</li> <li>♀ &gt; ♂</li> </ul>
+</td> <td> <ul>
+<li>UA <sup  >[19]</sup> <ul>
+<li>
+Pyuria, leukocyte esterase, urine nitrites</li> <li>
+≥ 5 WBCs per HPF or ≥ 8–10 WBCs per mm<sup>3</sup> </li> <li>Bacteriuria</li> </ul>
+</li> <li>
+Complicated pyelonephritis: CT abdomen/pelvis with and without contrast  <sup   >[20]</sup> <ul>
+<li>Renal parenchyma: normal (early) or hypodense
+</li> <li>Infected parenchyma: wedge-shaped areas of streaky contrast enhancement
+</li> </ul>
+</li> <li>See “Diagnostics for UTI.”</li> </ul>
+</td> <td class="additional"> <ul>
+<li>Antibiotic treatment of uncomplicated lower UTIs</li> <li>Antibiotic treatment of complicated lower UTIs</li> <li>Increased fluid intake</li> </ul>
+</td> </tr>
+<tr>
+<th scope="row"> Urethritis <sup   >[21]</sup>
+</th> <td> <ul>
+<li>Initial hematuria</li> <li>Dysuria</li> <li>Burning or itching of the external urethral meatus
+</li> <li>Urethral discharge</li> <li>Risk factors for STIs</li> </ul>
+</td> <td> <ul>
+<li>Urethral smear (preferred): ≥ 2 WBCs per oil immersion field</li> <li>
+First-catch urine: positive leukocyte esterase or ≥ 10 WBCs per HPF
+</li> <li>
+Gram stain: gram-negative intracellular diplococci
+</li> <li>
+NAAT of first-catch urine for gonorrhea and chlamydia
+</li> <li>See “Diagnostics for urethritis.”</li> </ul>
+</td> <td class="additional"> <ul>
+<li>
+Antibiotics, e.g., ceftriaxone, doxycycline
+</li> <li>Treatment of sexual partners</li> <li>See “Treatment of urethritis.”</li> </ul>
+</td> </tr>
+<tr>
+<th scope="row"> Prostatitis <sup   >[22]</sup><sup   >[23]</sup>
+</th> <td> <ul>
+<li>
+Dysuria, ↑ frequency, ↑ urgency </li> <li>
+Fever, chills</li> <li>Perineal pain
+</li> <li>Low back pain</li> <li>
+Pain with defecation</li> <li>Clinical diagnosis</li> </ul>
+</td> <td> <ul>
+<li>
+DRE: tender, boggy prostate
+</li> <li>UA: ↑ WBCs
+</li> <li>
+Urine culture: bacteria, most commonly E. coli <sup   >[24]</sup>
+</li> </ul>
+</td> <td class="additional"> <ul>
+<li>
+Empiric antibiotics for prostatitis, e.g., ciprofloxacin
+</li> <li>
+Pain management, e.g., NSAIDs
+</li> <li>
+Alpha-blockers for lower urinary tract symptoms
+</li> </ul>
+</td> </tr>
+<tr>
+<th scope="row"> Urinary tract cancer <sup   >[10]</sup><sup   >[11]</sup>
+</th> <td> <ul>
+<li>Painless</li> <li>Irritation when voiding</li> <li>
+♂ &gt; ♀ <sup   >[25]</sup>
+</li> <li>Peak incidence: 60–70 years <sup   >[26]</sup><sup   >[27]</sup>
+</li> <li>See “Clinical features of urinary tract cancer.”</li> </ul>
+</td> <td> <ul>
+<li>
+CT urography (initial)  <sup   >[10]</sup><sup   >[28]</sup> <ul>
+<li>Filling defects</li> <li>Hydronephrosis</li> <li>Mural thickening</li> <li>Evidence of disease spread (e.g., lymphadenopathy)</li> <li>Mass or masses</li> </ul>
+</li> <li>
+Cystoscopy or ureteroscopy for direct visualization</li> </ul>
+</td> <td class="additional"> <ul>
+<li>Surgical resection</li> <li>
+Neoadjuvant chemotherapy and/or radiation therapy
+</li> <li> See also: <ul>
+<li>“Treatment of bladder cancer”</li> <li>“Treatment of carcinoma of the renal pelvis and ureters”</li> <li>“Treatment of urethral carcinoma”</li> </ul>
+</li> </ul>
+</td> </tr>
+<tr>
+<th scope="row">Renal cell carcinoma</th> <td> <ul>
+<li>Painless or flank pain
+</li> <li>Palpable renal mass</li> <li>Weight loss, fever, night sweats</li> <li>
+♂ &gt; ♀ <sup  >[29]</sup>
+</li> <li>Peak incidence: 55–74 years of age <sup  >[29]</sup>
+</li> </ul>
+</td> <td> <ul>
+<li>CT, MRI, or ultrasound abdomen with IV contrast  <sup   >[30]</sup><sup   >[31]</sup> <ul>
+<li>
+≥ 1 heterogeneous lesions with thickened irregular walls, calcification, and variable enhancement <sup   >[32]</sup>
+</li> <li>Distorted renal outline</li> </ul>
+</li> <li>See “Diagnostics for renal cell carcinoma.”</li> </ul>
+</td> <td class="additional"> <ul>
+<li>Partial or radical nephrectomy for local or locoregional disease</li> <li>
+Targeted therapy and immunotherapy for metastatic disease</li> <li>See “Treatment of renal cell carcinoma.”</li> </ul>
+</td> </tr>
+<tr>
+<th scope="row">Prostate cancer</th> <td> <ul>
+<li>Painless; bone pain in advanced stages</li> <li>Lower urinary tract symptoms</li> <li>
+&gt; 50 years of age</li> </ul>
+</td> <td> <ul>
+<li>
+↑ PSA <sup  >[33]</sup>
+</li> <li>
+DRE: Hard nontender nodules
+</li> <li>
+mpMRI <sup  >[34]</sup>
+</li> <li>Prostate biopsy</li> <li>See “Diagnostic approach to suspected prostate cancer.”</li> </ul>
+</td> <td class="additional"> <ul>
+<li>Based on cancer stage, presence of high-risk features, patient factors <sup  >[35]</sup><sup  >[36]</sup>
+</li> <li>
+Active surveillance for low-risk cancer</li> <li>
+Androgen deprivation therapy, prostatectomy, and/or radiotherapy as indicated</li> <li>See “Management of prostate cancer.”</li> </ul>
+</td> </tr>
+<tr>
+<th scope="row">Urinary tract obstruction</th> <td> <ul>
+<li>Flank pain
+</li> <li>Urinary retention</li> <li>Frequent infections</li> <li>More common in older adults with prostate hypertrophy
+</li> </ul>
+</td> <td> <ul>
+<li>
+↑ Postvoid residual: lower UTO
+</li> <li>Renal and urinary tract ultrasound  <ul>
+<li>Hydronephrosis</li> <li>Hydroureter</li> <li>Perinephric fluid</li> </ul>
+</li> </ul>
+</td> <td class="additional"> <ul>
+<li> Relief of obstruction, e.g.: <ul>
+<li>
+Lower UTO: Foley catheter
+</li> <li>Upper UTO: ureteral stent (first line) or percutaneous nephrostomy (second line)</li> </ul>
+</li> <li>See “Treatment of urinary tract obstruction.”</li> </ul>
+</td> </tr>
+<tr>
+<th scope="row">Polycystic kidney disease</th> <td> <ul>
+<li>Hypertension</li> <li>Flank or abdominal pain
+</li> <li>Palpable kidneys
+</li> <li>Often hereditary</li> <li>Age of onset &gt; 30 years
+</li> </ul>
+</td> <td> <ul>
+<li>
+Ultrasound  <ul>
+<li>Enlarged kidneys with multiple cysts bilaterally</li> <li>Hepatic, pancreatic, and/or splenic cysts</li> </ul>
+</li> <li>
+Genetic testing: PKD1 or PKD2 gene
+</li> </ul>
+</td> <td class="additional"> <ul>
+<li>
+Hypertension management with ACE inhibitors or ARBs
+</li> <li>Avoidance of nephrotoxic substances
+</li> <li>Renal replacement therapy</li> <li>
+Renal transplantation in ESRD
+</li>  </ul>
+</td> </tr>
+<tr>
+<th scope="row">Renal papillary necrosis</th> <td> <ul>
+<li>Colicky flank pain
+</li> <li>Passing of tissue fragments</li> <li>History of, e.g., sickle cell disease, acute pyelonephritis, urinary tract obstruction
+</li> </ul>
+</td> <td> <ul>
+<li>
+↑ BUN, ↑ creatinine
+</li> <li>
+CT urography <sup   >[37]</sup> <ul>
+<li>Small, contrast-enhancing papillary cavities abutting the calices</li> <li>Filling defects in the renal pelvis due to irregular papillae
+</li> </ul>
+</li> </ul>
+</td> <td class="additional"> <ul>
+<li>
+IV fluid therapy to maintain high urine output</li> <li>Treatment of the underlying cause</li> </ul>
+</td> </tr>
+</tbody>
+</table>
+
+
 ## Glomerulopatías
 
 Terminología:
@@ -425,6 +641,136 @@ Diffuse proliferative glomerulonephritis<span class="step-2-imppact2 imppact2 us
 </th> </tr>
 </tbody>
 </table>
+
+<table>
+<thead>
+<tr>
+<th colspan="3" scope="row"> Overview of anti-GBM disease <sup  >[1]</sup><sup   >[4]</sup>
+</th> </tr>
+<tr>
+<th colspan="2" rowspan="1" scope="row"></th> <th scope="col">Anti-GBM disease (Goodpasture disease)</th> </tr>
+</thead>
+<tbody>
+<tr>
+<th colspan="2" rowspan="1" scope="row">Epidemiology</th> <td> <ul>
+<li>Two peaks of occurrence <sup  >[12]</sup> <ul>
+<li>
+20–30 years (♂ &gt; ♀) </li> <li>
+60–70 years (♀ &gt; ♂)
+</li> </ul>
+</li> </ul>
+</td> </tr>
+<tr>
+<th colspan="2" scope="row">Pathophysiology</th> <td> <ul>
+<li>
+Type II hypersensitivity reaction: autoantibodies against collagen type IV in the renal and pulmonary capillary basement membranes 
+</li> </ul>
+</td> </tr>
+<tr>
+<th colspan="2" rowspan="1" scope="row">Distinguishing features</th> <td> <ul>
+<li>Pulmonary infiltrates on chest x-ray</li> <li>
+Pulmonary hemorrhage and hemoptysis 
+</li> <li>Cough</li> <li>Dyspnea</li> <li>Usually manifests as RPGN</li> </ul>
+</td> </tr>
+<tr>
+<th colspan="2" rowspan="1" scope="row">Laboratory studies</th> <td> <ul>
+<li>
+Anti-GBM antibodies against type IV collagen 
+</li> <li>Hemosiderin-filled macrophages in sputum</li> <li>Iron deficiency anemia</li> </ul>
+</td> </tr>
+<tr>
+<th colspan="1" rowspan="2" scope="row">Renal biopsy</th> <th scope="row">IM</th> <td> <ul>
+<li>Linear deposition of immunoglobulin (IgG) along the glomerular and alveolar basement membranes</li> <li>
+Proliferative glomerulonephritis (early) <sup   >[13]</sup>
+</li> <li>
+Necrosis and crescentic glomerulonephritis (late) <sup   >[13]</sup>
+</li> </ul>
+</td> </tr>
+<tr>
+<th scope="row">EM</th> <td> <ul>
+<li>Breaks in the GBM</li> <li>No electron-dense deposits</li> <li>Necrosis</li> </ul>
+</td> </tr>
+<tr>
+<th colspan="2" rowspan="1" scope="row">Management</th> <td> <ul>
+<li>High-dose glucocorticoids ± cyclophosphamide</li> <li>Plasmapheresis</li> </ul>
+</td> </tr>
+<tr>
+<th colspan="3" rowspan="1" scope="row">IM = immunofluorescent microscopy, EM = electron microscopy
+</th> </tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr>
+<th colspan="5" scope="row"> Overview of ANCA-associated glomerulonephritis (pauci-immune glomerulonephritis) <sup  >[1]</sup><sup   >[4]</sup><sup   >[10]</sup>
+</th> </tr>
+<tr>
+<th colspan="2" rowspan="1" scope="row"></th> <th scope="col">Granulomatosis with polyangiitis</th> <th scope="col">Eosinophilic granulomatosis with polyangiitis (Churg-Strauss syndrome)</th> <th scope="col">Microscopic polyangiitis</th> </tr>
+</thead>
+<tbody>
+<tr>
+<th colspan="2" rowspan="1" scope="row">Epidemiology</th> <td> <ul>
+<li>♂ &gt; ♀</li> <li>Most frequent: 40–60 years of age <sup   >[21]</sup>
+</li> </ul>
+</td> <td> <ul>
+<li>Least common type of small vessel vasculitis
+</li> <li>Peak incidence: 38–54 years of age <sup  >[22]</sup>
+</li> </ul>
+</td> <td> <ul>
+<li>♂ &gt; ♀</li> <li>Peak incidence: 50–60 years of age <sup  >[23]</sup>
+</li> </ul>
+</td> </tr>
+<tr>
+<th colspan="2" scope="row">Pathophysiology</th> <td colspan="2" rowspan="1"> <ul>
+<li>Granulomatous vasculitis</li> </ul>
+</td> <td> <ul>
+<li>Necrotizing vasculitis (no granulomas)</li> </ul>
+</td> </tr>
+<tr>
+<th colspan="2" rowspan="1" scope="row">Distinguishing features</th> <td> <ul>
+<li>
+Nasopharyngeal, e.g.: <ul>
+<li>Chronic sinusitis</li> <li>Nasal ulcers</li> <li>Perforation of the nasal septum</li> </ul>
+</li> <li>Pulmonary: e.g., nodules, cavitating lung lesions, hemoptysis
+</li> </ul>
+</td> <td> <ul>
+<li>Asthma</li> <li>Allergic rhinitis</li> <li>Peripheral neuropathy</li> </ul>
+</td> <td> <ul>
+<li>
+Respiratory symptoms <ul>
+<li>Dyspnea</li> <li>Cough</li> <li>Hemoptysis</li> </ul>
+</li> </ul>
+</td> </tr>
+<tr>
+<th colspan="2" rowspan="1" scope="row">Laboratory findings</th> <td> <ul>
+<li>c-ANCA/PR3-ANCA</li> </ul>
+</td> <td> <ul>
+<li>p-ANCA/MPO-ANCA</li> <li>Peripheral eosinophilia</li> </ul>
+</td> <td> <ul>
+<li>p-ANCA/MPO-ANCA</li> </ul>
+</td> </tr>
+<tr>
+<th colspan="1" rowspan="2" scope="row">Biopsy findings</th> <th scope="row">IM</th> <td colspan="3" rowspan="1"> <ul>
+<li>Few immunologic findings (i.e., pauci-immune glomerulonephritis)</li> <li>
+GPA and EGPA: segmental necrotizing glomerulonephritis </li> <li>
+MPA: focal segmental glomerulonephritis <sup   >[24]</sup>
+</li> </ul>
+</td> </tr>
+<tr>
+<th scope="row">EM</th> <td colspan="3"> <ul>
+<li>Usually no electron-dense deposits</li> </ul>
+</td> </tr>
+<tr>
+<th colspan="2" rowspan="1" scope="row">Management</th> <td colspan="3" rowspan="1"> <ul>
+<li>Glucocorticoids and ± immunosuppressive agents (e.g., rituximab, cyclophosphamide)</li> </ul>
+</td> </tr>
+<tr>
+<th colspan="5" scope="row">LM = light microscopy, IM = immunofluorescent microscopy, EM = electron microscopy
+</th> </tr>
+</tbody>
+</table>
+
 
 ### Datos 
 

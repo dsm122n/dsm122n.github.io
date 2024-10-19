@@ -4,6 +4,7 @@ let work = document.getElementById('edit').innerHTML;
 
 //let regex = /<span.*?>(.*?)<\/span>/g;
 //let result = work.replace(regex, '$1');
+let result = work;
 
 let regex1 = /<span.*?>/g;
 result = result.replace(regex1, '');
@@ -26,6 +27,13 @@ console.log(result);
 let regex5 = /<a.*?>(.*?)<\/a>/g;
 result = result.replace(regex5, '$1');
 console.log(result);
+
+/////////////////////////////////
+/////////////////////////////////
+/////////////////////////////////
+/////////////////////////////////
+/////////////////////////////////
+/////////////////////////////////
 
 // highlight matches with new <span> tags
 // <span class= "sn" >...</span>
