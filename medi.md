@@ -1370,11 +1370,1230 @@ Leucemia linfática crónica: linfoma (tipo específico de linfoma de hodgkin) +
 
 ## Diabetes
 
+### Vista general tipos DM
+
+<div class="WordSection1">
+
+<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="1199" style="width:899.0pt;border-collapse:collapse;mso-yfti-tbllook:1184;
+ mso-padding-alt:0cm 3.5pt 0cm 3.5pt">
+ <tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:22.5pt">
+  <td width="118" rowspan="2" valign="top" style="width:88.5pt;border:solid windowtext 1.0pt;
+  mso-border-alt:solid windowtext .5pt;background:#54723e;padding:0cm 3.5pt 0cm 3.5pt;
+  height:22.5pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
+  line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;
+  mso-bidi-font-family:&quot;Times New Roman&quot;;;mso-fareast-language:ES-CL">&nbsp;<o:p></o:p></span></p>
+  </td>
+  <td width="246" rowspan="2" valign="top" style="width:184.2pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-top-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;background:
+  #535b6a;padding:0cm 3.5pt 0cm 3.5pt;height:22.5pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
+  line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;
+  mso-bidi-font-family:&quot;Times New Roman&quot;;;mso-fareast-language:ES-CL">DM1<o:p></o:p></span></p>
+  </td>
+  <td width="139" rowspan="2" valign="top" style="width:104.2pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-top-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;background:
+  #535b6a;padding:0cm 3.5pt 0cm 3.5pt;height:22.5pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
+  line-height:normal"><span lang="EN-GB" style="mso-ascii-font-family:Calibri;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;
+  mso-bidi-font-family:&quot;Times New Roman&quot;;;mso-ansi-language:EN-GB;
+  mso-fareast-language:ES-CL">LADA <o:p></o:p></span></p>
+  <p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
+  line-height:normal"><span lang="EN-GB" style="mso-ascii-font-family:Calibri;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;
+  mso-bidi-font-family:&quot;Times New Roman&quot;;;mso-ansi-language:EN-GB;
+  mso-fareast-language:ES-CL">(Latent <span class="SpellE">Autoinmune</span> Diabetes
+  of Adults)<o:p></o:p></span></p>
+  </td>
+  <td width="263" rowspan="2" valign="top" style="width:196.95pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-top-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;background:
+  #535b6a;padding:0cm 3.5pt 0cm 3.5pt;height:22.5pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
+  line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;
+  mso-bidi-font-family:&quot;Times New Roman&quot;;;mso-fareast-language:ES-CL">DM2<o:p></o:p></span></p>
+  </td>
+  <td width="207" rowspan="2" valign="top" style="width:155.35pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-top-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;background:
+  #535b6a;padding:0cm 3.5pt 0cm 3.5pt;height:22.5pt">
+  <p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
+  line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;
+  mso-bidi-font-family:&quot;Times New Roman&quot;;;mso-fareast-language:ES-CL">Con
+  tendencia a cetosis <o:p></o:p></span></p>
+  <p class="MsoNormal" align="center" style="margin-bottom:0cm;text-align:center;
+  line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;
+  mso-bidi-font-family:&quot;Times New Roman&quot;;;mso-fareast-language:ES-CL">(<span class="SpellE">ketosis</span> prone diabetes)<o:p></o:p></span></p>
+  </td>
+  <td width="226" colspan="4" valign="top" style="width:169.8pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-top-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;background:
+  #535b6a;padding:0cm 3.5pt 0cm 3.5pt;height:22.5pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="EN-GB" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-ansi-language:EN-GB;mso-fareast-language:ES-CL">MODY
+  (maturity onset <span class="SpellE">dibetes</span> of the young)<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:1;height:22.5pt">
+  <td width="112" valign="top" style="width:83.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  background:#535b6a;padding:0cm 3.5pt 0cm 3.5pt;height:22.5pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span class="SpellE"><span lang="EN-GB" style="mso-ascii-font-family:Calibri;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;
+  mso-bidi-font-family:&quot;Times New Roman&quot;;;mso-ansi-language:EN-GB;
+  mso-fareast-language:ES-CL">Glucoquinasa</span></span><span lang="EN-GB" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-ansi-language:EN-GB;mso-fareast-language:ES-CL"> (GK) <span style="background:green;mso-highlight:yellow">MODY 2</span><o:p></o:p></span></p>
+  </td>
+  <td width="115" colspan="3" valign="top" style="width:86.05pt;border:solid windowtext 1.0pt;
+  border-left:none;mso-border-top-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;background:
+  #535b6a;padding:0cm 3.5pt 0cm 3.5pt;height:22.5pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">Por factores de transcripción (FT)<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:2;height:178.85pt">
+  <td width="118" valign="top" style="width:88.5pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;background:
+  #54723e;padding:0cm 3.5pt 0cm 3.5pt;height:178.85pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">Etiopatogenia<o:p></o:p></span></p>
+  </td>
+  <td width="246" valign="top" style="width:184.2pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 3.5pt 0cm 3.5pt;height:178.85pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:Calibri;
+  mso-fareast-theme-font:minor-latin">Autoinmune</span></span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  mso-fareast-language:ES-CL"> <span style="background:green;mso-highlight:
+  yellow">(la mayoría, 70-90%)</span> <span style="">o </span></span><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:Calibri;
+  mso-fareast-theme-font:minor-latin">idiopática</span></span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"><br>
+  Gatillada por factores ambientales en individuos con predisposición genética<o:p></o:p></span></p>
+  </td>
+  <td width="139" valign="top" style="width:104.2pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 3.5pt 0cm 3.5pt;height:178.85pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">como <span class="GramE">DM1</span>
+  pero lentamente progresiva<br>
+  No son <span class="SpellE">insulinorresistentes</span><o:p></o:p></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-fareast-font-family:&quot;Times New Roman&quot;;"><o:p>&nbsp;</o:p></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-fareast-font-family:&quot;Times New Roman&quot;;;
+  background:green;mso-highlight:yellow">autoinmune</span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"><o:p></o:p></span></p>
+  </td>
+  <td width="263" valign="top" style="width:196.95pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 3.5pt 0cm 3.5pt;height:178.85pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">1° </span><span class="SpellE"><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:Calibri;
+  mso-fareast-theme-font:minor-latin">Insulino</span></span></span><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:Calibri;
+  mso-fareast-theme-font:minor-latin"> resistencia</span></span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"> (por aumento AGL, citoquinas, <span class="SpellE">adipoquinas</span> inflamatorias, <span class="SpellE">disfunc</span>.
+  <span class="SpellE">mitocondr</span>)<br>
+  2° </span><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:
+  Calibri;mso-fareast-theme-font:minor-latin">disfunción célula β</span></span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"> (glucotoxicidad, formación amiloide
+  y estrés oxidativo)<br>
+  <span style="background:green;mso-highlight:yellow">(3° </span></span><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:Calibri;
+  mso-fareast-theme-font:minor-latin;background:green;mso-highlight:yellow">intolerancia
+  a glucosa, GAA)</span></span><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin"><o:p></o:p></span></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:Calibri;
+  mso-fareast-theme-font:minor-latin;background:green;mso-highlight:yellow">*lo
+  anterior es lo más imp, que lleva al resto</span></span><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:Calibri;
+  mso-fareast-theme-font:minor-latin"><o:p></o:p></span></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"><o:p>&nbsp;</o:p></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">Además: deficiencia incretinas
+  intestinales, <span class="SpellE">hiperglucagonemia</span>, aumento <span class="SpellE">reabsor</span>. <span class="SpellE">gluc</span>. a nivel renal<br>
+  Nota: Glucotoxicidad se asocia a disfunción cβ; <span class="SpellE">lipotoxicidad</span>
+  se asocia a resistencia a la insulina.<o:p></o:p></span></p>
+  </td>
+  <td width="207" valign="top" style="width:155.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 3.5pt 0cm 3.5pt;height:178.85pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:Calibri;
+  mso-fareast-theme-font:minor-latin">Desconocida</span></span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">. Sin <span class="GramE">embargo</span>
+  es similar a DM2. Se ha descrito: <br>
+  <br>
+  Disminución </span><span class="rojoCar"><span lang="ES-CL" style="mso-ascii-font-family:
+  Calibri;mso-ascii-theme-font:minor-latin;mso-hansi-font-family:Calibri;
+  mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Arial;mso-bidi-theme-font:
+  minor-bidi;mso-fareast-language:ES-CL">secreción insulina</span></span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"> variable por destrucción no
+  autoinmune de </span><span class="rojoCar"><span lang="ES-CL" style="mso-ascii-font-family:
+  Calibri;mso-ascii-theme-font:minor-latin;mso-hansi-font-family:Calibri;
+  mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Arial;mso-bidi-theme-font:
+  minor-bidi;mso-fareast-language:ES-CL">células β</span></span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">. <br>
+  <br>
+  Se ha denominado DM intermedia, 1.5, o "<span class="SpellE">flatbluch</span>
+  diabetes"<o:p></o:p></span></p>
+  </td>
+  <td width="226" colspan="4" valign="top" style="width:169.8pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 3.5pt 0cm 3.5pt;height:178.85pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">Mutación monogénica en </span><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:Calibri;
+  mso-fareast-theme-font:minor-latin">genes</span></span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"> que </span><span class="rojoCar"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+  Arial;mso-bidi-theme-font:minor-bidi;mso-fareast-language:ES-CL">regulan
+  función célula β, </span></span><span lang="ES-CL">u otros procesos del
+  metabolismo (GK</span><span lang="ES-CL" style="font-family:Wingdings;
+  mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;mso-hansi-font-family:
+  Calibri;mso-hansi-theme-font:minor-latin;mso-fareast-language:ES-CL;
+  mso-char-type:symbol;mso-symbol-font-family:Wingdings"><span style="mso-char-type:symbol;mso-symbol-font-family:Wingdings">à</span></span><span lang="ES-CL"> en hígado y células β)</span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:3;height:56.0pt">
+  <td width="118" valign="top" style="width:88.5pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;background:
+  #54723e;padding:0cm 3.5pt 0cm 3.5pt;height:56.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">Factores predisponentes<o:p></o:p></span></p>
+  </td>
+  <td width="246" valign="top" style="width:184.2pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 3.5pt 0cm 3.5pt;height:56.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">Genética (HLA). Antecedentes
+  familiares de <span class="SpellE">enfs</span> autoinmunes.<o:p></o:p></span></p>
+  </td>
+  <td width="139" valign="top" style="width:104.2pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 3.5pt 0cm 3.5pt;height:56.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">Predisposición genética HLA, pero
+  menos marcada que DM1<o:p></o:p></span></p>
+  </td>
+  <td width="263" valign="top" style="width:196.95pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 3.5pt 0cm 3.5pt;height:56.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">Genética, sedentarismo, </span><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:Calibri;
+  mso-fareast-theme-font:minor-latin">obesidad visceral</span></span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">, </span><span class="SpellE"><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:Calibri;
+  mso-fareast-theme-font:minor-latin">sd</span></span></span><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:Calibri;
+  mso-fareast-theme-font:minor-latin"> de ovarios poliquísticos<o:p></o:p></span></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;background:green;mso-highlight:yellow;mso-fareast-language:ES-CL">P</span><span lang="ES-CL" style="mso-fareast-font-family:&quot;Times New Roman&quot;;;
+  background:green;mso-highlight:yellow">oligénica. No relacionado con HLA.<o:p></o:p></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span class="SpellE"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;
+  mso-bidi-font-family:&quot;Times New Roman&quot;;;background:green;
+  mso-highlight:yellow;mso-fareast-language:ES-CL">Antec</span></span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;background:green;mso-highlight:yellow;mso-fareast-language:ES-CL">
+  <span class="SpellE">fam</span> DM2</span><span lang="ES-CL" style="mso-ascii-font-family:
+  Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;
+  mso-bidi-font-family:&quot;Times New Roman&quot;;;mso-fareast-language:ES-CL"><o:p></o:p></span></p>
+  </td>
+  <td width="207" valign="top" style="width:155.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 3.5pt 0cm 3.5pt;height:56.0pt">
+  <p class="destacado"><span lang="ES-CL">Similar a DM2</span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">Inicialmente descrita en
+  afroamericanos. <br>
+  Más frecuente en </span><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin">hombres</span></span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"> (3:1)<br>
+  Antecedentes <span class="SpellE">fam</span> de DM2<o:p></o:p></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-fareast-font-family:&quot;Times New Roman&quot;;;
+  background:green;mso-highlight:yellow">No relacionado con HLA.</span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"><o:p></o:p></span></p>
+  </td>
+  <td width="226" colspan="4" valign="top" style="width:169.8pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 3.5pt 0cm 3.5pt;height:56.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">Genética (autosómica dominante con
+  penetrancia incompleta).<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:4;height:105.0pt">
+  <td width="118" valign="top" style="width:88.5pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;background:
+  #54723e;padding:0cm 3.5pt 0cm 3.5pt;height:105.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">Marcadores<o:p></o:p></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"><br>
+  (glicemia y Hb1Ac para todas)<o:p></o:p></span></p>
+  </td>
+  <td width="246" valign="top" style="width:184.2pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 3.5pt 0cm 3.5pt;height:105.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL">Una vez instaurada:</span><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:Calibri;mso-fareast-theme-font:
+  minor-latin"> autoanticuerpos</span></span><span lang="ES-CL" style="mso-ascii-font-family:
+  Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;
+  mso-bidi-font-family:&quot;Times New Roman&quot;;;mso-fareast-language:ES-CL">
+  que dan indicios de destrucción de células β:<br>
+  <span class="SpellE">antislotes</span> pancreáticos (ICA), <span class="SpellE">antidecarboxilasa</span>
+  del ácido glutámico (anti-GAD65), antiinsulina (IAA), <span class="SpellE">antitirosina</span>
+  fosfatasa (frecuente en <span class="SpellE">niñxs</span> IA-2 e IA-2B), <span class="SpellE">antitransportador</span> de Zinc (ZnT8)<o:p></o:p></span></p>
+  </td>
+  <td width="139" valign="top" style="width:104.2pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 3.5pt 0cm 3.5pt;height:105.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:Calibri;
+  mso-fareast-theme-font:minor-latin">Autoanticuerpos</span></span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"> positivos para DM1 autoinmune [por
+  lo general uno solo: <span class="SpellE">antiGAD</span> 65]<o:p></o:p></span></p>
+  </td>
+  <td width="263" valign="top" style="width:196.95pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 3.5pt 0cm 3.5pt;height:105.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">&nbsp;<span style="background:green;
+  mso-highlight:yellow">S</span></span><span lang="ES-CL" style="mso-fareast-font-family:
+  &quot;Times New Roman&quot;;;background:green;mso-highlight:yellow">in Ac</span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"><o:p></o:p></span></p>
+  </td>
+  <td width="207" valign="top" style="width:155.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 3.5pt 0cm 3.5pt;height:105.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span class="rojoCar"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi;
+  mso-fareast-language:ES-CL">Carecen de marcadores autoinmunes</span></span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"> y de asociación genética con HLA de
+  DM1<o:p></o:p></span></p>
+  </td>
+  <td width="226" nowrap="" colspan="4" valign="top" style="width:169.8pt;border-top:
+  none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 3.5pt 0cm 3.5pt;height:105.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">&nbsp;Mutación en genes específicos<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:5;height:29.7pt">
+  <td width="118" rowspan="2" valign="top" style="width:88.5pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;background:
+  #54723e;padding:0cm 3.5pt 0cm 3.5pt;height:29.7pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">Edad de diagnóstico más frecuente<o:p></o:p></span></p>
+  </td>
+  <td width="246" rowspan="2" valign="top" style="width:184.2pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 3.5pt 0cm 3.5pt;height:29.7pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">Niñez y adolescencia (</span><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:Calibri;
+  mso-fareast-theme-font:minor-latin">&lt; 20 años</span></span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">)<o:p></o:p></span></p>
+  </td>
+  <td width="139" rowspan="2" valign="top" style="width:104.2pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 3.5pt 0cm 3.5pt;height:29.7pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:Calibri;
+  mso-fareast-theme-font:minor-latin">&gt;35 años</span></span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">, aunque puede aparecer antes<o:p></o:p></span></p>
+  </td>
+  <td width="263" rowspan="2" valign="top" style="width:196.95pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 3.5pt 0cm 3.5pt;height:29.7pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">&gt; </span><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:Calibri;mso-fareast-theme-font:
+  minor-latin">[30 a 40] años</span></span><span lang="ES-CL" style="mso-ascii-font-family:
+  Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;
+  mso-bidi-font-family:&quot;Times New Roman&quot;;;mso-fareast-language:ES-CL"><o:p></o:p></span></p>
+  </td>
+  <td width="207" rowspan="2" valign="top" style="width:155.35pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 3.5pt 0cm 3.5pt;height:29.7pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">Principalmente adultos jóvenes<br>
+  </span><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:
+  Calibri;mso-fareast-theme-font:minor-latin">33-53 años </span></span><span lang="ES-CL"><span lang="ES-CL" style="font-size:11.0pt;line-height:107%;font-family:&quot;Aptos&quot;,sans-serif;
+  mso-ascii-theme-font:minor-latin;mso-fareast-font-family:Aptos;mso-fareast-theme-font:
+  minor-latin;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  mso-bidi-theme-font:minor-bidi;position:relative;top:4.0pt;mso-text-raise:
+  -4.0pt;mso-font-kerning:0pt;mso-ligatures:none;mso-ansi-language:ES-CL;
+  mso-fareast-language:EN-US;mso-bidi-language:AR-SA"></span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;
+  mso-bidi-font-family:&quot;Times New Roman&quot;;;mso-fareast-language:ES-CL"><o:p></o:p></span></p>
+  </td>
+  <td width="226" colspan="4" valign="top" style="width:169.8pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 3.5pt 0cm 3.5pt;height:29.7pt">
+  <p class="destacado"><span lang="ES-CL">&lt;25 años<br style="mso-special-character:
+  line-break">
+  <!--[if !supportLineBreakNewLine]--><br style="mso-special-character:line-break">
+  <!--[endif]--></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:6;height:32.7pt">
+  <td width="114" colspan="2" valign="top" style="width:85.65pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 3.5pt 0cm 3.5pt;height:32.7pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">desde </span><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:Calibri;
+  mso-fareast-theme-font:minor-latin;color:#7030A0">nacimiento</span></span><b><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-hansi-font-family:Calibri;
+  mso-bidi-font-family:&quot;Times New Roman&quot;;color:#7030A0;mso-fareast-language:
+  ES-CL"><o:p></o:p></span></b></p>
+  </td>
+  <td width="112" colspan="2" valign="top" style="width:84.15pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 3.5pt 0cm 3.5pt;height:32.7pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:Calibri;
+  mso-fareast-theme-font:minor-latin">adolescencia</span></span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"> o </span><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:Calibri;mso-fareast-theme-font:
+  minor-latin">juventud</span></span><span lang="ES-CL" style="mso-ascii-font-family:
+  Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;
+  mso-bidi-font-family:&quot;Times New Roman&quot;;;mso-fareast-language:ES-CL"><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:7;height:50.55pt">
+  <td width="118" valign="top" style="width:88.5pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;background:
+  #54723e;padding:0cm 3.5pt 0cm 3.5pt;height:50.55pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">Porcentaje de casos de diabetes<o:p></o:p></span></p>
+  </td>
+  <td width="246" valign="top" style="width:184.2pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 3.5pt 0cm 3.5pt;height:50.55pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">5 a 10%<o:p></o:p></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;background:green;mso-highlight:yellow;mso-fareast-language:ES-CL">Forma
+  más frecuente en niños</span><span lang="ES-CL" style="mso-ascii-font-family:
+  Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;
+  mso-bidi-font-family:&quot;Times New Roman&quot;;;mso-fareast-language:ES-CL">
+  (<span class="SpellE">esta</span> cambiando)<o:p></o:p></span></p>
+  </td>
+  <td width="139" valign="top" style="width:104.2pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 3.5pt 0cm 3.5pt;height:50.55pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">&nbsp;<i><span style="background:
+  green;mso-highlight:yellow">*10% de los diabéticos tipo 2 tenían Ac (estudio
+  UKPDS)</span><o:p></o:p></i></span></p>
+  </td>
+  <td width="263" valign="top" style="width:196.95pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 3.5pt 0cm 3.5pt;height:50.55pt">
+  <p class="destacado"><span lang="ES-CL">90 a 95%</span></p>
+  </td>
+  <td width="207" valign="top" style="width:155.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 3.5pt 0cm 3.5pt;height:50.55pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">&nbsp;<o:p></o:p></span></p>
+  </td>
+  <td width="226" colspan="4" valign="top" style="width:169.8pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 3.5pt 0cm 3.5pt;height:50.55pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">Dato: &gt;80% MODY son clasificados
+  como DM1 o 2 por error<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:8;height:56.85pt">
+  <td width="118" rowspan="2" valign="top" style="width:88.5pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;background:
+  #54723e;padding:0cm 3.5pt 0cm 3.5pt;height:56.85pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">Cuadro clínico / Diagnóstico<o:p></o:p></span></p>
+  </td>
+  <td width="246" rowspan="2" valign="top" style="width:184.2pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 3.5pt 0cm 3.5pt;height:56.85pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">Puede presentarse con poliuria,
+  polifagia, polidipsia (</span><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:Calibri;mso-fareast-theme-font:minor-latin">3P</span></span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">), baja de peso. <o:p></o:p></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"><o:p>&nbsp;</o:p></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">Si debuta con </span><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:Calibri;
+  mso-fareast-theme-font:minor-latin">CAD</span></span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"> (1/3): anorexia, dolor abdominal,
+  vómitos<o:p></o:p></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"><o:p>&nbsp;</o:p></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span class="SpellE"><b><span lang="ES-CL" style="mso-ascii-font-family:Calibri;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;
+  mso-bidi-font-family:&quot;Times New Roman&quot;;;background:green;
+  mso-highlight:yellow;mso-fareast-language:ES-CL">Normopeso</span></b></span><b><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;background:green;mso-highlight:yellow;mso-fareast-language:ES-CL">
+  (en general), sin signos de <span class="SpellE">insulinorresistencia</span>.</span></b><b><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"><o:p></o:p></span></b></p>
+  </td>
+  <td width="139" rowspan="2" valign="top" style="width:104.2pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 3.5pt 0cm 3.5pt;height:56.85pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">Inicialmente simula DM2 en no obeso,
+  sin historial familiar de diabetes.<o:p></o:p></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"><o:p>&nbsp;</o:p></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span class="SpellE"><b><span lang="ES-CL" style="mso-ascii-font-family:Calibri;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;
+  mso-bidi-font-family:&quot;Times New Roman&quot;;;background:green;
+  mso-highlight:yellow;mso-fareast-language:ES-CL">Normopeso</span></b></span><b><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;background:green;mso-highlight:yellow;mso-fareast-language:ES-CL">
+  (en general), sin signos de <span class="SpellE">insulinorresistencia</span>.</span></b><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"><o:p></o:p></span></p>
+  </td>
+  <td width="263" rowspan="2" valign="top" style="width:196.95pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 3.5pt 0cm 3.5pt;height:56.85pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">Diagnóstico tardío. </span><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:Calibri;
+  mso-fareast-theme-font:minor-latin">Poco sintomática</span></span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">, 50 a 70% es dg por exámenes de <span class="SpellE">lab</span> solicitados por otra causa<br clear="all" style="mso-special-character:line-break;page-break-before:always">
+  <o:p></o:p></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"><o:p>&nbsp;</o:p></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:Calibri;
+  mso-fareast-theme-font:minor-latin">Síntomas <span class="SpellE">grals</span></span></span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">. Astenia, adinamia, mialgia, calambres.<br clear="all" style="mso-special-character:line-break;page-break-before:always">
+  <o:p></o:p></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"><o:p>&nbsp;</o:p></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">Puede presentar las </span><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:Calibri;
+  mso-fareast-theme-font:minor-latin">3P</span></span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"> (poliuria, polifagia, polidipsia<br clear="all" style="page-break-before:always">
+  ) <o:p></o:p></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"><o:p>&nbsp;</o:p></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">Signos de RI: Acantosis Nigricans,
+  signos de hiperandrogenismo<br clear="all" style="page-break-before:always">
+  , ¿<span class="SpellE">acrocordones</span>? </span><span lang="ES-CL" style="mso-fareast-font-family:&quot;Times New Roman&quot;;;background:green;
+  mso-highlight:yellow">(si <span class="SpellE">tb</span>)</span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"><o:p></o:p></span></p>
+  </td>
+  <td width="207" rowspan="2" valign="top" style="width:155.35pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 3.5pt 0cm 3.5pt;height:56.85pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:Calibri;
+  mso-fareast-theme-font:minor-latin">Debutan</span></span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"> como DM1<br clear="all" style="page-break-before:always">
+  <span style="mso-spacerun:yes">&nbsp;</span><o:p></o:p></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="font-family:Wingdings;mso-ascii-font-family:Calibri;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;
+  mso-bidi-font-family:&quot;Times New Roman&quot;;;mso-fareast-language:ES-CL;
+  mso-char-type:symbol;mso-symbol-font-family:Wingdings"><span style="mso-char-type:symbol;mso-symbol-font-family:Wingdings">à</span></span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"> Rápida y severa hiperglicemia y
+  cetosis (</span><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:
+  Calibri;mso-fareast-theme-font:minor-latin">CAD</span></span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">) sin factor desencadenante. </span><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:Calibri;
+  mso-fareast-theme-font:minor-latin">3P</span></span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"><o:p></o:p></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"><o:p>&nbsp;</o:p></span></p>
+  <span lang="ES-CL" style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-ansi-language:ES-CL;mso-fareast-language:ES-CL;mso-bidi-language:
+  AR-SA"><br clear="all" style="page-break-before:always">
+  </span>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">Evolucionan como DM2<br clear="all" style="mso-special-character:line-break;page-break-before:always">
+  <o:p></o:p></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"><o:p>&nbsp;</o:p></span></p>
+  <p class="destacado"><span class="SpellE"><span lang="ES-CL">Insulinopenia</span></span><span lang="ES-CL"> variable</span></p>
+  </td>
+  <td width="226" colspan="4" valign="top" style="width:169.8pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 3.5pt 0cm 3.5pt;height:56.85pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:Calibri;
+  mso-fareast-theme-font:minor-latin">Estado nutricional normal</span></span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">, sin </span><span class="rojoCar"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-ascii-theme-font:minor-latin;
+  mso-hansi-font-family:Calibri;mso-hansi-theme-font:minor-latin;mso-bidi-font-family:
+  Arial;mso-bidi-theme-font:minor-bidi;mso-fareast-language:ES-CL">signos de RI</span></span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">. <o:p></o:p></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:Calibri;
+  mso-fareast-theme-font:minor-latin">Historia familiar</span></span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"> de DM en tres generaciones<o:p></o:p></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:9;height:59.95pt">
+  <td width="115" colspan="3" valign="top" style="width:86.05pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 3.5pt 0cm 3.5pt;height:59.95pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">Hiperglicemia en ayunas (</span><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:Calibri;
+  mso-fareast-theme-font:minor-latin">GAA</span></span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">) desde nacimiento<o:p></o:p></span></p>
+  </td>
+  <td width="112" valign="top" style="width:83.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 3.5pt 0cm 3.5pt;height:59.95pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"><o:p>&nbsp;</o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:10;height:60.0pt">
+  <td width="118" valign="top" style="width:88.5pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;background:
+  #54723e;padding:0cm 3.5pt 0cm 3.5pt;height:60.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">Evolución<o:p></o:p></span></p>
+  </td>
+  <td width="246" valign="top" style="width:184.2pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 3.5pt 0cm 3.5pt;height:60.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">1° Inicio agudo<br>
+  2° Periodo de remisión con bajo requerimiento de insulina (</span><span class="rojoCar"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi;
+  color:#00B050;mso-fareast-language:ES-CL">luna de miel</span></span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">), <br>
+  3° </span><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:
+  Calibri;mso-fareast-theme-font:minor-latin">Intensificación gradual<o:p></o:p></span></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><b><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;background:green;mso-highlight:yellow;mso-fareast-language:ES-CL">I</span></b><b><span lang="ES-CL" style="mso-fareast-font-family:&quot;Times New Roman&quot;;;
+  background:green;mso-highlight:yellow">nsulinodependientes</span></b><b><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"><o:p></o:p></span></b></p>
+  </td>
+  <td width="139" valign="top" style="width:104.2pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 3.5pt 0cm 3.5pt;height:60.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:Calibri;
+  mso-fareast-theme-font:minor-latin;background:green;mso-highlight:yellow">“como
+  DM1 lentamente</span></span><span lang="ES-CL" style="mso-ascii-font-family:
+  Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;
+  mso-bidi-font-family:&quot;Times New Roman&quot;;;background:green;
+  mso-highlight:yellow;mso-fareast-language:ES-CL"> progresiva”</span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"><o:p></o:p></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"><o:p>&nbsp;</o:p></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;background:green;mso-highlight:yellow;mso-fareast-language:ES-CL">Se
+  vuelven <span class="SpellE">insulinorrequirientes</span> al poco tiempo del dg
+  (meses o años)</span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;
+  mso-bidi-font-family:&quot;Times New Roman&quot;;;mso-fareast-language:ES-CL"><o:p></o:p></span></p>
+  </td>
+  <td width="263" valign="top" style="width:196.95pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 3.5pt 0cm 3.5pt;height:60.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">Larvada. Ver complicaciones crónicas.<o:p></o:p></span></p>
+  </td>
+  <td width="207" valign="top" style="width:155.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 3.5pt 0cm 3.5pt;height:60.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">1° CAD, <br>
+  2° Se comportan como DM2, pero con </span><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:Calibri;mso-fareast-theme-font:
+  minor-latin">tendencia a descompensación con CAD</span></span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"><o:p></o:p></span></p>
+  </td>
+  <td width="115" colspan="3" valign="top" style="width:86.05pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 3.5pt 0cm 3.5pt;height:60.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span class="rojoCar"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi;
+  color:#00B050">NO</span></span><span lang="ES-CL" style="mso-ascii-font-family:
+  Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;
+  mso-bidi-font-family:&quot;Times New Roman&quot;;color:#00B050;mso-fareast-language:
+  ES-CL"> </span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;
+  mso-bidi-font-family:&quot;Times New Roman&quot;;;mso-fareast-language:ES-CL">es
+  </span><span class="rojoCar"><span lang="ES-CL" style="mso-ascii-font-family:
+  Calibri;mso-ascii-theme-font:minor-latin;mso-hansi-font-family:Calibri;
+  mso-hansi-theme-font:minor-latin;mso-bidi-font-family:Arial;mso-bidi-theme-font:
+  minor-bidi;color:#00B050;mso-fareast-language:ES-CL">progresiva</span></span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"><o:p></o:p></span></p>
+  </td>
+  <td width="112" valign="top" style="width:83.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 3.5pt 0cm 3.5pt;height:60.0pt">
+  <p class="rojo"><span lang="ES-CL" style="mso-fareast-language:ES-CL">Progresiva<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:11;height:135.0pt">
+  <td width="118" valign="top" style="width:88.5pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;background:
+  #54723e;padding:0cm 3.5pt 0cm 3.5pt;height:135.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">Otras patologías asociadas<o:p></o:p></span></p>
+  </td>
+  <td width="246" valign="top" style="width:184.2pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 3.5pt 0cm 3.5pt;height:135.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">Otros </span><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:Calibri;
+  mso-fareast-theme-font:minor-latin">trastornos autoinmunitarios</span></span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">: <o:p></o:p></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"><o:p>&nbsp;</o:p></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">++ Tiroiditis de Hashimoto y
+  enfermedad celíaca<br style="mso-special-character:line-break">
+  <!--[if !supportLineBreakNewLine]--><br style="mso-special-character:line-break">
+  <!--[endif]--><o:p></o:p></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">+ enfermedad de Graves, enfermedad de
+  Addison, <span class="SpellE">vitiligo</span>, hepatitis autoinmune, miastenia <span class="SpellE">gravis</span>, anemia perniciosa<o:p></o:p></span></p>
+  </td>
+  <td width="139" valign="top" style="width:104.2pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 3.5pt 0cm 3.5pt;height:135.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">Otras patologías autoinmunes<o:p></o:p></span></p>
+  </td>
+  <td width="263" valign="top" style="width:196.95pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 3.5pt 0cm 3.5pt;height:135.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span class="SpellE"><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:
+  Calibri;mso-fareast-theme-font:minor-latin">Sd</span></span></span><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:Calibri;
+  mso-fareast-theme-font:minor-latin"> metabólico</span></span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">:<br>
+  Obesidad central + 2 de los siguientes (presentes o en <span class="SpellE">tto</span>):<br>
+  <span class="SpellE">hiperTGC</span> &gt; 150 <br>
+  HDL &lt; 50 en m y 40 en h <br>
+  HTA (&gt;130/85)<br>
+  GAA &gt; 100 o DM2.<br>
+  <br>
+  </span><span lang="ES-CL" style="mso-fareast-language:ES-CL">Infecciones
+  urogenitales (tener en consideración para sospechar)</span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"><o:p></o:p></span></p>
+  </td>
+  <td width="207" valign="top" style="width:155.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 3.5pt 0cm 3.5pt;height:135.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">&nbsp;<span style="background:green;
+  mso-highlight:yellow">Similar a DM2</span><o:p></o:p></span></p>
+  </td>
+  <td width="226" nowrap="" colspan="4" valign="top" style="width:169.8pt;border-top:
+  none;border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 3.5pt 0cm 3.5pt;height:135.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">&nbsp;<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:12;height:120.0pt">
+  <td width="118" valign="top" style="width:88.5pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-left-alt:solid windowtext .5pt;mso-border-bottom-alt:
+  solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;background:
+  #54723e;padding:0cm 3.5pt 0cm 3.5pt;height:120.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">Complicaciones<o:p></o:p></span></p>
+  </td>
+  <td width="246" valign="top" style="width:184.2pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 3.5pt 0cm 3.5pt;height:120.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:Calibri;
+  mso-fareast-theme-font:minor-latin">cetoacidosis diabética</span></span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"> (1/3 debuta con CAD)<o:p></o:p></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-fareast-font-family:&quot;Times New Roman&quot;;;
+  background:green;mso-highlight:yellow">Complicaciones crónicas</span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"><o:p></o:p></span></p>
+  </td>
+  <td width="139" valign="top" style="width:104.2pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-left-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 3.5pt 0cm 3.5pt;height:120.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;background:green;mso-highlight:yellow;mso-fareast-language:ES-CL">C</span><span lang="ES-CL" style="mso-fareast-font-family:&quot;Times New Roman&quot;;;
+  background:green;mso-highlight:yellow">omplicaciones agudas y crónicas DM</span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"><o:p></o:p></span></p>
+  </td>
+  <td width="263" valign="top" style="width:196.95pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 3.5pt 0cm 3.5pt;height:120.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:Calibri;
+  mso-fareast-theme-font:minor-latin">Poco</span></span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"> frecuente </span><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:Calibri;
+  mso-fareast-theme-font:minor-latin">CAD</span></span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">. Asociada a estrés por otros
+  procesos patológicos. <o:p></o:p></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:Calibri;
+  mso-fareast-theme-font:minor-latin"><o:p>&nbsp;</o:p></span></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:Calibri;
+  mso-fareast-theme-font:minor-latin">SHH</span></span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"><br>
+  <br>
+  Por diagnóstico tardío, buscar signos de complicaciones:<br>
+  </span><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:
+  Calibri;mso-fareast-theme-font:minor-latin">-macroangiopatía</span></span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"> (ojo: 1ª causa de mortalidad </span><span lang="ES-CL" style="font-family:Wingdings;mso-ascii-font-family:Calibri;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;
+  mso-bidi-font-family:&quot;Times New Roman&quot;;;mso-fareast-language:ES-CL;
+  mso-char-type:symbol;mso-symbol-font-family:Wingdings"><span style="mso-char-type:symbol;mso-symbol-font-family:Wingdings">à</span></span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"> cardiopatía coronaria)<o:p></o:p></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:Calibri;
+  mso-fareast-theme-font:minor-latin">-microangiopatía</span></span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"> [neuropatía, nefropatía/ERC,
+  retinopatía] <o:p></o:p></span></p>
+  </td>
+  <td width="207" valign="top" style="width:155.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 3.5pt 0cm 3.5pt;height:120.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:Calibri;
+  mso-fareast-theme-font:minor-latin">Tendencia a CAD</span></span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">. Probablemente por disfunción
+  transitoria de cβ debido a glucotoxicidad (hiperglicemia crónica).
+  Tendencia única a desensibilización de célula </span><span lang="EL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-ansi-language:EL;mso-fareast-language:ES-CL">β</span><span lang="EL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"> </span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">a la glucosa. <o:p></o:p></span></p>
+  </td>
+  <td width="115" colspan="3" valign="top" style="width:86.05pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 3.5pt 0cm 3.5pt;height:120.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">NO se asocia a </span><span class="rojoCar"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi;
+  color:#00B050;mso-fareast-language:ES-CL">complicaciones crónicas</span></span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"><br>
+  <br style="mso-special-character:line-break">
+  <!--[if !supportLineBreakNewLine]--><br style="mso-special-character:line-break">
+  <!--[endif]--><o:p></o:p></span></p>
+  </td>
+  <td width="112" valign="top" style="width:83.75pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 3.5pt 0cm 3.5pt;height:120.0pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">se asocia a </span><span class="rojoCar"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi">complicaciones</span></span><span class="rojoCar"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi;
+  mso-fareast-language:ES-CL"> micro y <span class="SpellE">macrovasculares</span></span></span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"><o:p></o:p></span></p>
+  </td>
+ </tr>
+ <tr style="mso-yfti-irow:13;mso-yfti-lastrow:yes;height:249.45pt">
+  <td width="118" valign="top" style="width:88.5pt;border:solid windowtext 1.0pt;
+  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
+  background:#54723e;padding:0cm 3.5pt 0cm 3.5pt;height:249.45pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">Tratamiento<o:p></o:p></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"><o:p>&nbsp;</o:p></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">(tratamiento no farmacológico
+  transversal a todas)<o:p></o:p></span></p>
+  </td>
+  <td width="246" valign="top" style="width:184.2pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 3.5pt 0cm 3.5pt;height:249.45pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">Insulina…<o:p></o:p></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"><o:p>&nbsp;</o:p></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">Tener cuidado con hipoglicemia.<o:p></o:p></span></p>
+  </td>
+  <td width="139" valign="top" style="width:104.2pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
+  mso-border-alt:solid windowtext .5pt;padding:0cm 3.5pt 0cm 3.5pt;height:249.45pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">Inicio: </span><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:Calibri;
+  mso-fareast-theme-font:minor-latin">dieta</span></span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">, </span><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:Calibri;mso-fareast-theme-font:
+  minor-latin">ejercicio</span></span><span lang="ES-CL" style="mso-ascii-font-family:
+  Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;
+  mso-bidi-font-family:&quot;Times New Roman&quot;;;mso-fareast-language:ES-CL">,
+  </span><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:
+  Calibri;mso-fareast-theme-font:minor-latin">drogas antidiabéticas</span></span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"> orales (no se ha demostrado
+  beneficio mayor con alguna clase en específico).<br style="mso-special-character:
+  line-break">
+  <!--[if !supportLineBreakNewLine]--><br style="mso-special-character:line-break">
+  <!--[endif]--><o:p></o:p></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">Requiere </span><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:Calibri;
+  mso-fareast-theme-font:minor-latin">insulina</span></span><span lang="ES-CL" style="mso-fareast-font-family:&quot;Times New Roman&quot;;"> tiempo después
+  de dg. </span><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:
+  Calibri;mso-fareast-theme-font:minor-latin">cuando se pierde el control
+  metabólico</span></span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;
+  mso-bidi-font-family:&quot;Times New Roman&quot;;;mso-fareast-language:ES-CL">
+  insulina.<o:p></o:p></span></p>
+  </td>
+  <td width="263" valign="top" style="width:196.95pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 3.5pt 0cm 3.5pt;height:249.45pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:Calibri;
+  mso-fareast-theme-font:minor-latin">METFORMINA. </span></span><span lang="ES-CL">Se puede combinar con</span><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:Calibri;mso-fareast-theme-font:
+  minor-latin"> </span></span><span lang="ES-CL" style="mso-ascii-font-family:
+  Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;
+  mso-bidi-font-family:&quot;Times New Roman&quot;;;mso-fareast-language:ES-CL">otros
+  hipoglicemiantes orales/inyectables.<o:p></o:p></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-fareast-font-family:&quot;Times New Roman&quot;;"><o:p>&nbsp;</o:p></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-fareast-font-family:&quot;Times New Roman&quot;;">En
+  caso de ERC, hepatopatía, insuficiencia cardíaca, sustituir metformina por
+  otro <span style="background:green;mso-highlight:yellow">o insulina</span>. </span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"><span style="mso-spacerun:yes">&nbsp;</span><o:p></o:p></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"><o:p>&nbsp;</o:p></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">Cuando la </span><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:Calibri;
+  mso-fareast-theme-font:minor-latin">insuficiencia</span></span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"> de células </span><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:Calibri;
+  mso-fareast-theme-font:minor-latin">β es mayor</span></span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"> </span><span lang="ES-CL" style="font-family:Wingdings;mso-ascii-font-family:Calibri;mso-fareast-font-family:
+  &quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL;mso-char-type:symbol;mso-symbol-font-family:
+  Wingdings"><span style="mso-char-type:symbol;mso-symbol-font-family:Wingdings">à</span></span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"> </span><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:Calibri;mso-fareast-theme-font:
+  minor-latin">Insulina</span></span><span lang="ES-CL" style="mso-ascii-font-family:
+  Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;
+  mso-bidi-font-family:&quot;Times New Roman&quot;;;mso-fareast-language:ES-CL">.<o:p></o:p></span></p>
+  </td>
+  <td width="207" valign="top" style="width:155.35pt;border-top:none;border-left:
+  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 3.5pt 0cm 3.5pt;height:249.45pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">CAD se revierte con normalización
+  glicemia.<br clear="all" style="page-break-before:always">
+  <br clear="all" style="page-break-before:always">
+  <span style="mso-spacerun:yes">&nbsp;</span><o:p></o:p></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"><o:p>&nbsp;</o:p></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">Después de CAD (¿¿1 a 150 semanas??)
+  no requieren insulina. <o:p></o:p></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"><o:p>&nbsp;</o:p></span></p>
+  <span lang="ES-CL" style="font-size:11.0pt;font-family:&quot;Calibri&quot;,sans-serif;
+  mso-fareast-font-family:&quot;Times New Roman&quot;;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-ansi-language:ES-CL;mso-fareast-language:ES-CL;mso-bidi-language:
+  AR-SA"><br clear="all" style="page-break-before:always">
+  <br clear="all" style="page-break-before:always">
+  </span>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">Control con </span><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:Calibri;
+  mso-fareast-theme-font:minor-latin">hipoglicemiantes</span></span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"> orales.<br clear="all" style="page-break-before:always">
+  <br clear="all" style="mso-special-character:line-break;page-break-before:always">
+  <o:p></o:p></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"><o:p>&nbsp;</o:p></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">Requerimientos de insulina
+  fluctuantes. <o:p></o:p></span></p>
+  </td>
+  <td width="114" colspan="2" valign="top" style="width:85.65pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 3.5pt 0cm 3.5pt;height:249.45pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span class="rojoCar"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi;
+  color:#00B050;mso-fareast-language:ES-CL">no</span></span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  color:#00B050;mso-fareast-language:ES-CL"> </span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">requiere tratamiento<br clear="all" style="page-break-before:always">
+  <br clear="all" style="page-break-before:always">
+  <span style="mso-spacerun:yes">&nbsp;</span><o:p></o:p></span></p>
+  </td>
+  <td width="112" colspan="2" valign="top" style="width:84.15pt;border-top:none;
+  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
+  mso-border-top-alt:solid windowtext .5pt;mso-border-top-alt:solid windowtext .5pt;
+  mso-border-bottom-alt:solid windowtext .5pt;mso-border-right-alt:solid windowtext .5pt;
+  padding:0cm 3.5pt 0cm 3.5pt;height:249.45pt">
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">requiere tratamientos </span><span class="rojoCar"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;
+  mso-ascii-theme-font:minor-latin;mso-hansi-font-family:Calibri;mso-hansi-theme-font:
+  minor-latin;mso-bidi-font-family:Arial;mso-bidi-theme-font:minor-bidi;
+  mso-fareast-language:ES-CL">más complejos en su evolución</span></span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">. <o:p></o:p></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"><o:p>&nbsp;</o:p></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">1° Inicialmente con dieta. <o:p></o:p></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"><o:p>&nbsp;</o:p></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">2° Fármacos: </span><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:Calibri;
+  mso-fareast-theme-font:minor-latin">Sulfonilureas</span></span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">, titulando dosis (tendencia a
+  hipoglicemias); </span><span class="SpellE"><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:Calibri;mso-fareast-theme-font:
+  minor-latin">glinidas</span></span></span><span lang="ES-CL" style="mso-ascii-font-family:
+  Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;mso-hansi-font-family:Calibri;
+  mso-bidi-font-family:&quot;Times New Roman&quot;;;mso-fareast-language:ES-CL">.
+  <o:p></o:p></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL"><o:p>&nbsp;</o:p></span></p>
+  <p class="MsoNormal" style="margin-bottom:0cm;line-height:normal"><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">3° En etapas avanzadas </span><span class="destacadoCar"><span lang="ES-CL" style="mso-fareast-font-family:Calibri;
+  mso-fareast-theme-font:minor-latin">insulinoterapia</span></span><span lang="ES-CL" style="mso-ascii-font-family:Calibri;mso-fareast-font-family:&quot;Times New Roman&quot;;
+  mso-hansi-font-family:Calibri;mso-bidi-font-family:&quot;Times New Roman&quot;;
+  ;mso-fareast-language:ES-CL">.<o:p></o:p></span></p>
+  </td>
+ </tr>
+ <!--[if !supportMisalignedColumns]-->
+ <tr height="0">
+  <td width="118" style="border:none"></td>
+  <td width="246" style="border:none"></td>
+  <td width="139" style="border:none"></td>
+  <td width="263" style="border:none"></td>
+  <td width="207" style="border:none"></td>
+  <td width="112" style="border:none"></td>
+  <td width="3" style="border:none"></td>
+  <td width="1" style="border:none"></td>
+  <td width="112" style="border:none"></td>
+ </tr>
+ <!--[endif]-->
+</tbody></table>
+
+<p class="MsoNormal"><span lang="ES-CL"><o:p>&nbsp;</o:p></span></p>
+
+</div>
+
+
+### pacientes hospitalizados
 Dosis insulina basal al hospitalizar: 
 - 70% del esquema previo
 - si se necesita ayuno, 50% del esquema previo
-
-### pacientes hospitalizados
 - Metas menos estrictas de glucemia
 - Lantus no siempre dura 24 horas. Pero preferir en hospitalizados
 <span style= "color: #5ec962; font-weight: bold;" >
@@ -1565,11 +2784,10 @@ La producción extraadrenal de cortisol por acción de la 11β-HSD1 puede estar 
  0cm 5.4pt 0cm 5.4pt'>
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
   <td width=132 valign=top style='width:99.2pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;background:#FF9696;mso-background-themecolor:
-  accent1;mso-background-themetint:153;padding:0cm 5.4pt 0cm 5.4pt'>
+  mso-border-alt:solid windowtext .5pt;background:#535b6a;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
   margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
-  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Vasculitis de vasos
+  lang=ES-CL style=''>Vasculitis de vasos
   grandes</span></p>
   </td>
   <td width=321 valign=top style='width:241.0pt;border:solid windowtext 1.0pt;
@@ -1578,7 +2796,7 @@ La producción extraadrenal de cortisol por acción de la 11β-HSD1 puede estar 
   mso-background-themetint:102;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
   margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
-  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Arteritis de células
+  lang=ES-CL style=''>Arteritis de células
   gigantes (ACG) (arteritis de la temporal)</span></p>
   </td>
   <td width=312 valign=top style='width:234.15pt;border:solid windowtext 1.0pt;
@@ -1587,7 +2805,7 @@ La producción extraadrenal de cortisol por acción de la 11β-HSD1 puede estar 
   mso-background-themetint:102;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
   margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
-  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Arteritis de <span
+  lang=ES-CL style=''>Arteritis de <span
   class=SpellE>Takayasu</span></span></p>
   </td>
  </tr>
@@ -1598,7 +2816,7 @@ La producción extraadrenal de cortisol por acción de la 11β-HSD1 puede estar 
   51;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
   margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
-  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Etiopatogenia </span></p>
+  lang=ES-CL style=''>Etiopatogenia </span></p>
   </td>
   <td width=321 valign=top style='width:241.0pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1640,7 +2858,7 @@ La producción extraadrenal de cortisol por acción de la 11β-HSD1 puede estar 
   51;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
   margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
-  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Mayor incidencia en</span></p>
+  lang=ES-CL style=''>Mayor incidencia en</span></p>
   </td>
   <td width=321 valign=top style='width:241.0pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1678,7 +2896,7 @@ La producción extraadrenal de cortisol por acción de la 11β-HSD1 puede estar 
   51;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
   margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
-  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Manifestaciones
+  lang=ES-CL style=''>Manifestaciones
   clínicas</span></p>
   </td>
   <td width=321 valign=top style='width:241.0pt;border-top:none;border-left:
@@ -1771,7 +2989,7 @@ La producción extraadrenal de cortisol por acción de la 11β-HSD1 puede estar 
   51;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
   margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
-  class=SpellE><span lang=ES-CL style='color:black;mso-color-alt:windowtext'>Lab</span></span></p>
+  class=SpellE><span lang=ES-CL style=''>Lab</span></span></p>
   </td>
   <td width=321 valign=top style='width:241.0pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1805,7 +3023,7 @@ La producción extraadrenal de cortisol por acción de la 11β-HSD1 puede estar 
   51;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
   margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
-  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Patologías asociadas </span></p>
+  lang=ES-CL style=''>Patologías asociadas </span></p>
   </td>
   <td width=321 valign=top style='width:241.0pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1847,7 +3065,7 @@ La producción extraadrenal de cortisol por acción de la 11β-HSD1 puede estar 
   51;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
   margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
-  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Histopatología</span></p>
+  lang=ES-CL style=''>Histopatología</span></p>
   </td>
   <td width=321 valign=top style='width:241.0pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -1889,7 +3107,7 @@ La producción extraadrenal de cortisol por acción de la 11β-HSD1 puede estar 
   51;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
   margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
-  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Tratamiento (<span
+  lang=ES-CL style=''>Tratamiento (<span
   class=SpellE>Tto</span>)</span></p>
   </td>
   <td width=321 valign=top style='width:241.0pt;border-top:none;border-left:
@@ -1952,11 +3170,10 @@ clear=all style='page-break-before:always;mso-break-type:section-break'>
  mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext'>
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
   <td width=123 valign=top style='width:92.05pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;background:#FF9696;mso-background-themecolor:
-  accent1;mso-background-themetint:153;padding:0cm 5.4pt 0cm 5.4pt'>
+  mso-border-alt:solid windowtext .5pt;background:#535b6a;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
   margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
-  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Vasculitis de vasos pequeños
+  lang=ES-CL style=''>Vasculitis de vasos pequeños
   asociadas a ANCA</span></p>
   </td>
   <td width=246 valign=top style='width:184.4pt;border:solid windowtext 1.0pt;
@@ -1965,8 +3182,8 @@ clear=all style='page-break-before:always;mso-break-type:section-break'>
   mso-background-themetint:102;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
   margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
-  class=SpellE><span lang=ES-CL style='color:black;mso-color-alt:windowtext'>Poliangeítis</span></span><span
-  lang=ES-CL style='color:black;mso-color-alt:windowtext'> microscópica (PAM)</span></p>
+  class=SpellE><span lang=ES-CL style=''>Poliangeítis</span></span><span
+  lang=ES-CL style=''> microscópica (PAM)</span></p>
   </td>
   <td width=326 valign=top style='width:244.55pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
@@ -1974,8 +3191,8 @@ clear=all style='page-break-before:always;mso-break-type:section-break'>
   mso-background-themetint:102;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
   margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
-  class=SpellE><span lang=ES-CL style='color:black;mso-color-alt:windowtext'>Granulomatosis</span></span><span
-  lang=ES-CL style='color:black;mso-color-alt:windowtext'> con <span
+  class=SpellE><span lang=ES-CL style=''>Granulomatosis</span></span><span
+  lang=ES-CL style=''> con <span
   class=SpellE>poliangeítis</span> (GPA) (Wegener)</span></p>
   </td>
   <td width=253 valign=top style='width:190.05pt;border:solid windowtext 1.0pt;
@@ -1984,7 +3201,7 @@ clear=all style='page-break-before:always;mso-break-type:section-break'>
   mso-background-themetint:102;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
   margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
-  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Eosinofilia y <span
+  lang=ES-CL style=''>Eosinofilia y <span
   class=SpellE>granulomatosis</span> con <span class=SpellE>poliangeítis</span>
   (EGPA) (<span class=SpellE>ChurgStrauss</span>)</span></p>
   </td>
@@ -1996,7 +3213,7 @@ clear=all style='page-break-before:always;mso-break-type:section-break'>
   51;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
   margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
-  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Mayor incidencia en</span></p>
+  lang=ES-CL style=''>Mayor incidencia en</span></p>
   </td>
   <td width=246 valign=top style='width:184.4pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2036,7 +3253,7 @@ clear=all style='page-break-before:always;mso-break-type:section-break'>
   51;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
   margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
-  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Manifestaciones
+  lang=ES-CL style=''>Manifestaciones
   clínicas</span></p>
   </td>
   <td width=246 valign=top style='width:184.4pt;border-top:none;border-left:
@@ -2306,7 +3523,7 @@ clear=all style='page-break-before:always;mso-break-type:section-break'>
   51;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
   margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
-  class=SpellE><span lang=ES-CL style='color:black;mso-color-alt:windowtext'>Lab</span></span></p>
+  class=SpellE><span lang=ES-CL style=''>Lab</span></span></p>
   </td>
   <td width=246 valign=top style='width:184.4pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2363,7 +3580,7 @@ clear=all style='page-break-before:always;mso-break-type:section-break'>
   51;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
   margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
-  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Histopatología</span></p>
+  lang=ES-CL style=''>Histopatología</span></p>
   </td>
   <td width=246 valign=top style='width:184.4pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2398,7 +3615,7 @@ clear=all style='page-break-before:always;mso-break-type:section-break'>
   51;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
   margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
-  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Tratamiento (<span
+  lang=ES-CL style=''>Tratamiento (<span
   class=SpellE>Tto</span>)</span></p>
   </td>
   <td width=825 colspan=3 valign=top style='width:619.0pt;border-top:none;
@@ -2468,11 +3685,10 @@ lang=ES-CL><o:p>&nbsp;</o:p></span></p>
  .5pt solid windowtext;mso-border-insidev:.5pt solid windowtext'>
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
   <td width=115 valign=top style='width:86.35pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;background:#FF9696;mso-background-themecolor:
-  accent1;mso-background-themetint:153;padding:0cm 5.4pt 0cm 5.4pt'>
+  mso-border-alt:solid windowtext .5pt;background:#535b6a;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
   margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
-  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Vasculitis de vasos pequeños
+  lang=ES-CL style=''>Vasculitis de vasos pequeños
   “no ANCA”</span></p>
   </td>
   <td width=291 valign=top style='width:218.45pt;border:solid windowtext 1.0pt;
@@ -2481,7 +3697,7 @@ lang=ES-CL><o:p>&nbsp;</o:p></span></p>
   mso-background-themetint:102;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
   margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
-  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Vasculitis <span
+  lang=ES-CL style=''>Vasculitis <span
   class=SpellE>Crioglobulinémica</span> (VC)</span></p>
   </td>
   <td width=265 valign=top style='width:7.0cm;border:solid windowtext 1.0pt;
@@ -2490,7 +3706,7 @@ lang=ES-CL><o:p>&nbsp;</o:p></span></p>
   mso-background-themetint:102;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
   margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
-  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Vasculitis por IgA
+  lang=ES-CL style=''>Vasculitis por IgA
   (púrpura Henoch-<span class=SpellE>Schonlein</span>)</span></p>
   </td>
   <td width=293 valign=top style='width:219.75pt;border:solid windowtext 1.0pt;
@@ -2499,11 +3715,11 @@ lang=ES-CL><o:p>&nbsp;</o:p></span></p>
   mso-background-themetint:102;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
   margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
-  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Vasculitis <span
+  lang=ES-CL style=''>Vasculitis <span
   class=SpellE>leucocitoclástica</span></span></p>
   <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
   margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
-  lang=ES-CL style='color:black;mso-color-alt:windowtext'>(limitada a piel)</span></p>
+  lang=ES-CL style=''>(limitada a piel)</span></p>
   </td>
  </tr>
  <tr style='mso-yfti-irow:1'>
@@ -2513,7 +3729,7 @@ lang=ES-CL><o:p>&nbsp;</o:p></span></p>
   51;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
   margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
-  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Etiopatogenia </span></p>
+  lang=ES-CL style=''>Etiopatogenia </span></p>
   </td>
   <td width=291 valign=top style='width:218.45pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2557,7 +3773,7 @@ lang=ES-CL><o:p>&nbsp;</o:p></span></p>
   51;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
   margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
-  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Mayor incidencia en</span></p>
+  lang=ES-CL style=''>Mayor incidencia en</span></p>
   </td>
   <td width=291 valign=top style='width:218.45pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2591,7 +3807,7 @@ lang=ES-CL><o:p>&nbsp;</o:p></span></p>
   51;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
   margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
-  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Manifestaciones
+  lang=ES-CL style=''>Manifestaciones
   clínicas</span></p>
   </td>
   <td width=291 valign=top style='width:218.45pt;border-top:none;border-left:
@@ -2726,7 +3942,7 @@ lang=ES-CL><o:p>&nbsp;</o:p></span></p>
   51;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
   margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
-  class=SpellE><span lang=ES-CL style='color:black;mso-color-alt:windowtext'>Lab</span></span></p>
+  class=SpellE><span lang=ES-CL style=''>Lab</span></span></p>
   </td>
   <td width=291 valign=top style='width:218.45pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2796,7 +4012,7 @@ lang=ES-CL><o:p>&nbsp;</o:p></span></p>
   51;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
   margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
-  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Asociada a</span></p>
+  lang=ES-CL style=''>Asociada a</span></p>
   </td>
   <td width=291 valign=top style='width:218.45pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2878,7 +4094,7 @@ lang=ES-CL><o:p>&nbsp;</o:p></span></p>
   51;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
   margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
-  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Histopatología</span></p>
+  lang=ES-CL style=''>Histopatología</span></p>
   </td>
   <td width=291 valign=top style='width:218.45pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -2936,7 +4152,7 @@ lang=ES-CL><o:p>&nbsp;</o:p></span></p>
   51;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
   margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
-  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Tratamiento (<span
+  lang=ES-CL style=''>Tratamiento (<span
   class=SpellE>Tto</span>)</span></p>
   </td>
   <td width=291 valign=top style='width:218.45pt;border-top:none;border-left:
@@ -3059,11 +4275,10 @@ clear=all style='page-break-before:always;mso-break-type:section-break'>
  mso-border-insideh:.5pt solid windowtext;mso-border-insidev:.5pt solid windowtext'>
  <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
   <td width=115 valign=top style='width:86.35pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;background:#FF9696;mso-background-themecolor:
-  accent1;mso-background-themetint:153;padding:0cm 5.4pt 0cm 5.4pt'>
+  mso-border-alt:solid windowtext .5pt;background:#535b6a;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
   margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
-  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Vasculitis de vasos medianos
+  lang=ES-CL style=''>Vasculitis de vasos medianos
   </span></p>
   </td>
   <td width=291 valign=top style='width:218.45pt;border:solid windowtext 1.0pt;
@@ -3072,8 +4287,8 @@ clear=all style='page-break-before:always;mso-break-type:section-break'>
   mso-background-themetint:102;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
   margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
-  class=SpellE><span lang=ES-CL style='color:black;mso-color-alt:windowtext'>Poliarteritis</span></span><span
-  lang=ES-CL style='color:black;mso-color-alt:windowtext'> nodosa</span></p>
+  class=SpellE><span lang=ES-CL style=''>Poliarteritis</span></span><span
+  lang=ES-CL style=''> nodosa</span></p>
   </td>
   <td width=293 valign=top style='width:219.75pt;border:solid windowtext 1.0pt;
   border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
@@ -3081,7 +4296,7 @@ clear=all style='page-break-before:always;mso-break-type:section-break'>
   mso-background-themetint:102;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
   margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
-  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Enfermedad de
+  lang=ES-CL style=''>Enfermedad de
   Kawasaki</span></p>
   </td>
  </tr>
@@ -3092,7 +4307,7 @@ clear=all style='page-break-before:always;mso-break-type:section-break'>
   51;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
   margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
-  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Etiopatogenia </span></p>
+  lang=ES-CL style=''>Etiopatogenia </span></p>
   </td>
   <td width=291 valign=top style='width:218.45pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -3118,7 +4333,7 @@ clear=all style='page-break-before:always;mso-break-type:section-break'>
   51;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
   margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
-  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Mayor incidencia en</span></p>
+  lang=ES-CL style=''>Mayor incidencia en</span></p>
   </td>
   <td width=291 valign=top style='width:218.45pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -3154,7 +4369,7 @@ clear=all style='page-break-before:always;mso-break-type:section-break'>
   51;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
   margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
-  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Manifestaciones
+  lang=ES-CL style=''>Manifestaciones
   clínicas</span></p>
   </td>
   <td width=291 valign=top style='width:218.45pt;border-top:none;border-left:
@@ -3354,7 +4569,7 @@ clear=all style='page-break-before:always;mso-break-type:section-break'>
   51;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
   margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
-  class=SpellE><span lang=ES-CL style='color:black;mso-color-alt:windowtext'>Lab</span></span></p>
+  class=SpellE><span lang=ES-CL style=''>Lab</span></span></p>
   </td>
   <td width=291 valign=top style='width:218.45pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -3426,7 +4641,7 @@ clear=all style='page-break-before:always;mso-break-type:section-break'>
   51;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
   margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
-  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Asociada a</span></p>
+  lang=ES-CL style=''>Asociada a</span></p>
   </td>
   <td width=291 valign=top style='width:218.45pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -3452,7 +4667,7 @@ clear=all style='page-break-before:always;mso-break-type:section-break'>
   51;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal align=left style='margin-top:0cm;margin-right:0cm;
   margin-bottom:0cm;margin-left:7.1pt;text-align:left;line-height:normal'><span
-  lang=ES-CL style='color:black;mso-color-alt:windowtext'>Histopatología</span></p>
+  lang=ES-CL style=''>Histopatología</span></p>
   </td>
   <td width=291 valign=top style='width:218.45pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
@@ -3509,7 +4724,7 @@ clear=all style='page-break-before:always;mso-break-type:section-break'>
   background:#FFDCDC;mso-background-themecolor:accent1;mso-background-themetint:
   51;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-  margin-left:7.1pt;line-height:normal'><span lang=ES-CL style='color:black;
+  margin-left:7.1pt;line-height:normal'><span lang=ES-CL style=';
   mso-color-alt:windowtext'>Tratamiento (<span class=SpellE>Tto</span>)</span></p>
   </td>
   <td width=291 valign=top style='width:218.45pt;border-top:none;border-left:
@@ -3560,7 +4775,8 @@ margin-bottom:10.0pt;margin-left:-1.0cm;text-align:left'><span lang=ES-CL><o:p>&
 
 # Cuidados Paliativos
 
-Signos de muerte inminente
+## Signos de muerte inminente
+
 | Iniciales (>= 7 días antes del fallecimiento ) | Tardíos (<= 3 días antes del fallecimiento) |
 |---|---|
 | ↓ funcionalidad | Respiración ruidosa |
@@ -3598,6 +4814,53 @@ Otros desde 6-5 días, pero sobre todo en los últimos 2 días previo a fallecim
 | Drooping of nasolabial fold                     |                        | 33.7 (33.2–34.3)       | 95.5 (95.3–95.8)       | 0.69 (0.69–0.7)        | 8.3 (7.7–8.9)          |
 | Hyperextension of neck                          |                        | 21.2 (20.6–21.7)       | 96.7 (95.6–96.9)       | 0.82 (0.81–0.82)       | 7.3 (6.7–8)            |
 
+## Disnea
+
+## Dolor
+
+## Nauseas Vomitos y obstrucción intestinal maligna
+
+
+## Sedación paliativa
+
+Responsabilidades del médico
+
+1. Confirmar que:
+   a. el objetivo principal de los cuidados del paciente es el confort
+   b. el paciente tiene una enfermedad terminal avanzada
+   c. el paciente sufre de síntomas físicos refractarios graves o problemas neuropsiquiátricos o psicosociales
+   d. hay una orden para suspender el tratamiento de soporte vital
+   e. se ha obtenido el consentimiento informado para la sedación paliativa hasta la inconsciencia
+
+2. Documentar todo lo anterior en el registro médico
+
+3. Informar al equipo clínico del paciente sobre el plan
+
+4. Especificar en las órdenes:
+   a. la dosis de carga, si corresponde
+   b. la tasa inicial de infusión
+   c. la cantidad de medicamento en mg/hora y el intervalo de tiempo para los aumentos de la tasa de infusión
+   d. la dosis y el intervalo de tiempo para cualquier dosis en bolo
+
+5. Asegurarse de que la medicación se ajuste de manera óptima mediante la evaluación frecuente del paciente y/o la lectura de la documentación de las enfermeras sobre todos los ajustes de dosis y niveles de confort antes y después de los ajustes de dosis
+
+6. Documentar en el registro médico la eficacia de esta terapia al menos diariamente
+
+
+Responsabilidades de la enfermería
+
+1. Administrar la medicación como una infusión continua mediante una bomba de infusión que esté claramente etiquetada con el nombre del medicamento.
+2. Una vez alcanzado el nivel deseado de sedación, reducir la infusión a la tasa más baja que mantenga el nivel deseado.
+3. Si el paciente presenta cualquier signo de dolor u otro malestar, aumentar la tasa de infusión según las órdenes.
+4. Una vez encontrada una dosis estable inicial que mantenga el nivel deseado de sedación, documentar la razón (intención) de cualquier ajuste de dosis y el nivel de confort antes y después del ajuste.
+5. No reducir la tasa de infusión por baja presión arterial, baja frecuencia respiratoria u otros signos vitales anormales si el paciente muestra algún signo de dolor u otros síntomas angustiantes.
+6. Cuando se esté acabando la medicación, solicitar más con suficiente antelación para que no haya interrupción en la infusión.
+
+### Fármacos
+
+| **Midazolam administration** | **Pentobarbital administration** | **Propofol administration** |
+|---------------------------------------------------------------|---------------------------------------------------------------|----------------------------------------------------------------|
+| <ol><li> Inspect midazolam solution prior to administration. If precipitation is present, do not use</li><li> Loading dose for benzodiazepine-naïve patient: <span class= "tto" >0.03–0.05 mg/kg slow intravenous push</span> (over 2–5 minutes)</li><li> Loading dose may be repeated every 5 minutes to achieve desired effect</li><li> A physician should give each loading dose and remain at bedside for 10 minutes to observe the effect</li><li> At time of loading dose, start <span class= "tto" >infusion at 0.02–0.1 mg/kg/hour</span> depending on patient’s prior exposure to and tolerance for benzodiazepines. Titrate to desired level of sedation</li><li> Additional bolus doses equal to the hourly infusion dose may be given as often as every 15 minutes. A physician or nurse should remain at the bedside for 10 minutes to observe the effects of each bolus dose</li></ol> | <ol><li> Inspect pentobarbital solution prior to administration. If precipitation is present, do not use</li><li> Loading dose: 2–3 mg/kg slow intravenous push (no faster than 50 mg/minute)</li><li> A physician should give loading dose and remain at bedside for 15 minutes to observe the effect</li><li> At time of loading dose, start infusion at 1–2 mg/kg. Titrate to desired level of sedation</li><li> Because tolerance may develop rapidly, assess the patient’s comfort level frequently and adjust infusion rate as needed</li></ol> | <ol><li> Use strict aseptic technique when administering propofol. Change infusion tubing every 12 hours. Discard vial and any unused drug if not fully infused after 12 hours</li><li> Infuse only through central venous catheter.</li><li> Start infusion at 2.5–5 micrograms/kg/min (for adults approximately 10–20 mg/hour) and titrate to desired level of sedation every 10 minutes by increments of 10–20 mg/hour</li><li> Use bolus doses of 10–20 mg every 10 minutes only for rapid control of extreme symptoms</li><li> During initiation of therapy, a physician should be present and remain at the bedside for 5 minutes to observe the effects. Any initial bolus doses should be given by a physician</li><li> During subsequent dose titration and bolus dosing, a physician or nurse should remain at the bedside for 5 minutes to observe the effects</li><li> The infusion should not be interrupted longer than 60 seconds when changing vials or tubing</li></ol> |
 
 
 # Otros
