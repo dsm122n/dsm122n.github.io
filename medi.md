@@ -4820,6 +4820,307 @@ Otros desde 6-5 días, pero sobre todo en los últimos 2 días previo a fallecim
 
 ## Nauseas Vomitos y obstrucción intestinal maligna
 
+### Orientación diagnóstica
+
+<table>
+  <thead>
+    <tr>
+      <th>Element of History or Physical Examination</th>
+      <th>Suggested Etiology of Nausea and Vomiting</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2" ><b>History</b><br>Pattern</td>
+    </tr>
+    <tr>
+      <td>Large, infrequent vomitus that relieves nausea</td>
+      <td>Complete or partial bowel obstruction</td>
+    </tr>
+    <tr>
+      <td>Small-volume emesis</td>
+      <td>Gastric stasis</td>
+    </tr>
+    <tr>
+      <td colspan="2">Associated symptoms</td>
+    </tr>
+    <tr>
+      <td>Vertigo and symptom association with movement</td>
+      <td>Vestibular dysfunction</td>
+    </tr>
+    <tr>
+      <td>Morning symptoms with morning headache and neurological symptoms</td>
+      <td>Increased intracranial pressure</td>
+    </tr>
+    <tr>
+      <td>Polyuria, polydipsia</td>
+      <td>Hyperglycemia or hypercalcemia</td>
+    </tr>
+    <tr>
+      <td>Altered mental status</td>
+      <td>Uremia, hyponatremia, or increased intracranial pressure</td>
+    </tr>
+    <tr>
+      <td>Neck stiffness</td>
+      <td>Meningeal disease</td>
+    </tr>
+    <tr>
+      <td>Syncopal episodes, early satiety</td>
+      <td>Autonomic insufficiency</td>
+    </tr>
+    <tr>
+      <td>Decreased frequency of bowel movements, abdominal fullness, hard stools, straining with defecation</td>
+      <td>Constipation</td>
+    </tr>
+    <tr>
+      <td>Obstipation, crampy abdominal pain</td>
+      <td>Bowel obstruction</td>
+    </tr>
+    <tr>
+      <td>Bloating, early satiety</td>
+      <td>Gastric stasis</td>
+    </tr>
+    <tr>
+      <td>Esophageal burning, sour taste in mouth, worse with lying down</td>
+      <td>Gastroesophageal reflux disease</td>
+    </tr>
+    <tr>
+      <td>Right upper-quadrant pain</td>
+      <td>Gallbladder or liver disease</td>
+    </tr>
+    <tr>
+      <td>Epigastric pain radiating to back</td>
+      <td>Pancreatitis</td>
+    </tr>
+    <tr>
+      <td>Fever, diarrhea</td>
+      <td>Gastroenteritis</td>
+    </tr>
+    <tr>
+      <td>Worry, emotional responses</td>
+      <td>Anxiety</td>
+    </tr>
+    <tr>
+      <td colspan="2" ><b>Physical examination</b></td>
+    </tr>
+    <tr>
+      <td>Orthostatic blood pressure and pulse changes or absence of heart rate variation with Valsalva maneuver</td>
+      <td>Autonomic insufficiency</td>
+    </tr>
+    <tr>
+      <td>Papilledema, neurological signs</td>
+      <td>Increased intracranial pressure</td>
+    </tr>
+    <tr>
+      <td>Thrush or herpetic lesions</td>
+      <td>Oropharyngeal, esophageal irritation</td>
+    </tr>
+    <tr>
+      <td>Abdominal distention and abnormal bowel sounds</td>
+      <td>Bowel obstruction, ileus, or constipation</td>
+    </tr>
+    <tr>
+      <td>Succussion splash</td>
+      <td>Gastric outlet obstruction</td>
+    </tr>
+    <tr>
+      <td>Abdominal masses or ascites</td>
+      <td>Abdominal malignancy</td>
+    </tr>
+    <tr>
+      <td>Marked splenomegaly</td>
+      <td>Direct bowel compression by spleen</td>
+    </tr>
+    <tr>
+      <td>Fecal impaction on rectal examination</td>
+      <td>Constipation</td>
+    </tr>
+  </tbody>
+</table>
+
+### Mecanismos nauseas y vomitos
+
+1. Zona de gatillo de quimioreceptor: por toxinas en sangre o LCR
+2. Corteza: tras recibir input de sentidos, ansiedad, irritación meningea, aumento PIC
+3. Vías periféricas: Quimio y mecanoreceptores en tracto GI, serosa, vísceras. Ascienden por Vago, nervios esplácnicos, ganglios simpáticos, y glosofaríngeo
+4. Sistema vestibular
+
+![nauseas](image-2.png)
+
+Fijarse en receptores, para saber que medicamento usar
+
+<table>
+  <thead>
+    <tr>
+      <th>Clinical Scenario</th>
+      <th>Mechanism of Nausea and Vomiting</th>
+      <th>Typical First-line Antiemetics</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Opioid-induced nausea and vomiting</td>
+      <td>
+        <ul>
+          <li>Stimulation of CTZ (D<sub>2</sub>)</li>
+          <li>Gastroparesis (D<sub>2</sub>)</li>
+          <li>Constipation (H<sub>1</sub>, muscarinic acetylcholine receptor)</li>
+          <li>Sensitization of labyrinth (H<sub>1</sub>, muscarinic acetylcholine receptor)</li>
+        </ul>
+      </td>
+      <td>Metoclopramide, haloperidol, and prochlorperazine</td>
+    </tr>
+    <tr>
+      <td>Chemotherapy-induced nausea and vomiting</td>
+      <td>
+        <ul>
+          <li>5HT<sub>3</sub> released in gut, stimulating peripheral pathways</li>
+          <li>Stimulation of CTZ (D<sub>2</sub>, 5HT<sub>3</sub>, NK<sub>1</sub>)</li>
+          <li>Anxiety</li>
+        </ul>
+      </td>
+      <td>5HT<sub>3</sub> antagonists (such as ondansetron), dexamethasone, and aprepitant</td>
+    </tr>
+    <tr>
+      <td>Malignant bowel obstruction</td>
+      <td>
+        <ul>
+          <li>Stimulation of CTZ (D<sub>2</sub>)</li>
+          <li>Stimulation of peripheral pathways (H<sub>1</sub>, muscarinic acetylcholine receptor)</li>
+        </ul>
+      </td>
+      <td>
+        Metoclopramide (if incomplete obstruction), haloperidol, and dexamethasone (also consider octreotide or hyoscyamine, nasogastric tube, venting gastrostomy tube)
+      </td>
+    </tr>
+    <tr>
+      <td>Impaired GI tract motility of advanced cancer</td>
+      <td>Gastroparesis (D<sub>2</sub>)</td>
+      <td>Metoclopramide</td>
+    </tr>
+    <tr>
+      <td>Radiation-associated nausea and vomiting</td>
+      <td>Stimulation of peripheral pathways via 5HT<sub>3</sub> released from enterochromaffin cells in GI tract</td>
+      <td>5HT<sub>3</sub> antagonists</td>
+    </tr>
+    <tr>
+      <td>Brain tumor</td>
+      <td>Increased ICP or meningeal irritation activate meningeal mechanoreceptors, which stimulate the vomiting center</td>
+      <td>Dexamethasone</td>
+    </tr>
+    <tr>
+      <td>Motion-associated nausea and vomiting</td>
+      <td>Stimulation via vestibulocochlear nerve (muscarinic acetylcholine receptor, H<sub>1</sub>)</td>
+      <td>Scopolamine, diphenhydramine, and promethazine</td>
+    </tr>
+  </tbody>
+</table>
+
+Abbreviations: CTZ, chemoreceptor trigger zone; D<sub>2</sub>, dopamine type 2 receptor; GI, gastrointestinal; H<sub>1</sub>, histamine type 1 receptor; ICP, intracranial pressure; NK<sub>1</sub>, neurokinin type 1 receptor; 5HT<sub>3</sub>, 5-hydroxytryptamine type 3 receptor.
+
+### Tto farmacologico nauseas y vómitos 
+
+<table>
+  <thead>
+    <tr>
+      <th>Antiemetic</th>
+      <th>Trade Name</th>
+      <th>Presumed Primary Receptor Site of Action</th>
+      <th>Dosage/Route</th>
+      <th>Major Adverse Effects</th>
+      <th>Cost, $<sup>b</sup></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Metoclopramide</td>
+      <td>Reglan</td>
+      <td>D<sub>2</sub> (primarily in GI tract) or 5HT<sub>3</sub> (only at high doses)</td>
+      <td>5-20 mg Orally or subcutaneously or IV before every meal and before bed</td>
+      <td>Dystonia, akathisia, esophageal spasm, and colic in GI tract obstruction</td>
+      <td>1.21 per 10-mg pill</td>
+    </tr>
+    <tr>
+      <td>Haloperidol</td>
+      <td>Haldol</td>
+      <td>D<sub>2</sub> (primarily in CTZ)</td>
+      <td>0.5-4 mg Orally or subcutaneously or IV every 6 h</td>
+      <td>Dystonia and akathisia</td>
+      <td>0.10 per 1-mg pill</td>
+    </tr>
+    <tr>
+      <td>Prochlorperazine</td>
+      <td>Compazine</td>
+      <td>D<sub>2</sub> (primarily in CTZ)</td>
+      <td>5-10 mg Orally or IV every 6 h or 25 mg rectally every 6 h</td>
+      <td>Dystonia, akathisia, and sedation</td>
+      <td>0.43 per 10-mg pill</td>
+    </tr>
+    <tr>
+      <td>Chlorpromazine</td>
+      <td>Thorazine</td>
+      <td>D<sub>2</sub> (primarily in CTZ)</td>
+      <td>10-25 mg Orally every 4 h, 25-50 mg IM or IV every 4 h, or 50-100 mg rectally every 6 h</td>
+      <td>Dystonia, akathisia, sedation, and postural hypotension</td>
+      <td>0.30 per 25-mg pill</td>
+    </tr>
+    <tr>
+      <td>Promethazine</td>
+      <td>Phenergan</td>
+      <td>H<sub>1</sub>, muscarinic acetylcholine receptor or D<sub>2</sub> (primarily in CTZ)</td>
+      <td>12.5-25 mg Orally or IV every 6 h or 25 mg rectally every 6 h</td>
+      <td>Dystonia, akathisia, and sedation</td>
+      <td>0.39 per 25-mg pill</td>
+    </tr>
+    <tr>
+      <td>Diphenhydramine</td>
+      <td>Benadryl</td>
+      <td>H<sub>1</sub></td>
+      <td>25-50 mg Orally or IV or subcutaneously every 6 h</td>
+      <td>Sedation, dry mouth, and urinary retention</td>
+      <td>0.13 per 25-mg pill</td>
+    </tr>
+    <tr>
+      <td>Scopolamine</td>
+      <td>Transderm scop</td>
+      <td>Muscarinic acetylcholine receptor</td>
+      <td>1.5 mg Transdermal patch every 3 d</td>
+      <td>Dry mouth, blurred vision, ileus, urinary retention, and confusion</td>
+      <td>7.80 per patch</td>
+    </tr>
+    <tr>
+      <td>Hyoscyamine</td>
+      <td>Levsin</td>
+      <td>Muscarinic acetylcholine receptor</td>
+      <td>
+        0.125-0.25 mg Sublingually or orally every 4 h or 0.25-0.5 mg subcutaneously or IV every 4 h
+      </td>
+      <td>Dry mouth, blurred vision, ileus, urinary retention, and confusion</td>
+      <td>0.82 per 0.125-mg tablet</td>
+    </tr>
+    <tr>
+      <td>Ondansetron<sup>a</sup></td>
+      <td>Zofran</td>
+      <td>5HT<sub>3</sub></td>
+      <td>4-8 mg Orally by pill or dissolvable tablet or IV every 4-8 h</td>
+      <td>Headache, fatigue, and constipation</td>
+      <td>38.93 per 8-mg tablet</td>
+    </tr>
+    <tr>
+      <td>Mirtazapine</td>
+      <td>Remeron</td>
+      <td>5HT<sub>3</sub></td>
+      <td>15-45 mg Orally every night</td>
+      <td>Somnolence at low dose, dry mouth, and increased appetite</td>
+      <td>3.20 per 15-mg tablet</td>
+    </tr>
+  </tbody>
+</table>
+Abbreviations: CTZ, chemoreceptor trigger zone; D2, dopamine type 2 receptor; GI, gastrointestinal; H1, histamine type 1 receptor; IM, intramuscular; IV, intravenous; 5HT3, 5-hydroxytryptamine
+type 3 receptor.
+aOndansetron is included as an example of 5HT3 antagonists because it was the first agent of this class and adopted in many hospital formularies. Its inclusion is not meant to indicate
+superiority over other members of the class, such as dolasetron, granisetron, and palonosetron.
+bCost per pill was calculated from prices listed on epocrates.com.
 
 ## Sedación paliativa
 
