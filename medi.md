@@ -4779,13 +4779,13 @@ margin-bottom:10.0pt;margin-left:-1.0cm;text-align:left'><span lang=ES-CL><o:p>&
 
 | Iniciales (>= 7 días antes del fallecimiento ) | Tardíos (<= 3 días antes del fallecimiento) |
 |---|---|
-| ↓ funcionalidad | Respiración ruidosa |
-| ↓ conciencia | Respiración mandibular |
-| ↓ capacidad de tomar líquidos | Respiración de Cheyne-Stokes |
-| | Períodos de apnea |
-| | Cianosis periférica |
-| | Oliguria < 100 ml/12h |
-| | Pérdida de pulso de arteria radial|
+| ↓ funcionalidad 				| <span class= "sn" >Respiración ruidosa </span> |
+| ↓ conciencia 					| <span class= "sn" >Respiración mandibular </span> |
+| ↓ capacidad de tomar líquidos | <span class= "sn" >Respiración de Cheyne-Stokes </span> |
+| 								| <span class= "sn" >Períodos de apnea </span> |
+| 								| <span class= "sn" >Cianosis periférica </span> |
+| 								| <span class= "sn" >Oliguria < 100 ml/12h </span> |
+| 								| <span class= "sn" >Pérdida de pulso de arteria radial</span> |
 
 Otros desde 6-5 días, pero sobre todo en los últimos 2 días previo a fallecimiento:
 - Hiperextensión de cuello (por hipotonía)
@@ -4798,27 +4798,134 @@ Otros desde 6-5 días, pero sobre todo en los últimos 2 días previo a fallecim
 
 | Physical signs                                  | Missing data, n (%)    | Sensitivity (95% CI)   | Specificity (95% CI)   | Negative LR (95% CI)   | Positive LR (95% CI)   |
 |-------------------------------------------------|------------------------|------------------------|------------------------|------------------------|------------------------|
-| PPS ≤20%                                        | 120 (2.1)              | 64 (63.4–64.7)         | 81.3 (80.9–81.7)       | 0.44 (0.43–0.45)       | 3.5 (3.4–3.6)          |
+| <span class= "sn" >PPS ≤20%</span>			  | 120 (2.1)              | 64 (63.4–64.7)         | 81.3 (80.9–81.7)       | 0.44 (0.43–0.45)       | 3.5 (3.4–3.6)          |
 | RASS –2 or lower                                | 90 (1.6)               | 50.5 (49.9–51.1)       | 89.3 (88.9–89.7)       | 0.6 (0.5–0.6)          | 4.9 (4.7–5)            |
 | Dysphagia of liquids                            | 652 (11.7)             | 40.9 (40.3–41.7)       | 78.8 (78.3–79.2)       | 0.75 (0.74–0.76)       | 1.9 (1.9–2)            |
-| Urine output over last 12 hours <100 mL         | 3262 (58)              | 24.2 (23.2–25.1)       | 98.2 (98–98.5)         | 0.77 (0.76–0.78)       | 15.2 (13.4–17.1)       |
-| Death rattle                                    | 101 (1.8)              | 22.4 (21.8–22.9)       | 97.1 (96.9–97.3)       | 0.8 (0.79–0.81)        | 9 (8.1–9.8)            |
-| Apnea periods                                   | 85 (1.5)               | 17.6 (17.1–18)         | 95.3 (95.1–95.6)       | 0.86 (0.86–0.87)       | 4.5 (3.7–5.2)          |
-| Respiration with mandibular movement            | 86 (1.5)               | 22 (21.5–22.4)         | 97.5 (97.3–97.6)       | 0.8 (0.8–0.81)         | 10 (9.1–10.9)          |
-| Peripheral cyanosis                             | 90 (1.6)               | 26.7 (26.1–27.2)       | 94.9 (94.7–95.2)       | 0.77 (0.77–0.78)       | 5.7 (5.4–6.1)          |
-| Cheyne-Stokes breathing                         | 83 (1.5)               | 14.1 (13.6–14.5)       | 98.5 (98.4–98.7)       | 0.9 (0.9–0.9)          | 12.4 (10.8–13.9)       |
-| Pulselessness of radial artery                  | 94 (1.7)               | 11.3 (10.9–11.8)       | 99.3 (99.2–99.5)       | 0.89 (0.89–0.9)        | 15.6 (13.7–17.4)       |
-| Decreased response to verbal stimuli            |                        | 30 (29.4–30.5)         | 96 (95.8–96.3)         | 0.73 (0.72–0.74)       | 8.3 (7.7–9)            |
-| Decreased response to visual stimuli            |                        | 31.9 (31.4–32.4)       | 94.9 (94.6–95.1)       | 0.72 (0.71–0.72)       | 6.7 (6.3–7.1)          |
-| Non-reactive pupils                             |                        | 15.3 (14.9–15.7)       | 99 (98.8–99.1)         | 0.86 (0.85–0.86)       | 16.7 (14.9–18.6)       |
-| Drooping of nasolabial fold                     |                        | 33.7 (33.2–34.3)       | 95.5 (95.3–95.8)       | 0.69 (0.69–0.7)        | 8.3 (7.7–8.9)          |
-| Hyperextension of neck                          |                        | 21.2 (20.6–21.7)       | 96.7 (95.6–96.9)       | 0.82 (0.81–0.82)       | 7.3 (6.7–8)            |
+| Urine output over last 12 hours <100 mL         | 3262 (58)              | 24.2 (23.2–25.1)       | <span class= "sn" >98.2 (98.0–98.5)</span>      | 0.77 (0.76–0.78)       | <span class= "sn" >15.2 (13.4–17.1)</span>       |
+| Death rattle                                    | 101 (1.8)              | 22.4 (21.8–22.9)       | <span class= "sn" >97.1 (96.9–97.3)</span>      | 0.8 (0.79–0.81)        | 9 (8.1–9.8)            |
+| Apnea periods                                   | 85 (1.5)               | 17.6 (17.1–18)         | <span class= "sn" >95.3 (95.1–95.6)</span>      | 0.86 (0.86–0.87)       | 4.5 (3.7–5.2)          |
+| Respiration with mandibular movement            | 86 (1.5)               | 22 (21.5–22.4)         | <span class= "sn" >97.5 (97.3–97.6)</span>      | 0.8 (0.8–0.81)         | <span class= "sn" >10 (9.1–10.9) </span>  |
+| Peripheral cyanosis                             | 90 (1.6)               | 26.7 (26.1–27.2)       | <span class= "sn" >94.9 (94.7–95.2)</span>      | 0.77 (0.77–0.78)       | 5.7 (5.4–6.1)          |
+| Cheyne-Stokes breathing                         | 83 (1.5)               | 14.1 (13.6–14.5)       | <span class= "sn" >98.5 (98.4–98.7)</span>      | 0.9 (0.9–0.9)          | <span class= "sn" >12.4 (10.8–13.9)</span>       |
+| <span class= "sn" >Pulselessness of radial artery</span> | 94 (1.7)               | 11.3 (10.9–11.8)       | <span class= "sn" >99.3 (99.2–99.5)</span> | 0.89 (0.89–0.9)    | <span class= "sn" >15.6 (13.7–17.4)</span>       |
+| Decreased response to verbal stimuli            |                        | 30 (29.4–30.5)         | <span class= "sn" >96.0 (95.8–96.3)</span>      | 0.73 (0.72–0.74)       | 8.3 (7.7–9)            |
+| Decreased response to visual stimuli            |                        | 31.9 (31.4–32.4)       | <span class= "sn" >94.9 (94.6–95.1)</span>      | 0.72 (0.71–0.72)       | 6.7 (6.3–7.1)          |
+| <span class= "sn" >Non-reactive pupils</span>   |                        | 15.3 (14.9–15.7)       | <span class= "sn" >99.0 (98.8–99.1)</span>      | 0.86 (0.85–0.86)       | <span class= "sn" >16.7 (14.9–18.6) </span>      |
+| Drooping of nasolabial fold                     |                        | 33.7 (33.2–34.3)       | <span class= "sn" >95.5 (95.3–95.8)</span>      | 0.69 (0.69–0.7)        | 8.3 (7.7–8.9)          |
+| Hyperextension of neck                          |                        | 21.2 (20.6–21.7)       | <span class= "sn" >96.7 (95.6–96.9)</span>      | 0.82 (0.81–0.82)       | 7.3 (6.7–8)            |
+
+PPS (palative performance scale) evalúa:
+- Ambulación
+- Autocuidado
+- Consumo de alimentos
+- Estado de conciencia
 
 ## Disnea
 
 ## Dolor
 
 ## Nauseas Vomitos y obstrucción intestinal maligna
+
+### Mecanismos nauseas y vomitos
+
+
+<table>
+  <thead>
+    <tr>
+      <th>Clinical Scenario</th>
+      <th>Mechanism of Nausea and Vomiting</th>
+      <th>Typical First-line Antiemetics</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Opioid-induced nausea and vomiting</td>
+      <td>
+        <ul>
+          <li>Stimulation of CTZ (D<sub>2</sub>)</li>
+          <li>Gastroparesis (D<sub>2</sub>)</li>
+          <li>Constipation (H<sub>1</sub>, muscarinic acetylcholine receptor)</li>
+          <li>Sensitization of labyrinth (H<sub>1</sub>, muscarinic acetylcholine receptor)</li>
+        </ul>
+      </td>
+      <td>Metoclopramide, haloperidol, and prochlorperazine. Pero no hay mucha evidencia para profilaxis. Puede generar tolerancia a los 5-7 días. Puede intentarse rotación de opioide </td>
+    </tr>
+    <tr>
+      <td>Chemotherapy-induced nausea and vomiting</td>
+      <td>
+        <ul>
+          <li>5HT<sub>3</sub> released in gut, stimulating peripheral pathways</li>
+          <li>Stimulation of CTZ (D<sub>2</sub>, 5HT<sub>3</sub>, NK<sub>1</sub>)</li>
+          <li>Anxiety</li>
+        </ul>
+      </td>
+      <td>5HT<sub>3</sub> antagonists (such as ondansetron), dexamethasone, and aprepitant. <br> 
+	  	Hay recomendaciones de esquemas que combinan los 3 según QMT/RDT <wbr> y prevención de nauseas agudas o retardadas</td>
+    </tr>
+    <tr>
+      <td>Malignant bowel obstruction (ver más info abajo)</td>
+      <td>
+        <ul>
+          <li>Stimulation of CTZ (D<sub>2</sub>)</li>
+          <li>Stimulation of peripheral pathways (H<sub>1</sub>, muscarinic acetylcholine receptor)</li>
+        </ul>
+      </td>
+      <td>
+        <span class= "tto" >Metoclopramide (ssi incomplete obstruction)</span>, <span class= "tto" >haloperidol</span>, and dexamethasone (also consider octreotide or hyoscyamine, nasogastric tube, venting gastrostomy tube)
+		<br><br>
+		1° De preferencia <span class= "tto" >Octreotide + antiemético</span> (Expertos recomiendan Haloperidol). <br>
+		2° Si es subóptimo, anticholinergic anti-secretory agents (e.g. <span class= "tto" >scopolamine</span> butylbromide, glycopyrronium bromide) and/or corticosteroids is recommended as either an adjunct or as an alternative intervention
+	  </td>
+    </tr>
+    <tr>
+      <td>Impaired GI tract motility of advanced cancer</td>
+      <td>Gastroparesis (D<sub>2</sub>)</td>
+      <td> 1° Metoclopramide, 2<sup>a</sup> linea pueden ser antipsicóticos como *haloperidol*, levomepromazine y olanzapine. No hay mucha evidencia.<br>
+	  	Tampoco hay evidencia en combinación de fármacos, se suele recomendar cambiar antes de combinar (a diferencia de la QMT)
+	  </td>
+    </tr>
+    <tr>
+      <td>Radiation-associated nausea and vomiting</td>
+      <td>Stimulation of peripheral pathways via 5HT<sub>3</sub> released from enterochromaffin cells in GI tract</td>
+      <td>5HT<sub>3</sub> antagonists</td>
+    </tr>
+    <tr>
+      <td>Brain tumor</td>
+      <td>Increased ICP or meningeal irritation activate meningeal mechanoreceptors, which stimulate the vomiting center</td>
+      <td>Dexamethasone</td>
+    </tr>
+    <tr>
+      <td>Motion-associated nausea and vomiting</td>
+      <td>Stimulation via vestibulocochlear nerve (muscarinic acetylcholine receptor, H<sub>1</sub>)</td>
+      <td>Scopolamine, diphenhydramine, and promethazine</td>
+    </tr>
+  </tbody>
+</table>
+
+Abbreviations: CTZ, chemoreceptor trigger zone; D<sub>2</sub>, dopamine type 2 receptor; GI, gastrointestinal; H<sub>1</sub>, histamine type 1 receptor; ICP, intracranial pressure; NK<sub>1</sub>, neurokinin type 1 receptor; 5HT<sub>3</sub>, 5-hydroxytryptamine type 3 receptor.
+
+1. Zona de gatillo de quimioreceptor: por toxinas en sangre o LCR
+2. Corteza: tras recibir input de sentidos, ansiedad, irritación meningea, aumento PIC
+3. Vías periféricas: Quimio y mecanoreceptores en tracto GI, serosa, vísceras. Ascienden por Vago, nervios esplácnicos, ganglios simpáticos, y glosofaríngeo
+4. Sistema vestibular
+
+![nauseas](image-2.png)
+
+Fijarse en receptores, para saber que medicamento usar
+
+
+<details>
+<summary>
+
+#### Guía clínica recomendaciones obstrucción intestinal maligna
+
+</summary>
+https://doi.org/10.1007/s00520-022-06889-8
+
+![obstruccion maligna](image-3.png)
+
+</details>
+
 
 ### Tto farmacologico nauseas y vómitos 
 
@@ -4926,101 +5033,6 @@ type 3 receptor.
 No standard regimen exists for sedation of patients with intractable nausea; however, propofol has been proposed as an ideal agent because it blocks 5HT3 receptors, resulting in an antiemetic effect in addition to its sedative effects.
 
 
-### Mecanismos nauseas y vomitos
-
-1. Zona de gatillo de quimioreceptor: por toxinas en sangre o LCR
-2. Corteza: tras recibir input de sentidos, ansiedad, irritación meningea, aumento PIC
-3. Vías periféricas: Quimio y mecanoreceptores en tracto GI, serosa, vísceras. Ascienden por Vago, nervios esplácnicos, ganglios simpáticos, y glosofaríngeo
-4. Sistema vestibular
-
-![nauseas](image-2.png)
-
-Fijarse en receptores, para saber que medicamento usar
-
-<table>
-  <thead>
-    <tr>
-      <th>Clinical Scenario</th>
-      <th>Mechanism of Nausea and Vomiting</th>
-      <th>Typical First-line Antiemetics</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Opioid-induced nausea and vomiting</td>
-      <td>
-        <ul>
-          <li>Stimulation of CTZ (D<sub>2</sub>)</li>
-          <li>Gastroparesis (D<sub>2</sub>)</li>
-          <li>Constipation (H<sub>1</sub>, muscarinic acetylcholine receptor)</li>
-          <li>Sensitization of labyrinth (H<sub>1</sub>, muscarinic acetylcholine receptor)</li>
-        </ul>
-      </td>
-      <td>Metoclopramide, haloperidol, and prochlorperazine. Pero no hay mucha evidencia para profilaxis. Puede generar tolerancia a los 5-7 días. Puede intentarse rotación de opioide </td>
-    </tr>
-    <tr>
-      <td>Chemotherapy-induced nausea and vomiting</td>
-      <td>
-        <ul>
-          <li>5HT<sub>3</sub> released in gut, stimulating peripheral pathways</li>
-          <li>Stimulation of CTZ (D<sub>2</sub>, 5HT<sub>3</sub>, NK<sub>1</sub>)</li>
-          <li>Anxiety</li>
-        </ul>
-      </td>
-      <td>5HT<sub>3</sub> antagonists (such as ondansetron), dexamethasone, and aprepitant. <br> 
-	  	Hay recomendaciones de esquemas que combinan los 3 según QMT/RDT <wbr> y prevención de nauseas agudas o retardadas</td>
-    </tr>
-    <tr>
-      <td>Malignant bowel obstruction (ver más info abajo)</td>
-      <td>
-        <ul>
-          <li>Stimulation of CTZ (D<sub>2</sub>)</li>
-          <li>Stimulation of peripheral pathways (H<sub>1</sub>, muscarinic acetylcholine receptor)</li>
-        </ul>
-      </td>
-      <td>
-        <span class= "tto" >Metoclopramide (ssi incomplete obstruction)</span>, <span class= "tto" >haloperidol</span>, and dexamethasone (also consider octreotide or hyoscyamine, nasogastric tube, venting gastrostomy tube)
-		<br><br>
-		1° De preferencia <span class= "tto" >Octreotide + antiemético</span> (Expertos recomiendan Haloperidol). <br>
-		2° Si es subóptimo, anticholinergic anti-secretory agents (e.g. <span class= "tto" >scopolamine</span> butylbromide, glycopyrronium bromide) and/or corticosteroids is recommended as either an adjunct or as an alternative intervention
-	  </td>
-    </tr>
-    <tr>
-      <td>Impaired GI tract motility of advanced cancer</td>
-      <td>Gastroparesis (D<sub>2</sub>)</td>
-      <td> 1° Metoclopramide, 2<sup>a</sup> linea pueden ser antipsicóticos como *haloperidol*, levomepromazine y olanzapine. No hay mucha evidencia.<br>
-	  	Tampoco hay evidencia en combinación de fármacos, se suele recomendar cambiar antes de combinar (a diferencia de la QMT)
-	  </td>
-    </tr>
-    <tr>
-      <td>Radiation-associated nausea and vomiting</td>
-      <td>Stimulation of peripheral pathways via 5HT<sub>3</sub> released from enterochromaffin cells in GI tract</td>
-      <td>5HT<sub>3</sub> antagonists</td>
-    </tr>
-    <tr>
-      <td>Brain tumor</td>
-      <td>Increased ICP or meningeal irritation activate meningeal mechanoreceptors, which stimulate the vomiting center</td>
-      <td>Dexamethasone</td>
-    </tr>
-    <tr>
-      <td>Motion-associated nausea and vomiting</td>
-      <td>Stimulation via vestibulocochlear nerve (muscarinic acetylcholine receptor, H<sub>1</sub>)</td>
-      <td>Scopolamine, diphenhydramine, and promethazine</td>
-    </tr>
-  </tbody>
-</table>
-
-Abbreviations: CTZ, chemoreceptor trigger zone; D<sub>2</sub>, dopamine type 2 receptor; GI, gastrointestinal; H<sub>1</sub>, histamine type 1 receptor; ICP, intracranial pressure; NK<sub>1</sub>, neurokinin type 1 receptor; 5HT<sub>3</sub>, 5-hydroxytryptamine type 3 receptor.
-
-<details>
-<summary>
-Guía clínica recomendaciones obstrucción intestinal maligna
-</summary>
-https://doi.org/10.1007/s00520-022-06889-8
-
-![obstruccion maligna](image-3.png)
-
-</details>
 
 ### Orientación diagnóstica
 
