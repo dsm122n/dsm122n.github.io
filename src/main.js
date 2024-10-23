@@ -313,7 +313,7 @@ function loadMD(filepath) {
             heading.scrollIntoView({behavior: 'smooth'});
           });
         }
-      })      
+      })
         
 
 
