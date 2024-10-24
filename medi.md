@@ -4824,6 +4824,353 @@ PPS (palative performance scale) evalúa:
 
 ## Dolor
 
+### Opioides
+
+Morphine miligram equivalents es en relación a morfina oral diaria total. Como la biodisponibilidad oral de morfina es aprox 1/3, las dosis ev son 1/3 de las orales.
+
+Tips de conversión rápida (para estimados gruesos en turnos, no tanto para ambulatorio):
+- <span class= "tto" >BIC fentanil en μg/h &#x2248 mg/d morfina ev</span> (ej: 25 μg/h &#x2248 25 mg/d morfina ev = 75 mg/d morfina oral)
+- BIC morfina 1 mg/h &#x2248 25 μg/h fentanil
+- 60 mg morfina oral &#x2248 BIC fenatnil 25 μg/h
+- Dosis EV de Fentanil es equivalente a la transdérmica (BIC de Fentanil 25 ug/h = 1 parche Durogesci 25 ug/h)
+
+#### Factor de conversión 
+
+<table>
+  <thead>
+    <tr>
+      <th>Opioid</th>
+      <th>Conversion factor*</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Codeine</td>
+      <td>0.15</td>
+    </tr>
+    <tr>
+      <td><span class= "tto" >Fentanyl transdermal (in mcg/hr)</span></td>
+      <td><span class= "tto" >2.4</span></td>
+    </tr>
+    <tr>
+      <td>Hydrocodone</td>
+      <td>1.0</td>
+    </tr>
+    <tr>
+      <td>Hydromorphone</td>
+      <td>5.0</td>
+    </tr>
+    <tr>
+      <td><span class= "tto" >Methadone</span></td>
+      <td><span class= "tto" >4.7</span></td>
+    </tr>
+    <tr>
+      <td>Morphine</td>
+      <td>1.0</td>
+    </tr>
+    <tr>
+      <td>Oxycodone</td>
+      <td>1.5</td>
+    </tr>
+    <tr>
+      <td>Oxymorphone</td>
+      <td>3.0</td>
+    </tr>
+    <tr>
+      <td>Tapentadol†</td>
+      <td>0.4</td>
+    </tr>
+    <tr>
+      <td>Tramadol§</td>
+      <td>0.2</td>
+    </tr>
+  </tbody>
+</table>
+
+<details>
+<summary>
+	Leyenda de tabla
+</summary>
+
+[fuente](https://www.cdc.gov/mmwr/volumes/71/rr/rr7103a1.htm#print)
+
+Sources: Adapted from Von Korff M, Saunders K, Ray GT, et al. Clin J Pain 2008;24:521–7 and Nielsen S, Degenhardt L, Hoban B, Gisev N. Pharmacoepidemiol Drug Saf 2016;25:733–7.
+Abbreviations: mcg/hr = microgram per hour; mg = milligram; MME = morphine milligram equivalent.
+
+\* <span class= "tto" >Multiply the dose for each opioid by the conversion factor to determine the dose in MMEs</span>. For example, tablets containing hydrocodone 5 mg and acetaminophen 325 mg taken four times a day would contain a total of 20 mg of hydrocodone daily, equivalent to 20 MME daily; extended-release tablets containing oxycodone 10 mg and taken twice a day would contain a total of 20 mg of oxycodone daily, equivalent to 30 MME daily. 
+
+The following cautions should be noted: 
+1. All doses are in mg/day except for fentanyl, which is mcg/hr. 
+2. Equianalgesic dose conversions are only estimates and cannot account for individual variability in genetics and pharmacokinetics. 
+3. Do not use the calculated dose in MMEs to determine the doses to use when converting one opioid to another; when converting opioids, the new opioid is typically dosed at a substantially lower dose than the calculated MME dose to avoid overdose because of incomplete cross-tolerance and individual variability in opioid pharmacokinetics. 
+4. Use particular caution with methadone dose conversions because methadone has a long and variable half-life, and peak respiratory depressant effect occurs later and lasts longer than peak analgesic effect. 
+5. Use particular caution with transdermal fentanyl because it is dosed in mcg/hr instead of mg/day, and its absorption is affected by heat and other factors. 
+6. Buprenorphine products approved for the treatment of pain are not included in the table because of their partial µ-receptor agonist activity and resultant ceiling effects compared with full µ-receptor agonists. 
+7. These conversion factors should not be applied to dosage decisions related to the management of opioid use disorder.
+
+† Tapentadol is a µ-receptor agonist and norepinephrine reuptake inhibitor. MMEs are based on degree of µ-receptor agonist activity; however, it is unknown whether tapentadol is associated with overdose in the same dose-dependent manner as observed with medications that are solely µ-receptor agonists.
+
+§ Tramadol is a µ-receptor agonist and norepinephrine and serotonin reuptake inhibitor. MMEs are based on degree of µ-receptor agonist activity; however, it is unknown whether tramadol is associated with overdose in the same dosedependent manner as observed with medications that are solely µ-receptor agonists.
+
+</details>
+
+#### Dosis y presentaciones comunes
+
+....
+
+#### Rotación de opioides
+
+Fundamento: tolerancia cruzada parcial entre opioides, lo que permite rotar entre ellos para mejorar la eficacia y reducir efectos adversos (beneficio en >2/3 de pacientes)
+
+Útil en:
+- Efectos adversos no tolerables con dosis altas de opioides
+- Analgesia insatisfactoria con dosis altas de opioides
+- Cambio de condición clínica que impida uso de algún opioide (pérdida de vía oral, prolongación QT, falla renal)
+- Disponibilidad de fármaco
+
+
+Paso 1: Selección y Cálculo de la Dosis Inicial
+
+1. **Selección del nuevo fármaco:** Basado en experiencia previa, disponibilidad, costo y otros factores, se selecciona un nuevo fármaco opioide.
+2. **Cálculo de la dosis equianalgésica:** Utilizando la tabla de dosis equianalgésicas, se calcula la dosis equivalente del nuevo fármaco.
+3. **Ventana de reducción automática de la dosis:**
+   * **Opioides distintos a metadona o fentanilo:** Se aplica una reducción automática de la dosis calculada entre un 25% y 50%.
+   * **Metadona:** La reducción automática es de entre 75% y 90%, rara vez se inicia una dosis superior a 40 mg/día.
+   * **Fentanilo transdérmico:** No se aplica reducción automática, se utiliza la dosis equianalgésica indicada en el prospecto.
+4. **Selección de la dosis dentro de la ventana de reducción:**
+   * **Dosis más cercana al límite inferior (25%):** Si la tabla de dosis equianalgésicas es menos aplicable al paciente o régimen, o si se cambia a una vía de administración diferente con el mismo fármaco.
+   * **Dosis más cercana al límite superior (50%):** Si el paciente recibe una dosis alta del opioide actual, no es caucásico, o es anciano o frágil.
+
+Paso 2: Ajuste de la Dosis Inicial
+
+1. **Ajuste de la dosis calculada:** Basado en la severidad del dolor y otras características médicas o psicosociales, se puede aumentar o disminuir la dosis calculada entre un 15% y 30% para optimizar la eficacia y minimizar efectos adversos.
+2. **Evaluación de la respuesta y titulación:** Se evalúa la respuesta del paciente y se ajusta la dosis del nuevo régimen opioide para optimizar los resultados.
+3. **Dosis suplementarias:** Si se necesitan dosis adicionales, se calculan como un 5% a 15% de la dosis diaria total y se administran a intervalos apropiados (excepto fentanilo transmucoso, que siempre se inicia en una dosis baja).
+
+**Nota:** Este es un resumen general de los pasos. Siempre se recomienda consultar con un profesional de la salud para la administración y ajuste de medicamentos opioides.
+
+##### Dosis metadona
+
+Puntos clave para la conversión de morfina oral a metadona:
+
+- **Dosis diarias de morfina oral inferiores a 60 mg o equivalentes:** Consultar las pautas de dosificación para pacientes sin uso previ con opioides.
+- **Dosis diarias de morfina oral entre 60 y 199 mg en pacientes menores de 65 años:** Relación de conversión 10:1 (10 mg de morfina oral equivalen a 1 mg de metadona oral).
+- **Dosis diarias de morfina oral iguales o superiores a 200 mg o pacientes mayores de 65 años:** Relación de conversión 20:1 (20 mg de morfina oral equivalen a 1 mg de metadona oral).
+
+#### OP en dolor oncológico 
+
+Recomendaciones de [ASCO Guideline para opioides para dolor oncológico](https://doi.org/10.1200/JCO.22.02198)
+
+Punteo de datos interesantes de la guía:
+- Al descontinuar tto con opioides, para prevenir síntomas de abstinencia, velocidad de disminución depende de tiempo de uso de opioides: patients on higher doses of opioids for longer periods, <span class= "tto" >dose reduction</span> must be conducted <span class= "tto" >slowly (5%-20% per month)</span> to avoid abstinence syndrome while optimizing nonopioid and nonpharmacologic pain interventions.
+- <span class= "sn" >tramadol and codeine</span> have limitations in dose titration and drug interactions.
+- <span class= "tto" >Methadone</span> has some potential clinical advantages, including potency, efficacy in neuropathic pain, use as a long-acting agent after crushing (for enteral feeding tube delivery), relative safety in those with <span class= "tto" >renal impairment</span>, and very low cost.
+	- because of very unique pharmacokinetic and pharmacodynamic properties, it should only be prescribed as a first- or second-line opioid by experienced clinicians
+- <span class= "tto" >Opioids should be <span class= "dx" >initiated</span> as immediate release and PRN</span> (as needed) to establish an effective dose, with early assessment and frequent titration
+	- The initial opioid dose is dictated by safety considerations rather than pain type or intensity, and it is a dose of approximately <span class= "tto" >30mg MME</span> (dividido en 6 dosis serían 5mg c/4h)
+- No hay evidencia certera para escalar dosis, pero <span class= "tto" >en general aumentos de 25-50% son razonables</span>. Considerar fragilidad, comorbilidades, disfunción orgánica. 
+	- En el HCUCH se suele incrementar dosis diaria un 30% del total luego de los requerimientos de rescate. (MME considerando rescates &#xD7; 1.3).
+<div class= "tto" >
+	A simple way to determine the new dose of an opioid administered around the clock is to:<br>
+	<ol>
+		<li> add the total daily dose of the regular plus breakthrough opioids 
+		<li> and increase this number by 20%-30%. 
+		<li> It is also useful to update the dose of the breakthrough opioid to keep each dose at about 10% (5%-20%) of the regular daily opioid dose.
+	</ol>
+</div>
+- Luego de ajustar dosis con fcos de liberación inmediata, se puede cambiar a liberación prolongada.
+	- Extended-release opioids can be administered by mouth every 12 or 24 hours, or transdermal every 72 hours (fentanyl) or every 7 days (buprenorphine).
+- Si <span class= "dx" >insuficiencia renal</span>:
+	- Preferir <span class= "tto" >metadona</span> (eliminación fecal)
+	- OP principalmente de eliminación renal que igual se podrían usar: <span class= "dx" >fentanilo, oxicodona, hidromorfona</span>. Titular con cuidado y frecuentemente por riesgo de acumulación. Less likely to result in accumulation of active metabolites in renal failure
+	- Morfina, meperidine, codeina y tramadol evitarlos a menos que no hayan alternativas. Recordar metabolitos tóxicos. Morphine use may result in the accumulation of <span class= "sn" >neurotoxic metabolites such as morphine-3-glucuronide and normorphine, and opioid-induced neurotoxicity</span>
+- the ideal prescription consists of an immediate-release or extendedrelease opioid administered regularly around the clock, plus an <span class= "tto" >immediate-release opioid at a dose of approximately <span class= "dx" >10% (ranging from 5% to 20%)</span> of MME </span> to be taken if there are episodes of breakthrough pain.
+- Opioid rotation should be offered to patients with pain that is refractory to dose titration of a given opioid, poorly managed side effects, logistical or cost concerns, or trouble with the route of opioid administration or absorption
+
+
+### Manejo RAM de opioides
+
+FX de OP que generan tolerancia:
+- Náuseas y vómitos
+- Analgesia
+- Somnolencia/compromiso de conciencia, sedación
+- Depresión respi
+- FX cardiovasculares
+- Euforia, disforia
+
+FX de OP que NO generan tolerancia:
+- <span class= "sn" >Constipación</span>
+- <span class= "sn" >Miosis</span>
+
+FX de OP que no sé si generan tolerancia:
+- Deterioro de SAHOS
+- Hipogonadismo por opioides
+- Hiperalgesia inducida por opioides
+- Adicción*
+- Prurito
+- Convulsiones
+- Boca seca, miosis, retención urinaria
+
+
+<table>
+  <thead>
+    <tr>
+      <th>Adverse Effect</th>
+      <th>Description</th>
+      <th>Prevention and Treatment</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Constipation</td>
+      <td>
+        <ul>
+          <li>Continues throughout the course of opioid therapy</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Rule out other causes (often multifactorial, including medications)</li>
+          <li>Rule out potentially emergent conditions such as bowel obstruction</li>
+          <li>Goal: Soft, formed bowel movements every 1-2 days without straining or pain</li>
+          <li>Always begin a prophylactic bowel regimen when starting opioid therapy</li>
+          <li>Prevention: Senna with or without docusate daily, titrated as needed to meet goal</li>
+          <li>
+            Treatment: Once constipation occurs, magnesium-based products and laxatives such as bisacodyl. Agents used for prevention and treatment of constipation are over the counter and rarely covered by insurance
+          </li>
+          <li>
+            PAMORAs—peripherally acting mu-opioid receptor antagonists (e.g., methylnaltrexone, naloxegol, and naldemedine)—are effective if primary cause of constipation is an opioid. Access to these agents is frequently limited by insurance denials
+          </li>
+          <li>
+            If patient feels nauseated as a result of constipation, consider suppositories or enemas (contraindicated in thrombocytopenia or neutropenia)
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Delirium and neurotoxicity</td>
+      <td>
+        <ul>
+          <li>Reported with all opioids</li>
+          <li>Can include myoclonus, hyperalgesia, and cognitive effects (e.g., attentional deficits)</li>
+          <li>More common in higher opioid dose, prolonged treatment, concomitant psychoactive agents, and in reduced renal function</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Assess carefully as hypoactive delirium is often missed; hyperactive delirium more readily identified</li>
+          <li>Rule out other causes. Assess urinary function given that opioids are primarily eliminated through kidneys (except methadone); accumulation of the opioid or its metabolites can contribute to delirium and neurotoxicity</li>
+          <li>Strong suspicion and early intervention when rapid opioid dose escalation occurs</li>
+          <li>Eliminate other medications when feasible</li>
+          <li>Rotate to another opioid</li>
+          <li>Neuroleptics such as haloperidol may be beneficial</li>
+          <li>Consider a short course of hydration to assist in clearance of metabolites</li>
+        </ul>
+      </td>
+    </tr>
+	    <tr>
+      <td>Endocrinopathy</td>
+      <td>
+        <ul>
+          <li>Opioids disrupt hypothalamic-pituitary-gonadal axis</li>
+          <li>Erectile dysfunction, reduced libido, infertility, fatigue, depression, hot flushes, lowered bone density, and increased fracture risk</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Educate patients about role of opioids in endocrinopathy</li>
+          <li>Consider other, potentially treatable, causes</li>
+          <li>Consider alternate pain therapies if feasible</li>
+          <li>Initiate testosterone replacement if benefits outweigh risks</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Nausea and vomiting</td>
+      <td>
+        <ul>
+          <li>Seen in as many as 50% when opioids are initiated or when the dose is increased greatly</li>
+          <li>Tolerance develops in most cases with reduction in few days</li>
+          <li>Can be related to central effects and reduced gastric motility</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Rule out other causes (constipation, other medications)</li>
+          <li>Metoclopramide has both central and peripheral effects and is recommended as first line for the management of chronic nausea, including opioid-related</li>
+          <li>For patients reporting previous episodes of nausea during past exposure to opioids, prevention may include pretreatment with metoclopramide or prochlorperazine around the clock for the first few days of opioid therapy, with gradual weaning of the antiemetic</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Pruritus</td>
+      <td>
+        <ul>
+          <li>Early response to treatment</li>
+          <li>More frequent after neuraxial delivery</li>
+          <li>May be more common with opiates (e.g., morphine and codeine) than synthetic agents</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Rule out other causes (uremia, cholestasis, some malignancies, HIV, and medications)</li>
+          <li>Rotate to synthetic opioid (e.g., fentanyl)</li>
+          <li>Non-sedating antihistamines before opioid administration if feasible</li>
+          <li>Sedating antihistamines such as hydroxyzine or diphenhydramine if no excessive sedation</li>
+          <li>5-HT3 receptor antagonists such as ondansetron (although conflicting data)</li>
+          <li>Mixed agonist/antagonists such as nalbuphine alone or in combination with existing opioid (caution is advised in patients who are opioid-tolerant as this may reduce analgesic effect or cause abstinence)</li>
+          <li>Low-dose naloxone (0.25 µg/kg/h) infusion may be considered</li>
+        </ul>
+      </td>
+    </tr>
+	    <tr>
+      <td>Sedation and respiratory depression</td>
+      <td>
+        <ul>
+          <li>Some degree of sedation is common during initiation of an opioid or during dose escalation</li>
+          <li>Tolerance usually develops after a few days</li>
+          <li>Respiratory depression is typically preceded by sedation and is uncommon during chronic opioid administration</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Rule out other causes (often new medications such as benzodiazepines and gabapentinoids; organ system failure)</li>
+          <li>Educate patients regarding expected degree of sedation during early therapy to improve adherence to the opioid treatment plan</li>
+          <li>Limit polypharmacy if feasible</li>
+          <li>Review potential drug-drug interactions that may be affecting opioid metabolism</li>
+          <li>Methylphenidate and other psychostimulants can decrease sedation without affecting analgesia</li>
+          <li>New-onset sedation with stable opioid dosing is generally related to the addition of other sedating agents; discontinue these drugs or greatly reduce the dose</li>
+          <li>Consider prescribing naloxone to those receiving ≥ 50 morphine milligram equivalents as a rescue resource if there is concern for unintended access of the opioid by children or vulnerable family members (e.g., cognitively impaired persons). Consider naloxone also for patients receiving opioids with benzodiazepines, gabapentinoids, or other sedating agents. Educate patients and caregivers on the use of this antagonist in the case of overdose and respiratory depression, including its relatively short half-life and need for continued therapy and monitoring. Intranasal naloxone and intramuscular naloxone are both currently available in the United States. Ensure that naloxone administration is consistent with patient’s goals of care at the end of life</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Urinary retention</td>
+      <td>
+        <ul>
+          <li>More common in early course of treatment</li>
+          <li>Occurs in 25% of postoperative patients</li>
+          <li>More frequent after neuraxial delivery</li>
+          <li>Can be acute or chronic</li>
+          <li>Higher prevalence in elderly (because of benign prostatic hyperplasia or polypharmacy)</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li>Rule out other causes, especially spinal cord compression</li>
+          <li>Review medications and modify regimen if feasible</li>
+          <li>Catheterization in acute cases</li>
+          <li>Tamsulosin reported to be beneficial in postoperative opioid use</li>
+          <li>Rotate to synthetic opioid (e.g., fentanyl)</li>
+          <li>Consider methylnaltrexone or low-dose naloxone (0.25 µg/kg/h) infusion</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
 ## Nauseas Vomitos y obstrucción intestinal maligna
 
 ### Mecanismos nauseas y vomitos
@@ -4848,7 +5195,8 @@ PPS (palative performance scale) evalúa:
           <li>Sensitization of labyrinth (H<sub>1</sub>, muscarinic acetylcholine receptor)</li>
         </ul>
       </td>
-      <td>Metoclopramide, haloperidol, and prochlorperazine. Pero no hay mucha evidencia para profilaxis. Puede generar tolerancia a los 5-7 días. Puede intentarse rotación de opioide </td>
+      <td>Metoclopramide, haloperidol, and prochlorperazine. Pero no hay mucha evidencia para profilaxis. Puede generar tolerancia a los 5-7 días. Puede intentarse rotación de opioide 
+	  </td>
     </tr>
     <tr>
       <td>Chemotherapy-induced nausea and vomiting</td>
