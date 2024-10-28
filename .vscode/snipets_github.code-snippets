@@ -91,7 +91,7 @@
 	"div flexbox horizontal": {
 		"prefix": "div_flex_h",
 		"body": [
-			"<div style=\"display: flex; flex-direction: row; justify-content: space-around; align-items: center; max-width: 500px; height: auto;\">\n$1\n</div>",
+			"<div style=\"display: flex; flex-direction: row; flex-wrap: wrap; justify-content: space-around; align-items: center; max-width: 500px; height: auto;\">\n$1\n</div>",
 		],
 		"description": "div flexbox horizontal"
 
@@ -107,7 +107,12 @@
 		"prefix": "tabla",
 		"body": ["<table>\n<tr>\n<th>$1</th>\n</tr>\n<tr>\n<td>$2</td>\n</tr>\n</table>"],
 		"description": "img tag"
-	}
+	},
+	"==": {
+		"prefix": "=",
+		"body": ["<span>&#x2248</span>"],
+		"description": "aproximadamente"
+	},
 	
 
 	// viridis 5 colors

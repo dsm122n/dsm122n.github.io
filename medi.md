@@ -4826,15 +4826,28 @@ PPS (palative performance scale) evalúa:
 
 ### Opioides
 
-Morphine miligram equivalents es en relación a morfina oral diaria total. Como la biodisponibilidad oral de morfina es aprox 1/3, las dosis ev son 1/3 de las orales.
+- Morphine miligram equivalents (MME) o morphine equivalent daily dose (MEDD) es en relación a dosis de morfina oral diaria total. 
+- Biodisponibilidad oral de morfina es aprox 1/3, <span class= "tto" >dosis ev son aprox 1/3 de las orales.</span>
+- Una dosis habitual para <span class= "tto" >analgesia en dolor crónico</span> oncológio **moderado-severo** de persona naïve a opioides es:<br>
+ <span class= "tto" style="font-size: 2rem; border: 0.25rem solid #DAFF0D"" >inicio 30-60 MME</span> (equivalente a 5-10 mg de morfina oral cada 4 horas). 
+- <span class= "tto" style="font-size: 2rem; border: 0.25rem solid #DAFF0D">Rescates = MME × 10%</span> (5-15%). Usar opioide acción rápida, no de liberación prolongada (morfina, fentanilo u oxicodona)
+- <span class= "tto" style="font-size: 2rem; border: 0.25rem solid #DAFF0D">Titulación al alza: (MEE + rescates) × 1.3</span>. Previa certeza de que es dolor basal que no está siendo controlado. Puede ser que solo requiera rescates, en caso que dolor irruptivo se deba a otra causa (ejemplo, dolor por movilización)
+- Si VFG < 30 ml/min/1.73 m2, preferir metadona o fentanilo
+- <span class= "tto" style="font-size: 2rem; border: 0.25rem solid #DAFF0D" >Rotación: reducir 25-50% </span> de MME. Por tolerancia cruzada parcial.
 
-Tips de conversión rápida (para estimados gruesos en turnos, no tanto para ambulatorio):
-- <span class= "tto" >BIC fentanil en μg/h &#x2248 mg/d morfina ev</span> (ej: 25 μg/h &#x2248 25 mg/d morfina ev = 75 mg/d morfina oral)
-- BIC morfina 1 mg/h &#x2248 25 μg/h fentanil
-- 60 mg morfina oral &#x2248 BIC fenatnil 25 μg/h
-- Dosis EV de Fentanil es equivalente a la transdérmica (BIC de Fentanil 25 ug/h = 1 parche Durogesci 25 ug/h)
 
-#### Factor de conversión 
+
+### Dosis y presentaciones comunes de opioides
+
+Los que están más disponibles en Chile son: <span class= "tto" >Morfina, Codeína, Fentanilo (ev y parche) Buprenorfina, Tramadol, Tapentadol, Metadona.</span>
+
+Notas:
+- Parche de fentanilo (Durogesic). NO se puede fraccionar. Dura 3 días.
+- Parche de buprenorfina. Si bien formalmente no se deberían fraccionar (por falta de estudios), en terminos de estructura farmacológica se podrían fraccionar.  En Chile hay dos, transtec (35, 52.5, 70 mcg/h, duran como 3 días) y norspan (5, 10 mcg/h dura como 7 días).
+
+
+<div style="display: flex; flex-direction: row; flex-wrap: wrap; justify-content: space-around; height: auto;">
+
 
 <table>
   <thead>
@@ -4862,7 +4875,28 @@ Tips de conversión rápida (para estimados gruesos en turnos, no tanto para amb
     </tr>
     <tr>
       <td><span class= "tto" >Methadone</span></td>
-      <td><span class= "tto" >4.7</span></td>
+      <td>
+        <table>
+          <tr>
+            <td> < 60 ΜΜΕ</td>
+            <td>
+              <span class= "tto" >4.7</span>
+            </td>
+          </tr>
+          <tr>
+            <td>60-199 ΜΜΕ</td>
+            <td>
+              <span class= "tto" >10</span>
+            </td>
+          </tr>
+          <tr>
+            <td>>= 200 ΜΜΕ</td>
+            <td>
+              <span class= "tto" >20</span>
+            </td>
+          </tr>
+        </table>
+      </td>
     </tr>
     <tr>
       <td>Morphine</td>
@@ -4884,12 +4918,137 @@ Tips de conversión rápida (para estimados gruesos en turnos, no tanto para amb
       <td>Tramadol§</td>
       <td>0.2</td>
     </tr>
+    <tr>
+      <td>Buprenorphine</td>
+      <td>12.6</td>
+    </tr>
   </tbody>
 </table>
 
+
+<table>
+  <tr>
+    <td colspan="2">Dosis equianalgésicas</td>
+  </tr>
+  <tr>
+    <th>Opioide</th>
+    <th>Dosis</th>
+  </tr>
+  <tr>
+    <td>Morfina VO</td>
+    <td>60 mg</td>
+  </tr>
+  <tr>
+    <td>Morfina EV/SC</td>
+    <td>20 mg</td>
+  </tr>
+  <tr>
+    <td>Parche Fentanilo (Durogesic)</td>
+    <td>1 parche 25 mcg/h</td>
+  </tr>
+  <tr>
+    <td>Parche Buprenorfina (Transtec)</td>
+    <td>1 parche 35 mcg/h</td>
+  </tr>
+  <tr>
+    <td>Oxicodona VO</td>
+    <td>40 mg</td>
+  </tr>
+  <tr>
+    <td>Tapentadol VO</td>
+    <td>150 mg</td>
+  </tr>
+  <tr>
+    <td>Tramadol VO</td>
+    <td>300 mg</td>
+  </tr>
+  <tr>
+    <td>Codeína VO</td>
+    <td>400 mg</td>
+  </tr>
+</table>
+
+
+
+
+<table>
+    <thead>
+        <tr>
+            <th>MME</th>
+            <th>Fentanilo mcg/h</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>30</td>
+            <td>12</td>
+        </tr>
+        <tr>
+            <td><span class= "tto" >60 (45-89)</span></td>
+            <td><span class= "tto" >25</span></td>
+        </tr>
+        <tr>
+            <td>90</td>
+            <td>37</td>
+        </tr>
+        <tr>
+            <td>120 (90-149)</td>
+            <td>50</td>
+        </tr>
+        <tr>
+            <td>150</td>
+            <td>62</td>
+        </tr>
+        <tr>
+            <td>180 (150-209)</td>
+            <td>75</td>
+        </tr>
+        <tr>
+            <td>240 (210-269)</td>
+            <td>100</td>
+        </tr>
+    </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th>MME</th>
+      <th>Buprenorfina mcg/h</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>9-14</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>18-28</td>
+      <td>10</td>
+    </tr>
+    <tr>
+      <td><span class= "tto" >63-97 </span></td>
+      <td><span class= "tto" >35    </span></td>
+    </tr>
+    <tr>
+      <td>95-145</td>
+      <td>52.5</td>
+    </tr>
+    <tr>
+      <td>126-193</td>
+      <td>70</td>
+    </tr>
+  </tbody>
+</table>
+
+
+
+</div>
+
+
 <details>
 <summary>
-	Leyenda de tabla
+	Leyenda de tabla factores de conversión
 </summary>
 
 [fuente](https://www.cdc.gov/mmwr/volumes/71/rr/rr7103a1.htm#print)
@@ -4914,9 +5073,6 @@ The following cautions should be noted:
 
 </details>
 
-#### Dosis y presentaciones comunes
-
-....
 
 #### Rotación de opioides
 
@@ -4987,29 +5143,7 @@ Punteo de datos interesantes de la guía:
 - the ideal prescription consists of an immediate-release or extendedrelease opioid administered regularly around the clock, plus an <span class= "tto" >immediate-release opioid at a dose of approximately <span class= "dx" >10% (ranging from 5% to 20%)</span> of MME </span> to be taken if there are episodes of breakthrough pain.
 - Opioid rotation should be offered to patients with pain that is refractory to dose titration of a given opioid, poorly managed side effects, logistical or cost concerns, or trouble with the route of opioid administration or absorption
 
-
-### Manejo RAM de opioides
-
-FX de OP que generan tolerancia:
-- Náuseas y vómitos
-- Analgesia
-- Somnolencia/compromiso de conciencia, sedación
-- Depresión respi
-- FX cardiovasculares
-- Euforia, disforia
-
-FX de OP que NO generan tolerancia:
-- <span class= "sn" >Constipación</span>
-- <span class= "sn" >Miosis</span>
-
-FX de OP que no sé si generan tolerancia:
-- Deterioro de SAHOS
-- Hipogonadismo por opioides
-- Hiperalgesia inducida por opioides
-- Adicción*
-- Prurito
-- Convulsiones
-- Boca seca, miosis, retención urinaria
+### Manejo de RAMs
 
 
 <table>
@@ -5169,6 +5303,87 @@ FX de OP que no sé si generan tolerancia:
   </tbody>
 </table>
 
+
+
+### Datos farmacológicos opioides
+
+#### Resumen receptores opioides:
+
+<table>
+    <thead>
+        <tr>
+            <th>Subtipo de receptor</th>
+            <th>Funciones</th>
+            <th>Afinidad del péptido opioide endógeno</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>μ (mu)</td>
+            <td><span class= "tto" >Analgesia supraespinal y espinal</span>; <span class= "sn" >sedación</span>; <span class= "sn" >inhibición de la respiración</span>; <span class= "sn" >retraso en el tránsito gastrointestinal</span>; modulación de la liberación de hormonas y neurotransmisores</td>   
+
+            <td>Endorfinas > encefalinas > dinorfinas</td>
+        </tr>
+        <tr>
+            <td>δ (delta)</td>
+            <td><span class= "tto" >Analgesia supraespinal y espinal</span>; modulación de la liberación de hormonas y neurotransmisores</td>
+            <td>Encefalinas > endorfinas y dinorfinas</td>
+        </tr>
+        <tr>
+            <td>κ (kappa)</td>
+            <td><span class= "tto" >Analgesia supraespinal y espinal</span>; efectos psicomiméticos; <span class= "sn" >retraso en el tránsito gastrointestinal</span></td>
+            <td>Dinorfinas >> endorfinas y encefalinas</td>
+        </tr>
+    </tbody>
+</table>
+
+
+Tips de conversión rápida (para estimados gruesos en turnos, no tanto para ambulatorio):
+- <span class= "tto" >BIC fentanil en μg/h &#x2248 mg/d morfina ev</span> (ej: 25 μg/h <span>&#x2248</span> 25 mg/d morfina ev = 75 mg/d morfina oral)
+- BIC morfina 1 mg/h <span>&#x2248</span> 25 μg/h fentanil
+- 60 mg morfina oral <span>&#x2248</span> BIC fenatnil 25 μg/h
+- Dosis EV de Fentanil es equivalente a la transdérmica (BIC de Fentanil 25 ug/h = 1 parche Durogesci 25 ug/h)
+
+
+#### RAM de opioides
+
+Efectos de OP y grados de Tolerancia
+
+| Alto | Moderado | Mínimo o ninguno |
+|---|---|---|
+| <span class= "tto" >Analgesia</span>| Bradicardia | Miosis |
+| Euforia, disforia |             | <span class= "sn" >Estreñimiento</span> |
+| Confusión mental |              | Convulsiones |
+| Sedación |       |  |
+| Depresión respiratoria |  |  |
+| Antidiuresis |  |  |
+| <span class= "sn" >Náuseas y vómitos</span> |  |  |
+| Supresión de la tos |  |  |
+
+RAM según uso agudo o crónico
+
+| Efectos adversos con uso agudo | Efectos adversos con uso crónico |
+|---|---|
+| Depresión respiratoria  | Hipogonadismo |
+| Náuseas/vómitos         | Inmunosupresión |
+| Prurito                 | Aumento de la alimentación |
+| Urticaria               | Aumento de la secreción de la hormona del crecimiento |
+| Estreñimiento           | Efectos de abstinencia |
+| Retención urinaria      | Tolerancia, dependencia |
+| Delirio                 | Abuso, adicción |
+| Sedación                | Hiperalgesia |
+| Mioclono                | Deterioro al conducir |
+| Convulsiones            |  |
+
+
+Otros datos:
+- S. Endocrino: estimulan la liberación de ADH, prolactina y somatotropina, pero inhiben la liberación de la hormona luteinizante. Usuarios crónicos pueden tener testosterona baja. Mujeres pueden experimentar dismenorrea o amenorrea
+- Prurito: Por liberación de histamina, pero tb por efectos centrales. Producen enrojecimiento y calentamiento de la piel que a veces se acompañan de sudoración, urticaria y picazón.
+- Tracto biliar: <span class= "sn" >contraen ms liso biliar y esfinter de Oddi</span> (ojo en dolor de hepatobiliar). Pueden elevar amilasa y lipasa.
+- Arquitectura del sueño: Disminuyen etapas 3 y 4 del sueño, lo que puede provocar fatiga y otros trastornos del sueño, como trastornos de la respiración del sueño y apnea central del sueño.
+- En lo cardiovascular, pueden producir hipotensión (por vasodilatación arterial y venosa), pero en contextos que se sumen otros factores de riesgo. Meperidina tiene efecto antimuscarínico que puede tener efecto más importante en hemodinamia
+- Los analgésicos opioides afectan la circulación cerebral mínimamente, excepto <span class= "sn" >cuando la Pco2 aumenta como consecuencia de la depresión respiratoria</span>. El aumento de Pco2 conduce a una vasodilatación cerebral -> ↓  resistencia vascular cerebral -> ↑ del flujo sanguíneo cerebral -> ↑ presión intracraneal.
+- Producen sedación sin amnesia
 
 
 ## Nauseas Vomitos y obstrucción intestinal maligna
