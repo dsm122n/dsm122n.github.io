@@ -4831,15 +4831,100 @@ PPS (palative performance scale) evalúa:
 - Una dosis habitual para <span class= "tto" >analgesia en dolor crónico</span> oncológio **moderado-severo** de persona naïve a opioides es:<br>
  <span class= "tto" style="font-size: 2rem; border: 0.25rem solid #DAFF0D"" >inicio 30-60 MME</span> (equivalente a 5-10 mg de morfina oral cada 4 horas). 
 - <span class= "tto" style="font-size: 2rem; border: 0.25rem solid #DAFF0D">Rescates = MME × 10%</span> (5-15%). Usar opioide acción rápida, no de liberación prolongada (morfina, fentanilo u oxicodona)
-- <span class= "tto" style="font-size: 2rem; border: 0.25rem solid #DAFF0D">Titulación al alza: (MEE + rescates) × 1.3</span>. Previa certeza de que es dolor basal que no está siendo controlado. Puede ser que solo requiera rescates, en caso que dolor irruptivo se deba a otra causa (ejemplo, dolor por movilización)
+- <span class= "tto" style="font-size: 2rem; border: 0.25rem solid #DAFF0D">Titulación al alza: (MEE + rescates) × 1.3</span> (↑20-30%). Si se utilizan 3-4 dosis de rescate. Previa certeza de que es dolor basal que no está siendo controlado. Puede ser que solo requiera rescates, en caso que dolor irruptivo se deba a otra causa (ejemplo, dolor por movilización)
 - Si VFG < 30 ml/min/1.73 m2, preferir metadona o fentanilo
 - <span class= "tto" style="font-size: 2rem; border: 0.25rem solid #DAFF0D" >Rotación: reducir 25-50% </span> de MME. Por tolerancia cruzada parcial.
-
 
 
 ### Dosis y presentaciones comunes de opioides
 
 Los que están más disponibles en Chile son: <span class= "tto" >Morfina, Codeína, Fentanilo (ev y parche) Buprenorfina, Tramadol, Tapentadol, Metadona.</span>
+
+<table>
+  <thead>
+    <tr>
+      <th>Fármaco</th>
+      <th>Presentaciones</th>
+      <th>Dosis inicial en dolor crónico</th>
+      <th>Dosis en dolor agudo</th>
+      <th>Duración analgesia</th>
+      <th>Otros comentarios</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="2">Morfina</td>
+      <td>
+          Oral:
+          <li>Jarabes <span class= "tto" >20 mg/ml</span>. Rev equivalencia gotas Ej: oramorph 1ml = 16 gotas</li>
+          <li><span class= "tto" >Comprimidos 30 y 60 mg</span> liberación prolongada (M-Elson) </li>
+      </td>
+      <td>
+        Inicio 30-60 MME:
+        <br><br><span class= "tto" >5-10 mg cada 4 horas</span>, rescates <span class= "sn" >3mg-6mg</span>
+        <br><br>equivalente a 4-8 gotas c/4h oramorph con 2 gotas de rescate
+      </td>
+      <td>
+      </td>
+      <td rowspan="2">
+        4-6h
+      </td>
+      <td>
+        <li>Agonista μ y leve κ
+        <li>Metabolito morfina-6-glucurónido es activo
+        <li>Metabolito morfina-3-glucurónido es dañino, responsable de toxicidad en insuficiencia renal
+        <li>Evitar en insuficiencia renal
+        <li>Titulación puede realizarse en forma diaria aumentando 33 a 50%
+        <li>En adulto mayor se puede reducir a c/6h
+        <br><br>
+        <b>Dosis adultos</b>: 10mg (rango 5 a 20mg) cada 4 hrs IM o SCI, o 2.5 15mg cada 4 hrs IV.Después de la dosis de carga (15mg o más) administrar una Infusión continua de 0.8 a 80mg (hasta 150mg) por hora. <br>
+        <b>Dosis niños</b>: 0.1 a 0.2mg/kg/dosis cada 4 hrs IM o SC, o 0.05 a 0.1mg/kg/dosis cada 4 hrs IV. No más de 15mg en una sola dosis. 0.2 Infusión continua: 0.01 a 0.15mg/kg/hora.
+      </td>
+    </tr>
+    <tr>
+      <td>EV/SC ampollas 10mg/1ml y 20 mg/1ml. Diluciones: <br><br>
+        <li>Bolo: 2.5mg a 15mg diluido en 5ml o 10ml.
+        <li>Infusión intermitente: 100mg por 100ml. (1mg por 1ml). Rango 0.1 a 1mg por 1ml.
+        <li>Infusión continua: 100mg en 50ml. (2mg por 1ml). Rango 1 a 80mg por 1ml.
+      </td>
+      <td>
+      30-60 MME = 12-18 mg EV/día -> 2-3 mg c/4h <br><br>
+      </td>
+      <td>
+        <li>2-10 mg EV/SC/IM c/4h si es necesario
+        <li>IAM: 5-10 mg EV/SC/IM
+      </td>
+    </tr>
+    <tr>
+      <td rowspan="2">Fentanilo</td>
+      <td>
+        Ev: ampollas 0.5 mg/10ml y 0.1 mg/2ml<br><br>
+        Infusión intermitente: Diluir la dosis en 100‐500 ml de SG5%.Infusión continua: Diluir la dosis en 50‐1000 ml de SF o SG5%.
+      </td>
+      <td>
+        <li>240/480 mcg/24h
+        <li>Rescates de 10% hasta cada 1h. Titular según necesidad
+      </td>
+      <td>
+        <li> Inicial 25-100 mcg, luego 25 a 50 mcg SOS hasta cada 1h
+        <li> En adulto mayor reducir a 12.5 a 25 mcg SOS
+        <li> Sedoanalgesia: ISR 1-3ug/kg en bolo -> Mantención 0,3-3.6 mg/kg en bolo EV
+      </td>
+      <td>
+        Vida media corta, pero es muy lipofílico y puede acumularse 
+      </td>
+    <tr>
+      <td>
+        Parche: 25 mcg/h (Duragesic)
+      </td>
+      <td>
+        <li>1 parche 25 mcg/h
+      </td>
+      <td>
+      </td>
+    </tr>
+  <tbody>
+</table>
 
 Notas:
 - Parche de fentanilo (Durogesic). NO se puede fraccionar. Dura 3 días.
