@@ -4822,6 +4822,92 @@ PPS (palative performance scale) evalúa:
 
 ## Disnea
 
+Evaluación disnea en pacientes que no pueden comunicar: se pueden utilizar escalas, p ej RDOS
+- This tool is to be used for assessing the intensity and distress of patients unable to report dyspnea during monitoring for Palliative Sedation Therapy
+
+  <table>
+    <thead>
+      <tr>   
+
+        <th>Variable</th>
+        <th>0 Points</th>
+        <th>1 Point</th>
+        <th>2 Points</th>
+        <th>Sub-Total</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Heart rate per min (beats/min = bpm)</td>
+        <td>less than 90 bpm</td>
+        <td>90 - 109 bpm</td>
+        <td>greater than or equal to 110 bpm</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Respiratory rate per minute (auscultated) (breaths/min)</td>
+        <td>less than 19 breaths</td>
+        <td>19 - 30 breaths</td>
+        <td>greater than 30 breaths</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Restlessness: non-purposeful movements</td>
+        <td>No</td>
+        <td>Yes - Occasional, slight movements</td>
+        <td>Yes - Frequent movements</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Paradoxical breathing pattern: abdomen moves in on inspiration</td>
+        <td>No</td>
+        <td></td>
+        <td>Yes</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Accessory muscle use: rise in clavicle during inspiration</td>
+        <td>No</td>
+        <td>Yes - Slight rise</td>
+        <td>Yes - Pronounced rise</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Grunting at end-expiration: guttural sounds</td>
+        <td>No</td>
+        <td></td>
+        <td>Yes</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Nasal flaring: involuntary movement of nares</td>
+        <td>No</td>
+        <td></td>
+        <td>Yes</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Look of fear:
+          <li>Eyes wide open</li>
+          <li>Facial muscles tense</li>
+          <li>Brow furrowed</li>
+          <li>Mouth open</li>
+          <li>Teeth together</li>
+        </td>
+        <td>No</td>
+        <td></td>
+        <td>Yes</td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+
+
+- An RDOS score of less than 3 indicates respiratory comfort;
+- An RDOS score greater than or equal to 3 signifies respiratory distress and need for palliation
+- Higher RDOS scores signify a worsening condition
+
+
 ## Dolor
 
 ### Opioides
@@ -4911,7 +4997,7 @@ Los que están más disponibles en Chile son: <span class= "tto" >Morfina, Code�
         <li> Sedoanalgesia: ISR 1-3ug/kg en bolo -> Mantención 0,3-3.6 mg/kg en bolo EV
       </td>
       <td>
-        Vida media corta, pero es muy lipofílico y puede acumularse 
+        Vida media corta (analgesia puede durar 1-1.5h), pero es muy lipofílico y puede acumularse 
       </td>
     <tr>
       <td>
@@ -5159,7 +5245,7 @@ The following cautions should be noted:
 </details>
 
 
-#### Rotación de opioides
+### Rotación de opioides
 
 Fundamento: tolerancia cruzada parcial entre opioides, lo que permite rotar entre ellos para mejorar la eficacia y reducir efectos adversos (beneficio en >2/3 de pacientes)
 
@@ -5190,7 +5276,7 @@ Paso 2: Ajuste de la Dosis Inicial
 
 **Nota:** Este es un resumen general de los pasos. Siempre se recomienda consultar con un profesional de la salud para la administración y ajuste de medicamentos opioides.
 
-##### Dosis metadona
+### Dosis metadona
 
 Puntos clave para la conversión de morfina oral a metadona:
 
@@ -5198,7 +5284,7 @@ Puntos clave para la conversión de morfina oral a metadona:
 - **Dosis diarias de morfina oral entre 60 y 199 mg en pacientes menores de 65 años:** Relación de conversión 10:1 (10 mg de morfina oral equivalen a 1 mg de metadona oral).
 - **Dosis diarias de morfina oral iguales o superiores a 200 mg o pacientes mayores de 65 años:** Relación de conversión 20:1 (20 mg de morfina oral equivalen a 1 mg de metadona oral).
 
-#### OP en dolor oncológico 
+### OP en dolor oncológico 
 
 Recomendaciones de [ASCO Guideline para opioides para dolor oncológico](https://doi.org/10.1200/JCO.22.02198)
 
@@ -5388,7 +5474,235 @@ Punteo de datos interesantes de la guía:
   </tbody>
 </table>
 
+<details>
+<summary>
 
+### Fisiopato y evaluación dolor (clickea aquí para expandir esta sección escondida )
+</summary>
+
+Clasificación clínica de dolor:
+- Nociceptivo
+  - Somático: oseo, muscular, articular, tejidos blandos. punzante, palpitante u opresivo. Bien localizado.
+  - Visceral: órganos internos (cápsulas). Por f mecánicos, isquemia, inflamación. Mal localizado/irradiado/referido, espasmos, cólicos, sordo, compresivo o punzante. S. vegetativos asociados.
+- Neuropático: río arriba de nociceptor. adormecimiento, parestesias, urgente, quemadura, electricidad, ramalazo, agujas o
+puñaladas. Hiperestesia, alodinia, disestesia.
+- Mixto
+
+<div class= "sn" >
+Clasificación según temporalidad:
+<ol>
+<li>
+Persistente
+</li>
+<li>
+Episódico
+  <ul>
+    <li> <span class= "sn" >Incidental: Causado por un gatillo</span>. P ej, dolor por procedimientos, movimientos, tos, etc.
+    <li> Repentino/<span class= "dx" >irruptivo</span>: Sin gatillante claro, orienta más a <span class= "dx" >neuropático</span>. P ej, neuralgia del trigémino
+    <li> Fin de dosis
+  </ul>
+</li>
+</ol>
+
+</div>
+
+Evaluación para pacientes con delirium o que no se comunican se pueden usar distintas escalas, por ejemplo, PAINAD
+
+<table>
+    <thead>
+      <tr>   
+        <th>Items*</th>
+        <th>0</th>
+        <th>1</th>
+        <th>2</th>
+        <th>Score</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+        <details>
+        <summary>Breathing independent of vocalization</summary>
+        <ol>
+          <li>
+              Normal breathing is characterized by effortless, quiet, rhythmic (smooth) respirations.  
+          </li>
+          <li>
+              Occasional labored breathing is characterized by episodic bursts of harsh, difficult or wearing respirations.  
+          </li>
+          <li>
+              Short period of hyperventilation is characterized by intervals of rapid, deep breaths lasting a short period of time.  
+          </li>
+          <li>
+              Noisy labored breathing is characterized by negative sounding respirations on inspiration or expiration. They may be loud, gurgling, or wheezing. They appear strenuous or wearing.  
+          </li>
+          <li>
+              Long period of hyperventilation is characterized by an excessive rate and depth of respirations lasting a considerable time.  
+          </li>
+          <li>
+              Cheyne-Stokes respirations are characterized by rhythmic waxing and waning of breathing from very deep to shallow respirations with periods of apnea (cessation of breathing). 
+          </li>
+        </ol>        
+        </details>
+        </td>
+        <td>Normal</td>
+        <td>Occasional labored breathing.<br>Short period of hyperventilation.</td>
+        <td>Noisy labored breathing. Long period of hyperventilation.<br>Cheyne-Stokes respirations.</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>
+        <details>
+        <summary>Negative Vocalization</summary>
+            <li>None is characterized by speech or vocalization that has a neutral or pleasant quality.  </li>
+            <li>Occasional moan or groan is characterized by mournful or murmuring sounds, wails or laments. Groaning is characterized by louder than usual inarticulate involuntary sounds, often abruptly beginning and ending.  </li>
+            <li>Low level speech with a negative or disapproving quality is characterized by muttering, mumbling, whining, grumbling, or swearing in a low volume with a complaining, sarcastic or caustic tone.  </li>
+            <li>Repeated troubled calling out is characterized by phrases or words being used over and over in a tone that suggests anxiety, uneasiness, or distress.  </li>
+            <li>Loud moaning or groaning is characterized by mournful or murmuring sounds, wails or laments much louder than usual volume. Loud groaning is characterized by louder than usual inarticulate involuntary sounds, often abruptly beginning and ending.  </li>
+            <li>Crying is characterized by an utterance of emotion accompanied by tears. There may be sobbing or quiet weeping. </li>
+        </details>
+        </td>
+        <td>None</td>
+        <td>Occasional moan or groan. Low-level speech with a negative or disapproving quality.</td>
+        <td>Repeatedtroubled calling out.<br>Loud moaning or groaning.<br>Crying.</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>
+          <details>
+          <summary>Facial expression</summary>
+          <li> Smiling is characterized by upturned corners of the mouth, brightening of the eyes and a look of pleasure or contentment. Inexpressive refers to a neutral, at ease, relaxed, or blank look.  </li>
+          <li> Sad is characterized by an unhappy, lonesome, sorrowful, or dejected look. There may be tears in the eyes.  </li>
+          <li> Frightened is characterized by a look of fear, alarm or heightened anxiety. Eyes appear wide open.  </li>
+          <li> Frown is characterized by a downward turn of the corners of the mouth. Increased facial wrinkling in the forehead and around the mouth may appear.  </li>
+          <li> Facial grimacing is characterized by a distorted, distressed look. The brow is more wrinkled as is the area around the mouth. Eyes may be squeezed shut.  </li>
+          </details>
+        </td>
+        <td>Smiling or inexpressive</td>
+        <td>Sad. Frightened. Frown.</td>
+        <td>Facial grimacing.</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>
+          <details>
+          <summary>Body language</summary>
+            <li> Relaxed is characterized by a calm, restful, mellow appearance. The person seems to be taking it easy.  </li>
+            <li> Tense is characterized by a strained, apprehensive or worried appearance. The jaw may be clenched (exclude any contractures).  </li>
+            <li> Distressed pacing is characterized by activity that seems unsettled. There may be a fearful, worried, or disturbed element present. The rate may be faster or slower.  </li>
+            <li> Fidgeting is characterized by restless movement. Squirming about or wiggling in the chair may occur. The person might be hitching a chair across the room. Repetitive touching, tugging or rubbing body parts can also be observed.  </li>
+            <li> Rigid is characterized by stiffening of the body. The arms and/or legs are tight and inflexible. The trunk may appear straight and unyielding (exclude any contractures).  </li>
+            <li> Fists clenched is characterized by tightly closed hands. They may be opened and closed repeatedly or held tightly shut.  </li>
+            <li> Knees pulled up is characterized by flexing the legs and drawing the knees up toward the chest. An overall troubled appearance (exclude any contractures).  </li>
+            <li> Pulling or pushing away is characterized by resistiveness upon approach or to care. The person is trying to escape by yanking or wrenching him or herself free or shoving you away.  </li>
+            <li> Striking out is characterized by hitting, kicking, grabbing, punching, biting, or other form of personal assault. </li>
+          </details>
+        </td>
+        <td>Relaxed</td>
+        <td>Tense.   
+ Distressed pacing. Fidgeting.</td>
+        <td>Rigid. Fists clenched. Knees pulled up. Pulling or pushing away. Striking out.</td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>
+          <details>
+          <summary>Consolability</summary>
+            <li> No need to console is characterized by a sense of well being. The person appears content.  </li>
+            <li> Distracted or reassured by voice or touch is characterized by a disruption in the behavior when the person is spoken to or touched. The behavior stops during the period of interaction with no indication that the person is at all distressed.  </li>
+            <li> Unable to console, distract or reassure is characterized by the inability to sooth the person or stop a behavior with words or actions. No amount of comforting, verbal or physical, will alleviate the behavior. </li>
+          </details>
+        </td>
+        <td>No need to console</td>
+        <td>Distracted or reassured by voice or touch.</td>
+        <td>Unable to console, distract or reassure.</td>
+        <td></td>
+      </tr>   
+
+      <tr>
+        <td colspan="4"></td>
+        <td>Total*</td>
+      </tr>
+    </tbody>
+  </table>
+
+Behavioural pain scale (BPS), para paciente crítico
+- >3 = dolor; 4-5 leve ; ≧ 6 moderado a severo; 12 = dolor máximo
+
+<table>
+  <thead>
+    <tr>
+      <th>Artículo</th>
+      <th>Descripción</th>
+      <th>Puntajes*</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td rowspan="4">Expresión facial</td>
+      <td>Relajado</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Parcialmente tenso (p. ej., bajando las cejas)</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>Totalmente apretado (p. ej., cierre del párpado)</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>Hacer muecas</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td rowspan="4">Movimientos de las extremidades superiores</td>
+      <td>Sin movimiento</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Parcialmente doblado</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>Completamente doblado con flexión de los dedos</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>Retraído permanentemente</td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td rowspan="4">Cumplimiento de la ventilación mecánica</td>
+      <td>Tolerando el movimiento</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Toser pero tolerar la ventilación la mayor parte del tiempo</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td>Ventilador de lucha</td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>No se puede controlar la ventilación</td>
+      <td>4</td>
+    </tr>
+  </tbody>
+</table>
+
+#### Factores moduladores
+
+- Funcionalidad basal (Karnofsky/ECOG)
+- Delirium (MDAS >=7)
+- Trastorno de uso de sustancias (OH [ej, CAGE], y OP)
+- Compensación química (chemical coping)
+- Significado del dolor
+- Trastornos Psicológicos (Depresión/ansiedad)
+- Calidad de vida
+
+</details>
 
 ### Datos farmacológicos opioides
 

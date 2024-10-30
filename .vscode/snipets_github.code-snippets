@@ -113,7 +113,16 @@
 		"body": ["<span>&#x2248</span>"],
 		"description": "aproximadamente"
 	},
-	
+	"details":{
+		"prefix": "details",
+		"body": ["<details>\n<summary>$1</summary>\n$2\n</details>"],
+		"description": "details"
+	},
+	"ordered_list":{
+		"prefix": "ol",
+		"body": ["<ol>\n<li>$1</li>\n</ol>"],
+		"description": "list ordered"
+	},
 
 	// viridis 5 colors
 	
