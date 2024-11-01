@@ -4907,6 +4907,8 @@ Evaluación disnea en pacientes que no pueden comunicar: se pueden utilizar esca
 - An RDOS score greater than or equal to 3 signifies respiratory distress and need for palliation
 - Higher RDOS scores signify a worsening condition
 
+Opioides para disnea: iniciar con <span class= "tto" >mitad de dosis de OP para dolor.</span>
+- p ej: 2-3 mg c/4h morfina oral con rescates de 1 mg (12-18 MME) , o 1 mg c/4h morfina SC/EV
 
 ## Dolor
 
@@ -5701,6 +5703,10 @@ Behavioural pain scale (BPS), para paciente crítico
 - Significado del dolor
 - Trastornos Psicológicos (Depresión/ansiedad)
 - Calidad de vida
+
+Modulación neurobiológica del dolor:
+- Modulation is a third and critically important aspect of the processing of noxious stimuli. This process represents changes that occur in the nervous system in response to noxious stimuli and allows noxious signals received at the dorsal horn of the spinal cord to be selectively inhibited so that the transmission of the signal to higher centers is modified. An endogenous pain modulation system consisting of well-defined <span class= "dx" >intermediate neurons within the superficial layers of the spinal cord and descending neural tracts can inhibit transmission of the pain signal</span>. Endogenous and exogenous opioids can act on the presynaptic terminal of the primary afferent nociceptor via the mu opioid receptor by indirectly blocking voltage gated calcium channels as well as opening potassium channels. The inhibition of calcium entry into the presynaptic terminal as well as the efflux of potassium (hyperpolarization) results in the inhibition of pain neurotransmitter release from the primary afferent fibers, hence analgesia. Opioids have a second site of action at the level of the spinal cord. Opioid receptors on the postsynaptic nerve (the second-order neuron), when activated by an opioid, indirectly open potassium channels resulting in hyperpolarization of the nerve.
+- Descending modulatory systems: Activation of the descending system by endorphins occurs through specific receptors called ‘‘opioid receptors.’’ These systems are activated in and around the <span class= "dx" >periaqueductal gray (PAG) region of the midbrain</span>. Such neurons then project to sites in the medullary reticular formation and the locus ceruleus (the major source of seratonin and norepinephrine cells in the brain, respectively) through uncertain circuitry (probably through disinhibition, that is, inhibition of a tonically active inhibitory interneuron). These descending fibers then project to the dorsal horn of the spinal cord along a tract called the dorsolateral funiculus (located in the dorsolateral portion of the spinal cord) to synapse with either the incoming primary afferent neuron, the second-order pain transmission neuron, or interneurons. These descending pain modulatory neurons either (1) release neurotransmitters in the spinal cord, especially serotonin (5HT) and norepinephrine (NE) or (2) activate small opioid-containing interneurons in the spinal dorsal horn to release opioid peptides (again through disinhibition). The released NE and 5HT act to (1) directly inhibit the release of pain transmitters from the incoming nociceptive afferent signal, and (2) to inhibit the second-order pain transmission cell. Activation of the descending pain modulatory system is a good example of why subjects report not feeling pain under conditions of stress, or perhaps other situations, where even though the pain is felt, the degree appears to be greatly modulated
 
 </details>
 
