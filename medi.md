@@ -2773,6 +2773,13 @@ La producción extraadrenal de cortisol por acción de la 11β-HSD1 puede estar 
 
 # Reumatología
 
+## Laboratorio reumato
+
+![anticuerpos reumato](image-4.png)
+![ANA](image-5.png)
+
+![Liquido sinovial](image-6.png)
+
 ## Vasculitis diagnóstico diferencial
 
 
@@ -4772,6 +4779,32 @@ margin-bottom:10.0pt;margin-left:-1.0cm;text-align:left'><span lang=ES-CL><o:p>&
 
 </div>
 
+## Datitos EUNACOM
+
+Clasificaciones artritis:
+- Monoatritis
+- Oligoartritis (2-4 articulaciones)
+- Poliartritis (> 4 articulaciones)
+- Agudo (< 6 semanas)
+- Periférico (EESS o EEII) vs axial (columna o sacro-iliaca)
+- Migratoria: poco frecuente, de lupus o ¿reactiva?
+- Entesitis? pelviespondiloartropatías
+
+## Dx artritis
+
+Monoatritis aguda febril:
+  - Artritis por critales (la más frecuente)
+  - Séptica (la más grave)
+  - Traumática: la más obvia
+  - inicio de Oligoartritis (reactiva?)
+
+Oligo/poliartritis:
+- Aguda (<6 semanas):
+  - Simétrica: <span class= "dx" >viral</span> >>> demás
+  - Asimétricas: <span class= "dx" >PEP</span>. Artritis reactiva, cristales, séptica > otras (Behcet)
+- Crónica (>6 semanas):
+  - Simétrica: AR (y casi todas las mesenquimopatías)
+  - Asimétricas: <span class= "dx" >Psoriática</span> /SpA, Cristales, etc.
 
 # Cuidados Paliativos
 

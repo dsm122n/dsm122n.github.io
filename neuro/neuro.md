@@ -1133,6 +1133,36 @@ Diazepam:
 - Adults: diazepam 10 mg IV once; 
 - children: diazepam 0.15–0.2 mg/kg IV once (max. dose 10 mg). Repeat once after 5 minutes if needed.
 
+## Crisis epiléptica en pre hospitalario
+
+Recordar:
+- La mayoría duración < 2 minutos
+- En niños, 15% ≥ 30 minutos. 80% <span class= "sn" > >5 minutos</span> se prolongan >30 min
+
+Prevención status:
+- Adherencia a tratamiento
+- Evitar gatillantes de crisis
+
+Definición operacional de status (por alta probabilidad de prolongarse):
+- >5 minutos si tonico-clónica generalizada o ingresa convulsionando a hospital
+- >10 minutos si focal
+- >10-15 minutos si crisis ausencia
+
+BZP pre-hospitalarias: varias tienen evidencia con distintas vías de administración (IV, IO, IM, IN, bucal, rectal)
+
+Max 1 dosis, ssi crisis > 3 minutos
+
+![alt text](image-17.png)
+
+Indicaciones terapia rescate:
+- si diagnóstico reciente
+- crisis tonico-clónicas generalizadas
+-  crisis febriles / epilepsias oligosintomáticas
+- Epilepsia refractaria
+- Antecedentes de status y cluster de crisis epi
+- Epilepsia catamenial
+- Dificultad de acceso a centros de salud
+
 ## Status
 
 Definicion conceptual: crisis >=30 minutos
