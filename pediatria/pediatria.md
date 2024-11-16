@@ -664,6 +664,104 @@ Lo ideal es consumir **4 comidas** establecidas en el día: desayuno, almuerzo, 
 
 ![tto_profilaxis_ped_vih](tto_profilaxis_ped_vih.png)
 
+## Fiebre de origen desconocido
+
+### Recien nacido (0-28 días)
+
+Agentes etiológicos que debemos considerar principalmente son los del canal del parto, a saber, Streptococcus beta hemolítico grupo B (S. agalactiae), Escherichia coli y Listeria monocytogenes, Enterococcus spp y otras enterobacterias.
+
+Exámenes:
+- Hemograma 
+- PCR
+- <span class= "dx" >Hemocultivos</span> ( 2, de distintas punciones)
+- Orina completa más urocultivo (recordar si OC por recolector sale alterado, se debe sondear al paciente)
+- <span class= "dx" >Punción lumbar</span> (3 tubos para cito químico, cultivo y muestra crítica para mayores estudios posteriores)
+- En contexto de COVID, se agregaba PCR SARS CoV 2 o antígeno SARS CoV 2, según realidad local.
+
+**Radiografía de tórax y panel viral (inmunofluorescencia o reacción de polimerasa en cadena) si el paciente presenta síntomas respiratorios.
+
+Conducta:
+- Hospitalizar a todos
+- ATB empíricos: (cobertura de enterobacterias + ampicilina para cobertura de SGB, Enterococcus, Listeria.)
+	- Sin compromiso SNC: Ampicilina 200 mg/kg/dia + Amikacina 15 mg/kg/dia ev
+	- Con compromiso SNC*: Ampicilina 300 mg/kg/dia + Cefotaxima 300 mg/kg/dia ev
+
+*(si no se puede PL, asumir compromiso SNC)
+
+### Lactante 28 días - 3 meses
+
+Criterios de bajo riesgo de infección bacteriana invasora (IBI) de Rochester
+
+Examenes:
+- hemograma, 
+- PCR 
+- OC + UC
+
+Crit de Rochester:
+1. El niño tiene buen aspecto
+2. El niño ha sido previamente sano
+	- Nacido de término (>37 semanas de gestación)
+	- No recibió tratamiento antibiótico periodo perinatal
+	- No tuvo tratamiento de hiperbilirrubinemia no explicada
+	- No estar ni haber recibido tratamiento antibiótico
+	- No haber estado previamente hospitalizado
+	- No tiene enfermedad crónica o de base
+	- No estuvo hospitalizado más tiempo que la madre
+3. Sin evidencia de infección de piel, tejidos blandos, articulación u oído
+4. Valores de laboratorio:
+	- RGB 5000 - 15000/mm3
+	- Recuento absoluto de baciliformes <1500 /mm3
+	- Sedimento de orina con menos de 10 leucocitos/campo
+	- Si hay diarrea menos de 5 leucocitos/campo en extendido fecal (en desuso).
+
+Si cumple TODOS los criterios -> bajo riesgo
+- Dar una dosis de cefalosporina de 3ª generación im o ev (Ej: Ceftriaxona) y control clínico ambulatorio con resultado de cultivos en 24 hr.
+- Observación clínica en su casa u hospitalizado, según contexto sociocultural de la familia, sin tratamiento antimicrobiano y control en 24 hr con resultado de cultivos.
+
+Si no cumple alguno de los criterios o aspecto tóxico -> alto riesgo -> manejar como RN, considerando:
+- menor probabilidad de microorganismos del canal del parto.
+- documentación de una PNA como foco clínico no es necesario realizar una PL dado que la barrera hematoencefálica está lo suficientemente madura
+
+ATB empíricos:
+- Sin compromiso SNC: Ampicilina 200 mg/kg/dia + Amikacina 15 mg/kg/dia ev
+- Con compromiso SNC: Cefotaxima 300 mg/kg/dia + Vancomicina 60 mg/kg/dia ev (no cubrimos listeria)
+
+### 3 meses a 3 años
+
+Ifecciones virales son mucho más frecuentes, con menor riesgo de IBI
+
+Descartar ITU por cmplx renales
+
+- En caso de sintomatología claramente de origen viral, por ejemplo síntomas respiratorios, el manejo debe ser sintomático.
+- Si existe un foco clínico como otitis media aguda, infección de piel y tejidos blandos, enteritis, neumonía, el tratamiento se basa en la etiología sospechada.
+- En caso de paciente <span class= "dx" >sin infección localizadas </span> y que tiene menos de 2 dosis contra HiB y neumococo o padece de alguna inmunodeficiencia, se sugiere hemograma:
+	- hemocultivos y, 
+	- a veces, punción lumbar, dependiendo del contexto.
+
+<div class= "tto" >
+Si no tienen acceso a exámenes, el inicio empírico de tratamiento antibiótico no debe esperar. Importante recordar que si el niño de mal aspecto, se debe iniciar tratamiento antibiótico.
+</div>
+
+
+## Exantemas
+
+Lo básico para diferenciar:
+- Sarampión: Fiebre alta + catarro (conjuntivitis, tos) + manchas de Koplik.
+- Rubéola: Fiebre leve + linfadenopatía retroauricular + exantema suave.
+- Exantema súbito: Fiebre que desaparece bruscamente + exantema troncal.
+- Eritema infeccioso: Mejillas abofeteadas + exantema en encaje.
+- Escarlatina: Fiebre alta + faringitis + exantema áspero y lengua en "fresa".
+
+| Característica       | Sarampión                      | Rubéola                      | Exantema súbito               | Eritema infeccioso            | Escarlatina                      |
+|----------------------|--------------------------------|------------------------------|--------------------------------|--------------------------------|----------------------------------|
+| **Fiebre**           | Alta (>39-40°C)               | Baja o moderada              | Alta, desaparece bruscamente   | Baja                          | Alta                             |
+| **Pródromo**         | Conjuntivitis, coriza, tos     | Linfadenopatía retroauricular | Fiebre sin otros síntomas      | Síntomas inespecíficos        | Faringitis, lengua en "fresa"    |
+| **Inicio Exantema**  | Cara, desciende               | Cara, se extiende rápidamente | Tronco, después de la fiebre   | Mejillas, luego en encaje     | Cuello y tórax                   |
+| **Características**  | Maculopapular, rojo intenso    | Maculopapular, leve          | Maculopapular rosado           | "Mejillas abofeteadas"        | "Papel de lija", palidez peribucal |
+| **Complicaciones**   | Neumonía, encefalitis         | Artritis, rubéola congénita  | Convulsiones febriles          | Anemia aplásica               | Fiebre reumática, glomerulonefritis |
+
+
+
 # Broncopulmonar
 
 Score de Tal modificado

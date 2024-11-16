@@ -2776,9 +2776,16 @@ La producción extraadrenal de cortisol por acción de la 11β-HSD1 puede estar 
 ## Laboratorio reumato
 
 ![anticuerpos reumato](image-4.png)
+
 ![ANA](image-5.png)
 
 ![Liquido sinovial](image-6.png)
+
+Si > 50.000 GB es a. Séptica hasta que se demuestre lo contrario.
+
+S. aureus es el más frecuente en artritis séptica.
+
+![cristales](image-7.png)
 
 ## Vasculitis diagnóstico diferencial
 
@@ -4790,6 +4797,11 @@ Clasificaciones artritis:
 - Migratoria: poco frecuente, de lupus o ¿reactiva?
 - Entesitis? pelviespondiloartropatías
 
+AR:
+- Es raro que de fiebre
+- Para la vida, es raro que las articulaciones inflamadas se muestren eritematosas.
+
+
 ## Dx artritis
 
 Monoatritis aguda febril:
@@ -4805,6 +4817,59 @@ Oligo/poliartritis:
 - Crónica (>6 semanas):
   - Simétrica: AR (y casi todas las mesenquimopatías)
   - Asimétricas: <span class= "dx" >Psoriática</span> /SpA, Cristales, etc.
+
+# Gastroenterología
+
+## Virus Hepatitis
+
+![grafico ex  virus hepatitis](image-8.png)
+<table>
+<thead>
+<tr>
+<th colspan="9" scope="row"> Interpretation of hepatitis B serology <sup  >[20]</sup><sup   >[23]</sup><sup   >[28]</sup>
+</th> </tr>
+<tr>
+<th colspan="2" scope="row"></th> <th scope="col">HBsAg</th> <th scope="col">Anti-HBs</th> <th scope="col">Anti-HBc</th> <th scope="col"> <div>HBeAg</div> </th> <th scope="col">Anti-HBe</th> <th scope="col">HBV DNA</th> <th scope="col">Transaminases</th> </tr>
+</thead>
+<tbody>
+<tr>
+<th colspan="2" scope="row">Acute infection</th> <td>↑</td> <td>Undetectable</td> <td>↑ IgM</td> <td>↑</td> <td>Undetectable</td> <td>Undetectable or ↑ </td> <td>↑ (ALT &gt; AST)</td> </tr>
+<tr>
+<th colspan="2" scope="row"> <div>Window period</div> </th> <td>Undetectable</td> <td>Undetectable</td> <td> ↑ IgM → ↑ IgG </td> <td>Undetectable</td> <td>Undetectable or ↑</td> <td>Undetectable or ↑ </td> <td>↑ (ALT &gt; AST)</td> </tr>
+<tr>
+<th rowspan="2" scope="row"> <div>Chronic infection </div> </th> <th scope="row"> <div>Active (high transmissibility) </div> </th> <td> ↑  </td> <td>Undetectable  </td> <td>↑ IgG</td> <td> ↑  </td> <td>Undetectable</td> <td> <div>HBV DNA &gt; 2000 IU/mL</div> </td> <td> Normal or ↑  </td> </tr>
+<tr>
+<th scope="row"> <div>Inactive (low transmissibility) </div> </th> <td>↑</td> <td>Undetectable</td> <td>↑ IgG</td> <td> <div>Undetectable</div> </td> <td>↑</td> <td> HBV DNA ≤ 2000 IU/mL </td> <td> Normal  </td> </tr>
+<tr>
+<th colspan="1" rowspan="2" scope="row">Immunity</th> <th scope="row">Resolved infection</th> <td colspan="1" rowspan="2">Undetectable</td> <td colspan="1" rowspan="2">↑</td> <td>↑ IgG</td> <td colspan="1" rowspan="2">Undetectable</td> <td>↑</td> <td colspan="1" rowspan="2">Undetectable</td> <td colspan="1" rowspan="2">Undetectable</td> </tr>
+<tr>
+<th scope="row">HBV vaccination</th> <td>Undetectable</td> <td>Undetectable</td> </tr>
+</tbody>
+</table>
+
+## Datitos EUNACOM
+
+Cirrosis: 
+- Síntomas inespecíficos (anorexia, fatiga)
+- EF:
+  - Hígado al inicio firme, aumentado de tamaño. Más tarde contraído y nodular
+  - Signos de HT portal (esplenomegalia y ascitis.)
+  - Signos de insuficiencia hepática: BT >2.5, angiomas en araña, eritema palmar, contractura de dupuytren, lineas ungueales blancas , aumento de glándulas parótida y lagrimal, ginecomastia, atrofia testicular, asterixis, encefalopatía hepática, dedos en palillo de tambor, osteoartropatía hipertr´pfica
+- Lab: 
+  - <span class= "dx" >↑ BT, ↓albúmina, ↑INR</span>
+  - Elevación leve aminotransferasas (GOT > GPT)
+  - ↑ variable FA
+  - Anemia, neutropenia, plaquetopenia
+  - HipoNa, ↑Fe, ↑Ferritina
+- Si tiene de los hallazgos anteriores, pensar en cirrosis más que esteatohepatitis/hígado graso.
+- Descompensada: ictericia, ascitis, encefalopatía, hemorragia variceal
+- Estudio diagnóstico: 
+  - Eco doppler abdominal. Luego realizar seguimiento cada 6 meses para pesquiza precoz de hepatocarcinoma (se puede pedir en APS)
+  - Valoración fibrosis: biomarcadores, elastografía
+  - Bp hepática (no se realiza en la práctica)
+  - <span class= "dx" >Estudio etiológico</span>
+
+
 
 # Cuidados Paliativos
 
