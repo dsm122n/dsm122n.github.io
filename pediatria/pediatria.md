@@ -1468,3 +1468,4 @@ Dr Guillermo Zepeda gzepedaflores@uchile.cl
 - Hiperplasia suprarrenal congenita en contexto de Shock por intercurrencia (ej, infecto), requiere <span class= "tto" >corticoides</span> EV. no fludro????
 - En lactante, si cuadro de streptococia (faringoamigdalitis, adenopatías), lo más probable no es estrepto, adenovirus. No dar ATB
 - Revisar VRS, ojo vacuna 
+- Para rinitis alérgica ped y adulto, guías ARIA [click aquí](https://www.euforea.eu/pocket-guides)
