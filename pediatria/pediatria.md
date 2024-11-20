@@ -778,7 +778,7 @@ Score de Tal modificado
 Asthma Prediction index
 
 | Criterios mayores | Criterios menores |
-| -| -| 
+| --| --| 
 | Asma en Padre | Rinitis alérgica |
 | Eczema | Sibilancias sin resfrio | 
 | Alergia alimentaria | Eosinofilia (>4%) |
@@ -1167,15 +1167,15 @@ Según tipo de ITU
 
 | Edad | Tipo de ITU | Estudios a solicitar y tiempo |
 |------|-------------|-------------------------------|
-| Cualquier edad | Primera ITU | <b><span style="color:#3b528b">Eco Renal y Vesical</span></b> a las 6-8 semanas post primera ITU. Repetir anualmente si hay alteración en la ecografía. |
-| Cualquier edad | ITU recurrente | <b><span style="color:#3b528b">Cintigrama DMSA</span></b>. |
-| Menos de 3 años | ITU recurrente | <b><span style="color:#3b528b">Uretrocistografía</span></b>. Necesita profilaxis para prevenir futuras ITU. |
-| Menos de 6 meses | ITU recurrente | <b><span style="color:#3b528b">Eco Renal y Vesical</span></b> <b><span style="color:#5ec962">precozmente</span></b>. Repetir anualmente si hay alteración en la ecografía. |
-| Cualquier edad | ITU atípica | <b><span style="color:#3b528b">Eco Renal y Vesical</span></b> <b><span style="color:#5ec962">precozmente</span></b>. Repetir anualmente si hay alteración en la ecografía. |
-| Menos de 3 años | ITU atípica  | <b><span style="color:#3b528b">Cintigrama DMSA</span></b>. |
-| Menos de 6 meses | ITU atípica | <b><span style="color:#3b528b">Uretrocistografía</span></b>. Necesita profilaxis |
-| Cualquier edad | Eco R-V sugiere cicatrices renales | <b><span style="color:#3b528b">Cintigrama DMSA</span></b>. |
-| Menos de 3 años | ITU con alteración eco | <b><span style="color:#3b528b">Uretrocistografía</span></b>. Necesita profilaxis para prevenir futuras ITU. |
+| Cualquier edad | Primera ITU | <b><span class="dx">Eco Renal y Vesical</span></b> a las 6-8 semanas post primera ITU. Repetir anualmente si hay alteración en la ecografía. |
+| Cualquier edad | ITU recurrente | <b><span class="dx">Cintigrama DMSA</span></b>. |
+| Menos de 3 años | ITU recurrente | <b><span class="dx">Uretrocistografía</span></b>. Necesita profilaxis para prevenir futuras ITU. |
+| Menos de 6 meses | ITU recurrente | <b><span class="dx">Eco Renal y Vesical</span></b> <b><span style="color:#5ec962">precozmente</span></b>. Repetir anualmente si hay alteración en la ecografía. |
+| Cualquier edad | ITU atípica | <b><span class="dx">Eco Renal y Vesical</span></b> <b><span style="color:#5ec962">precozmente</span></b>. Repetir anualmente si hay alteración en la ecografía. |
+| Menos de 3 años | ITU atípica  | <b><span class="dx">Cintigrama DMSA</span></b>. |
+| Menos de 6 meses | ITU atípica | <b><span class="dx">Uretrocistografía</span></b>. Necesita profilaxis |
+| Cualquier edad | Eco R-V sugiere cicatrices renales | <b><span class="dx">Cintigrama DMSA</span></b>. |
+| Menos de 3 años | ITU con alteración eco | <b><span class="dx">Uretrocistografía</span></b>. Necesita profilaxis para prevenir futuras ITU. |
 
 
 ### Sindrome escrotal agudo
@@ -1293,12 +1293,12 @@ Residuo postmiccional elevado: <span class="sn">mayor a 20  ml</span>
   <tr>
 	<td> Fimosis</td>
 	<td> Circuncisión si si:
-		<li> <span class= "dx" >> 4 años</span>
+		<li> <span class= "dx" > > 4 años (aunque actualmente hay duda si derivar por edad, sino más bien según cmplx como dolor)</span>
 		<li> <span class= "dx" >Balanitis</span> a repetición
 		<li> <span class= "sn" >Parafimosis</span>
 		<li> ITU en menores de 1 año
 	</td>
-	<td> Corticoides tópicos (<span class= "tto" >betametasona 0.05%</span> 2 veces al día por 4 a 8 semanas [un cx infantil la dejaba mes por medio y le resultaba]) puede ser útil en adherencias balanoprepuciales
+	<td> Corticoides tópicos (<span class= "tto" >betametasona 0.05%</span> 2 veces al día por 4 a 8 semanas [un cx infantil la dejaba mes por medio y le resultaba]) puede ser útil en adherencias balanoprepuciales. <br> No hay grandes estudios, es discutible. 
 	</td>
   </tr>
 </table>
@@ -1318,3 +1318,153 @@ Hemotransfusión:
 ![indice_tmt_pediatrico](indice_tmt_pediatrico.png)
 
 <8 derivar a otro centro de trauma de mayor complejidad
+
+# Tips EUNACOM
+
+Dr Guillermo Zepeda gzepedaflores@uchile.cl
+
+- RN PEG, iniciar LM y control de glicemia (recordar riesgo de hipoglicemia, metab Ca P, )
+- Si RN < 34 s o < 2 kg regimen 0 + hidratación EV por mayor riesgo Enterocolitis necrotizante
+- Talla baja, inf respi, neo se repite harto en eunacom
+- SDR: taquipnea transitoria, enf membrana hialina, sd aspiración meconial, otras (Cardio, infecto). 
+- SDR causa cardio vs respi: dx con prueba de oxigeno
+- Vomitos *post-prandiales*, enflaquecido, --> sd pilórico --> Eco abdominal
+	- No rx abdomen simple porque es menos sensible (solo muestra obstrucción intestinal)
+	- Se opera tras corrección de alteraciones ELP (tb han hecho pregunta por esto) --> hipoNa (según deshidratación), pH baja, hipoLK, hipocloremia
+- Inmunodeficiencia
+	- Neumonía recurrente: solo se puede tener 1 neumonía **condensante** al año, >1 es recurrente
+	- SBOR: >3
+	- Otitis media recurrente >3
+	- Diarrea >4
+	- (me faltó una)
+- Celulares-virales, mixtas-hongos, humorales-bacterianas
+- Otras especiales: VIH- patógenos específicos
+- La inmunodeficiencia más frecuente en humanos: humorales, particularmente déficit de IgA.
+- Inmunodeficiencia común variable es muy grave, llegan shockeados, con meningococcemia. Probablemente no nos llegue a nosotros
+- (en la viñeta clínica destaca más lo bacteriano)
+- CMV, VH-6, VEB, --> inmunodeficiencia celular
+- Déficit complemento (ejemplos reales es casi incompatible con la vida) --> Complemento de ataque de membranas contra bacterias --> inf graves por bacterias
+- Hace 5 años infectos recomendaron bajar la dosis de amoxi y suele andar bien. Guía GES que salió viernes pasado se bajó dosis de amoxi. Tto otitis y sinusitis se mantiene 10 días. 50 mg/kg
+- Revisar indicaciones ATB en OMA
+	- menor 6 meses, 
+	- bilateral, 
+	- otorrea
+	- Siempre primera opción es amoxi :) **pneumococo**. Recontrolar 48h para ver evolución
+- Escolar, Tos, ruidos pulmonares, alt radiograficas (inespecíficas no son específicas) --> intracelular --> más probable mycoplasma
+	- Bordetella pertussis: tos paroxística, apnea, cianosis, vómitos post-tos. Tb es probable, pero no lo más probable
+	- Influenza no porque le falta fiebre. Para que dé alt rx se necesita que paciente esté muy sintomático
+- Neumonias del RN/connatal: 
+	- Recién nacido, que inicia cuadro de conjuntivitis agua asociado a tos seca, crepitaciones bilaterales y sibilancias. ¿Cuál es el diagnóstico y agente etiológico más probable?
+		- No es sepsis
+		- Para hacer el cuadro más evidente, podría haber tenido eosinofília. Recordar canal del parto a esta edad
+		- neumococo no porque a esta edad es catastrófico
+		- adenovirus no porque, porque más frecuente canal del parto y hubiera dejado la grande
+	- Clamydia trachomatis: conjuntivitis, neumonía. Tto adecuado: <span class= "tto" >**azitromicina** 10 mg/kg día por 5 días</span> . 2a linea: doxi
+	- Gonococo: 1a hospitalizar, PL SÍ O SÍ. Conjuntivitis gonocócica es bien categórica. Es menos frecuente.
+- Conjuntivitis, tto tópico: cloranfenicol -> tobramicina -> ciprofloxacino
+	- En hospitalizado: CULTIVO de secreción ocular
+	- Ungüentos se ocupan en >1 año, antes gotas
+- Sépsis neonatal: **EMERGENCIA**. 
+- Niño con cuadro de fiebre de 7 días de evolución, ojo y lengua roja, adenopatías cervicales y exantema maculopapular. ¿Cuál es la complicación más probable? --> kawasaki. Lo pueden preguntar de muchas formas
+	- 5 días de fiebre + otras cositas
+		- Labios rojos
+		- Adenopatías
+		- Exantema (cualquier cosa menos vesicular)
+		- Ojo rojo
+		- Descamación
+	- Cmplx principales --> aneurismas coronarios
+	- Tto kawasaki: <span class= "tto" >**inmunoglobulina** 2 g/kg en dosis única</span> + <span class= "tto" >**aspirina** 80-100 mg/kg/día</span>
+	- PIMS (SIMS) se confunde con kawasaki. Si tiene antecedente de covid, es más probable PIMS
+- Sd febril prolongado:
+- Granulomas hepatoesplénicos: bastante específico de *Bartonella henselae*
+	- Tto: <span class= "tto" >azitromicina 10 mg/kg día por 5 días</span>
+	- Si compromiso más de un organo, tto biasociado hospitalizado
+- VEB más esplenomegalia que hepato. 
+- Ubicación de adenopatía en bartonella, no es relevante
+- Niño de 5 años consulta por cuadro de fiebre, odinofagia, ojo rojo bilateral y conjuntivitis --> ADV
+- Rxn anafiláctica a huevo --> contraindicada vacuna fiebre amarilla. Es de las pocas vacunas actualmente producida con huevo
+- Anafilaxia: 2 o más sistemas comprometidos
+- Contraindicaciones Vac flu: anafilaxia contra misma vacuna, requiere protocolo especial para administración
+- Estrabismo: 
+	- Intermitente: volver a controlar. <span class= "dx" >d/dx a los 6 meses si persisten</span> 
+	- Fijo: retinoblastoma y catarata --> d/dx siempre
+- Impétigo:
+	- Buloso/ampollar: S. aureus -> tto <span class= "tto" >cloxa/flucloxa</span>
+	- bulgar: S. pyogenes -> tto <span class= "tto" >peni</span>. Costra mielicérica (color miel)
+	- Tto sistémico vs tópico: 
+		- Extensión
+		- Ubicación: periorificiales (mejor sistémico)
+		- Número de lesiones: si dificil de contar, mejor sistémico
+		- Cremas: mupirocina, fucidin
+		- Sistémico: cloxa / cefadroxilo
+- Si éxamen de OC por recolector alterado: repetir examen por sondeo vesical. No se suele hacer por punción vesical
+	- UFC por examen
+		- Espontaneo: 100.000 UFC
+		- Sondeo: 10.000 UFC
+		- Punción: 10 UFC
+- Si ITU febril en Lactante --> siempre estudiar con eco renal y vesical
+- Si ITU febril en Lactante --> siempre estudiar con eco renal y vesical
+- Sarampión no lo deberían preguntar, pero viñeta clasica es 
+	- Viene de viaje, tos, fiebre alta, ojo rojo, fotofobia, exantema
+- Exantema súbito: 3-5 días de fiebre, luego exantema
+- PAtología onco más frecuente en humanos: Leucemia, particularmente LLA
+- Tu sólidos, los más frecuentes: Neuroblastoma (SNC y/o mediastino), **Willms**
+- Riñón poliquistico asintomático. Se puede palpar. No suele dar hematuria
+- Soplo inocente:
+	- Sistólico
+	- III/VI o menos
+	- Tono bajo
+	- Cambia con las posiciones
+	- No se asocia con problemas de ningún tipo
+- comunicación interauricular vs CIV, CIA no da síntomas, no se opera
+- Ductus es soplo continuo, se irradia a espalda.
+- Coartación ao, diferencia de pulsos, Disnea, paciente se ve complicado (con IC)
+- Tetralogía Fallot, se podría preguntar en relación a manejo: <span class= "tto" >O2 100%, morfina, posición genupectoral</span>
+- bicitopenia febril y Pancitopenia siempre hospitalizar 
+- Hematoquecia en pediatría --> divertículo de Meckel
+- Poliposis --> más en adolescentes, ...
+- Hipertrofia adenoídea:
+	- roncopatía, rinorrea, ...
+- Rinitis alérgica vs hipertrofia adenoides
+	- Rinitis: prurito, estornudos, rinorrea, obstrucción nasal, es más frecuente, Sin roncopatía
+		- Diagnóstico es clínico. Prick test se hace después de 4 años. >3 mm es positivo
+		- Tto es con <span class= "tto" >corticoides intranasales</span>
+	- Hipertrofia adenoidea se centra más en roncopatía.
+- Dermatitis del pañal vs dermatitis micótica
+	- Dermatitis del pañal: <span class= "tto" >óxido de zinc</span> 
+	- Diferenciar: micosis con lesiones satélites y compromete pliegues
+- Coqueluche: ojo hipertensión pulmonar por hiperleucocitosis de predominio MN (puede llegar hasta 100.000). Taquicardia tb es por eso
+	- Dg: PCR
+- Lactante menor de 3 meses consulta por presentar desde hace 15 días diarrea. Seobserva deshidratado con marcado decaimiento. Al examen físico se aprecia su escrotohiperpigmentado y en sus exámenesdestaca hiponatremia e hiperkalemia. El diagnósticoes: Hiperplasia suprarrenal congenita. Tto <span class= "tto" >Corticoides</span>
+- Pie mano boca: asociado a <span class= "sn" >recambio de uñas </span> en adultos y adolescentes
+- Parainfluenza suele dar faringitis Lactante mayor de 16 meses consulta por presentar cuadro de fiebre hasta 38,7°C,asociado a tos intensa, que en los últimosminutos se ha acompañade respiraciónruidosa y dificultad para respirar. Al examen físicose aprecia estridor inspiratorio y uso demusculatura accesoria. El agente etiológicomásprobable es:
+- Manejo de IC en pediatría: Hospitalizar, O2 restricción volumen y diuréticos.
+- Diagnóstico de Streptococia: 
+	- Ideal cultivo (Gold standard)
+	- Test pack tiene sobre 97% de sensibilidad
+	- Kits de test packs son muy utiles y rápidos, con sensibilidad alta
+- Para efectos de eunacom pediatrico, no debería aparecer hipogonadismo (salvo en klinefelter). Acondroplasia tampoco debería aparecer
+- Retardo constitucional de crecimiento....
+- Oseltamivir dar en:
+	- niño hospitalizado por flu
+	- ambulatorio sano solo en embarazadas
+	- < 1 año solo si comorbilidades
+	- ...
+- Ya no corre el dar antes de 48h el oseltamivir
+- Reanimación shock hipovolémico (diarrea) --> número SFmágico 20 cc/kg en bolo 
+- <span class= "dx" >70 + 2 x (edad en años) = PAS</span>
+- Lactante mayor de 14 meses es traído a urgencias por cuadro de 4 días de evolución deepisodios de tos repetitiva durante el día, asociado a decaimiento, rechazo alimentario,náuseasy vómitos. Al examen físicose aprecia hemorragia subconjuntival derecha,examen pulmonar con murmullo pulmonar presente. El agente etiológicomásprobable eneste caso es: <span class= "dx" >bordetella pertusis</span>. <span class= "sn" >Hemorragia subconjuntival es por valsalva</span>
+- PCT, Amitriptilina u opioides las intox más preguntadas
+- Preescolar de 3 añospresenta un episodio brusco de tos intensa, asociado a cianosis ydisnea, que remite luego de pocos minutos. Persiste luego con tos en salvas yexpectoración. Al examen pulmonar se auscultan roncusy sibilancias, mayores en el ladoderecho. La conducta másadecuada es: Si asimetría en signología obstructiva --> anatómico --> descartar cuerpo extraño. Broncoscopía sirve de estudio y manejo, laringoscopía no llega tan abajo. TC: Solo diagnostico
+- Examen genital en lactante y RN: no traccionar prepucio porque puede generar erosiones.
+- Crisis celiaca como concepto nunca aparecería en eunacom
+- Hiperplasia suprarrenal congenita: <span class= "sn" >hiperpigmentación </span> aparte de las otras alteraciones ELP
+- SRO en Pediatría: Na 70 mEq
+- A. Séptica codo en niño: más frecuente S. aureus
+- Sd Down: 
+	- cardiopatía más frecuente es Canal auriculo ventricular
+	- Cardiopatía más freceunte es CIV
+- desdoblamiento + soplo sistólico, más frecuente CIA. Es muy asintomática, pueden llegar a adultos sin problemas
+- Hiperplasia suprarrenal congenita en contexto de Shock por intercurrencia (ej, infecto), requiere <span class= "tto" >corticoides</span> EV. no fludro????
+- En lactante, si cuadro de streptococia (faringoamigdalitis, adenopatías), lo más probable no es estrepto, adenovirus. No dar ATB
+- Revisar VRS, ojo vacuna 
