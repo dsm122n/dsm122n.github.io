@@ -1319,6 +1319,22 @@ Hemotransfusión:
 
 <8 derivar a otro centro de trauma de mayor complejidad
 
+# Neonatología
+
+## Ictericia neonatal
+
+Factores de riesgo de neurotoxicidad por hiperbili (para evaluar qué gráfico usar)
+- Gestational age <38 wk and this risk increases with the degree of prematuritya
+- Albumin <3.0 g/dL
+- Isoimmune hemolytic disease (ie, positive direct antiglobulin test), G6PD deficiency, or other hemolytic conditions
+- Sepsis
+- Significant clinical instability in the previous 24 h
+
+![niveles_bili](niveles_bili.png)
+![niveles_bili_fr](niveles_bili_fr.png)
+
+
+
 # Tips EUNACOM
 
 Dr Guillermo Zepeda gzepedaflores@uchile.cl

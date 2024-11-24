@@ -18,17 +18,20 @@
 
 ## Periquerático/profundo
 - Glaucoma 
-NO dat atropina ni midriáticos (dilatan pupila y empeoran glaucoma)
+<span class= "sn" >NO dar atropina ni midriáticos</span> (dilatan pupila y empeoran glaucoma)
 (cursivas --> not sure)
+
+** dar los verdes sí o sí + alguno azul (para disminuir P). Si se dispone de más, darle con todo
 
 | Fco | Dosis | Presentación | Comentarios |
 |---|---|---|---|
 | Pilocarpina | *1 a 2 gotas* | *2%* | colinérgico: drenaje vía trabecular |
-| Latanoprost | *1 gota* | *0.005%* | análogo prostaglandinas: drenaje vía uveoescleral  |
-| Timolol | *1 gota* | *0.5%* | beta bloqueador: disminuye producción humor acuoso |
-| Brimonidina | *1 gota* | *0.2%* | agonista alfa 2: disminuye producción humor acuoso |
-| Acetazolamida | 250mg c/6h, 500 mg (carga) VO| 250 mg | inhibidor anhidrasa carbónica: disminuye producción humor acuoso. Contrind: alergia sulfonamidas, EPOC severo, ¿etnia afrocaribeña? (anemia falciforme), antecedente litiasis, embarazo |
-| Manitol | 15% ->**10** a 13 cc/kg. 20% ->7.5 a **10 cc/kg** EV| 15% o 20% | osmótico: deshidratación de humor ¿vitreo?. Contraind: Hipersensibilidad, EPA, Anuria-deshidratación severa, insuf cardiaca-renal-hepática, Eo confusión mental, hipotermia |
+| <span class= "tto" >Latanoprost</span> | *1 gota* | *0.005%* | análogo prostaglandinas: drenaje vía uveoescleral  |
+| <span class= "tto" >Timolol</span> | *1 gota* | *0.5%* | beta bloqueador: disminuye producción humor acuoso |
+| <span class= "tto" >Brimonidina</span> | *1 gota* | *0.2%* | agonista alfa 2: disminuye producción humor acuoso |
+| <span class= "tto" >Acetazolamida</span> | 250mg c/6h, 500 mg (carga) VO| 250 mg | inhibidor anhidrasa carbónica: disminuye producción humor acuoso. Contrind: alergia sulfonamidas, EPOC severo, ¿etnia afrocaribeña? (anemia falciforme), antecedente litiasis, embarazo |
+| <span class= "tto" >Manitol</span> | 15% ->**10** a 13 cc/kg. 20% ->7.5 a **10 cc/kg** EV| 15% o 20% | osmótico: deshidratación de humor ¿vitreo?. Contraind: Hipersensibilidad, EPA, Anuria-deshidratación severa, insuf cardiaca-renal-hepática, Eo confusión mental, hipotermia |
+
 
 ![tratamiento glaucoma agudo](tratamiento_glaucoma_agudo.png)
 

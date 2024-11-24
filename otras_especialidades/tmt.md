@@ -97,3 +97,475 @@ DOI:10.1097/MOP.0000000000000977:
 
 ![fisis_aportes](fisis_aportes.png)
 
+# Adulto
+
+## Dolor Lumbar
+
+Banderas rojas:
+
+<table>
+    <thead>
+        <tr>
+            <th>Finding</th>
+            <th>Cauda equina syndrome</th>
+            <th>Fracture</th>
+            <th>Cancer</th>
+            <th>Infection</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Age > 50 years</td>
+            <td></td>
+            <td>X</td>
+            <td>X</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Fevers, chills, recent urinary tract or skin infection, penetrating wound near spine</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>X</td>
+        </tr>
+        <tr>
+            <td>Significant trauma</td>
+            <td></td>
+            <td>X</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Unrelenting night pain or pain at rest</td>
+            <td></td>
+            <td></td>
+            <td>X</td>
+            <td>X</td>
+        </tr>
+        <tr>
+            <td>Progressive motor or sensory deficit</td>
+            <td>X</td>
+            <td></td>
+            <td>X</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Saddle anesthesia, bilateral sciatica or leg weakness, difficulty urinating, fecal incontinence</td>
+            <td>X</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Unexplained weight loss</td>
+            <td></td>
+            <td></td>
+            <td>X</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>History of cancer or strong suspicion for current cancer</td>
+            <td></td>
+            <td></td>
+            <td>X</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>History of osteoporosis</td>
+            <td></td>
+            <td>X</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Immunosuppression</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>X</td>
+        </tr>
+        <tr>
+            <td>Chronic oral steroid use</td>
+            <td></td>
+            <td>X</td>
+            <td>X</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Intravenous drug use</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>X</td>
+        </tr>
+        <tr>
+            <td>Substance abuse</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>X</td>
+        </tr>
+    </tbody>
+</table>
+
+
+![Epidemiología dolor lumbar](epi_dolor_lumbar.png)
+
+![etiologia_dolor_lumbar](etiologia_dolor_lumbar.png)
+
+![examen_dolor_lumbar](examen_dolor_lumbar.png)
+
+![guia_ges_dol_lumbar](guia_ges_dol_lumbar.png)
+
+### Tto general dolor lumbar
+
+- Reposo relativo (max 1 a 2 días). Evitar esfuerzos mayores e indagar por exposició
+- Calor local húmedo (por 20 minutos 3 a 4 veces)
+- Analgesia (PCT, dipirona, clonixinato de lisina)
+- Dolor agudo
+    - AINEs max por 7 a 10 días
+    - Relajante muscular (si contractura muscular, componente psicógeno o alteraciones sueño)
+- Segunda línea
+    - Duloxetina o
+    - Tramadol
+- Opioides (último recurso)
+- Neuropático
+    Análogos GABA (Carbamazepina, gabapentina, pregabalina)
+- KNT (mayor utilidad en síndrome dolor lumbar miofascial)
+- Control en 1 semana
+
+# Tablas resumen fracturas
+
+## Hombro
+
+<table>
+    <thead>
+        <tr>
+            <th>Lesión</th>
+            <th>Mecanismo de lesión</th>
+            <th>Clínica</th>
+            <th>Estudio</th>
+            <th>Tratamiento</th>
+            <th>Indicaciones Cx</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Fractura de Clavícula (más frecuente tercio medio)</td>
+            <td>Indirecto más frecuente. Caída con hombro en aducción y flexión; Mano y codo en extensión</td>
+            <td>Disyunción acromioclavicular (⅓ lateral)</td>
+            <td>Rx AP e inclinación cefálico (20-30º). Medial - Serendipity; Lateral - Zanca</td>
+            <td>Ketorolaco 60 mg EV. O ambulatorio - AINE + PCT ± tramadol. Cabestrillo, crioterapia, licencia y derivación</td>
+            <td>Fractura expuesta, daño neurovascular, desplazamiento >100%, acortamiento >2 cm, fractura conminuta</td>
+        </tr>
+        <tr>
+            <td>Disyunción acromioclavicular</td>
+            <td>SM; deportistas de contacto</td>
+            <td>Lesión ligamento acromioclavicular, ± coracoclavicular</td>
+            <td>Rx comparativa de hombro, Rx axilar de hombro. Se clasifica en 6 (ROCKWOOD)</td>
+            <td>Analgesia, cabestrillo, dormir sentado, licencia y derivar. I y II se siguen por médico general</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Fractura de húmero proximal</td>
+            <td>Extremidad en extensión y elevación o golpe directo en el hombro</td>
+            <td>Brazo en rotación interna, dolor, impotencia funcional, equimosis</td>
+            <td>Rx AP verdadera de hombro, outlet y axilar de hombro. TC grado de desplazamiento NEER</td>
+            <td>Lo mismo que los otros. No hay consenso en cuando hacer cirugía</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Fractura diafisiaria de húmero</td>
+            <td>Directo x accidente de auto, más frec. Indirecto por caída con codo en extensión, personas mayores, espiroidea </td>
+            <td>Deformidad angular, edema, equimosis, mano en gota si se lesiona nervio radial</td>
+            <td>Rx de húmero AP y lateral. </td>
+            <td> Valva de yeso tipo sugar tong, cabestrillo solo a mano, analgesia, licencia, dormir semisentade y derivar</td>
+            <td> Fracturas expuestas, inestable o desplazada, fractura de hueso patológico, hombro o codo flotante</td>
+        </tr>
+        <tr>
+            <td>Luxación de hombro (glenohumeral)</td>
+            <td>Golpe desde posterior. Caída con brazo en abducción y rotación externa</td>
+            <td>Charretera, dolor, impotencia funcional</td>
+            <td>Rx AP verdadera de hombro, outlet y axilar de hombro. En posterior: signo de la ampolleta, Trough Sign y Rim Sign</td>
+            <td>Urgencia traumatológica. Maniobras: Kocher, Spaso, tracción-contratracción</td>
+            <td>-</td>
+        </tr>
+    </tbody>
+</table>
+
+## Antebrazo
+
+<table>
+    <thead>
+        <tr>
+            <th>Lesión</th>
+            <th>Mecanismo de lesión</th>
+            <th>Clínica</th>
+            <th>Estudio</th>
+            <th>Tratamiento</th>
+            <th>Indicaciones Cx</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Luxofractura de Galeazzi</td>
+            <td>Extensión e hiperpronación del antebrazo</td>
+            <td>Fractura de ⅓ distal de radio + luxación de articulación radioulnar distal</td>
+            <td>Rx antebrazo/muñeca-codo AP y lateral</td>
+            <td>Reducción abierta con fijación estable</td>
+            <td>Tratamiento quirúrgico</td>
+        </tr>
+        <tr>
+            <td>Luxofractura de Monteggia</td>
+            <td>Extensión e hiperpronación del antebrazo</td>
+            <td>Fractura de ⅓ proximal de ulna + luxación de articulación radioulnar proximal</td>
+            <td>Rx antebrazo/muñeca-codo AP y lateral</td>
+            <td>Reducción abierta con fijación estable</td>
+            <td>Tratamiento quirúrgico</td>
+        </tr>
+        <tr>
+            <td>Essex Lopresti</td>
+            <td>Caída de altura con extremidad en extensión (alta energía)</td>
+            <td>Fractura cabeza del radio (proximal), luxación radioulnar distal. Mal pronóstico</td>
+            <td>Rx muñeca-codo AP y lateral</td>
+            <td>Lo antes posible</td>
+            <td>-</td>
+        </tr>
+    </tbody>
+</table>
+
+Lesión supracondílea de codo: estructura más dañada - nervio radial.
+
+## Codo
+
+<table>
+    <thead>
+        <tr>
+            <th>Lesión</th>
+            <th>Mecanismo de lesión</th>
+            <th>Clínica</th>
+            <th>Estudio</th>
+            <th>Tratamiento</th>
+            <th>Indicaciones Cx</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Luxación de codo</td>
+            <td>Caída con apoyo de la mano con el codo en hiperextensión y varo</td>
+            <td>Dolor, impotencia funcional absoluta y deformidad del codo</td>
+            <td>Rx AP y lateral antes y después de la reducción</td>
+            <td>Reducción cerrada. Inmovilizar 7 días</td>
+            <td>Si tras la reducción está inestable</td>
+        </tr>
+        <tr>
+            <td>Fractura del extremo proximal del radio (Mason)</td>
+            <td>Caída con apoyo sobre la extremidad en hiperextensión</td>
+            <td>Sospechar Essex Lopresti. Dolor generalizado en codo, impotencia funcional</td>
+            <td>Rx AP y lateral, proyección oblicua</td>
+            <td>Mason I: ortopédico, cabestrillo + AINE. Mason II: cirugía si >2 mm desplazado</td>
+            <td>-</td>
+        </tr>
+    </tbody>
+</table>
+
+## Pulgar
+
+<table>
+    <thead>
+        <tr>
+            <th>Lesión</th>
+            <th>Mecanismo de lesión</th>
+            <th>Clínica</th>
+            <th>Estudio</th>
+            <th>Tratamiento</th>
+            <th>Indicaciones Cx</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Luxofractura de Bennet</td>
+            <td>Luxofractura de la base del 1º MTC con luxación trapecio-metacarpiana</td>
+            <td>Fragmento menor queda estable</td>
+            <td>-</td>
+            <td>Reducción cerrada y fijación externa</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Fractura de Rolando</td>
+            <td>Fractura de la base del 1º MTC con 2 fragmentos unidos al trapecio en forma de T</td>
+            <td>Mal pronóstico</td>
+            <td>-</td>
+            <td>Reducción abierta</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Lesión de Stenner</td>
+            <td>Lesión del ligamento colateral ulnar de la articulación MTC-F</td>
+            <td>Inestabilidad y dolor crónico si no se trata. Comparar contralateral</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+    </tbody>
+</table>
+
+## Mano y muñeca
+
+<table>
+    <thead>
+        <tr>
+            <th>Lesión</th>
+            <th>Mecanismo de lesión</th>
+            <th>Clínica</th>
+            <th>Estudio</th>
+            <th>Tratamiento</th>
+            <th>Indicaciones Cx</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Fractura de radio</td>
+            <td>Caída en extensión de muñeca</td>
+            <td>Dolor, impotencia funcional, deformación dorsal en dorso de tenedor y desviación en bayoneta</td>
+            <td>Rx de muñeca AP y lateral. TC si se sospecha compromiso articular</td>
+            <td>Reducción cerrada, inmovilización con yeso BP, ejercicios de movilidad activa</td>
+            <td>Inestabilidad, intraarticular, escalones >2 mm postreducción</td>
+        </tr>
+        <tr>
+            <td>Fractura de escafoides</td>
+            <td>Caída con muñeca extendida o mano empuñada</td>
+            <td>Dolor en tabaquera anatómica, equimosis en eminencia tenar</td>
+            <td>Rx de escafoides con 4 proyecciones, repetir a los 10-14 días</td>
+            <td>Inmovilizar con yeso ABP (8-12 semanas) o cirugía</td>
+            <td>Desplazamiento >1 mm, fractura de polo proximal</td>
+        </tr>
+        <tr>
+            <td>Fractura de metacarpianos</td>
+            <td>Golpe en eje axial con mano empuñada</td>
+            <td>Dolor, deformidad, clinodactilia</td>
+            <td>Rx AP y oblicua de mano</td>
+            <td>Yeso ABP, iniciar rehabilitación</td>
+            <td>Fractura irreductible, expuesta, intraarticular con >20% de compromiso</td>
+        </tr>
+        <tr>
+            <td>Fractura de falange</td>
+            <td>Caídas con apoyo sobre la falange o golpe directo tipo aplastamiento</td>
+            <td>Dolor, inflamación, deformidad e impotencia funcional</td>
+            <td>Rx mano AP y oblicuas + imágenes AP y Lateral focalizadas</td>
+            <td>-</td>
+            <td>-</td>
+    </tbody>
+</table>
+
+## Cadera
+
+<table>
+    <thead>
+        <tr>
+            <th>Lesión</th>
+            <th>Mecanismo de lesión</th>
+            <th>Clínica</th>
+            <th>Estudio</th>
+            <th>Tratamiento</th>
+            <th>Indicaciones Cx</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Luxación de cadera</td>
+            <td>Alta energía: accidente de tránsito, caída de altura</td>
+            <td>Pérdida completa de congruencia articular, evaluar nervio ciático</td>
+            <td>Rx pelvis AP y axial</td>
+            <td>Reducir antes de 6 horas para evitar NAV</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Fractura de pelvis</td>
+            <td>Alta energía o baja energía en osteoporosis</td>
+            <td>Dolor pelviano, desnivel entre huesos ilíacos, equimosis perineal</td>
+            <td>Rx pelvis AP, inlet (40-60°) y outlet (40°). TC es estándar</td>
+            <td>ABCDE; estabilización, estudio radiológico. Conservador en baja energía</td>
+            <td>Politrauma: fijación inicial con tutor externo</td>
+        </tr>
+        <tr>
+            <td>Fractura de cadera</td>
+            <td>Caída a nivel en personas con osteoporosis</td>
+            <td>Extremidad acortada, abducida y en rotación externa</td>
+            <td>Rx pelvis AP y axial de cadera</td>
+            <td>Hospitalización, analgesia, inmovilización, cirugía precoz (<24 horas)</td>
+            <td>OTS (<65 años), prótesis total o parcial</td>
+        </tr>
+    </tbody>
+</table>
+
+## Rodilla
+
+<table>
+    <thead>
+        <tr>
+            <th>Lesión</th>
+            <th>Mecanismo de lesión</th>
+            <th>Clínica</th>
+            <th>Estudio</th>
+            <th>Tratamiento</th>
+            <th>Indicaciones Cx</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Fractura de platillos tibiales</td>
+            <td>Carga axial + valgo</td>
+            <td>Dolor, edema, inestabilidad</td>
+            <td>Rx AP, lateral, oblicua</td>
+            <td>Yeso bota larga, carga parcial 8 semanas</td>
+            <td>Desplazamiento >2-5 mm, fractura expuesta</td>
+        </tr>
+        <tr>
+            <td>Lesión de ligamentos cruzados (anterior más frecuente)</td>
+            <td>Desaceleración brusca y rotación externa de la tibia</td>
+            <td>Dolor, inestabilidad, hemartrosis</td>
+            <td>RM (después de Rx)</td>
+            <td>Cirugía + rehabilitación</td>
+            <td>Pacientes activos, alta demanda funcional</td>
+        </tr>
+    </tbody>
+</table>
+
+## Tobillo y pie
+
+<table>
+    <thead>
+        <tr>
+            <th>Lesión</th>
+            <th>Mecanismo de lesión</th>
+            <th>Clínica</th>
+            <th>Estudio</th>
+            <th>Tratamiento</th>
+            <th>Indicaciones Cx</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Lesión de Lisfranc</td>
+            <td>Pie con dedos estirados, tobillo en flexión plantar</td>
+            <td>Dolor, disrupción en mediopié</td>
+            <td>Rx en carga monopodal</td>
+            <td>Bota, descarga, derivación a cirugía</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Esguince</td>
+            <td>Inversión o eversión forzada</td>
+            <td>Dolor, aumento de volumen, impotencia funcional</td>
+            <td>Criterios de Ottawa para decidir Rx</td>
+            <td>RICE, inmovilización según grado</td>
+            <td>Dolor persistente</td>
+        </tr>
+    </tbody>
+</table>
+
+# Examen neurológico
+
+![raices_cervicales](raices_cervicales.png)
+![raices_lumbares](raices_lumbares.png)

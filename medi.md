@@ -1169,6 +1169,120 @@ Ejemplo presentación y dosis media: budesonida-formoterol 200/6 mcg 2 puff inha
 ## Insuficiencia respiratoria aguda
 ![formulas ira](/broncopulmonar/formulas_insuficiencia_respiratoria.jpg)
 
+## Derrame pleural
+
+<table border="1">
+  <tr>
+    <th>Criterio</th>
+    <th>Exudado</th>
+    <th>Trasudado</th>
+  </tr>
+  <tr>
+    <td>Relación proteínas pleurales/séricas</td>
+    <td>&gt;0,5</td>
+    <td>&le;0,5</td>
+  </tr>
+  <tr>
+    <td>Relación LDH pleural/sérica</td>
+    <td>&gt;0,6</td>
+    <td>&le;0,6</td>
+  </tr>
+  <tr>
+    <td>LDH en líquido pleural</td>
+    <td>&gt;2/3 del límite superior normal del suero</td>
+    <td>&le;2/3 del límite superior normal del suero</td>
+  </tr>
+</table>
+
+<table border="1">
+  <tr>
+    <th>Parámetro</th>
+    <th>Valor en Exudado</th>
+    <th>Utilidad Clínica</th>
+  </tr>
+  <tr>
+    <td>Colesterol en líquido pleural</td>
+    <td>&gt;45 mg/dL</td>
+    <td>Alta especificidad para identificar exudados. Útil cuando los criterios de Light son dudosos.</td>
+  </tr>
+  <tr>
+    <td>Gradiente albúmina sérica-pleural</td>
+    <td>&lt;1,2 g/dL</td>
+    <td>Un gradiente menor a 1,2 g/dL es indicativo de exudado. Mejora la precisión en pacientes con diuréticos.</td>
+  </tr>
+  <tr>
+    <td>Proteínas totales en líquido pleural</td>
+    <td>&gt;3 g/dL</td>
+    <td>Puede apoyar el diagnóstico de exudado cuando los demás criterios son dudosos.</td>
+  </tr>
+  <tr>
+    <td>Gradiente proteínas séricas-pleurales</td>
+    <td>&lt;3,1 g/dL</td>
+    <td>Útil como criterio complementario para clasificar exudados.</td>
+  </tr>
+</table>
+
+Situaciones específicas:
+1. Insuficiencia cardíaca tratada con diuréticos:
+  - La administración de diuréticos puede concentrar proteínas y LDH en el líquido pleural, simulando un exudado.
+  - En estos casos, el gradiente de albúmina sérica-pleural (<1,2 g/dL) y el colesterol (>45 mg/dL) son especialmente útiles.
+2. Derrames relacionados con malignidad:
+  - Colesterol elevado (>45 mg/dL) o proteínas pleurales >3 g/dL pueden ayudar a diferenciar entre trasudado y exudado.
+
+### **Estudio del líquido pleural y clasificación de exudados**
+
+El análisis del líquido pleural, obtenido por **toracocentesis**, es fundamental para diagnosticar la causa del derrame pleural. Se evalúan aspectos físico-químicos, citológicos y microbiológicos.
+
+---
+
+#### **Procedimiento**
+1. **Indicación:** Derrame pleural de causa desconocida, infecciones, neoplasias o hemotórax.
+2. **Técnica:** 
+   - Localizar el derrame con radiografía, ultrasonido o TC.
+   - Realizar la extracción bajo condiciones estériles.
+3. **Complicaciones:** Neumotórax, infección, hemotórax.
+
+---
+
+### **Clasificación del exudado según predominio celular**
+El tipo de célula predominante en el líquido pleural orienta hacia la etiología:
+
+| **Predominio celular**    | **Causas más frecuentes**                                           |
+|---------------------------|--------------------------------------------------------------------|
+| **Polimorfonuclear**      | Infecciones bacterianas, empiema, derrames paraneumónicos, pancreatitis. |
+| **Mononuclear (linfocitos)** | Tuberculosis pleural, neoplasias, enfermedades autoinmunes, quilotórax. |
+
+---
+
+### **Parámetros clave del análisis**
+Además del predominio celular, estos valores son útiles para el diagnóstico:
+
+| **Parámetro**        | **Valor en exudado**             | **Significado clínico**                                      |
+|-----------------------|----------------------------------|-------------------------------------------------------------|
+| **pH**               | <7,2                            | Empiema o derrame complicado.                              |
+| **Glucosa**          | <60 mg/dL                       | Infección bacteriana, neoplasia, enfermedad reumatoide.    |
+| **LDH**              | Elevada (>2/3 del límite normal) | Inflamación o infección pleural.                           |
+| **ADA**              | >40 U/L                         | Sugiere tuberculosis pleural.                              |
+
+---
+
+### **Conteo de células**
+| **Conteo celular**   | **Interpretación**                     |
+|----------------------|----------------------------------------|
+| <1,000 células/μL    | Normal.                               |
+| >1,000 células/μL    | Inflamación infecciosa o neoplasia.   |
+| >70% linfocitos      | Tuberculosis o malignidad.            |
+
+---
+
+### **Resumen de clasificación**
+- **Exudado polimorfonuclear:** Inflamación aguda, usualmente infecciosa.
+- **Exudado mononuclear:** Procesos crónicos (tuberculosis, cáncer, enfermedades autoinmunes).
+
+---
+
+Esta información permite orientar el diagnóstico y decidir estudios adicionales, como PCR para tuberculosis, citología o marcadores autoinmunes.
+
 
 # Hemato
 ## Anemias
