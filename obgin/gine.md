@@ -596,7 +596,7 @@ Prevención: primaria, secundaria y terciaria
 VPH es ITS más común en el mundo
 
 Genotipos alto riesgo:
-- **16**, **18**, 31, 33, 35, 39, 45, 51, 52, 56, 58, 59, 68
+- **16**, **18**, 31, 33, 35, 39, 45, 51, 52, 56, 58, 59, 68 (16 y 18 independiente de PAP van a colpo)
 - Riesgo acumulado de infección es de 80%
 - Alta prevalencia en menores de 20
 
@@ -608,6 +608,22 @@ FR:
 - Infección por C. Trachomatis
 - Uso ACO (no se tiene claro, pero Ojo estrógenos producen cierto grado de ectropion)
 
+![algoritmo_pap](algoritmo_pap.png)
+
+Significados abreviaturas
+- AGUS: Atypical glandular cells of undetermined significance
+- HSIL: Lesión intraepitelial escamosa de alto grado (NIE II/III)
+- ASC-H: atypical squamous cells cannot exclude HSIL
+- <span class= "dx" >ASCUS: Atipia escamosa de significado indeterminado</span>. 2 ASCUS seguidos se derivan a unidad de patología cervical
+- <span class= "dx" >LSIL: Lesión intraepitelial escamosa de bajo grado</span> = NIE I
+
+Si discordancia PAP-Biopsia: 
+- Cono LEEP (sobre todo si mayor)
+- Si joven (< 25?) podría realizarse seguimiento
+
+Si ASCUS + infección: tratar infección y repetir PAP en 6 meses
+
+Lesión de bajo grado no va a colpo porque no progresa. NIE I es signos de infección por VPH. NIE II y III son lesiones de alto grado, distinto de NIE I.
 
 ## Prevención primaria
 ![vacunas_vph](vacunas_vph.png)
@@ -1155,4 +1171,83 @@ Tratamiento de la Trichomona Vaginal
 Libro PUC:
 
 >"La cervicitis por Gonococo o por Clamidia es una ITS que puede manifestarse por flujo cervical purulento oligosintomático. El diagnóstico se realiza frecuentemente con PCR, pero también puede realizarse inmunofluorescencia para Chlamydia y cultivos de Thayer- Martin para gonococo. El tratamiento debe incluir siempre a la pareja y entregar cobertura antibiótica para ambos gérmenes. Los esquemas más utilizados son de ceftriaxona 125 mg IM por una vez más Azitromicina 1 g vo en dosis única para todos los contactos sexuales. Tanto Neisseria gonorrhoeae como Chlamydia trachomatis son gérmenes de notificación obligatoria.  "
+
+# Repaso eunacom
+
+## SUA
+
+Si post menopausia no es SUA.
+
+Primer examen de estudio --> EcoTV y bhcg
+
+PALM COEIN
+
+Lo más frecuente
+- <30 ovulatoria
+- 40-50 la más frec adenomiosis
+
+---
+
+- Sombra acustica: miomas y adenomiosis
+- Polipos no tienen sombra acústica
+- Perfusión: polipos es por irrigación pediculada. Miomas tienen irrigación periférica
+- Miomas subserosos: dan sintomas de compresión. Ej: dolor rectal, pujo, tenesmo, poliaquiuria 
+- Miomectomía de mioma intramural contraindica PV
+- Miomas no sangran en la post-menopausia
+- Sangrado abundante --> controlarlo, ej con legrado
+- DIU con sangrado, pensar en ectópico
+
+Factores de riesgo malignidad:
+- Obesidad
+- Tamoxifeno
+
+Bp endometrio:
+- >45 años + factores de riesgo
+
+Tto hiperplasia:
+- Sin atipias: progestinas (ideal DIU medicado, pero si no hay, progestinas orales). No se usan implantables por disminución densidad mineral osea.
+- Con atipias: histerectomía con bp
+
+## Sangrado post-menopáusico
+
+En mujeres post menopáusicas con sangrado: Primer examen: Ecografía transvaginal. (NO Bp), para evaluar grosor endometrial.
+    • Evaluación del endometrio en mujeres en post menopausia:
+    • ASINTOMÁTICA
+    • Endometrio normal: < 11 mm
+    • SINTOMÁTICA (SANGRADO POST MENOPAUSIA)
+    • Grosor <4 mm: Evaluar las características endometriales. Se debe realizar seguimiento, lo más probable es que sea por atrofia, pero podría ser un cáncer de endometrio tipo II.
+• Grosor ≥ 4mm:
+• Difuso: Requiere biopsia Pipelle.
+• Focal:
+• Evaluar si impresiona pólipo con histerosonografía,
+• En caso de no contar con histerosonografía: Histeroscopía.
+
+## Tumor pélvico
+
+REVISAAAR
+------
+
+- Tumor solido en mujer jóven DDDDisgerminoma (lDh)
+- kissing ovaries: endometriosis
+- contenido achocolatado: endometrioma
+
+Los más frecuentes:
+- Jóven benigno: teratoma maduro
+- Joven maligno: disgerminoma
+- Mayor benigno: cistoadenoma seroso
+- Mayor maligno: cancer :) 
+
+Recordar:
+- Hidrosalpinx es por obstrucción de trompas -> ojo chlamydia
+
+Sobre 40 años: pensar en cancer de ovario seroso.
+
+Cuerpo luteo roto, por lo general muy abdomen agudo, en eco no se ve tan rellenito. 
+
+## Ca de ovario
+
+- Epitelial (85-90%): Serosos (40%, bilaterales, grandes), mucinosos (15%, jóvenes, mejor pronóstico), endometroide (15-25%, aspecto sólido, oscuro, mitad de casos bilateral), células claras (peor pronóstico, bilateral 20-40%).
+- Células germinales (4-5%): <20 años, sensibles a QMT. Incluye: Disgerminoma (más frecuente), teratoma inmaduro (frecuente), carcinoma embrionario, tu. seno endodérmico, coriocarcinoma (BhCG), gonadoblastoma.
+- Estroma (5-10%): >50 años, buen pronóstico: Tu. de la granulosa, tecoma maligno, otros (Leydig, sertoli, sarcomas, linfomas).
+- Si se puede operar Ca, se opera + QMT. Si no, QMT. Recordar que Ca de ovario es quimiosensible.
 
