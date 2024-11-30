@@ -32,17 +32,120 @@
 6) sujetos asintomáticos en los que se detecta **EC en el cribado**
 
 Clasificación angina
+![Estrategias diagnosticas](image-9.png)
 ![clasificación angina](cardiologia/caracterizacion_angina.png)
 ![estrategia inicial en globo](cardiologia/image-1.png)
 
-## Selección de prueba diagnóstica para px con "1)"
+
+### Selección de prueba diagnóstica para px con "1)"
 Probabilidad pretest
 
 |![probabilidad pretest](cardiologia/probabilidad_pretest.png) |  ![factores EC obstructiva](cardiologia/fr_ec_obstructiva.png) |
 |:---:|:---:|
 ![pruebas diagnosticas](cardiologia/pruebas_diagnosticas.png)
 
+## Taquiarritmias
+
+### QRS angosto
+
+- **QRS < 120 ms** 3 cuadritos
+
+Lo más frecuente 
+
+| <150 lpm | 150 lpm  | >150 lpm |
+|---|---|---|
+| <li>taquicardia auricular <li> taquicardia sinusal | Flutter | TPSV (por lo general >180) |
+
+![taquiarritmias](/cardiologia/taquiarritmias.png)
+
+After administration of adenosine, slowing of the heart rate is consistent with a diagnosis of sinus tachycardia, atrial tachycardia, atrial fibrillation, or atrial flutter, whereas termination of tachycardia points to atrioventricular nodal reentrant tachycardia, atrioventricular reciprocating tachycardia, and some atrial tachycardias.
+
+<div class= "tto" >
+
+Cardioversión duele. Previo a cardioversión:
+
+<ul>
+  <li>2 mg midazolam</li>
+  <li>50 μg fenta</li>
+</ul>
+
+Energía de cardioversión:
+
+<ol>
+  <li>200 J</li>
+  <li>250 J</li>
+  <li>300 J</li>
+</ol>
+
+</div>
+
+### QRS ancho
+
+- **QRS >120 ms** 3 cuadritos
+
+![taquiarritmias_qrs_ancho](/cardiologia/taquiarritmias_qrs_ancho.png)
+
+QRS ancho:
+- Regular 
+  - Monomorfa: TV sobre todo si antecedente de IAM
+  - Conducida con aberrancia
+  - Reentrada antidrómica
+- Polimorfa: Desfibrila con alta energía :)
+
+Taquiarritmia ventricular:
+- Eje desviado
+- QRS aVR > 0
+- Cmplejos de captura o fusión
+
+## Bradiarritmias
+
+- BAV 2do grado Mobitz II en adelante need marcapaso
+- BAV 2 x 1 está entre Mobitz I y Mobitz II
+
+Ritmos marcapasos fisiológicos:
+- Sinusal: 60-100
+- Nodo AV: 40-60 (50)
+- Ventrículo: 25-30
+
+Si bradiarritmia en SU inestable, parche marcapaso o sonda marcapaso. También se puede isop
+
+Para pacientes con bradicardia y <span class="sn">síntomas clínicamente significativos</span> atribuibles a las siguientes etiologías, se administra <span class="tto">atropina</span> mientras se prepara simultáneamente el marcapasos temporal (idealmente transvenoso o transcutáneo si no está inmediatamente disponible) y/o una infusión de un agente cronotrópico:
+
+- <span class="dx">Tono vagal elevado</span> (ej. isquemia miocárdica inferior por síndrome coronario agudo).
+- Inducida por <span class= "dx" >medicamentos</span> (niveles supreterapéuticos de betabloqueadores, bloqueadores de canales de calcio, digital).
+- <span class= "dx" >Bloqueo AV de alto grado</span> con complejo <span class= "dx" >QRS estrecho</span> (que se origina a nivel del nodo AV o por encima).
+
+Si la bradicardia se atribuye a una alteración de la conducción a nivel o por debajo del haz de His (<span class= "dx" >bloqueo completo con complejo QRS ancho o bloqueo AV de segundo grado tipo Mobitz II</span>), se debe <span class= "sn" >evitar la atropina</span> e ir directamente a:
+- <span class="tto">pacing cardíaco</span> y/o 
+- la administración de un <span class= "tto" >agente cronotrópico</span>.
+
+**<span class="tto">Atropina</span>:** Dosis inicial de 1 mg IV, que puede repetirse cada tres a cinco minutos hasta un total de 3 mg.
+
+**<span class="tto">Marcapasos temporal</span>:** Si se puede instalar el marcapasos transvenoso de forma rápida, prepararlo. Si no es posible, iniciar el marcapasos transcutáneo y preparar la infusión cronotrópica. Antes del pacing transcutáneo, evaluar si el paciente percibirá dolor, y si es así, proporcionar <span class="tto">sedación y analgesia</span> adecuada. **Derivación a cardio**: Los pacientes que requieren pacing generalmente requieren consulta con cardiología y hospitalización para evaluación de posible <span class="tto">marcapasos permanente</span>, a menos que se identifique y corrija una causa reversible, como <span class="dx">hiperkalemia o sobredosis de betabloqueadores</span>.
+
+**<span class="tto">Agentes cronotrópicos</span>:** En pacientes que persisten sintomáticos tras la administración de atropina y en quienes el marcapasos temporal no está disponible o no es exitoso, se indica una infusión continua de un agente cronotrópico, ya sea <span class="tto">dopamina o epinefrina</span> (no ambos). 
+- Se prefiere epinefrina como primera línea cuando hay <span class="sn">hipotensión concomitante</span>, debido a sus efectos vasoconstrictores. 
+- <span class="tto">Dosis inicial de dopamina:</span> 5-20 mcg/kg/min. 
+- <span class="tto">Dosis inicial de epinefrina:</span> 0,025 a 0,125 mcg/kg/min (2-10 mcg/min). Ambas deben titularse según la respuesta del paciente.
+
+<details>
+<summary>
+Profe tb recomendó más que atropina, usar isoproterenol (en uptodate tb sale info y dice que es off-label):
+</summary>
+
+**<span class="tto">Isoproterenol</span>:** Puede causar <span class="sn">hipotensión dependiente de la dosis</span> debido a sus efectos agonistas beta-2. 
+- <span class="dx">Bloqueo auriculoventricular sintomático y/o hemodinámicamente inestable</span>: Debe usarse solo como medida temporal hasta que se pueda colocar un <span class="tto">marcapasos permanente</span>, si está clínicamente indicado. En la mayoría de los casos, los agentes farmacológicos no serán efectivos y será necesario el pacing transcutáneo o transvenoso como puente al marcapasos permanente. - <span class="tto">Infusión continua IV</span>: Rango usual de dosificación: <span class= "tto" >1 a 20 mcg/min</span>; iniciar en el extremo inferior del rango y titular según la respuesta clínica.
+- <span class="dx">Bradicardia sintomática y/o hemodinámicamente inestable</span> (no responde a atropina) (uso fuera de indicación): <span class="tto">Infusión continua IV</span>: Rango usual de dosificación: <span class= "tto" >1 a 20 mcg/min</span>; iniciar en el extremo inferior del rango y titular según la respuesta clínica.
+- <span class="dx">Shock cardiogénico por bradicardia</span> (uso fuera de indicación): <span class="tto">Infusión continua IV: 2 a 20 mcg/min</span> .
+- <span class="dx">Provocación durante prueba de mesa basculante, agente diagnóstico para síncope</span> (uso fuera de indicación): La sincronización de la iniciación y el ajuste de la dosis durante la prueba puede ser específica de cada institución; referirse a los protocolos institucionales. 
+  - <span class="tto">Infusión continua IV</span>: Inicial: 1 mcg/min; aumentar según sea necesario basándose en la respuesta clínica hasta 3 mcg/min.
+
+</details>
+
+
+
 # Nefrología
+
 ## ácido-base
 
 | trastorno primario | formula para compensasión | 

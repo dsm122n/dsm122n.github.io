@@ -24,11 +24,11 @@ Actualmente la mayoría son de microdosis de etinil estradiol (<50 mcg), el que 
 
 Ideal partir con 20-30 mcg de etinil estradiol. Preferir 30 mcg si paciente con más síntomas androgénicos (acné, piel grasa, hirsutismo).
 
-Si cefalea catamenial, preferir 15-20 mcg etinil estradiol (como anillo vaginal). 
+Si <span class= "sn" >cefalea</span> catamenial, preferir 15-20 mcg etinil estradiol (como anillo vaginal). Cefalea catamenial se debe estrógenos más que progestágenos. Otra alternativa es ACO con progestágenos solos. Cefalea tb puede deberse a deprivación de estrógenos si son ACO con placebos, en ese caso se puede dar ACO continuo o progestagenos solos
 
 Parche mucha hormona, nunca dar a paciente con cefalea. 
 
-Si inestabilidad anímica/depre, no es bueno progestágeno puro (como implanon). (simil a estado premenstrual). 
+Si <span class= "sn" >inestabilidad anímica/depre</span>, no es bueno progestágeno puro (como implanon). (simil a estado premenstrual). 
 
 Con Mirena no suele pasar, la RAM media clásica es "acné como en collar de mandíbula y cuello" y spoting. Se puede combinar con ACO con estrógenos (basta con 5 mcg etinil estradiol o valedato estradiol).
 - ACO tres meses junto con inicio de progestágeno
@@ -359,6 +359,28 @@ Tb pensar en proceso diagnóstico en: PIP, Masa (quiste ovárico, torsión ovár
 
 ![dol_pelv_agudo](dol_pelv_agudo.png)
 
+## Enfermedad inflamatoria pélvica
+
+Corresponde a una infección ascendente de patógenos en tracto genital inferior.
+Principales agentes: Clamidia y gonorrea.
+Otros: anaerobios facultaXvos, Gram negaXvos (E Coli, Klebsiella), S agalacXae
+
+Criterios Mayores:
+- Dolor palpación fondo uterino
+- Dolor movilización cervical
+- Dolor a la palpación anexial
+
+Criterios Menores:
+- <span class= "sn" >Flujo cervical anormal o descarga vaginal</span>
+- Fiebre >38.3°C
+- Leucocitosis >10.000
+- Aumento leucocitos en flujo vaginal
+- VHS y/o PCR elevadas
+- Lesión anexial al examen físico o ecografía
+- Test (+) cervicovaginal para gonorrea o clamidia.
+
+![eip](image-8.png)
+
 
 # Dolor pélvico crónico
 ## Definición dolor pélvico crónico
@@ -617,18 +639,32 @@ Significados abreviaturas
 - <span class= "dx" >ASCUS: Atipia escamosa de significado indeterminado</span>. 2 ASCUS seguidos se derivan a unidad de patología cervical
 - <span class= "dx" >LSIL: Lesión intraepitelial escamosa de bajo grado</span> = NIE I
 
-Si discordancia PAP-Biopsia: 
-- Cono LEEP (sobre todo si mayor)
-- Si joven (< 25?) podría realizarse seguimiento
+<div class= "dx" >
+
+Si discordancia (PAP alto grado biopsia bajo grado) PAP-Biopsia: 
+<li>Cono LEEP (sobre todo si mayor)</li>
+<li>Si joven (< 25?) podría realizarse seguimiento. < 25 por lo general no conizamos. </li>
+</div>
 
 Si ASCUS + infección: tratar infección y repetir PAP en 6 meses
 
 Lesión de bajo grado no va a colpo porque no progresa. NIE I es signos de infección por VPH. NIE II y III son lesiones de alto grado, distinto de NIE I.
 
+Biopsia endocervical si atípico glandular o no se visualiza en colpo
+
+## Algoritmos guía GES
+
+![pap](image-6.png)
+
+![vph](image-7.png)
+
 ## Prevención primaria
 ![vacunas_vph](vacunas_vph.png)
 
 Pacientes vacunadas **DEBEN** realizarse screening de todos modos
+
+- Vacuna 2 dosis hasta los 15 años
+- Desde los 15 años 3 dosis.
 
 ## Prevención secundaria
 
@@ -762,6 +798,7 @@ Definiciones: climaterio es lo que antecede a la menopausia
 - < 40 años --> insuficiencia ovárica prematura
 - 40-45 --> menopausia precoz
 - post-55 años --> menopausia tardía 👀
+- Si llega a los 50 años con ACO, se suspenden, se controla en 3 meses con FSH para ev menopausia
 
 Diagnóstico climaterio es clínico
 
@@ -774,7 +811,7 @@ Evaluación de climaterio:
 - Síntomas psicológicos
 
 
-<b><span style="color:#7707aa">Escala MRS (autoaplicable) </span></b>(Menopause Rating Scale)
+<b><span class="dx">Escala MRS (autoaplicable) </span></b>(Menopause Rating Scale)
 ¿Cuál de las siguientes molestias siente en la actualidad y con qué intensidad?
 (responder 0-4: 0, No siento molestia; 1, Siento molestia leve; 2, Siento molestia moderada; 3, Siento molestia importante; 4, Siento demasiada molestia)
  
@@ -796,6 +833,8 @@ Evaluación de climaterio:
 
 \> 15: severidad moderada
 
+Si solo síntomas urogenitales se puede dar tratamiento tópico
+
 Si paciente quiere la TRH, darla siempre que no tenga contraindicaciones (no es mala, estudio WHI está malardo)
 
 Obesidad: ojo estrona, tiene más estrógenos
@@ -807,6 +846,19 @@ SUA sin TRH, endometrio debe ser <= 4 mm. Sobre 5 mm derivar.
 Sin SUA... endometrio...
 
 Tamoxifeno tb engrosa endometrio, pero es quístico, solo biopsiar si está sangrando
+
+
+Según el puntaje de la escala MRS:
+- Muy necesaria: ≥ 15 puntos.
+- TRH adecuada total ≥ 8 puntos o
+    - dominio somático ≥ 8 puntos o
+    - dominio psicológico ≥ 6 puntos o
+    - dominio urogenital ≥ 3 puntos.
+Contraindicaciones de TRH:
+- Absolutas: cáncer hormonodependiente (cáncer de endometrio activo o cáncer de mama presente o pasado), ETE activa (TVP/TEP), SUA de causa no aclarada, enfermedad coronaria o ACV previo, hepatopatía.
+- Relativas: antecedente de ECV, factores de alto riesgo cardiovascular en > 60 años, alto riesgo de ETE, cáncer de endometrio tratado, LES.
+
+Ventana de oportunidad en TRH: dentro de 10 años de la menopausia o antes de los 60 años.
 
 ## Síndromes 
 ### Síntomas Vasomotores
@@ -827,7 +879,6 @@ No hormonales usarlos cuando contraindicación hormonas
 
 Nuevas terapias:
 - Estetrol (E4), lo bueno es que no actúa sobre mama
-- 
 
 ### Atrofia urogenital
 
@@ -891,7 +942,7 @@ Su inicio tardío se asocia con mayores efectos adversos cardiovasculares y trom
 Antes de iniciar, evaluar RCV, ojo en Chile solo 0.8 % mujeres en Chile con RCV bajo en peri menopausia
 
 Esquemas terapéuticos 
-- Estrógenos sólos (E): en mujeres sin útero  
+- Estrógenos sólos (E): en mujeres <span class= "tto" >sin útero  </span>
 - Esquemas combinados (E+P): en mujeres con útero 
     - modalidad continua: administración de estrógenos en combinación con progestina todos los días, con la intención de mantener un endometrio atrófico y evitar el sangrado ginecológico. 
     - modalidad secuencial: administración de estrógenos todos los días y la progestina se agrega por 10 a 14 días de cada mes. Este esquema suele producir flujo rojo después de la suspensión de la progestina en alrededor del 80% de los casos. 
@@ -900,6 +951,34 @@ Esquemas terapéuticos
 
 
 TRH vía oral beneficiosa para diabetes porque primer paso hepático disminuye insulino resistencia. Siempre y cuando <b><span style="color:#7707aa">no tenga daño de organo blanco</span></b>
+
+- <span class= "tto" >TRH es continua. Si no está en menopausia, se puede dar cíclica</span>
+- Continua tiende más a la atrofia, controla mejor el sangrado
+- Con histerectomía no es necesario progestágeno
+
+### Indicaciones de Terapia Hormonal
+
+#### Estradiol oral
+- Mujeres sin útero.
+
+#### Tibolona
+- Mujeres con alteración de la líbido, antecedentes de endometriosis.
+- Mismas contraindicaciones que estrógenos
+
+#### Estradiol/progestina oral
+- Mujeres con bajo riesgo cardiovascular (CV).
+
+#### Estradiol transdérmico + progestina oral/DIU
+- Preferir en mujeres con útero, con factores de riesgo cardiovascular (FR CV).
+
+#### Estrógenos/Promestrieno tópico
+- Síntomas solo genitales.
+- No hay límite de edad.
+
+#### Antidepresivos
+- Mujeres fuera de ventana de oportunidad o con contraindicación absoluta para terapia hormonal menopáusica (THM).
+- Ayuda con síntomas vasomotores
+
 
 ## Estrógenos
 
@@ -1172,6 +1251,10 @@ Libro PUC:
 
 >"La cervicitis por Gonococo o por Clamidia es una ITS que puede manifestarse por flujo cervical purulento oligosintomático. El diagnóstico se realiza frecuentemente con PCR, pero también puede realizarse inmunofluorescencia para Chlamydia y cultivos de Thayer- Martin para gonococo. El tratamiento debe incluir siempre a la pareja y entregar cobertura antibiótica para ambos gérmenes. Los esquemas más utilizados son de ceftriaxona 125 mg IM por una vez más Azitromicina 1 g vo en dosis única para todos los contactos sexuales. Tanto Neisseria gonorrhoeae como Chlamydia trachomatis son gérmenes de notificación obligatoria.  "
 
+La clamidia a diferencia del gonococo no da tanta leucorrea
+
+![leucorrea](image-9.png)
+
 # Repaso eunacom
 
 ## SUA
@@ -1251,3 +1334,13 @@ Cuerpo luteo roto, por lo general muy abdomen agudo, en eco no se ve tan relleni
 - Estroma (5-10%): >50 años, buen pronóstico: Tu. de la granulosa, tecoma maligno, otros (Leydig, sertoli, sarcomas, linfomas).
 - Si se puede operar Ca, se opera + QMT. Si no, QMT. Recordar que Ca de ovario es quimiosensible.
 
+## Ca cervicouterino
+
+Ojo, si en PAP se informa presencia de células endometriales, realizar eco TV para descartar patología endometrial.
+
+Cuando tenemos una lesión tumoral en cuello, se realiza biopsia, no cono. 
+
+PAP NIE I se deriva, no se controla en CESFAM. Para realizar colpo y eventual genotipificación VPH.
+
+## PIP
+- ATO 8 cm, inestabilidad hdn, abdomen agudo --> quirurgico

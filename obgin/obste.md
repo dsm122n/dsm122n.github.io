@@ -113,21 +113,11 @@ LCN:
 - LCN es medible entre las 6-12 semanas, cuando la LCN se encuentra entre 3 y 58 mm. Antes de las 6 semanas es difícil y posterior a las 12 semanas el feto deja de estar flectado. Entre las 7-10 semanas (9-33 mm) es el mejor momento para efectuar este examen, pues tiene el menor margen de error.  
 - EG = LCN cm + 6.5. 
 
-Saco gestacional 
-Saco vitelino 
-Embrión 
 
 
-LCN 3 mm 
-LCN 10 mm 
-Visible desde las 5 ½ semanas 
-6 semanas (con LCF) 
-LCN 16 mm 
-LCN 23 mm 
-7 semanas 
-8 semanas 
-9 semanas 
 
+| hallazgo | tiempo |
+|---|---|
 | Saco gestacional | Visible desde las 4 ½ semanas |
 | Saco vitelino  | Visible desde las 5 semanas |
 | Embrión  | Visible desde las 5 ½ semanas |
@@ -687,11 +677,14 @@ Crecimiento intrauterino restringido (CIR): EPF < P3 con alteraciones doppler
 
 | | CIR estadío I | CIR estadío II | CIR estadío III | CIR estadío IV |
 | --- | --- | --- | --- | --- |
-| Definición | alguno de: <br><li> PFE < p3 (Figueras F EJOGR 2008) <li> **ICP** < p5 [en dos ocasiones> 12h] (Bachat AA UOG 2003) <li> **IP ACM**< p5 [en dos ocasiones> 12h] (Bachat AA UOG 2003) <li> **IP AUt medio**> p95 (Gomez O, UOG 2008) | PFE < p10 + alguno: <br> UA-AEDV (**flujo diastólico ausente en AU**> 50% de ciclos en asa libre en ambas arterias y en dos ocasiones> 12h) | EPF < p 10 + alguno: <br><li>**Arterial: Flujo reverso** diastólico en la AU (art umbil) (en >50% ciclos, en las 2 arterias y en dos ocasiones separadas >6-12h) <li>**Venoso**: IP ductus venoso **(DV)> percentil 95** o flujo diástólico ausente DV o pulsaciones venosas de manera dícrota y persistente (en dos ocasiones separadas >6- 12h) | EPF < p10 + alguno: <br><li> Flujo diastólico **reverso en el DV** (en dos ocasiones separadas >6-12h) <li> **Variabilidad patológica** (< 5 lpm) en Registro cardiotocográfico (RBNE) en 1 h (registro electrónico < 2.6 ms entre las 26 y las 28+6 semanas <3ms a partir de las 29 semanas)  <li> patrón desacelerativo: **> o = 2 desaceleraciones espontáneas** cada 10 min durante 30 minutos. |
+| Definición | alguno de: <br><li> PFE < p3 (Figueras F EJOGR 2008) <li> <span class= "dx" >ICP</span> < p5 [en dos ocasiones> 12h] (Bachat AA UOG 2003) <li> <span class= "dx" >IP ACM</span> < p5 [en dos ocasiones> 12h] (Bachat AA UOG 2003) <li> <span class= "dx" >IP AUt medio</span> > p95 (Gomez O, UOG 2008) | PFE < p10 + alguno: <br> UA-AEDV ( <span class= "dx" >flujo diastólico ausente en AU</span> > 50% de ciclos en asa libre en ambas arterias y en dos ocasiones> 12h) | EPF < p 10 + alguno: <br><li><span class= "dx" >Arterial: Flujo reverso</span> diastólico en la AU (art umbil) (en >50% ciclos, en las 2 arterias y en dos ocasiones separadas >6-12h) <li><span class= "dx" >Venoso</span> : IP ductus venoso <span class= "dx" >(DV)> percentil 95</span> o flujo <span class= "dx" >diástólico ausente</span> DV o pulsaciones venosas de manera <span class= "dx" >dícrota y persistente</span> (en dos ocasiones separadas >6- 12h) | EPF < p10 + alguno: <br><li> Flujo diastólico <span class= "dx" >reverso en el DV</span> (en dos ocasiones separadas >6-12h) <li> <span class= "dx" >Variabilidad patológica</span> (< 5 lpm) en Registro cardiotocográfico (RBNE) en 1 h (registro electrónico < 2.6 ms entre las 26 y las 28+6 semanas <3ms a partir de las 29 semanas)  <li> patrón desacelerativo: <span class= "dx" >> o = 2 desaceleraciones espontáneas</span> cada 10 min durante 30 minutos. |
 | Seguimiento | c/1-2 semanas | c/2-4 días | c/24-48h | c/12-48h |
 | Maduración pulmonar | | confirmado: a partir de 33 semanas | confirmado: a partir de 26 semanas | confirmado: a partir de 25.5 semanas, 26 semanas sin esperar confirmación |
 | Interrupción | 37 semanas | 34 semanas | 30 semanas | 26 semanas |
 
+<span class= "dx" >examenes o valores diagnosticos importantes para diagnostico</span>
+<span class= "tto" >medidas terapeuticas importantes</span>
+<span class= "sn" >sintomas o complicaciones relevantes de recordar</span>
 
 Si CIR + PE --> aumentar en 1 grado el estadío
 
@@ -954,3 +947,169 @@ Pregnant women with APS should be treated with aspirin and, depending on whether
 
 Dienogest no aprovado como anticonceptivo. Útil para SUA
 Desogestrel no muy útil para SUA, pero podría darse en mujer con SUA edad fertil???
+
+
+# Embarazo Gemelar 
+
+## 1. Control del Embarazo Gemelar
+El embarazo gemelar implica un riesgo significativamente mayor tanto para la madre como para los fetos. Es esencial un control prenatal estricto con evaluaciones más frecuentes y vigilancia específica para detectar complicaciones precozmente.
+
+<ul>
+  <li><strong>Frecuencia de controles</strong>: Los controles deben ser más frecuentes que en un embarazo único, generalmente cada 2-3 semanas desde la semana 20 en adelante.</li>
+  <li><strong>Ecografías de Seguimiento</strong>: Se recomienda una ecografía cada 4 semanas, como mínimo, para evaluar crecimiento fetal y presencia de complicaciones como el <span class="sn">Síndrome de Transfusión Feto-Fetal (STFF)</span> en gemelos monocoriales. 
+    <ul>
+      <li><strong>Ecografía del Primer Trimestre</strong>: Es crucial para determinar la corionicidad y la amnionicidad de los fetos mediante la identificación de los <span class="dx">signos de Lambda o T</span>. Diagnosticar la corionicidad en el primer trimestre es fundamental, ya que los embarazos monocoriales tienen un mayor riesgo de complicaciones.</li>
+    </ul>
+  </li>
+  <li><strong>Monocorial vs Bicorial</strong>: Los gemelos monocoriales (que comparten una placenta) presentan un mayor riesgo de complicaciones. Es importante determinar la corionicidad tempranamente mediante <span class="dx">ecografía, idealmente antes de la semana 14</span>.</li>
+</ul>
+
+## 2. Diagnóstico de Complicaciones Específicas
+
+### 2.1 Complicaciones Maternas
+- **Preeclampsia**: Incidencia significativamente mayor en embarazos gemelares. La vigilancia de la <span class="dx">presión arterial y la proteinuria</span> es crucial en cada consulta. Los gemelos monocoriales presentan un riesgo mayor de <span class="sn">preeclampsia severa</span> debido al aumento de la demanda hemodinámica.
+- **Diabetes Gestacional**: Riesgo aumentado. Se recomienda realizar <span class="dx">tamizaje temprano</span>, y repetirlo si es necesario.
+- **Anemia**: Común debido al aumento de las demandas de hierro. Es fundamental evaluar <span class="dx">hemoglobina y ferritina</span>, y <span class="tto">suplementar hierro y ácido fólico</span> adecuadamente.
+- **Hemorragia Postparto**: La <span class="sn">sobredistensión uterina aumenta el riesgo de atonía uterina y hemorragia</span>. Preparar <span class="tto">medidas preventivas, incluyendo uterotónicos durante el parto</span>.
+- **Edema Pulmonar Agudo**: Mayor riesgo debido al incremento en el volumen plasmático. Es más probable en gestantes con <span class="sn">cardiopatías previas o uso de tocolíticos</span>.
+- **Placenta Previa y DPPNI**: Incremento del riesgo debido a la sobredistensión uterina y mayor masa placentaria.
+
+### 2.2 Complicaciones Fetales
+
+<ul>
+<li>**Restricción del Crecimiento Fetal (RCF)**: Común en gemelos, particularmente si son monocoriales. Es importante realizar <span class="dx">ecografías seriadas</span> para evaluar crecimiento y peso fetal.</li>
+  <ul>
+    <li><strong>Hallazgos Ecográficos</strong>: En caso de RCF selectiva <span class="dx">Diferencia significativa en el crecimiento entre los fetos (>25%)</span>[(peso gemelo mayor – peso gemelo menor) / peso gemelo mayor] x 100, disminución del flujo en la arteria umbilical.</li>
+    <li><strong>Sospecha Clínica</strong>: Diferencias en el tamaño del abdomen o la falta de crecimiento fetal en controles sucesivos.</li>
+    <li><strong>Clasificación</strong>: La RCF puede ser selectiva (afecta a uno de los gemelos) o global. La restricción selectiva es más común en gemelos monocoriales debido a la <span class="sn">distribución desigual de la placenta</span>.</li>
+    <li>En gemelos bicoriales que presentan RCF selectiva severa de instalación <span class= "dx" >precoz (antes de las 24 semanas)</span>, es preferible no intervenir para maximizar las posibilidades del gemelo con crecimiento adecuado a expensas de la muerte espontánea del gemelo con RCF. En la RCF selectiva de inicio <span class= "dx" >tardío</span>, el manejo del gemelo con RCF es similar a lo recomendado para embarazos únicos, y corresponde a una causa importante de parto prematuro por indicación médica. La vigilancia fetal se realiza habitualmente combinando evaluación del crecimiento, perfil biofísico y velocimetría Doppler. </li>
+    <li>La RCF selectiva de inicio precoz afecta el 10% de los monocoriales. Frente a la discordancia del peso en gemelos monocoriales <span class= "dx" >antes de las 28 semanas</span>, se debe excluir, en primer lugar, el <span class= "dx" >STFF</span> ya que su pronóstico y tratamiento son muy diferentes. En la RCF selectiva precoz, el feto con RCF puede recibir sangre oxigenada desde el feto normal, a través de las anastomosis vasculares, mejorando su oxigenación.</li>
+  </ul>
+
+<li> **Secuencia Anemia-Policitemia (SAP)**: Una complicación exclusiva de gemelos monocoriales caracterizada por una discrepancia en los niveles de hemoglobina entre los fetos. </li>
+  <ul>
+    <li><strong>Hallazgos Ecográficos</strong>: <span class="dx">Diferencia en el grosor de las arterias umbilicales</span> y alteraciones en el doppler de ambos fetos. **Criterios diagnósticos de la secuencia anemia-policitemia**:</li>
+          <ul><li>**Prenatal**:</li>
+            <ul>
+              <li> PVS-ACM (peak de velocidad sistólica de la arteria cerebral media) > 1,50 MoM en el donante y</li>
+              <li> PVS-ACM < 0,80 MoM en el receptor.</li>
+            </ul>
+          </ul>
+          <ul><li>**Postnatal**:</li>
+            <ul>
+              <li> Diferencia de hemoglobina > 8,0 g/dL y</li>
+              <li> Tasa de reticulocitos (donante/receptor) > 1,7.</li>
+            </ul>
+          </ul>
+    <li><strong>Sospecha Clínica</strong>: Diferencia marcada en el color de la placenta al nacer, con una parte más pálida y otra más oscura.</li>
+  </ul>
+<li>**Síndrome de Transfusión Feto-Fetal (STFF)**: Exclusivo de gemelos monocoriales. Requiere <span class="dx">vigilancia ecográfica frecuente (cada 2 semanas desde la semana 16-24)</span>.</li>
+  <ul>
+    <li><strong>Hallazgos Ecográficos</strong>: <span class="dx">Discrepancia en el volumen de líquido amniótico</span> entre ambos fetos: uno con polihidramnios y el otro con oligohidramnios.</li>
+    <ul>
+      <li>Embarazo gemelar monocorial biamniótico confirmado</li>
+      <li>Polihidroamnios en el receptor (bolsillo LA ≥ 8 cm)</li>
+      <li>Oligohidroamnios en el donante (bolsillo LA < 2 cm)</li>
+      <li>Vejigas fetales discordantes con una muy grande en el receptor y una muy pequeña o no visible en el donante durante la mayor parte del examen</li>
+    </ul>
+    <li><strong>Sospecha Clínica</strong>: Tamaño abdominal materno mayor o menor de lo esperado para la edad gestacional.</li>
+    <li><strong>Clasificación de Quintero</strong>: Utilizada para evaluar la gravedad del STFF, desde la etapa I (mínima) a la etapa V (hidropesía fetal o muerte).</li>
+  </ul>
+
+<li>**Muerte Intrauterina de un Gemelo**: Riesgo aumentado, con implicaciones para el feto sobreviviente, especialmente en monocoriales debido a <span class="sn">posibles alteraciones hemodinámicas</span>.</li>
+
+<li>**Secuelas Neurológicas**: En gemelos monocoriales, la muerte de un gemelo puede llevar a <span class="sn">secuelas neurológicas graves en el feto sobreviviente</span> debido a la transfusión aguda de sangre.</li>
+</ul>
+
+## 3. Manejo del Embarazo Gemelar
+
+### 3.1 Vigilancia del Crecimiento Fetal
+- **Ecografías Seriales**: Cada 4 semanas, como mínimo, para evaluar crecimiento y <span class="dx">doppler de arterias umbilicales</span>.
+- **Monitoreo Cardiotocográfico**: En el tercer trimestre, especialmente si existen signos de <span class="sn">RCF o sospecha de insuficiencia placentaria</span>.
+- **Cervicometría**: Importante para valorar riesgo de parto prematuro. Se recomienda realizar una <span class="dx">cervicometría cada 3 semanas</span> desde la semana 22 hasta la 32.
+
+| Tipo de Embarazo  | Control Ecográfico | Objetivo |
+|-------------------|--------------------|----------|
+| Bicorial           | Cada 3 semanas desde la semana 22-24 | Detectar RCF y evaluar riesgo de parto prematuro. |
+| Monocorial         | Cada 2 semanas desde la semana 12 hasta la 26, luego cada 3 semanas | Detectar STFF y RCF selectivo. |
+
+### 3.2 Manejo del STFF
+- **Derivación Especializada**: Requiere tratamiento especializado, generalmente mediante <span class="tto">fotocoagulación láser de las anastomosis placentarias</span>.
+- **Amniodrenaje**: <span class="tto">En algunos casos, para reducir la polihidramnios en el feto receptor</span>.
+- **Seguimiento Post-Procedimiento**: Después de la fotocoagulación láser, se recomienda <span class="dx">vigilancia ecográfica semanal</span> durante al menos 4 semanas para monitorear el estado de los fetos.
+
+### 3.3 Prevención de Parto Prematuro
+- **Cervicometría**: <span class="dx">Medición del cuello uterino</span> para evaluar riesgo de parto prematuro. En algunos casos se puede considerar <span class="tto">cerclaje cervical o uso de progesterona vaginal</span>.
+- **Corticoides**: Indicados entre las semanas 24 y 34 si existe <span class="sn">riesgo de parto prematuro</span> para favorecer la madurez pulmonar fetal.
+- **Progesterona Vaginal**: Se recomienda <span class="tto">progesterona vaginal en pacientes con cuello corto (≤ 25 mm)</span> para reducir el riesgo de parto prematuro.
+
+## 4. Indicaciones de Interrupción del Embarazo
+- **Parto Prematuro Espontáneo**: Común en gemelos. Idealmente se intenta alcanzar al menos las 34 semanas.
+- **Inducción o Cesárea Programada**:
+  <ul>
+    <li><strong>Monocoriales</strong>: Se recomienda interrupción entre las semanas 36-37.</li>
+    <li><strong>Bicoriales</strong>: Interrupción entre las semanas 37-38.</li>
+    <li><strong>Indicaciones Absolutas de Cesárea</strong>: <span class="sn">Presentación no cefálica del primer gemelo</span>, <span class="sn">STFF severo</span>, o complicaciones maternas graves (como preeclampsia severa).</li>
+
+--------------
+
+<table>
+  <thead>
+    <tr>
+      <th>Hallazgos</th>
+      <th>STFF</th>
+      <th>SAP</th>
+      <th>RCF Selectiva</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><span class="dx">Hallazgos ecográficos</span></td>
+      <td>+++++</td>
+      <td>++</td>
+      <td>++</td>
+    </tr>
+    <tr>
+      <td><span class="sn">Discordancia en el líquido amniótico (LA)</span></td>
+      <td>OHA en un saco y PHA en el otro saco</td>
+      <td>-</td>
+      <td>OHA en el gemelo con RCF, LA normal en el otro</td>
+    </tr>
+    <tr>
+      <td><span class="dx">Discordancia de peso (>25% diferencia entre gemelos)</span></td>
+      <td>++ <br> 50% tendrá EPF &lt; pc 10</td>
+      <td>+</td>
+      <td>+++++ <br> 100% tendrá EPF &lt; pc 10</td>
+    </tr>
+    <tr>
+      <td><span class="dx">Discordancia en el Doppler de ACM (> 1.5 MoM en donador/anémico y &lt; 0.8 MoM en receptor/pletórico)</span></td>
+      <td>+++</td>
+      <td>+++++</td>
+      <td>+</td>
+    </tr>
+    <tr>
+      <td><span class="sn">Discordancia en tamaño de la vejiga fetal</span></td>
+      <td>Vejiga pequeña en el donador, aumentada de tamaño en el receptor</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><span class="dx">Ducto venoso alterado</span></td>
+      <td>+++++</td>
+      <td>++</td>
+      <td>++</td>
+    </tr>
+    <tr>
+      <td><span class="sn">Hidrops fetal</span></td>
+      <td>+++++</td>
+      <td>+</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td><span class="dx">Placenta hiperecogénica y engrosada en el donador; normal en el receptor</span></td>
+      <td>+++++</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+  </tbody>
+</table>
