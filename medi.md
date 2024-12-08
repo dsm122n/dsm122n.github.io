@@ -1386,6 +1386,220 @@ Además del predominio celular, estos valores son útiles para el diagnóstico:
 
 Esta información permite orientar el diagnóstico y decidir estudios adicionales, como PCR para tuberculosis, citología o marcadores autoinmunes.
 
+## Neumonía
+
+### NAC
+
+Según [Consenso Chileno 2023 para neumonía en adultos](https://revchilenfermrespir.cl/index.php/RChER/issue/view/101)
+
+Si manejo ambulatorio:
+- Sin comorbilidades: <span class= "tto" >amoxicilina</span>,  macrólidos  (azitromicina  o  clari-tromicina)  o  doxiciclina. Por 5-7 días (Existe  evidencia  que  la  duración  del  trata-miento  antibiótico  acortada  (5  días  mínimo),  en  pacientes  con  NAC  de  manejo  ambulatorio  u  hospitalizados  no  grave,  no  afecta  la  tasa  de  éxito  clínico,  ni  mortalidad.  )
+- Con comorbilidades*: <span class= "tto" >amoxicilina/ácido clavulánico</span>, cefuroxima, cefpodoxime o fluo-roquinolona respiratoria (levofloxacina o moxi-floxacina). Ojo, levofloxacino no le gusta a los pediatras
+
+*Comorbilidades:  enfermedad  crónica  cardiaca,  respiratoria,  hepática,  o  renal;  diabetes  mellitus; alcoholismo; malignidad; o asplenia
+
+Dosis: 
+<table border="1">
+  <thead>
+    <tr>
+      <th>Antibiótico</th>
+      <th>Dosis</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Amoxicilina</td>
+      <td>1g cada 12 horas vía oral</td>
+    </tr>
+    <tr>
+      <td>Amoxicilina-Ácido clavulánico</td>
+      <td>875/125 mg cada 12 horas vía oral</td>
+    </tr>
+    <tr>
+      <td>Cefuroxima</td>
+      <td>500 mg cada 12 horas vía oral</td>
+    </tr>
+    <tr>
+      <td>Cefpodoxime</td>
+      <td>200 mg cada 12 horas vía oral</td>
+    </tr>
+    <tr>
+      <td>Azitromicina</td>
+      <td>500 mg cada 24 horas vía oral</td>
+    </tr>
+    <tr>
+      <td>Claritromicina</td>
+      <td>500 mg cada 12 horas vía oral</td>
+    </tr>
+    <tr>
+      <td>Doxiciclina</td>
+      <td>100 mg cada 12 horas vía oral</td>
+    </tr>
+    <tr>
+      <td>Levofloxacino</td>
+      <td>500-750 mg cada 24 horas vía oral</td>
+    </tr>
+    <tr>
+      <td>Moxifloxacino</td>
+      <td>400 mg cada 24 horas vía oral</td>
+    </tr>
+  </tbody>
+</table>
+
+Si manejo hospitalizado (rev CURB-65) de inmunocompetente:
+- Sin criterios NAC grave*: beta-lactámico  (<span class= "tto" >ampicilina-sulbactam</span>,  ceftriaxona,  cefotaxima  o  ceftarolina)  solo  <span class= "tto" >o  asociado</span>  a  macrólido (azitromicina o claritromicina) o mo-noterapia  con  una  fluoroquinolona  respiratoria (levofloxacina o moxifloxacina) 
+
+*NAC no grave: escala CURB-65 < 2 puntos, Pneumonia  Severity  Index  (PSI)  III  o  IV,  o  IDSA/ATS  sin  criterios mayores ni 3 menores de gravedad.
+
+<table border="1">
+  <thead>
+    <tr>
+      <th>Antibiótico</th>
+      <th>Dosis</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Ampicilina-sulbactam</td>
+      <td>1,5 g IV cada 6 horas</td>
+    </tr>
+    <tr>
+      <td>Ceftriaxona</td>
+      <td>1-2 g IV cada 24 horas</td>
+    </tr>
+    <tr>
+      <td>Cefotaxima</td>
+      <td>1-2 g IV cada 8 horas</td>
+    </tr>
+    <tr>
+      <td>Ceftarolina</td>
+      <td>600 mg IV cada 12 horas</td>
+    </tr>
+    <tr>
+      <td>Azitromicina</td>
+      <td>500 mg IV cada 24 horas</td>
+    </tr>
+    <tr>
+      <td>Claritromicina</td>
+      <td>500 mg IV cada 12 horas</td>
+    </tr>
+    <tr>
+      <td>Levofloxacino</td>
+      <td>750 mg IV cada 24 horas</td>
+    </tr>
+    <tr>
+      <td>Moxifloxacino</td>
+      <td>400 mg IV cada 24 horas</td>
+    </tr>
+  </tbody>
+</table>
+
+<details>
+<summary>
+Sobre SAMR y P aeruginosa
+</summary>
+En  pacientes  hospitalizados  con  factores  de  riesgo  de  infección  por  SAMR  y  Pseudomonas aeruginosa, se recomienda terapia empírica para NAC que requiere hospitalización (betalactámico solo o asociado a macrólido). La escala PES puede ser de utilidad para descartar  pacientes  que  requieran  antibióticos  de espectro extendido dado el alto valor predictivo negativo. En cambio con un <span class= "dx" >puntaje ≥ 5</span> y colonización  de  vía  aérea  previa  por  P  aeruginosao  SAMR  o  en  la  tinción  de  Gram  de  muestra  respiratoria  se  detecte  bacilos  gram  negativos  y  el paciente fue expuesto a tratamiento antibiótico previo en los últimos 90 días debe plantearnos la necesidad de terapia antibiótica extendida
+
+
+<table border="1">
+  <caption>
+    <span class= "dx" >Escala para evaluar el riesgo de neumonía adquirida en la comunidad por patógenos PES</span>
+  </caption>
+  <thead>
+    <tr>
+      <th>Variable</th>
+      <th>Puntos</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Edad &gt; a 65 años</td>
+      <td>+2</td>
+    </tr>
+    <tr>
+      <td>Edad 40 a 65 años</td>
+      <td>+1</td>
+    </tr>
+    <tr>
+      <td>Sexo masculino</td>
+      <td>+1</td>
+    </tr>
+    <tr>
+      <td>Uso previo de antibióticos en el último mes</td>
+      <td>+2</td>
+    </tr>
+    <tr>
+      <td>EPOC y/o bronquiectasias</td>
+      <td>+2</td>
+    </tr>
+    <tr>
+      <td>Enfermedad renal crónica</td>
+      <td>+3</td>
+    </tr>
+    <tr>
+      <td>Estado mental alterado en servicio de urgencia</td>
+      <td>+2</td>
+    </tr>
+    <tr>
+      <td>Fiebre &gt; 37,8 °C en servicio de urgencia</td>
+      <td>-1</td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td colspan="2">
+        0-1 puntos = bajo riesgo; 2-4 puntos = moderado riesgo; 5 o más puntos = alto riesgo.
+        PES: Pseudomonas aeruginosa, Enterobacterias con betalactamasas de espectro extendido y 
+        <i>Staphylococcus aureus</i> multirresistente.
+      </td>
+    </tr>
+  </tfoot>
+</table>
+
+</details>
+
+NAC grave:
+- <span class= "tto" >betalactámico asociado a macrólido</span> o una fluoroquinolona respiratoria. Es importante decir que este tratamiento siempre debe ser en su inicio por vía parenteral, aspecto importante a considerar al elegir el uso de macrólidos
+
+<table border="1">
+  <caption>
+    <span class= "dx" >Criterios diagnósticos de neumonía adquirida en la comunidad grave *IDSA/ATS 2007 </span>
+  </caption>
+  <thead>
+    <tr>
+      <th>Criterios mayores</th>
+      <th>Criterios menores</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <ul>
+          <li>Ventilación mecánica invasiva</li>
+          <li>Shock séptico que requiere el uso de fármacos vasopresores</li>
+        </ul>
+      </td>
+      <td>
+        <ul>
+          <li><span class= "dx" >Confusión</span> mental</li>
+          <li> <span class= "dx" >Hipotensión</span> arterial que requiere reanimación agresiva con fluidos</li>
+          <li><span class= "dx" >FR ≥ 30</span> respiraciones/minuto</li>
+          <li><span class= "dx" >Hipotermia</span> (temperatura central &lt; 36 °C)</li>
+          <li>Infiltrados pulmonares <span class= "dx" >multilobares</span></li>
+          <li><span class= "dx" >PaO<sub>2</sub>/FiO<sub>2</sub> ≤ 250</span></li>
+          <li>BUN ≥ 20 mg/dL</li>
+          <li><span class= "dx" >Leucopenia</span> (recuento de leucocitos &lt; 4.000 células/mm) en contexto de NAC, no por qmt u otros</li>
+          <li><span class= "dx" >Trombocitopenia</span> (recuento de plaquetas &lt; 100.000 células/mm) en contexto de NAC, no por qmt u otros</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+Severa si:
+- 1 criterio mayor o 
+- ≥ 3 menores
+
 
 # Hemato
 ## Anemias
@@ -6480,6 +6694,172 @@ Responsabilidades de la enfermería
 
 # Otros
 
+## Biomarcadores tumorales
+
+<table>
+<thead>
+<tr>
+<th colspan="2" scope="row"> Common tumor markers <sup  >[1]</sup><sup   >[6]</sup><sup   >[7]</sup>
+</th> </tr>
+<tr>
+<th scope="row">Tumor marker</th> <th scope="col">Associated conditions</th> </tr>
+</thead>
+<tbody>
+<tr>
+<th rowspan="2" scope="row"> Alpha fetoprotein (AFP)  </th> <td> <ul>
+<li>
+Hepatocellular carcinoma (HCC)</li> <li>Hepatoblastoma</li> <li>
+Yolk sac tumor (endodermal sinus tumor)</li> <li>Mixed germ cell tumor</li> <li>Ataxia-telangiectasia</li> </ul>
+</td> </tr>
+<tr>
+<td> <ul>
+<li>AFP is normally produced by the fetus → transient elevation of maternal AFP levels</li> <li>
+↑ AFP: abdominal wall defects, neural tube defects
+</li> <li>
+↓ AFP: associated with trisomy 21, 18, and 13 (see prenatal diagnostics for details)</li> </ul>
+</td> </tr>
+<tr>
+<th rowspan="2" scope="row">β-HCG</th> <td> <ul>
+<li>
+Testicular germ cell tumors (choriocarcinoma, embryonal cell carcinoma, mixed germ cell tumor, seminoma)</li> <li>
+Ovarian cancer: choriocarcinoma (gestational trophoblastic disease)</li> </ul>
+</td> </tr>
+<tr>
+<td> <ul>
+<li>If detectable in urine <ul>
+<li>Pregnancy marker (produced by the syncytiotrophoblast in the placenta)</li> <li>Molar pregnancy (hydatidiform mole)</li> </ul>
+</li> </ul>
+</td> </tr>
+<tr>
+<th rowspan="2" scope="row"> <div>Carcinoembryonic antigen (CEA)</div> </th> <td> <ul>
+<li>
+Highly nonspecific marker; elevated in most adenocarcinomas
+</li> <li>Colorectal cancer</li> <li>Pancreatic cancer</li> <li>Breast cancer</li> <li>
+Lung cancer (especially in non-small cell cancers)</li> <li>Gastric cancer</li> <li>Endometrial cancer</li> <li>Medullary thyroid cancer</li> <li>Cholangiocarcinoma</li> </ul>
+</td> </tr>
+<tr>
+<td> <ul>
+<li>Smokers</li> <li>Inflammatory bowel disease</li> <li>Pancreatitis</li> <li>Hepatitis</li> </ul>
+</td> </tr>
+<tr>
+<th rowspan="2" scope="row">Prostate-specific antigen (PSA)</th> <td> <ul>
+<li>Prostate cancer</li> </ul>
+</td> </tr>
+<tr>
+<td> <ul>
+<li>Benign prostatic hyperplasia</li> <li>Prostatitis</li> </ul>
+</td> </tr>
+<tr>
+<th scope="row">Calcitonin</th> <td> <ul>
+<li>
+Medullary thyroid cancer (both sporadic and associated with MEN 1 and MEN 2) </li> </ul>
+</td> </tr>
+<tr>
+<th rowspan="2" scope="row">Alkaline phosphatase</th> <td> <ul>
+<li>Metastases to bone or liver</li> </ul>
+</td> </tr>
+<tr>
+<td> <ul>
+<li>Paget disease of the bone</li> </ul>
+</td> </tr>
+<tr>
+<th scope="row"> Placental alkaline phosphatase  <sup   >[8]</sup>
+</th> <td> <ul>
+<li>Seminoma</li> <li>Smokers</li> </ul>
+</td> </tr>
+<tr>
+<th rowspan="2" scope="row">Lactate dehydrogenase</th> <td> <ul>
+<li>
+Levels correlate with tumor burden, reflects growth and invasiveness of cancer 
+</li> <li>Ovarian cancer (dysgerminoma)</li> <li>
+Testicular germ cell tumors (both seminoma and nonseminoma)</li> <li>Lymphomas</li> <li>Ewing's sarcoma</li> </ul>
+</td> </tr>
+<tr>
+<td> <ul>
+<li>Hepatitis</li> <li>Hemolysis</li> <li>Myocardial infarction</li> </ul>
+</td> </tr>
+<tr>
+<th rowspan="2" scope="row">Neuron specific enolase (NSE)</th> <td> <ul>
+<li>
+Neuroendocrine tumors <ul>
+<li>Small cell lung cancer</li> <li>Carcinoid tumor</li> <li>Neuroblastoma</li> </ul>
+</li> </ul>
+</td> </tr>
+<tr>
+<td> <ul>
+<li>
+NSE is released secondary to brain injury (e.g., stroke)  </li> <li>Hemolysis</li> <li>Bronchopneumonia</li> <li>Pulmonary fibrosis</li> <li>Multiple sclerosis</li> <li>Meningitis</li> <li>
+Anoxic brain injury following resuscitation  </li> </ul>
+</td> </tr>
+<tr>
+<th scope="row">CA 19–9</th> <td> <ul>
+<li>Pancreatic adenocarcinoma</li> <li>Gastric cancer</li> <li>Cholangiocarcinoma</li> </ul>
+</td> </tr>
+<tr>
+<th scope="row">CA 15–3 and CA 27–29</th> <td> <ul>
+<li>Breast cancer</li> </ul>
+</td> </tr>
+<tr>
+<th scope="row">CA 125</th> <td> <ul>
+<li>Ovarian carcinoma</li> <li>Other gynecologic malignancies 
+</li> <li>Malignant ascites
+</li> <li>Certain lymphomas
+</li> <li>Cholangiocarcinoma</li> </ul>
+</td> </tr>
+<tr>
+<th scope="row">CA 72-4</th> <td> <ul>
+<li>
+Ovarian carcinoma 
+</li> <li>Gastric cancer</li> </ul>
+</td> </tr>
+<tr>
+<th scope="row">Chromogranin A</th> <td> <ul>
+<li>
+Neuroendocrine tumors (e.g., carcinoid tumor, SCLC)</li> <li>Medullary thyroid cancer</li> </ul>
+</td> </tr>
+<tr>
+<th scope="row"> S-100 protein (S100A) and (S100B)</th> <td> <ul>
+<li>Malignant melanoma</li> <li>Cerebral ischemia
+</li> <li>Vascular injury</li> <li>Hepatic and renal insufficiency
+</li> </ul>
+</td> </tr>
+<tr>
+<th scope="row"> β2 microglobulin (β2M)</th> <td> <ul>
+<li>Multiple myeloma</li> <li>Chronic lymphocytic leukemia</li> <li>Renal disease</li> </ul>
+</td> </tr>
+<tr>
+<th scope="row">Thyroglobulin</th> <td> <ul>
+<li>Papillary thyroid carcinoma</li> <li>Follicular thyroid carcinoma</li> </ul>
+</td> </tr>
+<tr>
+<th rowspan="2" scope="row">Monoclonal immunoglobulins</th> <td> <ul>
+<li>Multiple myeloma</li> <li>Waldenstroms macroglobulinemia</li> </ul>
+</td> </tr>
+<tr>
+<td> <ul>
+<li>Monoclonal gammopathy</li> <li>Infections</li> <li>Certain autoimmune conditions (e.g., rheumatoid arthritis, myesthenia gravis, cold agglutinin disease)</li> <li>Liver cirrhosis</li> <li>Gaucher disease</li> <li>Sarcoidosis</li> <li>Rarerly after an organ transplantation
+</li> <li>Certain skin conditions, e.g., pyoderma gangrenosum, lichen myxedematosus, necrobiotic xanthogranuloma</li> </ul>
+</td> </tr>
+<tr>
+<th scope="row"> Squamous cell carcinoma antigen (SCC) antigen  </th> <td> <ul>
+<li>Squamous cell carcinoma</li> <li>Cervical carcinoma</li> <li>Squamous cell carcinoma of the lung</li> <li>Esophageal carcinoma</li> <li>Other tumors arising from squamous epithelium</li> </ul>
+</td> </tr>
+<tr>
+<th scope="row"> CYFRA 21-1  </th> <td> <ul>
+<li>Lung cancer</li> </ul>
+</td> </tr>
+<tr>
+<th scope="row"> DCP (Des-gamma-carboxy prothrombin)</th> <td> <ul>
+<li>HCC</li> </ul>
+</td> </tr>
+<tr>
+<th scope="row"> SMRP  </th> <td> <ul>
+<li>Mesothelioma</li> </ul>
+</td> </tr>
+</tbody>
+</table>
+
+## Fármacos sedantes
 <table class="table table-bordered table-striped">
 	<thead>
 		<tr>

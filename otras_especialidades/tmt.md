@@ -568,4 +568,5 @@ Lesión supracondílea de codo: estructura más dañada - nervio radial.
 # Examen neurológico
 
 ![raices_cervicales](raices_cervicales.png)
+
 ![raices_lumbares](raices_lumbares.png)

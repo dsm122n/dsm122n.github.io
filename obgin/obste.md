@@ -234,15 +234,16 @@ LCN:
 ## Preeclampsia
 
 Hipertensión de novo presente desde 20 semanas de gestación combinado con: 
-- proteinuria (>300 mg/día, IPC > 0.3, Dipstick 2+) o 
-- PA > **160/110 mmHg** o
-- **plaquetopenia** (< 100.000 / µl) o 
-- elevación de **transaminasas** (al doble de su valor basal) / dolor abdominal en cuadrante sup derecho o 
-- aumento de la **creatinina** sérica (> 1.1 mg/dL o el doble de su valor normal en ausencia de enfermedad renal) o 
-- **edema pulmonar** o 
-- aparición de **alteraciones cerebrales o visuales**. 
 
-En ausencia de proteinuria: hipertensión arterial junto ≥ 1 criterio de severidad de PE (en negrita). 
+- proteinuria (>300 mg/día, IPC > 0.3, Dipstick 2+) o 
+- PA > <span class= "dx" >160/110 mmHg</span>  o
+- <span class= "dx" >plaquetopenia</span>  (< 100.000 / µl) o 
+- elevación de <span class= "dx" >transaminasas</span> (al doble de su valor basal) / dolor abdominal en cuadrante sup derecho o 
+- aumento de la <span class= "dx" >creatinina</span>  sérica (> 1.1 mg/dL o el doble de su valor normal en ausencia de enfermedad renal) o 
+- <span class= "dx" >edema pulmonar</span>  o 
+- aparición de <span class= "dx" >alteraciones cerebrales o visuales</span>. 
+
+En ausencia de proteinuria: hipertensión arterial junto ≥ 1 criterio de severidad de PE (en negrita). (Según ACOG)
 
 ## Complicaciones
 
@@ -273,11 +274,11 @@ Fetales:
 - Muerte en período neonatal
 
 Factores de mal pronóstico en una PE (aunque no son criterios de severidad) 
-• Oliguria, definido como Diuresis < 500 mL/24h 
-• Proteinuria > 5 gr/24 h 
-• Uricemia > 10 mg/dL o elevación del ácido úrico en sangre mayor de 1 mg/dL en 24 h 
-• RCF debida a insuficiencia placentaria 
-• PE sobreagregada a una HTA crónica 
+- Oliguria, definido como Diuresis < 500 mL/24h 
+- Proteinuria > 5 gr/24 h 
+- Uricemia > 10 mg/dL o elevación del ácido úrico en sangre mayor de 1 mg/dL en 24 h 
+- RCF debida a insuficiencia placentaria 
+- PE sobreagregada a una HTA crónica 
 
 ## Prevención
 

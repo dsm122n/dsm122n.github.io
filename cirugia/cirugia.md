@@ -97,28 +97,7 @@ Seguimiento
 
 Urgencias de colon: pag pag 343 libro puc
 
-
-# CIRUGÍA GENERAL:
-## Realiza Asepsia y antisepsia 
-## Reconoce conceptos generales de manejo de drenajes y curación de heridas
-## Estudio de Abdomen agudo 
-## Reconoce manejo post operatorio de Hernias de la pared abdominal y Eventraciones.
-## Reconoce manejo de obstrucción Intestinal de intestino delgado y grueso
-## Reconoce complicaciones postoperatorias frecuentes
-
-
 # CIRUGÍA DIGESTIVA
-## Diagnóstico y generalidades del manejo Perforación Esofágica - Mediastinitis
-## Maneja generalidades en patología de esófago - estómago - duodeno.
-## Diagnóstico, estudio y generalidades del manejo de cáncer del Esófago y gástrico. Cáncer de Vesícula y Vías Biliares Cáncer de Páncreas; tumores periampulares y tumores hepáticos. 
-## Diagnóstico y manejo general de Acalasia
-## Diagnóstico y manejo de Síndrome de Reflujo Gastroesofágico 
-## Patológico y Hernia hiatal
-## Diagnóstico y manejo Ulcera Péptica Gástrica y Duodenal. 
-## Diagnóstico y manejo general de Tumores Gástricos Benignos. 
-## Diagnóstico, manejo completo de Hemorragia Digestiva Alta y baja; 
-
-## Colelitiasis, Colecistitis Aguda y Crónica; Coledocolitiasis; Ictericia Obstructiva; Colangitis; Pancreatitis aguda y sus complicaciones.
 
 
 ### Colelitiasis
@@ -207,7 +186,7 @@ Score por necrosis
 - 30-50%:4
 - \>50%: 6
 
-Un total de <span style= "color: #440154; font-weight: bold;" >>=5 </span> asociado a estadía hospitalaria prolongada y <span style= "color: #440154; font-weight: bold;" >aumento de la morbimortalidad</span> 15 veces en comparación a los con score < 5
+Un total de <span class="sn" >>=5 </span> asociado a estadía hospitalaria prolongada y <span class="sn" >aumento de la morbimortalidad</span> 15 veces en comparación a los con score < 5
 
 
 #### Manejo inicial
@@ -277,30 +256,6 @@ Ssi pancreatitis aguda biliar asociada a:
 La colecistectomía en pancreatitis aguda grave se debe diferir hasta resolución del cuadro clínico. Para ese entonces parece razonable esperar 3 semanas
 
 
-## Diagnóstico y manejo inicial de Quistes y Abscesos Hepáticos e Hidatidosis Hepática;
-## Diagnóstico y manejo general de Fístulas del Intestino Delgado. 
-## Manejo completo de Ileostomías y Colostomías Megacolon 
-## Diagnóstico y manejo completo de enfermedad Diverticular y sus complicaciones 
-## Manejo quirúrgico de Enfermedades inflamatorias: Colitis Ulcerosa, Crohn. 
-## Diagnóstico y manejo Pólipos y cáncer de Colon recto y Ano.
-## Diagnóstico y manejo inicial Prolapso Rectal 
-## Diagnóstico y manejo lesiones ActínicasAnorectales. 
-## Diagnóstico y manejo completo de Patología ano-rectal Benigna: Hemorroides, Fisura anal, Abscesos anorectales, Fístulas, Venéreas. 
-## Diagnóstico y manejo de Enfermedad pilonidal
-## Diagnóstico y manejo de Urgencias Ano-Recto-Colónicas. 
-## Manejo quirúrgico de Obesidad Mórbida 
-
-# CIRUGIA DE TORAX: 
-## Evaluación pre y postoperatoria 
-## Diagnóstico y manejo inicial Síndrome de ocupación pleural 
-## Empiema pleural Hidatidosis pulmonar 
-## Tumor pulmonar y nódulo solitario 
-## Manejo de hemoptisis masiva 
-## Indicaciones y manejo de traqueostomía
-## Hernias diafragmáticas traumáticas y congénitas 
-## Patología del mediastino. 
-## Cáncer pulmonar 
-## Mesotelioma
 
 # VASCULAR PERIFÉRICO: 
 ## Insuficiencia Arterial Aguda: Embolia, Trombosis 
@@ -311,7 +266,7 @@ La colecistectomía en pancreatitis aguda grave se debe diferir hasta resolució
 - Pale
 - Poiquilotermia: La extremidad afectada suele estar fría. La obstrucción causa una importante alteración de la termorregulación local, llevando a que la extremidad adopte la temperatura ambiente a la que está expuesta
 - Parestesia (primero hiperestesia del primer espacio metatarsiano)
-- Parálisis: <span style= "color: #440154; font-weight: bold;" >tardío</span>. 1° se afecta compartimento anterior (dorsiflexión hallux).
+- Parálisis: <span class="sn" >tardío</span>. 1° se afecta compartimento anterior (dorsiflexión hallux).
 
 Clasificación Rutherford para Isquemia agua EEII
 
@@ -322,7 +277,7 @@ Clasificación Rutherford para Isquemia agua EEII
 | IIb | Amenaza inmediata | Sobrepasa los pies, asociado con dolor de reposo | Leve a moderada | Inaudible | Audible |
 | III | Irreversible | Profunda anestesia | Profunda, parálisis | Inaudible | Inaudible |
 
-Grado IIb tiene <span style= "color: #440154; font-weight: bold;" >alteración motora!!!</span> Se debe revascularizar en plazo de horas.
+Grado IIb tiene <span class="sn" >alteración motora!!!</span> Se debe revascularizar en plazo de horas.
 
 
 Estudio a solicitar:
@@ -383,9 +338,9 @@ Clasificación Rutherford para EAO:
 | 1 | Claudicación leve | Control FR |
 | 2 | Claudicación moderada | Control FR |
 | 3 | Claudicación severa| Control FR |
-| 4 | Dolor en reposo | <span style= "color: #440154; font-weight: bold;" >Isquemia crítica </span> derivar|
-| 5 | Pérdida menor de tejido | <span style= "color: #440154; font-weight: bold;" >Isquemia crítica </span> derivar|
-| 6 | Pérdida mayor de tejido | <span style= "color: #440154; font-weight: bold;" >Isquemia crítica </span> derivar|
+| 4 | Dolor en reposo | <span class="sn" >Isquemia crítica </span> derivar|
+| 5 | Pérdida menor de tejido | <span class="sn" >Isquemia crítica </span> derivar|
+| 6 | Pérdida mayor de tejido | <span class="sn" >Isquemia crítica </span> derivar|
 
 Si Isquemia crítica, ITB <0.4 o claudicación que impide realización de actividades diarias, derivar a cirugía vascular.
 
@@ -460,8 +415,8 @@ Infección:
 ![Wagner_2](Wagner_2.png)
 
 Clasificación infección:
-- extremidad sin riesgo: hasta <span style= "color: #440154; font-weight: bold;" >tendones</span>, escasos signos de infección sistémica. Por Staphylococcus, puede tener gram (-)
-- extremidad con riesgo: profudas, tendones, hueso o articulaciones, en las cuales se asocia necrosis. Sg <span style= "color: #440154; font-weight: bold;" >sistémicos</span> infección. Estáfilos, E. coli, proteus. Anaerobios asociados a inf más severas
+- extremidad sin riesgo: hasta <span class="sn" >tendones</span>, escasos signos de infección sistémica. Por Staphylococcus, puede tener gram (-)
+- extremidad con riesgo: profudas, tendones, hueso o articulaciones, en las cuales se asocia necrosis. Sg <span class="sn" >sistémicos</span> infección. Estáfilos, E. coli, proteus. Anaerobios asociados a inf más severas
 
 ### Estudio
 Estudio:

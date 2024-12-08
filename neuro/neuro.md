@@ -1550,3 +1550,5 @@ Daño vascular difuso:
 - Lesiones hemorrágicas en sustancia blanca
 
 ## Lesiones Secundarias
+
+
