@@ -68,7 +68,7 @@ En Gemelar:
 
 
 Suplementos y alimentos que pueden ser dañinos:
-- <span style= "color: #440154; font-weight: bold;" >Vitamina A</span>, >10.000 UI/día (1 UI = 0,3 mcg de retinol) parece ser teratogénico
+- <span class="sn" >Vitamina A</span>, >10.000 UI/día (1 UI = 0,3 mcg de retinol) parece ser teratogénico
 - Yodo, Congenital hypothyroidism has been reported in offspring of pregnant people ingesting 2.3 to 12.5 mg iodine daily (greater than 10 times the recommended dietary allowances [RDA] of 220 mcg, and greater than two times the upper limit of 1100 mcg)
 - Cafeina (limitar a no más de 200 mg/día)
 - Ácidos grasos trans: direct effects on membrane structures or metabolism, or by replacing maternal intake of the cis essential fatty acids
@@ -386,7 +386,7 @@ Indicación de <span style= "color: #5ec962; font-weight: bold;" >interrupción 
 
 Trombocitopenia posparto se ha recomendado como última línea la <span style= "color: #5ec962; font-weight: bold;" >plasmaféresis</span>; en pacientes con < 50.000 plaquetas o en pacientes con falla de 2 sistemas
 
-- La <span style= "color: #440154; font-weight: bold;" >hemorragia cerebral</span> es la causa más importante de muerte materna; el principal predictor de su aparición es el nivel de presión arterial sistólica. 
+- La <span class="sn" >hemorragia cerebral</span> es la causa más importante de muerte materna; el principal predictor de su aparición es el nivel de presión arterial sistólica. 
 - Complicaciones fetales se relacionan principalmente con la prematurez originada en la necesidad de interrupción del embarazo, además de trombocitopenia y muerte fetal.
 
 
@@ -552,7 +552,7 @@ Diabetes gestacional: cualquier grado de intolerancia a la glucosa que se diagno
 
 
 Diabetes pregestacional: diabetes tipo 1 o tipo 2 diagnosticada antes del embarazo.
-- <span style= "color: #440154; font-weight: bold;" >Síntomas</span> clásicos de diabetes (polidipsia, poliuria, polifagia y baja de peso) y una glicemia en cualquier momento del día > **o igual** a <span style= "color: #440154; font-weight: bold;" >200</span> mg/dl, sin relación con el tiempo transcurrido desde la última comida.
+- <span class="sn" >Síntomas</span> clásicos de diabetes (polidipsia, poliuria, polifagia y baja de peso) y una glicemia en cualquier momento del día > **o igual** a <span class="sn" >200</span> mg/dl, sin relación con el tiempo transcurrido desde la última comida.
 - GAA en plasma venoso > **o igual** a 126 mg/dl. Debe confirmarse con una segunda glicema > **o igual** a 126 mg/dl en un día diferente. (Ayuno se define como un período sin ingesta calórica de por lo menos ocho horas).
 - Glicemia > **o igual** a 200 mg/dl dos horas después de una carga de 75 g de glucosa durante una PTGO. 
 

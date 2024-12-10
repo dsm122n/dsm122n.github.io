@@ -52,7 +52,11 @@ Criterios de Barcelona para diagnóstico de infarto agudo de miocardio (IAM) en 
 
 Ojito: dominancia 
 
-### Presentaciones atípicas
+### Alteraciones en ECG en SCA 
+
+![alteraciones ecg que pueden requerir reperfusión inmediata](image-8.png)
+
+![alteraciones sin elevacion st](image-9.png)
 
 ![presentaciones atípicas en ECG según ESC](esc_ecg_iam_atipico.png)
 

@@ -21,7 +21,143 @@
 | 6) (**sospecha enf multivaso**) Depresión ST > 1mm en 6  derivaciones y elevación en aVR o V1 |
 | 7) **Dolor torácico **recurrente o refractario a tto médico | |
 
-![iam sest guía esc tiempos](cardiologia/image.png)
+![iam cest](cardiologia/iam_cest.png)
+![iam_sest](cardiologia/iam_sest.png)
+
+### Fcos SCA
+
+#### Tratamiento Inicial de Pacientes con IAMCEST (Infarto Agudo de Miocardio con Elevación del Segmento ST)
+
+<span class= "tto" >Aspirina</span>
+- **Dosis inicial:** <span class="tto">150-300 mg oral</span>, masticada o <span class="tto">75-250 mg intravenosa</span>.
+- **Descripción:** Antiagregante de primera línea. Indicado en todos los pacientes a menos que tengan <span class="sn">hipersensibilidad</span> o <span class="sn">sangrado activo significativo</span>.
+
+<span class= "tto" ></span>
+- **Dosis inicial:** <span class="tto">600 mg oral</span>.
+- **Descripción:** Inhibidor del receptor P2Y12. Indicado en combinación con aspirina. Contraindicado en <span class="sn">sangrado activo</span> o <span class="sn">alergia</span>.
+
+<span class= "tto" >Heparina No Fraccionada (HNF)</span>
+- **Dosis inicial:** <span class="tto">60-70 U/kg IV en bolo</span> (máximo 5000 U), seguido de infusión ajustada según <span class="dx">tiempo de coagulación</span>.
+- **Descripción:** Anticoagulante. Contraindicado en pacientes con <span class="sn">riesgo significativo de sangrado</span>.
+
+<span class= "tto" >Enoxaparina (HBPM)</span>
+- **Dosis inicial:** <span class="tto">1 mg/kg SC cada 12 horas</span>.
+- **Descripción:** Alternativa a HNF. Indicado en la mayoría de los pacientes excepto en aquellos con <span class="sn">insuficiencia renal severa (TFG <30 mL/min)</span>.
+  - En pacientes <span class="dx">menores de 75 años</span>:
+    - Administrar un bolo inicial de <span class="tto">30 mg IV</span>, seguido 15 minutos después por <span class="tto">1 mg/kg SC cada 12 horas</span> hasta la revascularización o el alta hospitalaria, con un máximo de 8 días. Las primeras dos dosis SC no deben exceder <span class="tto">100 mg por inyección</span>.
+  - En pacientes <span class="dx">mayores de 75 años</span>:
+    - No administrar bolo IV; comenzar con una dosis inicial de <span class="tto">0.75 mg/kg SC</span>, con un máximo de <span class="tto">75 mg por inyección</span> para las primeras dos dosis.
+  - En pacientes con <span class="dx">TFG <30 mL/min</span>, independientemente de la edad:
+    - Administrar dosis SC <span class="tto">cada 24 horas</span>.
+
+<span class= "tto" >Fondaparinux</span>
+- Solo si estreptokinasa: <span class="tto">2.5 mg IV en bolo</span>, seguido de una dosis <span class="tto">SC de 2.5 mg diariamente</span> hasta un máximo de 8 días o el alta hospitalaria.
+
+<span class= "tto" >Nitratos</span>
+- **Dosis inicial:** <span class="tto">Nitroglicerina sublingual (0,3-0,6 mg cada 5 minutos hasta un máximo de 3 dosis)</span> o <span class="tto">intravenosa (5-10 mcg/min)</span>.
+- **Descripción:** Indicado para alivio del dolor y control de hipertensión. Contraindicado si <span class="sn">la presión arterial sistólica es <90 mmHg</span>, si el paciente ha recibido <span class="sn">inhibidores de la fosfodiesterasa-5 (e.g., sildenafil)</span> en las últimas 48 horas, o en <span class="sn">infarto de pared derecha</span>.
+
+<span class= "tto" >Beta-bloqueadores</span>
+- **Dosis inicial:** <span class="tto">Metoprolol IV 5 mg cada 5 minutos</span> (hasta un total de 15 mg).
+- **Descripción:** Reducen la demanda de oxígeno del miocardio. Contraindicados en <span class="sn">bradicardia</span>, <span class="sn">hipotensión</span>, <span class="sn">shock cardiogénico</span> o <span class="sn">insuficiencia cardíaca descompensada</span>.
+
+<span class= "tto" >Opioides (Morfina o Fentanilo)</span>
+- **Dosis inicial:** <span class="tto">Morfina 2-5 mg IV cada 5-15 minutos</span> según necesidad. <span class="tto">Fentanilo 25-50 mcg IV</span> según necesidad.
+- **Descripción:** Alivio del dolor y ansiedad. Usar con precaución en pacientes <span class="sn">hipotensos</span> o con <span class="sn">depresión respiratoria</span>. Si dolor pasa con nitratos, podría no necesitar
+
+<span class= "tto" >Oxígeno</span>
+- **Dosis inicial:** Administrar si <span class="dx">la saturación de oxígeno es <90%</span>.
+- **Descripción:** Mejora la oxigenación. No indicado en pacientes normoxémicos.
+
+---
+
+#### Tratamiento Inicial de Pacientes con IAMSEST (Infarto Agudo de Miocardio Sin Elevación del Segmento ST) y Angina Inestable
+
+<span class= "tto" >Aspirina</span>
+- **Dosis inicial:** Igual que en IAMCEST.
+- **Descripción:** Antiagregante esencial en combinación con clopidogrel.
+
+<span class= "tto" >Clopidogrel</span>
+- **Dosis inicial:** <span class="tto">300 mg oral</span> si no hay intervención percutánea inmediata (<span class="tto">600 mg</span> si hay intervención en <24 h).
+- **Descripción:** Antiagregante. Contraindicado en <span class="sn">sangrado activo</span>.
+
+<span class= "tto" >Fondaparinux (si disponible), Heparina No Fraccionada o Enoxaparina (HBPM)</span>
+- **Dosis inicial:** <span class="tto">Fondaparinux 2,5 mg SC diariamente</span>, HNF como en IAMCEST, o <span class="tto">Enoxaparina 1 mg/kg SC cada 12 horas</span>.
+- **Descripción:** Anticoagulantes preferidos. Fondaparinux tiene menor riesgo de sangrado. Contraindicado en <span class="sn">disfunción renal severa</span> o <span class="sn">sangrado activo</span>.
+
+<span class= "tto" >Nitratos</span>
+- **Dosis inicial:** Igual que en IAMCEST.
+- **Descripción:** Alivio del dolor y reducción de la isquemia. Contraindicados en <span class="sn">infarto de pared derecha</span> y tras el uso de <span class="sn">inhibidores de la fosfodiesterasa-5 (e.g., sildenafil)</span>.
+
+<span class= "tto" >Beta-bloqueadores</span>
+- **Dosis inicial:** Igual que en IAMCEST.
+- **Descripción:** Indicado en la mayoría de los pacientes, excepto en los contraindicados como en IAMCEST.
+
+<span class= "tto" >Opioides</span>
+- **Dosis inicial:** Igual que en IAMCEST.
+- **Descripción:** Alivio del dolor en pacientes con angina persistente a pesar de nitratos.
+
+<span class= "tto" >Estatinas de alta potencia (atorvastatina, rosuvastatina)</span>
+- **Dosis inicial:** <span class="tto">Atorvastatina 80 mg oral</span>.
+- **Descripción:** Indicado en todos los pacientes a menos que haya <span class="sn">contraindicación específica</span>.
+
+<span class= "tto" >Oxígeno*</span>
+- **Dosis inicial:** Igual que en IAMCEST.
+- **Descripción:** Solo en pacientes con hipoxemia.
+
+---
+
+### Notas Generales
+- **IAMCEST:** Priorizar <span class="tto">reperfusión inmediata</span> con <span class="tto">angioplastia primaria</span> o <span class="tto">fibrinolíticos</span>.
+- **IAMSEST/Angina Inestable:** Estrategia invasiva en función del <span class="dx">riesgo (GRACE >140)</span> para estrategia temprana.
+- Ajustar las dosis y tiempos según las características del paciente y disponibilidad en tu entorno hospitalario.
+
+---
+
+### Administración de Fibrinolíticos
+
+**Tenecteplase**
+- **Dosis inicial:** Administrar en bolo único IV basado en el peso corporal:
+  - <60 kg: <span class="tto">30 mg</span>
+  - 60-69.9 kg: <span class="tto">35 mg</span>
+  - 70-79.9 kg: <span class="tto">40 mg</span>
+  - 80-89.9 kg: <span class="tto">45 mg</span>
+  - ≥90 kg: <span class="tto">50 mg</span>
+
+**Alteplase**
+- **Dosis inicial:** Administrar en infusión IV:
+  - 15 mg en bolo inicial.
+  - Seguido de <span class="tto">0.75 mg/kg</span> (máximo 50 mg) durante 30 minutos.
+  - Luego <span class="tto">0.5 mg/kg</span> (máximo 35 mg) durante 60 minutos (dosis total máxima: 100 mg).
+
+**Estreptocinasa**
+- **Dosis inicial:** <span class="tto">1.5 millones de UI</span> en infusión IV durante 30-60 minutos.
+
+**Notas:**
+- Indicar en ausencia de acceso a angioplastia primaria dentro de los primeros 120 minutos.
+- Contraindicaciones incluyen <span class="sn">sangrado activo</span>, <span class="sn">hemorragia intracraneal previa</span>, y <span class="sn">malformaciones vasculares</span>.
+
+#### Contraindicaciones fibrinolisis
+
+Absolutas:
+- Hemorragia intracraneal previa o accidente cerebrovascular de origen desconocido en cualquier momento.
+- Accidente cerebrovascular isquémico en los últimos 6 meses.
+- Daño al sistema nervioso central, neoplasias o malformaciones arteriovenosas.
+- Trauma mayor, cirugía o lesión craneal reciente (en el último mes).
+- Sangrado gastrointestinal en el último mes.
+- Trastorno hemorrágico conocido (excluyendo menstruación).
+- Disección aórtica.
+- Punciones no compresibles en las últimas 24 horas (e.g., biopsia hepática, punción lumbar).
+
+Relativas:
+- Ataque isquémico transitorio en los últimos 6 meses.
+- Terapia con anticoagulantes orales.
+- Embarazo o hasta 1 semana posparto.
+- Hipertensión refractaria (presión arterial sistólica >180 mmHg y/o diastólica >110 mmHg).
+- Enfermedad hepática avanzada.
+- Endocarditis infecciosa.
+- Úlcera péptica activa.
+- Resucitación prolongada o traumática.
 
 ## Síndromes coronarios crónicos
 1) pacientes con sospecha de EC y síntomas de **angina «estable» o disnea**;
