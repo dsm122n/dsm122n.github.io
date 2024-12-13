@@ -32,7 +32,7 @@
 - **Dosis inicial:** <span class="tto">150-300 mg oral</span>, masticada o <span class="tto">75-250 mg intravenosa</span>.
 - **Descripción:** Antiagregante de primera línea. Indicado en todos los pacientes a menos que tengan <span class="sn">hipersensibilidad</span> o <span class="sn">sangrado activo significativo</span>.
 
-<span class= "tto" ></span>
+<span class= "tto" >Clopidogrel</span>
 - **Dosis inicial:** <span class="tto">600 mg oral</span>.
 - **Descripción:** Inhibidor del receptor P2Y12. Indicado en combinación con aspirina. Contraindicado en <span class="sn">sangrado activo</span> o <span class="sn">alergia</span>.
 
@@ -59,11 +59,14 @@
 
 <span class= "tto" >Beta-bloqueadores</span>
 - **Dosis inicial:** <span class="tto">Metoprolol IV 5 mg cada 5 minutos</span> (hasta un total de 15 mg).
-- **Descripción:** Reducen la demanda de oxígeno del miocardio. Contraindicados en <span class="sn">bradicardia</span>, <span class="sn">hipotensión</span>, <span class="sn">shock cardiogénico</span> o <span class="sn">insuficiencia cardíaca descompensada</span>.
+- **Descripción:** Reducen la demanda de oxígeno del miocardio. Contraindicados en <span class="sn">bradicardia</span>, <span class="sn">hipotensión</span>, <span class="sn">shock cardiogénico</span> o <span class="sn">insuficiencia cardíaca descompensada</span>. Indicado si no shock, PAS > 120 mmHg y sin CI.
 
 <span class= "tto" >Opioides (Morfina o Fentanilo)</span>
 - **Dosis inicial:** <span class="tto">Morfina 2-5 mg IV cada 5-15 minutos</span> según necesidad. <span class="tto">Fentanilo 25-50 mcg IV</span> según necesidad.
 - **Descripción:** Alivio del dolor y ansiedad. Usar con precaución en pacientes <span class="sn">hipotensos</span> o con <span class="sn">depresión respiratoria</span>. Si dolor pasa con nitratos, podría no necesitar
+
+<span class= "tto" >Estatinas de alta potencia (atorvastatina, rosuvastatina)</span>
+- **Dosis inicial:** <span class="tto">Atorvastatina 80 mg oral</span>.
 
 <span class= "tto" >Oxígeno</span>
 - **Dosis inicial:** Administrar si <span class="dx">la saturación de oxígeno es <90%</span>.
@@ -116,7 +119,9 @@
 
 ### Administración de Fibrinolíticos
 
-**Tenecteplase**
+(solo si < 12h clínica)
+
+<span class= "tto" >Tenecteplase</span> (de elección)
 - **Dosis inicial:** Administrar en bolo único IV basado en el peso corporal:
   - <60 kg: <span class="tto">30 mg</span>
   - 60-69.9 kg: <span class="tto">35 mg</span>
@@ -136,6 +141,12 @@
 **Notas:**
 - Indicar en ausencia de acceso a angioplastia primaria dentro de los primeros 120 minutos.
 - Contraindicaciones incluyen <span class="sn">sangrado activo</span>, <span class="sn">hemorragia intracraneal previa</span>, y <span class="sn">malformaciones vasculares</span>.
+
+Falla de tto fibrinolítico:
+- Resolución elevación ST <50% a los 60-90 min
+- inestabilidad hemodinámica o eléctrica
+- dolor torácico persistente
+- isquemia que empeora
 
 #### Contraindicaciones fibrinolisis
 

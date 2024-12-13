@@ -1,12 +1,13 @@
 # Pediatría
-<a href="https://drive.google.com/drive/folders/1eI8M-_g-VVKRzJWfdfcO35dz9QoYyokr">Bibliografía UPA </a>
+
+<a href="https://drive.google.com/drive/folders/1eI8M-_g-VVKRzJWfdfcO35dz9QoYyokr"> Bibliografía UPA </a>
 
 ## datitos antropometría
 
 Referencias de peso:
 - perdida de peso primeros días: 5-10%
 - retorno a peso nacimiento: 7 a 10 días
-- aumento de **1 kg/mes** el primer año (2 kg/mes en )primeros 3 meses
+- aumento de **1 kg/mes** el primer año (2 kg/mes en primeros 3 meses)
 - duplicación peso en 4 a 5 meses
 - triplicación peso en 1 año
 - aumento de peso diario: 20-30 g/día los primeros 3-4 meses, 15-20 g/día el resto del primer año
@@ -72,6 +73,168 @@ Velocidad de crecimiento en prematuros
 
 
 ## Desarrollo psicomotor
+
+En forma resumida, los hitos del desarrollo que debemos tener en mente son: 
+- <span class= "dx" >1 mes:fija mirada</span>
+- A las <span class= "dx" >6 semanas: sonrisa social</span>. Éste es un hito precoz fundamental pues es un indicador de normalidad del desarrollo cognitivo. 
+- A los <span class= "dx" >2 meses: sostén cefálico</span>. Si bien desde el nacimiento los recién nacidos presentan algo de control cefálico, es desde los dos meses que ya mantienen control cefálico permanente y en distintas posiciones. 
+- A los <span class= "dx" >3 meses: inicio prensión de objetos y giro</span> en torno a su cuerpo. (Debe advertirse a los padres acerca de este hito en los controles pediátricos precedentes puesto que este logro implica el inicio de una creciente autonomía del niño y <span class= "sn" >puede ser causa de caídas</span> desde la cama o desde el mudador si el lactante es dejado sólo por algunos segundos en estos lugares. )
+- A los <span class= "dx" >4 meses: manipulación de objetos</span>. <span class= "dx" >Risa y balbuceo</span>
+- A los <span class= "dx" >5 meses: eleva cabeza y tórax </span> estirando los codos estando en prono (“de guatita”, boca abajo) 
+- A los <span class= "dx" >6 meses: se sienta</span> solo (sin apoyo)  
+- A los <span class= "dx" >8 meses: exploración de objetos</span> (pinza gruesa) 
+- A los <span class= "dx" >9 meses: gateo</span>, postura en 4 puntos (que puede o no darse, pero que cuando se da es un indicador o predictor de marcha autónoma).  <span class= "dx" >disílabos</span>
+- A los <span class= "dx" >10 meses: sentido de permanencia; bipedestación asistida</span> (Se para con apoyo) 
+- A los <span class= "dx" >12 meses: marcha</span> asistida (Camina con apoyo), <span class= "dx" >2 palabras</span>: lenguaje verbal-gestual. <span class= "dx" >Pinza fina</span>, bebe de taza
+- A los <span class= "dx" >14 meses: marcha autónoma</span> (Camina solo). 90% de los niños camina a los 14 meses. 
+- <span class= "dx" >15 meses: 3-6 palabras</span>, tenedor y cuchara
+- A los <span class= "dx" >18 meses: lenguaje verbal</span> por lo menos 6 palabras, respuesta al <span class= "dx" >dame y toma </span>
+- A los <span class= "dx" >2 años</span>: se define la <span class= "dx" >dominancia</span> (qué mano va a utilizar preferentemente). 
+- A los <span class= "dx" >2 años</span>: sabe <span class= "dx" >su nombre</span> y dice <span class= "dx" >2 frases</span> 
+- A los <span class= "dx" >3 años: entiende más del 50 % del lenguaje</span> 
+- A los <span class= "dx" >3,5 años</span>: es capaz de dibujar un <span class= "dx" >círculo</span> 
+- A los <span class= "dx" >4,5 años</span>: es capaz de dibujar una <span class= "dx" >cruz</span> 
+- A los <span class= "dx" >4,5 años: cuenta hasta 10, reconoce colores</span> 
+
+Motor fino:
+- 15 meses: torre de 2 cubos
+- 18 meses: torre de 4 cubos
+- 2 años: torre de 6 cubos
+- 3 años: torre de 8-9 cubos
+- 4 años: &#9675; 
+- 5 años: &#9679;
+- 6 años: &#9673; y dibuja persona con 6 partes
+
+Motor grueso:
+- 11 meses: marcha lateral
+- 12 meses: camina solo
+- 15 meses: camina hacia atrás
+- 18 meses: corre
+- 2 años: escalera hacia arriba y abajo. Tira sobre cabeza
+- 3 años: salta en 2 pies
+- 4 años: se balancea y salta en 1 pie
+
+
+
+Pensamiento:
+- Preescolar: mágico, egocéntrico, animista
+- Escolar: concreto, lógico, conservación de la cantidad
+- Adolescente: abstracto, hipotético, deducción
+
+Riesgo de retraso del Desarrollo Psicomotor (modificado de NEJM 1994; 330: 478-483)
+
+<table border="1">
+    <thead>
+        <tr>
+            <th>Edad</th>
+            <th>Motor</th>
+            <th>Motor fino</th>
+            <th>Lenguaje</th>
+            <th>Cognitivo</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>4.5 meses</td>
+            <td>No empuja para sentarse</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>7 meses</td>
+            <td></td>
+            <td>No toma objetos</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>9 - 10 meses</td>
+            <td>No descarga peso</td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>10 - 11 meses</td>
+            <td></td>
+            <td></td>
+            <td>No silabea</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>11 meses</td>
+            <td></td>
+            <td>No tiene pinza</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>12 meses</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>No busca lo escondido</td>
+        </tr>
+        <tr>
+            <td>15 meses</td>
+            <td>No camina</td>
+            <td>No pone ni saca de cajita</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>18 meses</td>
+            <td></td>
+            <td></td>
+            <td>No dice 3 palabras</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>24 meses</td>
+            <td></td>
+            <td></td>
+            <td>No tiene dos palabras-frases</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>30 meses</td>
+            <td>No salta en dos pies</td>
+            <td>No vuelve páginas</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>3.5 años</td>
+            <td></td>
+            <td></td>
+            <td>No entiende más del 50% del lenguaje</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>36 meses</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>No sabe su nombre</td>
+        </tr>
+        <tr>
+            <td>4 años</td>
+            <td>No salta en 1 pie</td>
+            <td>No copia círculo</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>4.5 años</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td>No cuenta secuencialmente</td>
+        </tr>
+    </tbody>
+</table>
+
 
 ![DSM Guía San Borja](dsm-linea.png)
 
