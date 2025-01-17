@@ -3253,8 +3253,8 @@ Con HbA1c mínimo 2 veces al año, cada 3 meses si no está en rango.
 
 Objetivos de glicemias:
 - G preprandial: 80-130 mg/dL
-- postprandial: <180 mg/dL
-- <b><span style="color:#3b528b">HbA1c</span></b>: <7%
+- postprandial (1 a 2 h): <180 mg/dL (ojo considerar medirla si HbA1c permanece elevada a pesar de glicemias preprandiales normales)
+- <b><span class="dx">HbA1c</span></b>: <7%
 - *tecnología en diabetes*
 
 Evaluación de riesgo de hipoglicemia para modificar meta HbA1c:
