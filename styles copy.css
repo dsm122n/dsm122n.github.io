@@ -59,6 +59,16 @@ h5 {
     font-style: italic;
     padding: 0 0.5em;
 }
+caption {
+    font-size: 1em;
+    font-weight: normal;
+    color: #ffffff;
+    background-color: #172150b1;
+    border-radius: 0.5em;
+    caption-side: top;
+    margin: 0.83em 0;
+    padding: 0 0.5em;
+}
 
 a {
     color: var(--color-link);
