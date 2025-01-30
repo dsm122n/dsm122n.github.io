@@ -200,7 +200,7 @@ Probabilidad pretest
 - P. Alta 50-85%
 - P. muy alta >85%
 
-![pruebas-segun-pretest](cardiologia/pruebas-segun-pretest.png)
+![pruebas-segun-pretest](image-11.png)
 
 ![abordaje_scc](cardiologia/abordaje_scc.png)
 
