@@ -171,25 +171,39 @@ Relativas:
 - Resucitación prolongada o traumática.
 
 ## Síndromes coronarios crónicos
-1) pacientes con sospecha de EC y síntomas de **angina «estable» o disnea**;
-2) pacientes con un **nuevo episodio de IC** o disfunción del VI y sospecha de EC;
-3) pacientes asintomáticos y sintomáticos con síntomas estables **menos de 1 año** después de sufrir un **SCA** o pacientes revascularizados recientemente;
-4) pacientes asintomáticos o sintomáticos tras **más de 1 año** desde el diagnóstico inicial o la revascularización; 
-5) pacientes con angina y sospecha de **enfermedad vasoepástica o microvascular**, y
-6) sujetos asintomáticos en los que se detecta **EC en el cribado**
+
+1. pacientes con sospecha de EC y síntomas de <span class= "dx" >angina «estable» o disnea</span>
+2. pacientes con un <span class= "dx" >nuevo episodio de IC</span> o disfunción del VI y sospecha de EC
+3. pacientes asintomáticos y sintomáticos con síntomas estables <span class= "dx" >menos de 1 año</span> después de sufrir un <span class= "dx" >SCA</span> o pacientes revascularizados recientemente
+4. pacientes asintomáticos o sintomáticos tras <span class= "dx" >más de 1 año</span> desde el diagnóstico inicial o la revascularización 
+5. pacientes con angina y sospecha de <span class= "dx" >enfermedad vasoepástica o microvascular</span>, y
+6. sujetos asintomáticos en los que se detecta <span class= "dx" >EC en el cribado</span>
 
 Clasificación angina
+
 ![Estrategias diagnosticas](image-9.png)
-![clasificación angina](cardiologia/caracterizacion_angina.png)
+
 ![estrategia inicial en globo](cardiologia/image-1.png)
 
 
 ### Selección de prueba diagnóstica para px con "1)"
+
+[Guía de ESC 2024](https://secardiologia.es/cientifico/guias-clinicas/cardiopatia-isquemica/15236-2024-esc-guidelines-for-the-management-of-chronic-coronary-syndromes)
+
 Probabilidad pretest
 
-|![probabilidad pretest](cardiologia/probabilidad_pretest.png) |  ![factores EC obstructiva](cardiologia/fr_ec_obstructiva.png) |
-|:---:|:---:|
-![pruebas diagnosticas](cardiologia/pruebas_diagnosticas.png)
+![probabilidad-pre-test](cardiologia/probabilidad-pre-test.png)
+
+- P. muy baja <5%
+- P. baja 5-15%
+- P. moderada 15-50%
+- P. Alta 50-85%
+- P. muy alta >85%
+
+![pruebas-segun-pretest](cardiologia/pruebas-segun-pretest.png)
+
+![abordaje_scc](cardiologia/abordaje_scc.png)
+
 
 ## Taquiarritmias
 
