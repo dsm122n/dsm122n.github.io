@@ -204,6 +204,115 @@ Probabilidad pretest
 
 ![abordaje_scc](cardiologia/abordaje_scc.png)
 
+### Tratamiento síndromes coronarios crónicos
+
+  Consejos prácticos sobre el asesoramiento y las intervenciones sobre el estilo de vida
+
+  <table>
+      <caption>Recomendaciones y objetivos del tratamiento de los pacientes con síndrome coronario crónico (SCC)</caption>
+      <thead>
+          <tr>
+              <th>Tema</th>
+              <th>Recomendación y objetivos del tratamiento</th>
+          </tr>
+      </thead>
+      <tbody>
+          <tr class="section-header">
+              <td colspan="2">Asesoramiento sobre el estilo de vida</td>
+          </tr>
+          <tr>
+              <td>Inmunización</td>
+              <td>Vacunación contra la gripe, enfermedades neumocócicas y otras infecciones extendidas, como la COVID-19</td>
+          </tr>
+          <tr>
+              <td>Calidad del sueño</td>
+              <td>Trate trastornos respiratorios relacionados con el sueño</td>
+          </tr>
+          <tr>
+              <td>Actividad sexual</td>
+              <td>
+                  <ul>
+                      <li>Hombres y mujeres: bajo riesgo para pacientes estables asintomáticos con niveles bajos o moderados de actividad</li>
+                      <li>Hombres: los inhibidores del PDE-5 generalmente son seguros, pero no se deben tomar en combinación con nitratos por el riesgo de hipotensión severa</li>
+                  </ul>
+              </td>
+          </tr>
+          <tr>
+              <td>Aspectos psicológicos</td>
+              <td>
+                  <ul>
+                      <li>Evite el estrés psicosocial</li>
+                      <li>Trate la depresión y la ansiedad mediante intervenciones psicológicas y farmacológicas</li>
+                  </ul>
+              </td>
+          </tr>
+          <tr>
+              <td>Entorno/contaminación</td>
+              <td>
+                  <ul>
+                      <li>Evite el tabaquismo pasivo</li>
+                      <li>Evite el ruido ambiental</li>
+                      <li>Evite la exposición al aire contaminado</li>
+                  </ul>
+              </td>
+          </tr>
+          <tr class="section-header">
+              <td colspan="2">Intervenciones en el estilo de vida para controlar los factores de riesgo</td>
+          </tr>
+          <tr>
+              <td>Tabaquismo y abuso de sustancias</td>
+              <td>
+                  <ul>
+                      <li>Use estrategias farmacológicas y conductuales para el abandono del tabaquismo</li>
+                      <li>Evite los cigarrillos electrónicos</li>
+                      <li>Abstenerse del abuso de sustancias</li>
+                  </ul>
+              </td>
+          </tr>
+          <tr>
+              <td>Obesidad y sobrepeso</td>
+              <td>
+                  <ul>
+                      <li>Alcance y mantenga un peso saludable (IMC 18,5-25 kg/m²)</li>
+                      <li>Reduzca el peso mediante la ingesta calórica recomendada y actividad física, y mediante intervenciones farmacológicas/quirúrgicas en algunos pacientes seleccionados</li>
+                  </ul>
+              </td>
+          </tr>
+          <tr>
+              <td>Hiperlipemia</td>
+              <td>Se recomienda un objetivo para el cLDL &lt;1,4 mmol/l (55 mg/dl) y una reducción ≥ 50% de los niveles de cLDL frente a niveles basales</td>
+          </tr>
+          <tr>
+              <td>Diabetes</td>
+              <td>HbA1c &lt;7,0% (53 mmol/mol)</td>
+          </tr>
+          <tr>
+              <td>Presión arterial</td>
+              <td>PAS de 120-129 mmHg, siempre que el tratamiento antihipertensivo se tolere bien</td>
+          </tr>
+          <tr>
+              <td>Dieta y consumo de alcohol</td>
+              <td>
+                  <ul>
+                      <li>Limite el consumo de alcohol a &lt;100 g/semana</li>
+                      <li>Dieta rica en vegetales, fruta y alimentos integrales (dieta mediterránea)</li>
+                      <li>Limite el consumo de grasas saturadas a &lt;10% de la ingesta calórica total</li>
+                  </ul>
+              </td>
+          </tr>
+          <tr>
+              <td>Actividad física y ejercicio</td>
+              <td>
+                  <ul>
+                      <li>30-60 min de actividad moderada más de 5 días a la semana</li>
+                      <li>Reduzca el tiempo sedentario y realice actividades físicas a lo largo del día, aunque sean ligeras</li>
+                  </ul>
+              </td>
+          </tr>
+      </tbody>
+  </table>
+
+![tto_angina estable](image-10.png)
 
 ## Taquiarritmias
 
