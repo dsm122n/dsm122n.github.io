@@ -76,6 +76,11 @@ Complicaciones intubación:
 - barotrauma (neumotórax e hipotensión)
 - estenosis traqueal (en adultos si dura más de 48 horas)
 
+# Diluciones fcos
+
+![diluciones-fcos](image-4.png)
+![diluciones-fcos-2](image-5.png)
+
 # Drogas vasoactivas
 
 ![drogas vasoactivas dosis](image-3.png)
