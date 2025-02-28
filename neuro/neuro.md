@@ -1300,6 +1300,105 @@ Alternativa de mnemotecnia: I(2)-P(3)IENSE(2)N(2)
 
 ## Migraña
 
+[Guía para el paciente en Word](https://1drv.ms/w/c/f422c6ed35b6ba4d/EU26tjXtxiIggPTAyAAAAAABB_ZEOqf_tXgCEjYThIWwNA?e=iFluGm)
+
+<details>
+<summary>Ver guía para el paciente</summary>
+
+# Indicaciones terapéuticas y recomendaciones migraña
+
+## Conceptos clave
+
+Es una enfermedad “crónica” que se caracteriza por crisis de dolores de cabeza muy intensos. 
+
+### Previo a crisis de migraña
+
+Pueden precederse de síntomas "neurológicos" conocidos como "aura", que dura 5 minutos a 1 hora y luego desaparecen cuando inicia el dolor. Pueden ser múltiples síntomas, pero los más comunes son: visión borrosa, ver destellos de luz, ver líneas onduladas, ver manchas, hormigueo en la cara, labios o en las manos, se pueden escuchar ruidos, entre otros.  
+
+Otros síntomas pueden anteceder por más tiempo (desde horas a 1 día) a las crisis de dolor de cabeza, como: irritabilidad, cansancio, animo deprimido, bostezos, hambre, constipación, rigidez de cuello entre otros.
+
+### Durante la crisis de migraña
+
+El dolor suele caracterizarse por ser muy intenso, pulsátil, de un lado de la cabeza (aunque puede ser bilateral). Suele durar 24 a 72 horas.
+
+Usualmente se asocia a náuseas, vómitos, intolerancia a la luz y al ruido. 
+
+### Ejemplos de posibles gatillantes
+
+Las migrañas suelen tener gatillantes, que puede ser útil identificar para evitarlos. Algunos de los más comunes son:
+- Estrés
+- Cambios hormonales (evitar anticonceptivos orales que contengan estrógenos, comentar con matrona o ginecólog@)
+- Saltarse comidas o no comer lo suficiente
+- Cambios en el sueño (dormir muy poco o dormir mucho)
+- Cambios en el clima
+- Destellos de luces brillantes
+- Ciertas comidas: chocolate, quesos, embutidos, comidas muy condimentadas, entre otros
+- Tabaquismo (activo o pasivo)
+
+Puede ser útil llevar un "diario de migrañas" para identificar los gatillantes y cómo ha sido la respuesta al dolor
+
+## Tratamiento migraña
+
+### Tratamiento crisis
+
+Para crisis lo mejor es tomar los medicamentos en dosis adecuadas y lo más temprano posible para evitar que llegue a su máxima intensidad (inclusive antes del dolor si presenta aura).
+
+Alternativas de medicamentos:
+
+1. Antiinflamatorios no esteroidales (AINEs):
+    - Ibuprofeno 600mg: hasta 3 veces al día
+    - Naproxeno 550mg: hasta 2 veces al día
+    - Diclofenaco 50mg: hasta 2 veces al día
+2. Triptanes:
+    - Naratriptan 2.5mg: 1 comprimido al inicio de la crisis, se puede repetir dosis a las 4 horas si no ha cedido el dolor. 
+        - Inicio de acción más lenta (4 horas), pero efecto más duradero
+        - Avisar si no es efectivo para cambiar a otro triptán
+    - Eletriptan 20mg: 1 comprimido al inicio de la crisis.
+        - Inicio de acción más rápido (1-2 horas) 
+        - Si no se tiene respuesta, avisar a médico, se puede intentar aumentar dosis SOS en crisis siguientes con 40mg
+3. Para crisis con nauseas:
+    - Metoclopramida 10mg: se puede tomar hasta 3 veces al día en caso de nauseas
+
+Modo de uso: 
+- Tomar un medicamento del punto 1. (AINEs) junto con un medicamento del punto 2. (Triptanes) al inicio de la crisis
+- En caso de náuseas, tomar metoclopramida 10mg
+- Los triptanes no deberían utilizarse más de 10 días al mes, ya que pueden llevar a dolor de cabeza por abuso de medicamentos
+
+### Tratamiento preventivo
+
+#### Indicaciones generales
+
+- Evitar los gatillantes
+- Procurar no tomar medicamentos de forma excesiva, ya que puede llevar a dolor de cabeza por abuso de medicamentos. 
+- Mantener una rutina de sueño regular
+- Mantener una rutina de alimentación regular
+- Realizar ejercicio regularmente
+
+#### Medicamentos
+
+- Propranolol 40mg: partir con medio comprimido en la noche, aumentar a 1 comprimido luego de 1 semana si no ha tenido efectos adversos
+    - Debería empezar a notar efecto a las 4 semanas, con disminución de la frecuencia de las crisis.
+    - Poner atención a reacciones adversas:
+        - Mareos
+        - Fatiga
+        - Disminución de la libido
+        - Depresión
+        - Dificultad respiratoria
+        - Dolor en el pecho
+        - Palpitaciones
+        - Insomnio
+
+## Cuando acudir a urgencias
+
+- Si el dolor es muy intenso y no cede con medicamentos habituales
+- Si el dolor es diferente a los dolores de cabeza habituales
+- Si el dolor se acompaña de fiebre
+- Si el dolor se acompaña de debilidad en alguna parte del cuerpo
+- Si tiene nuevos síntomas
+- Si no ha cedido el dolor en 72 horas, puede tratarse de un "status migrañoso" que requiere un manejo distinto, con medicamentos endovenosos
+
+</details>
+
 ### Manejo agudo:
 - SF 250 cc + ketoprofeno 300 mg + metamizol 2 g + metoclopramida 10 mg (Ondansetrón si nauseas) en dos horas
     - Si no mejora --> Clorpromazina 12.5 mg
@@ -1326,7 +1425,7 @@ Tratamiento:
 - Considere el sulfato de magnesio IV como terapia complementaria bajo la orientación de un especialista.
 - Considere el tratamiento hospitalario por un especialista si no hay mejoría.
 
-### Profilaxis:
+### Profilaxis
 
 No farmacológico: 
 - Modificaciones estilo de vida: ejercicio moderado, dieta balanceada, identificar e intentar evitar desencadenantes, sueño regular.
@@ -1548,7 +1647,3 @@ Injuria subcortical:
 
 Daño vascular difuso:
 - Lesiones hemorrágicas en sustancia blanca
-
-## Lesiones Secundarias
-
-

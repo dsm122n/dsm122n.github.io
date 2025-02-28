@@ -124,3 +124,5 @@ Específico
 - GC tópicos de muy alta potencia (<span class= "tto" >CLOBETASOL 0,05%</span>) con oclusión. 
 - o <span class= "tto" >Budesonida 0,025%</span> alivia bastante el prurito con menos riesgo de atrofia cutánea.  
 - Inmunomoduladores tópicos: tacrolimus 0,1%.  
+
+# Escabiosis - Sarna

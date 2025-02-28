@@ -153,3 +153,4 @@ Tabla 3. Criterios de derivación urgente al nefrólogo o al servicio de urgenci
         </tr>
     </table>
 </div>
+
