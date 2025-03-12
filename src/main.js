@@ -18,6 +18,10 @@ document.addEventListener('DOMContentLoaded', function() {
       let data = JSON.parse(rep.substr(47).slice(0,-2));
       let tablitaLinda = data.table.rows; 
       console.log(tablitaLinda);
+      //print row 134 of table
+
+      console.log(tablitaLinda[133].c);
+
       for (let i = 0; i < tablitaLinda[0].c.length; i++) {
           const element = tablitaLinda[0].c[i].v;
           console.log(element);
@@ -40,6 +44,7 @@ document.addEventListener('DOMContentLoaded', function() {
                       const dato = element[j].v;
                       const celda = `<td>${dato}</td>`;
                       document.getElementById(`fila_${i}`).innerHTML += celda;
+                      
                   }
               }
           }
