@@ -389,6 +389,10 @@ Razones para elejir otros antidepresivos no ISRS:
 
 § Both SNRIs and SSRIs are reasonable first-line options for treating severe major depression.
 
+### Tabla resumen
+
+
+
 
 ### Consejería breve
 
@@ -448,6 +452,175 @@ Hay muchas formas en las que las personas pueden apoyarnos. A veces es tener a <
 </td>
 </tr>
 </tbody>
+</table>
+
+
+<table border="1">
+    <tr>
+        <th>ISRS</th>
+        <th>Vida Media</th>
+        <th>Dosis Usual</th>
+        <th>Extras</th>
+        <th>Ventajas</th>
+        <th>Desventajas</th>
+    </tr>
+    <tr>
+        <td>Fluoxetina</td>
+        <td>2-3 d, metab activo 7-15 d</td>
+        <td>20 a 60 mg/día</td>
+        <td>Agonista 5HT2c y NA<br>Fuerte inhibición CYP2D6<br>Menor riesgo Sd. discontinuación<br>Evidencia en embarazo y lactancia<br>Puede causar "aplanamiento" cognitivo y afectivo</td>
+        <td>En depresión atípica (hipersomnia, aumento apetito)<br>Fatiga, baja energía<br>Comorbilidad TCA<br>Bajo costo</td>
+        <td>Pctes con anorexia<br>Inicio tto produce ansiedad y agitación<br>No muy bueno en TP</td>
+    </tr>
+    <tr>
+        <td>Sertralina</td>
+        <td>24-36 h, metab activo débil 66 h</td>
+        <td>50 a 200 mg/día<br>Dosis inicio: 25 mg<br>Disminución de 50% cada 7 d<br>Una toma diaria</td>
+        <td>Alta afinidad receptor serotoninérgico<br>Leve inhibición DA<br>Relativamente segura en lactancia</td>
+        <td>En depresión atípica (hipersomnia, aumento apetito)<br>Aplanamiento afectivo y cognitivo teóricamente menor por bloqueo DA<br>Seguridad CV, ok en IAM o angina<br>Bajo riesgo de sedación y aumento de peso</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Paroxetina</td>
+        <td>20 h</td>
+        <td>20 a 60 mg/día<br>Dosis inicio: 10 a 20 mg<br>20 y 25 mg CR/retard (mejora tolerabilidad, especialmente náuseas)<br>Disminución de dosis 25% cada 7-14 d</td>
+        <td>Inhibe recaptura NA<br>Bloqueo Muscarínico<br>Fuerte inhibición CYP2D6</td>
+        <td>Puede disminuir ansiedad e insomnio al inicio del tto</td>
+        <td>Mayor sedación<br>Mayor aumento de peso a largo plazo<br>Mayor disfunción sexual<br>No recomendado en embarazo</td>
+    </tr>
+    <tr>
+        <td>Citalopram</td>
+        <td>33-35 h</td>
+        <td>20 a 60 mg/día</td>
+        <td>Alta afinidad receptor 5HT<br>↑ serotonina cerebro e intestino: insomnio y diarrea<br>Aplanamiento emocional y cognitivo<br>Leve efecto antiH1, sedación y fatiga</td>
+        <td></td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Escitalopram</td>
+        <td>33-35 h</td>
+        <td>10 a 30 mg/día<br>Dosis inicio: 5 mg</td>
+        <td></td>
+        <td>Mejor tolerado que citalopram</td>
+        <td></td>
+    </tr>
+</table>
+
+
+<table border="1">
+    <tr>
+        <th>ATC</th>
+        <th>Vida Media</th>
+        <th>Dosis Usual</th>
+        <th>Extras</th>
+        <th>Ventajas</th>
+        <th>Desventajas</th>
+        <th>Contraindicaciones</th>
+    </tr>
+    <tr>
+        <td>Amitriptilina</td>
+        <td>20-30 horas<br>Peak plasmático: 6-12 horas</td>
+        <td>Dolor crónico: 25-100 mg/día<br><br>
+            Depresión: 100-300 mg/día<br>
+            (No 1a línea por médico gral)<br>
+            Dosis inicio 25 a 50 mg</td>
+        <td>Inhibe recaptación de serotonina, NA y en menor medida DA<br>
+            Efecto antimuscarínico, antiH1 y anti alfa1</td>
+        <td>Usos: TDM, dolor neuropático, FM, cefalea, dolores musculares, insomnio, ansiedad, depresión resistente</td>
+        <td>Aumento de peso<br>
+            Temblor<br>
+            Síntomas extrapiramidales<br>
+            Disminución umbral convulsivante<br>
+            Confusión</td>
+        <td>Absolutas: IAM reciente, Tr conducción, glaucoma ángulo estrecho, hipersensibilidad ATC, epilepsia, HTA descompensada, cuadros confusionales, íleo paralítico<br><br>
+            Relativas: HPB, uso disulfiram, precaución en AM</td>
+    </tr>
+</table>
+
+
+<table border="1">
+    <tr>
+        <th>Duales (NA-Ser)</th>
+        <th>Vida Media</th>
+        <th>Dosis Usual</th>
+        <th>Extras</th>
+        <th>Ventajas</th>
+        <th>Desventajas</th>
+    </tr>
+    <tr>
+        <td>Venlafaxina</td>
+        <td>3 a 7 horas</td>
+        <td>75 a 375 mg/día<br>Dosis inicial: 37.5 - 75 mg<br>Aumento dosis cada 4-7 d</td>
+        <td>Serotoninérgico a dosis bajas (hasta 75 mg), se agrega efecto NA a dosis altas (mayor a 150 mg) y prob dopaminérgico sobre 300 mg<br>Sin efectos antiM, antiH y antiA1 in vitro<br>Efectos secundarios dosis dependiente</td>
+        <td>Sin sedación<br>Dolor neuropático y FM<br>Depresión retardada, atípica y comorbilidad con ansiedad<br>Cuando pacientes no responden a ISRS</td>
+        <td>Síntomas de discontinuación significativos<br>Ojo con HTA descompensada, cardiopatías</td>
+    </tr>
+    <tr>
+        <td>Desvenlafaxina</td>
+        <td></td>
+        <td>Eficacia probada a 50 mg c/24 h. 50-100 mg<br>Dosis de inicio puede ser dosis terapéutica</td>
+        <td>Similar a venlafaxina<br>Mayor inhibición de NA que serotonina<br>Mayor efecto vasomotor y en FM</td>
+        <td>Bajo potencial de interacción medicamentosa<br>Depresión con síntomas vasomotores</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Duloxetina</td>
+        <td>12.7 horas</td>
+        <td>60 - 120 mg<br>Comprimidos de 30 y 60 mg</td>
+        <td>Tasas de respuesta y remisión ligeramente mayores que con ISRS</td>
+        <td>Síntomas somáticos dolorosos<br>Sintomatología afectiva<br>Depresión y FM<br>Depresión atípica<br>IO de esfuerzo?</td>
+        <td>Problemas prostáticos<br>Sensibles a náuseas</td>
+    </tr>
+    <tr>
+        <td>Mirtazapina</td>
+        <td></td>
+        <td>15 a 60 mg/día</td>
+        <td>Efecto hipnótico, acción histaminérgica<br>Importante aumento de apetito y peso</td>
+        <td>Buena tolerancia gástrica<br>Sin alteraciones de la líbido<br>Sin problemas CV<br>En insomnio<br>Potencia otros AD</td>
+        <td></td>
+    </tr>
+</table>
+
+<br>
+
+<table border="1">
+    <tr>
+        <th>Dual (NA-DA)</th>
+        <th>Vida Media</th>
+        <th>Dosis Usual</th>
+        <th>Extras</th>
+        <th>Ventajas</th>
+        <th>Desventajas</th>
+    </tr>
+    <tr>
+        <td>Bupropion</td>
+        <td></td>
+        <td>150 mg/12 h?<br>300 mg/c 24 h XL?</td>
+        <td>Sin efecto significativo de 5HT, antiM, antiH, anti alfa1</td>
+        <td>En tabaquismo<br>Disminuye apetito<br>No altera líbido<br>Seguro CV</td>
+        <td>Contraindicado en TCA<br>Puede exacerbar tics<br>Puede no ser tan efectivo en Tr. ansiosos vs otros AD</td>
+    </tr>
+</table>
+
+<br>
+
+<table border="1">
+    <tr>
+        <th>Dual (5HT2a y c)</th>
+        <th>Vida Media</th>
+        <th>Dosis Usual</th>
+        <th>Extras</th>
+        <th>Ventajas</th>
+        <th>Desventajas</th>
+    </tr>
+    <tr>
+        <td>Trazodona</td>
+        <td></td>
+        <td>Depresión: 150 a 400 mg en 2 tomas<br>Insomnio: 25 a 100 mg en la noche</td>
+        <td>Inhibe recaptura de serotonina (escaso a dosis bajas) y bloquea receptores 5HT2a y 5HT2c (postsináptico, creo)<br>Bloqueo receptor H y alfa2</td>
+        <td>Por facilitar sueño puede servir para reemplazo de BZD<br>No altera líbido</td>
+        <td>Produce sueño<br>Mareos, sedación, hipotensión</td>
+    </tr>
 </table>
 
 # Trastorno por uso de sustancias (TUS)
@@ -1284,7 +1457,59 @@ De uptodate
 
 <table cellspacing="0"><colgroup width="16%"></colgroup> <colgroup width="7%" span="12"></colgroup> <tbody> <tr> <td class="subtitle1">&nbsp;</td> <td class="subtitle1">Weight gain</td> <td class="subtitle1">Glucose abnormalities</td> <td class="subtitle1">Hyperlipidemia</td> <td class="subtitle1">Akathisia</td> <td class="subtitle1">Parkinsonism</td> <td class="subtitle1">Dystonia</td> <td class="subtitle1">Tardive dyskinesia</td> <td class="subtitle1">Prolactin elevation</td> <td class="subtitle1">Sedation</td> <td class="subtitle1">Anticholinergic</td> <td class="subtitle1">Orthostatic hypotension</td> <td class="subtitle1">QTc prolongation</td> </tr> <tr> <td class="subtitle2_left" colspan="13">Second-generation agents</td> </tr> <tr> <td class="indent1">Aripiprazole</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">++</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">*</td> </tr> <tr> <td class="indent1">Asenapine</td> <td class="centered">++</td> <td class="centered">++</td> <td class="centered">++</td> <td class="centered">++</td> <td class="centered">+</td> <td class="centered">++</td> <td class="centered">++</td> <td class="centered">++</td> <td class="centered">++</td> <td class="centered">+</td> <td class="centered">++</td> <td class="centered">+</td> </tr> <tr> <td class="indent1">Brexpiprazole<sup>¶</sup></td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">++</td> <td class="centered">++</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">++</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">*</td> </tr> <tr> <td class="indent1">Cariprazine<sup>¶</sup></td> <td class="centered">++</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">++</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">++</td> <td class="centered">++</td> <td class="centered">+</td> <td class="centered">*</td> </tr> <tr> <td class="indent1">Clozapine<sup>Δ</sup></td> <td class="centered">+++</td> <td class="centered">+++</td> <td class="centered">+++</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">+++</td> <td class="centered">+++</td> <td class="centered">+++</td> <td class="centered">++</td> </tr> <tr> <td class="indent1">Iloperidone</td> <td class="centered">++</td> <td class="centered">++</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">++</td> <td class="centered">++</td> <td class="centered">+</td> <td class="centered">+++</td> <td class="centered">+</td> </tr> <tr> <td class="indent1">Lumateperone<sup>¶</sup></td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">*</td> </tr> <tr> <td class="indent1">Lurasidone</td> <td class="centered">+</td> <td class="centered">++</td> <td class="centered">++</td> <td class="centered">++</td> <td class="centered">++</td> <td class="centered">++</td> <td class="centered">++</td> <td class="centered">+</td> <td class="centered">++</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">*</td> </tr> <tr> <td class="indent1">Olanzapine</td> <td class="centered">+++</td> <td class="centered">+++</td> <td class="centered">+++</td> <td class="centered">++</td> <td class="centered">++</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">++</td> <td class="centered">+++</td> <td class="centered">++</td> <td class="centered">++</td> <td class="centered">++</td> </tr> <tr> <td class="indent1">Paliperidone</td> <td class="centered">++</td> <td class="centered">+</td> <td class="centered">++</td> <td class="centered">++</td> <td class="centered">++</td> <td class="centered">++</td> <td class="centered">++</td> <td class="centered">+++</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">++</td> <td class="centered">+</td> </tr> <tr> <td class="indent1">Pimavanserin</td> <td class="centered">–</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">++</td> <td class="centered">+</td> </tr> <tr> <td class="indent1">Quetiapine</td> <td class="centered">++</td> <td class="centered">++</td> <td class="centered">+++</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">+++</td> <td class="centered">++</td> <td class="centered">++</td> <td class="centered">++</td> </tr> <tr> <td class="indent1">Risperidone</td> <td class="centered">++</td> <td class="centered">++</td> <td class="centered">+</td> <td class="centered">++</td> <td class="centered">++</td> <td class="centered">++</td> <td class="centered">++</td> <td class="centered">+++</td> <td class="centered">++</td> <td class="centered">+</td> <td class="centered">++</td> <td class="centered">++</td> </tr> <tr> <td class="indent1">Ziprasidone</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">++</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">++</td> <td class="centered">++</td> <td class="centered">+</td> <td class="centered">++</td> <td class="centered">+++</td> </tr> <tr> <td class="subtitle2_left" colspan="13">First-generation agents</td> </tr> <tr> <td class="indent1">Chlorpromazine</td> <td class="centered">++</td> <td class="centered">++</td> <td class="centered">+</td> <td class="centered">++</td> <td class="centered">++</td> <td class="centered">++</td> <td class="centered">+++</td> <td class="centered">+</td> <td class="centered">+++</td> <td class="centered">+++</td> <td class="centered">+++</td> <td class="centered">+++</td> </tr> <tr> <td class="indent1">Fluphenazine</td> <td class="centered">++</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">+++</td> <td class="centered">+++</td> <td class="centered">+++</td> <td class="centered">+++</td> <td class="centered">+++</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">+</td> </tr> <tr> <td class="indent1">Haloperidol</td> <td class="centered">++</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">+++</td> <td class="centered">+++</td> <td class="centered">+++</td> <td class="centered">+++</td> <td class="centered">+++</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">Oral: ++<br> IV: +++</td> </tr> <tr> <td class="indent1">Loxapine</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">++</td> <td class="centered">++</td> <td class="centered">++</td> <td class="centered">++</td> <td class="centered">++</td> <td class="centered">++</td> <td class="centered">++</td> <td class="centered">++</td> <td class="centered">*</td> </tr> <tr> <td class="indent1">Molindone</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">++</td> <td class="centered">++</td> <td class="centered">++</td> <td class="centered">++</td> <td class="centered">++</td> <td class="centered">++</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">*</td> </tr> <tr> <td class="indent1">Perphenazine</td> <td class="centered">++</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">++</td> <td class="centered">++</td> <td class="centered">++</td> <td class="centered">++</td> <td class="centered">++</td> <td class="centered">++</td> <td class="centered">++</td> <td class="centered">++</td> <td class="centered">*</td> </tr> <tr> <td class="indent1">Pimozide</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">+++</td> <td class="centered">+++</td> <td class="centered">++</td> <td class="centered">+++</td> <td class="centered">+++</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">++<sup>◊</sup></td> </tr> <tr> <td class="indent1">Thioridazine<sup>§</sup></td> <td class="centered">++</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">++</td> <td class="centered">+++</td> <td class="centered">+++</td> <td class="centered">+++</td> <td class="centered">++</td> </tr> <tr> <td class="indent1">Thiothixene</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">+++</td> <td class="centered">+++</td> <td class="centered">+++</td> <td class="centered">+++</td> <td class="centered">+++</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">*</td> </tr> <tr> <td class="indent1">Trifluoperazine</td> <td class="centered">++</td> <td class="centered">+</td> <td class="centered">+</td> <td class="centered">++</td> <td class="centered">++</td> <td class="centered">++</td> <td class="centered">++</td> <td class="centered">++</td> <td class="centered">+</td> <td class="centered">++</td> <td class="centered">+</td> <td class="centered">*</td> </tr> </tbody></table>
 
-#### Típicos
+### Típicos
+
+
+<table border="1">
+    <tr>
+        <th colspan="2">Típicos</th>
+    </tr>
+    <tr>
+        <th>Alta potencia</th>
+        <th>Baja potencia</th>
+    </tr>
+    <tr>
+        <td>Mayor bloqueo D2</td>
+        <td>Menor bloqueo D2</td>
+    </tr>
+    <tr>
+        <td>Menor efecto anticolinérgico, antihistaminérgico y antiadrenérgico</td>
+        <td>Mayor efecto anticolinérgico, antihistaminérgico y antiadrenérgico</td>
+    </tr>
+    <tr>
+        <td>Haloperidol (0.5-3 mg/d ?) Pimozide, Flufenazina</td>
+        <td>Clorpromazina, Tioridazina, Levopromazina</td>
+    </tr>
+</table>
+
+<table border="1">
+    <tr>
+        <th>Típicos de depósito</th>
+        <th>Dosis</th>
+    </tr>
+    <tr>
+        <td>Decanoato de haloperidol</td>
+        <td>50 a 150 mg cada 2-4 sem</td>
+    </tr>
+    <tr>
+        <td>Decanoato de flufenazina</td>
+        <td>20 a 80 mg cada 2-4 sem</td>
+    </tr>
+    <tr>
+        <td>Palmitato de pipotiazina</td>
+        <td>25 a 250 mg cada 3-4 sem</td>
+    </tr>
+    <tr>
+        <td>Decanoato de flupentixol</td>
+        <td>20 a 80 mg cada 2-4 sem</td>
+    </tr>
+    <tr>
+        <td>Decanoato de zuclopentixol</td>
+        <td>100 a 400 mg cada 2-4 sem</td>
+    </tr>
+</table>
+
+
 
 <table cellspacing="0"><colgroup span="6" width="10%"></colgroup><colgroup width="40%"></colgroup> <tbody> <tr> <td class="subtitle1">Agent</td> <td class="subtitle1">Initial dose<br> (mg/day)</td> <td class="subtitle1">Usual dose range<br> (mg/day)</td> <td class="subtitle1">Maximum dose<br> (mg/day)</td> <td class="subtitle1">Half-life<br> (hours)</td> <td class="subtitle1">Metabolism and clearance</td> <td class="subtitle1">Selected characteristics</td> </tr> <tr> <td>Chlorpromazine<sup>*</sup></td> <td>25 to 200</td> <td>400 to 600</td> <td>800</td> <td>Approximately 30</td> <td>CYP2D6, other CYPs, and glucuronidation to active and inactive metabolites</td> <td> <ul> <li>Doses greater than 800 mg/day approved by some regulatory authorities are <strong>not</strong> recommended</li> <li>Avoid use in older adults</li> <li>Other formulation: Short-acting IM</li> </ul> </td> </tr> <tr class="highlight_lght_gray_text"> <td>Fluphenazine</td> <td>2 to 10</td> <td>6 to 20</td> <td> <p>12 (maintenance)</p> 20 (acute)</td> <td>14 to 16</td> <td>CYP2D6</td> <td> <ul> <li>Routinely given in 1 to 2 divided doses</li> <li>Oral absorption is highly variable; dose must be individualized based on response</li> <li>Dose adjustment may be needed with CYP2D6 inhibitors<sup>¶</sup></li> <li>Avoid use in hepatic impairment (per manufacturer)</li> <li>Other formulations: Oral solution, short-acting IM, LAI</li> </ul> </td> </tr> <tr> <td>Haloperidol</td> <td>2 to 10</td> <td>2 to 20</td> <td>30</td> <td>14 to 37</td> <td>CYP2D6, 3A4, and glucuronidation; some metabolites active and potentially neurotoxic</td> <td> <ul> <li>Daily dose administered in 1 to 3 divided doses</li> <li>Oral bioavailability approximately 60%; adjust accordingly when switching between oral and short-acting parenteral formulations</li> <li>Oral doses greater than 30 mg/day approved by some regulatory authorities are <strong>not</strong> recommended</li> <li>Variable dose requirements due to CYP2D6 metabolizer phenotype</li> <li>QTc prolongation risk increased with IV doses greater than 2 mg (off-label route); for IV use assess baseline and on-treatment ECG</li> <li>Other formulations: Oral solution, short-acting IM/IV, LAI</li> </ul> </td> </tr> <tr class="highlight_lght_gray_text"> <td>Loxapine</td> <td>20</td> <td>20 to 80</td> <td> <p>100 (maintenance)</p> 250 (acute)</td> <td> <p>6 to 8 (parent)</p> 12 (active metabolites)</td> <td>CYP1A2, 2D6, 3A4 and glucuronidation to active and inactive metabolites</td> <td> <ul> <li>Routinely given in 1 to 2 divided doses</li> <li>Other formulations: Inhalation for acute treatment in health care setting; oral solution and short-acting IM available in some areas (not United States)</li> </ul> </td> </tr> <tr> <td>Molindone</td> <td>50 to 75</td> <td>15 to 100</td> <td>225</td> <td>1.5</td> <td>CYP2D6</td> <td>&nbsp;</td> </tr> <tr class="highlight_lght_gray_text"> <td>Perphenazine</td> <td>8 to 16</td> <td>12 to 24</td> <td>24 (refer to selected characteristics)</td> <td> <p>9 to 12 (parent)</p> 10 to 19 (active metabolites</td> <td>CYP2D6, 3A4, and other CYPs to active and inactive metabolites</td> <td> <ul> <li>Routinely given in 2 to 3 divided doses daily</li> <li>Higher daily doses (eg, up to 32 mg per day) were shown to be similar in tolerability and efficacy to some SGAs<sup>[1]</sup> and in practice up to 64 mg per day total may be acceptable for severe symptoms</li> <li>Variable dose requirements due to CYP2D6 metabolizer phenotype</li> <li>Avoid use in hepatic impairment (per manufacturer)</li> </ul> </td> </tr> <tr> <td>Pimozide</td> <td>1 to 2</td> <td>2 to 4</td> <td>10</td> <td> <p>55</p> 150 (CYP2D6 poor metabolizers)</td> <td>CYP1A2, 2D6, 3A4 and others</td> <td> <ul> <li>Oral bioavailability is variable due to extensive hepatic first-pass metabolism</li> <li>QTc prolongation risk; assess baseline and on-treatment ECG</li> <li>Maximum dose 4 mg/day in CYP2D6 poor metabolizers</li> <li>Avoid use with CYP2D6 inhibitors<sup>¶</sup></li> </ul> </td> </tr> <tr class="highlight_lght_gray_text"> <td>Thioridazine<sup>*</sup></td> <td>150 to 300</td> <td>200 to 600</td> <td>800</td> <td> <p>4 to 10 (parent)</p> 21 to 25 (active metabolites</td> <td>CYP2D6 and other CYPs to active (mesoridazine) and inactive metabolites</td> <td> <ul> <li>Given in 1 to 2 divided doses</li> <li>QTc prolongation risk; assess baseline and on-treatment ECG</li> <li>Avoid use with CYP2D6 inhibitors<sup>¶</sup></li> </ul> </td> </tr> <tr> <td>Thiothixene</td> <td>6 to 10</td> <td>10 to 20</td> <td>60</td> <td>34</td> <td>CYP1A2 and others</td> <td> <ul> <li>Given in 1 to 3 divided doses</li> <li>Oral bioavailability is variable; dose must be individualized based on patient response</li> <li>Tobacco smoking may decrease levels</li> </ul> </td> </tr> <tr class="highlight_lght_gray_text"> <td>Trifluoperazine</td> <td>4 to 10</td> <td>15 to 20</td> <td>40</td> <td> <p>3 to 12 (parent drug)</p> 22 (active metabolites)</td> <td>CYP1A2 and other CYPs to active and inactive metabolites</td> <td> <ul> <li>Oral bioavailability is variable; dose must be individualized based on patient response</li> <li>Tobacco smoking may decrease levels</li> </ul> </td> </tr> </tbody></table>
 
@@ -1311,6 +1536,52 @@ Se puede cambiar afinidad por D2
 
 Se puede añadir efecto de bloqueo 5-HT2A: estas neuronas están conectadas a vías dopaminérgicas mesocorticale, nigroestriatal e infundibular, pero no a la mesolímbica.
 - Bloqueo 5-HT2A: se desinhibe la liberación de dopamina en esas vías
+
+<table border="1">
+    <tr>
+        <th>Atípicos</th>
+        <th>Dosis</th>
+        <th>Extras</th>
+        <th>Tto 1er ep EQZ</th>
+    </tr>
+    <tr>
+        <td>Risperidona</td>
+        <td>Dosis habitual: 2-3 mg/día<br>En dosis mayores (3-6 mg/d) se comporta como típico</td>
+        <td>Síntomas extrapiramidales<br>HiperPRL</td>
+        <td>IA</td>
+    </tr>
+    <tr>
+        <td>Quetiapina</td>
+        <td>Insomnio/ansiolítico: 25 a 50 mg/noche<br>Estabilizador del ánimo: 300 a 400 mg/día<br>Antipsicótico: 600 a 1000 mg/día</td>
+        <td>Bloqueo Histaminérgico<br>Efecto sedante, aumento peso</td>
+        <td>IA</td>
+    </tr>
+    <tr>
+        <td>Olanzapina</td>
+        <td>Dosis habitual: 5-20 mg/día</td>
+        <td>Bueno para síntomas (+) y (-)<br>Aumento de peso, sd. metab<br>Sedación</td>
+        <td>IA</td>
+    </tr>
+    <tr>
+        <td>Clozapina</td>
+        <td>El más eficaz, pero más peligroso<br>Agranulocitosis: hemograma semanal por 18 semanas, luego mensual<br>Sedación, salivación, taquicardia<br>Riesgo de convulsiones<br>Aumento de peso</td>
+        <td>Eficaz para síntomas positivos<br>Sin aumento de peso ni problemas metabólicos</td>
+        <td>IIB</td>
+    </tr>
+    <tr>
+        <td>Ziprasidona</td>
+        <td>40-80 mg/día</td>
+        <td>Aumento QTc</td>
+        <td>IIB</td>
+    </tr>
+    <tr>
+        <td>Aripiprazol</td>
+        <td></td>
+        <td>Agonista parcial dopaminérgico<br>Bueno para síntomas negativos, afectivos y cognitivos<br>Sin aumento de peso ni problemas metabólicos</td>
+        <td>IIB</td>
+    </tr>
+</table>
+
 
 #### Quetiapina
 
