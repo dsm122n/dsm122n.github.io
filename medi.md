@@ -2071,6 +2071,57 @@ Leucemia linfática crónica: linfoma (tipo específico de linfoma de hodgkin) +
 
 ## Diabetes
 
+### Crisis hiperglicémica
+
+![CAD-SHH](CAD-SHH.png)
+
+- Fluidos	intravenosos:
+  - 1000-2000	cc	NaCl 0.9%en	1-2	hrs para	recuperar	hipotensión	y/o	hipoperfusión.	Cambiar	a	NaCl 0.9%	o	0.45%	a	250-500	cc/h	según	Na plasmático.	Cuando	glicemia	=	200	cambie	a	SG5%
+- Insulina
+  - Insulina	cristalina	0.1	U/k	seguido	de	insulina	por	BIC	0.1U/k/h.	Cuando	glicemia	≤	250	disminuir	a	0.05U/k/h
+  - Luego	ajustar	para	mantener	glicemia	cercana	a	200.	Alternativa	=	insulina	cristalina	sc ante	CAD	leve	a	moderado
+- Potasio 
+  - 5	mEq/l	no	suplementar	- 4-5	mEq/l	agregar	1,5	gr/l	KCl a	sueros	- 3-4	mEq/l	agregar	3	g/l	KCl- <3	mEq/l	0,75	a 1,5	g	KCl/hora	hasta	potasio	>	3	mE/l	y	luego	3g/l
+- Bicarbonato
+  - Si	pH	<	6.9		50mE/l	en	500	cc	de	SF	0,45%	en	1	hora	hasta	pH	≥	7
+- Evaluación	de	laboratorio
+  - Hemograma	+	glicemia	+	ELP	+	BUN	+	creatinina	+	cetonemian o	cetonuria +	osmolaridad +	pH	venoso	o	arterial	y	ex	orina.	Durante	el	tto glicemia	capilar	c/1-2h	.	ELP-glicemia-BUN-crea	y	pH	venoso	cada	4h	
+- Transición	a	insulina	subcutánea
+  - Infusión	insulina	hasta	resolución	de	CA.	Para	prevenir	recurrencia	de	CA	o	hiperglicemia	continue insulina	iv	2-4h	después	insulina	sc.	En	DM	con	insulina	previa	reiniciar	insulina	ajustada.	DM	reciente	dg	inicie	0.6U/k/d Considere	insulina	basal/prandia
+
+#### Resolución
+
+Criterios resolución cetoacidosis ADA:
+- Glicemia < 200 mg/dL +:
+  - HCO3 >= 15 mEq/L o 
+  - pH >= 7.3 o 
+  - AG < 12 mEq/L
+
+Criterios resolución estado hiperglicémico hiperosmolar:
+- Osmolalidad normal
+- Estado mental recuperado
+
+
+
+### Esquema Insulina en DM en hospital 
+
+![desciciones dm](image-13.png)
+
+![esquema-hgt-insulina](esquema-hgt-insulina.png)
+
+![nph-hospitalizados](image-12.png)
+
+Ajuste NPH basal según HGT ayunas:
+- Aumento si: 
+  - 140-180 mg/dL --> aumento en 10% dosis basal al día siguiente
+  - \>180 mg/dL --> aumento en 20% dosis basal al día siguiente
+- Disminuir: 
+  - si tiende a estar entre 80-100 mg/dL disminuir basal en 20% 
+  - si <80 mg/dL  diminuir basal en 50%
+- NPH distribuir basal en 2/3-1/3
+
+
+
 ### Vista general tipos DM
 
 <div class="WordSection1">

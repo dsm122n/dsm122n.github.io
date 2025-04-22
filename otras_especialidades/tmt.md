@@ -99,6 +99,74 @@ DOI:10.1097/MOP.0000000000000977:
 
 # Adulto
 
+## Fractura expuesta
+
+Clasificación de Gustilo - Anderson
+
+![gustilo-anderson](gustilo-anderson.png)
+
+<table border="1">
+  <caption>Tabla 4-2. Indicación ATB según tipo de fractura expuesta</caption>
+  <thead>
+    <tr>
+      <th>Tipo</th>
+      <th>Antibiótico</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Tipo I y II</td>
+      <td>
+        Cefazolina 2 gr. endovenoso al ingreso, luego 1 gr EV c/ 6-8 h por 2-3 días
+      </td>
+    </tr>
+    <tr>
+      <td>Tipo III</td>
+      <td>
+        Cefazolina 2 gr EV al ingreso, luego 1 gr/8 h + Gentamicina 3 a 5 mg/kg/día durante 3 días<br>
+        <i>*PNC sódica 5 millones c/6 h por 3 días (si se sospecha infección por anaerobios)</i>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+Sospechar anaerobios en pelvis (trauma intestino)
+
+<table border="1">
+  <caption>Tabla 4-3. Esquema de profilaxis antitetánica</caption>
+  <thead>
+    <tr>
+      <th>Vacunación</th>
+      <th>Herida limpia</th>
+      <th>Herida contaminada</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Desconocida o &lt; 3 dosis</td>
+      <td>Esquema completo *</td>
+      <td>Agregar Ig</td>
+    </tr>
+    <tr>
+      <td>3 o &gt; dosis y &lt; 5 años de la última dosis</td>
+      <td>-</td>
+      <td>-</td>
+    </tr>
+    <tr>
+      <td>3 o &gt; dosis y entre 6 a 10 años de la última dosis</td>
+      <td>-</td>
+      <td>Td 1 dosis</td>
+    </tr>
+    <tr>
+      <td>3 o &gt; dosis y &gt; 10 años de la última dosis</td>
+      <td>Td 1 dosis</td>
+      <td>Td 1 dosis</td>
+    </tr>
+  </tbody>
+</table>
+<p><i>* Corresponde al toxoide tetánico combinado con toxoides diftérico (Td) en 3 dosis.</i></p>
+
+
 ## Dolor Lumbar
 
 Banderas rojas:

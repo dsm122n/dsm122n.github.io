@@ -1525,9 +1525,11 @@ Dr Guillermo Zepeda gzepedaflores@uchile.cl
 - Déficit complemento (ejemplos reales es casi incompatible con la vida) --> Complemento de ataque de membranas contra bacterias --> inf graves por bacterias
 - Hace 5 años infectos recomendaron bajar la dosis de amoxi y suele andar bien. Guía GES que salió viernes pasado se bajó dosis de amoxi. Tto otitis y sinusitis se mantiene 10 días. 50 mg/kg
 - Revisar indicaciones ATB en OMA
-	- menor 6 meses, 
-	- bilateral, 
-	- otorrea
+	La Asociación Americana de Pediatría señala como sugerencia tratar con antibióticos a:
+	- < 6 meses, 
+	- otitis severa (>48 horas de evolución con **dolor** moderado o severo y **fiebre** sobre 39ºC), 
+	- < 2 años con otitis bilateral, 
+	- o niños con otros factores de riesgo. 
 	- Siempre primera opción es amoxi :) **pneumococo**. Recontrolar 48h para ver evolución
 - Escolar, Tos, ruidos pulmonares, alt radiograficas (inespecíficas no son específicas) --> intracelular --> más probable mycoplasma
 	- Bordetella pertussis: tos paroxística, apnea, cianosis, vómitos post-tos. Tb es probable, pero no lo más probable
@@ -1648,3 +1650,64 @@ Dr Guillermo Zepeda gzepedaflores@uchile.cl
 - En lactante, si cuadro de streptococia (faringoamigdalitis, adenopatías), lo más probable no es estrepto, adenovirus. No dar ATB
 - Revisar VRS, ojo vacuna 
 - Para rinitis alérgica ped y adulto, guías ARIA [click aquí](https://www.euforea.eu/pocket-guides)
+
+# otros infecto
+
+ En el año 2019, Revista Chilena de Infectología de la 
+Sociedad Chilena de Infectología, publicó recomendacio
+nes para el diagnóstico y tratamiento antimicrobiano de 
+la otitis media aguda, rinosinusitis bacteriana y neumonía 
+bacteriana adquirida en la comunidad en pediatría25–27. El 
+tratamiento de primera línea recomendado tanto para la 
+otitis media aguda como para la rinosinusitis bacteriana 
+es amoxicilina 50 mg/kg/día en dos dosis diarias durante 
+10 días para los niños25,26. Asimismo, la neumonía 
+neumocócica sospechada o confirmada debe tratarse 
+con amoxicilina por vía oral, ya que su acción antineu
+mocócica es superior a la de los macrólidos o azálidos y 
+las cefalosporinas orales de primera, segunda y tercera 
+generación.27. La dosis recomendada de amoxicilina es de 
+50 mg/kg/día cada 12 horas, durante 7 días27. Para todas 
+estas infecciones, la respuesta terapéutica debe evaluarse 
+en las 48 horas siguientes a su inicio25-27.
+ La Guía Técnica Chilena para el Uso de  
+Antimicrobianos en el Manejo de Infecciones Comu
+nitarias Ambulatorias, elaborada por el Ministerio de 
+Salud (año 2021), también incluye el tratamiento de la 
+rinosinusitis bacteriana aguda, la otitis media aguda y la 
+neumonía adquirida en la comunidad, entre otras enfer
+medades infecciosas10. El tratamiento de primera línea de 
+elección para la rinosinusitis bacteriana es la amoxicilina 
+50 mg/kg/día en dos dosis diarias durante 10 días para 
+los niños y, para los adultos, amoxicilina 500 mg a 1 g 
+cada 8 horas durante 5-7 días. Para la otitis media aguda 
+en niños se recomienda amoxicilina 50 mg/kg/día en dos 
+dosis diarias durante 7 días, mientras que para los adultos 
+se recomienda amoxicilina 500 mg cada 12 horas durante 5 -7 días. 
+La neumonía adquirida en la comunidad debe 
+tratarse inicialmente con amoxicilina 50 mg/kg/día en dos 
+dosis diarias durante 7 días en niños y amoxicilina 1 g cada 
+8 horas durante 5 días en adultos sin comorbilidades10.
+ Las Guías Clínicas de Infecciones Respiratorias  
+Agudas Bajas para el Manejo Ambulatorio en Niños 
+Menores de 5 Años, también preparados por el Ministerio 
+de Salud (año 2013), recomiendan para la neumonía ad
+quirida en la comunidad por S. pneumoniae, amoxicilina 
+80-100 mg/kg/día, cada 12 horas durante 7 días, máximo 
+2 gramos/día. En caso de sospecha de infección por 
+Mycoplasma o Chlamydia o de alergia a β-lactámicos, 
+debe utilizarse azitromicina 10 mg/kg/día durante 5 días 
+(máximo 500 mg/día) o claritromicina 15 mg/kg/día cada 
+12 horas durante 10 días (máximo 1 g/día)28.
+ En 2016, se realizó una revisión de validez de las 
+recomendaciones básicas, publicadas originalmente en 
+2011, de las guías clínicas AUGE (Acceso Universal 
+de Garantías Explícitas) del manejo ambulatorio de la 
+neumonía adquirida en la comunidad en adultos mayores 
+de 65 años. Este documento recomienda la terapia antimi
+crobiana durante los dos primeros días con amoxicilina 1g 
+cada 8 horas o amoxicilina 500 mg más ácido clavulánico 
+125 mg cada 12 horas. En caso de alergia a penicilina, 
+iniciar la terapia antimicrobiana durante los dos primeros 
+días con claritromicina 500 mg/12 horas o azitromicina 
+500 mg al día29.
