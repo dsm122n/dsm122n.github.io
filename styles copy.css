@@ -503,7 +503,7 @@ a.sidebar-link:hover {
     .shrink-mobile{
         height: 5vh !important;
     }
-    .image-container{
+    /* .image-container{
         height: 7.5vh;
         width: auto;
         position: relative !important;
@@ -514,7 +514,7 @@ a.sidebar-link:hover {
         button{
             position: relative !important;
         }
-    }
+    } */
 
     
 }

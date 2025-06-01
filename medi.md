@@ -433,6 +433,24 @@ Profe tb recomendó más que atropina, usar isoproterenol (en uptodate tb sale i
 
 ## Alteraciones electrolíticas
 
+### Hipokalemia
+
+- Potasio corporal total = 50-75 mEq/kg
+- Necesidades basales de K = 1 mEq/kg/día
+
+| leve | moderada | severa |
+|---|---|---|
+| 3.5-3.0 mEq/L | 2.9-2.5 mEq/L | <2.5 mEq/L |
+| deficit 5% | deficit 10% | deficit 15% |
+| vía oral | vía oral o iv | vía iv |
+
+Vía oral (slow K 600mg = 8 mEq)
+- 20-40 mEq KCl c/6h
+
+Vía intravenosa periférica
+- < 10-20 mEq/h (240-480 mEq/24h)
+- < 60 mEq/L 
+
 ### Hiperkalemia
 ![hiperkalemia_alg](nefrologia/hiperkalemia_alg.png)
 
