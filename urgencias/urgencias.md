@@ -1,5 +1,33 @@
 # Manejo de Vía aerea
 
+<div class= "dx" >
+
+
+Guía rápida:
+- Premedicación: 
+    - Fentanilo: 2-3 ug/kg EV bolo (30-60 segundos)
+    - Lidocaína: 1.5mg/kg EV (disminuye reflejos de VA, preferir en SBO y HIC/TEC grave
+- Inducción:
+    - <span class= "tto" >Etomidato 0.3 mg/kg EV </span> (no empeora hemodinamia)
+    - Ketamina 1.5 a 2 mg/kg EV(NO en HIC) (Puede ser utilizado IM, efecto comienza a los 5 min)
+    - Midazolam 0.1 a 0.3 mg/kg EV (Riesgo: hipotensión/respiratorio)
+- Parálisis: 
+    - <span class= "tto" >Succinilcolina 1.5-2mg/kg peso ideal</span>, inicio acción 60 seg, duración 6-12 min
+- Sedoanalgesia:
+    - <span class= "tto" >Fentanilo 2-5 mcg/kg/h</span>
+    - <span class= "tto" >Midazolam 0.015-0.1 mg/kg/h</span>
+</div>
+
+    Fentanilo		Etomidato	Succinilcolina	Fentanilo	Midazolam
+peso	2	3	0.3	1.5	2	0.015
+50	100	150	15	75	100	0.75
+60	120	180	18	90	120	0.9
+70	140	210	21	105	140	1.05
+80	160	240	24	120	160	1.2
+90	180	270	27	135	180	1.35
+100	200	300	30	150	200	1.5
+
+
 Fármacos para inducción:
 
 | Medicamento | Mecanismo | Dosis | inicio | duración | Pros | Contras |
@@ -84,9 +112,13 @@ Complicaciones intubación:
 # Drogas vasoactivas
 
 ![drogas vasoactivas dosis](image-3.png)
+
 Si hay evidencia de Shock Cardiogénico de preferencia usar Norepinefrina, menor mortalidad que Dopamina en este escenario (NEJM 2010; 362: 779-89).
+
 Si Shock Anafiláctico: Adrenalina.
+
 Si Shock Séptico con bajo Gasto Cardiaco y adecuada reanimación con volumen: Evaluar uso de Dobutamina como 1a opción.
+
 Si Shock Obstructivo: Mejorar primero la causa, se sugieren vasopresores y evitar uso de inótropos.
 
 ¿Qué dosis? Norepinefrina desde 0,1 ug/kg/min, no hay una dosis tope descrita aunque se sabe que mayor a 0,3 ug/kg/min ya la mortalidad es tan alta como un 60% o más.

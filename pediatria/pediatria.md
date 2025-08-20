@@ -819,6 +819,23 @@ Guías Alimentarias para la Población Chilena
 Lo ideal es consumir **4 comidas** establecidas en el día: desayuno, almuerzo, once y cena, y eventualmente una colación saludable. Se recomienda que la distribución energética de estos tiempos sea **desayuno 25%, Colación 5%, Almuerzo 30%, Once 15%, Cena 25%**.
 
 
+# Gastroenterología
+
+## Diarrea aguda
+
+Cuando estudiar: 
+
+El estudio etiológico viral y/o bacteriano se realiza en casos seleccionados, las indicaciones de éstos son: 
+1. Diarrea prolongada (mayor de 14 días)
+2. Diarrea con sangre (síndrome disentérico)
+3. Pacientes inmunodeprimidos (enfermedades inmunosupresoras, fármacos inmunosupresores, trasplantados)
+4. Intoxicaciones alimentarias (por razones de tipo epidemiológico)
+5. Estudio de portadores 
+6. Sospecha de brote epidémico
+7. Descarte de infección intestinal para establecer otra etiología (se quiere tener la certeza de que una enfermedad crónica no se reactivó por una infección aguda).
+
+Suero mantención: S glucosado 5% 500 ml + NaCl 10% 20 ml + KCl 10% 10 ml 
+
 # Infectología
 ## Enfermedad de kawasaki
 ![kawasaki](image.png)
