@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', function() {
     document.getElementById('tabla_farmacos').setAttribute('class',"tab-pane container active");
     let SHEET_ID = '1SMU1ltLrMVifOb2T8sN5gu5Yd3tKmQ6eid6QnjSDlQo';
     let SHEET_TITLE = 'dosis';
-    let SHEET_RANGE = 'A1:G248'
+    let SHEET_RANGE = 'A1:G408'
     let FULL_URL = ('https://docs.google.com/spreadsheets/d/' + SHEET_ID + '/gviz/tq?sheet=' + SHEET_TITLE + '&range=' + SHEET_RANGE);
   
     console.log('hola');

@@ -21,6 +21,7 @@
 | 6) (**sospecha enf multivaso**) Depresión ST > 1mm en 6  derivaciones y elevación en aVR o V1 |
 | 7) **Dolor torácico **recurrente o refractario a tto médico | |
 
+
 ![iam cest](cardiologia/iam_cest.png)
 ![iam_sest](cardiologia/iam_sest.png)
 
